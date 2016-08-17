@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="С какого года 8 марта празднуется в России?" rightAnswer="1913" WrongAnswer1="1961" WrongAnswer2="1860" />
+  <Question quest="Где появилась борьба тейквандо?" rightAnswer="В Корее" WrongAnswer1="В Японии" WrongAnswer2="В Ливии" />
+  <Question quest="Бог Грома и молний у славян - это ...?" rightAnswer="Перун" WrongAnswer1="Гермес" WrongAnswer2="Дионис" />
+  <Question quest="Вместе с Хиллари первым взошёл на Эверест ...?" rightAnswer="Шерп" WrongAnswer1="Долган" WrongAnswer2="Бурят" />
+  <Question quest="Какая река впадает в Белое море?" rightAnswer="Онега" WrongAnswer1="Нева" WrongAnswer2="Волга" />
+  <Question quest="Её название от латинского слова 'ладонь'. Что это?" rightAnswer="Пальма" WrongAnswer1="Берёза" WrongAnswer2="Олива" />
+  <Question quest="Какой молоток еще не изобретён?" rightAnswer="Совковый" WrongAnswer1="Пучковый" WrongAnswer2="Клепальный" />
+  <Question quest="В какой пьесе Шекспира есть персонаж по имени Тибальд?" rightAnswer="&quot;Ромео и Джульетта&quot;" WrongAnswer1="&quot;Гамлет&quot;" WrongAnswer2="&quot;Отелло&quot;" />
+  <Question quest="Гофер - это близкий родственник …?" rightAnswer="Суслика" WrongAnswer1="Обезьяны" WrongAnswer2="Рыси" />
+  <Question quest="Антананариву - это …?" rightAnswer="Столица Мадагаскара" WrongAnswer1="Спутник Юпитера" WrongAnswer2="Насекомое" />
+  <Question quest="В какой музыкальной группе начинала свою карьеру Алена Апина?" rightAnswer="&quot;Комбинация&quot;" WrongAnswer1="&quot;Мираж&quot;" WrongAnswer2="&quot;Ласковый май&quot;" />
+  <Question quest="В какой области России находится город Магнитогорск?" rightAnswer="В Челябинской" WrongAnswer1="В Новосибирской" WrongAnswer2="В Иркутской" />
+  <Question quest="В какой области России находится Палех?" rightAnswer="Ивановская" WrongAnswer1="Нижегородская" WrongAnswer2="Московская" />
+  <Question quest="В какой стране находится природная область Патагония?" rightAnswer="Аргентина" WrongAnswer1="Бразилия" WrongAnswer2="Мавритания" />
+  <Question quest="В какой стране проходила Зимняя Олимпиада 1998 г.?" rightAnswer="Япония" WrongAnswer1="Швейцария" WrongAnswer2="Франция" />
+  <Question quest="В какой стране расположен знаменитый пляж Копакабана?" rightAnswer="Бразилия" WrongAnswer1="Мексика" WrongAnswer2="Франция" />
+  <Question quest="В каком году произошло Аустерлицкое сражение?" rightAnswer="1805" WrongAnswer1="1800" WrongAnswer2="1810" />
+  <Question quest="В каком году состоялось Полтавское сражение?" rightAnswer="В 1709" WrongAnswer1="В 1702" WrongAnswer2="В 1706" />
+  <Question quest="В каком году умер В. И. Ленин?" rightAnswer="В 1924" WrongAnswer1="В 1922" WrongAnswer2="В 1928" />
+  <Question quest="В каком городе жил и работал изобретатель знаменитого на весь мир автомата М.Т. Калашников?" rightAnswer="В Ижевске" WrongAnswer1="В Калуге" WrongAnswer2="В Туле" />
+  <Question quest="В каком городе пребывает Международный суд ООН?" rightAnswer="Гаага" WrongAnswer1="Вена" WrongAnswer2="Нью-Йорк" />
+  <Question quest="В каком из этих городов население превышает миллион человек?" rightAnswer="Пермь" WrongAnswer1="Ярославль" WrongAnswer2="Ульяновск" />
+  <Question quest="В каком из этих слов есть приставка?" rightAnswer="Деревообработка" WrongAnswer1="Мореплаватель" WrongAnswer2="Мясорубка" />
+  <Question quest="В каком из этих фильмов главный герой - автогонщик?" rightAnswer="&quot;Мужчина и женщина&quot;" WrongAnswer1="&quot;Финни и Александр&quot;" WrongAnswer2="&quot;Джинджер и Фред&quot;" />
+  <Question quest="В каком из этих фильмов две главные роли сыграли Л. Касаткина и П. Кадочников?" rightAnswer="&quot;Медовый месяц&quot;" WrongAnswer1="&quot;Мать Мария&quot;" WrongAnswer2="&quot;Вызываем огонь на себя&quot;" />
+  <Question quest="В каком итальянском городе находится картинная галерея Уффици?" rightAnswer="Флоренция" WrongAnswer1="Рим" WrongAnswer2="Венеция" />
+  <Question quest="В каком регионе России находится город Майкоп?" rightAnswer="Адыгея" WrongAnswer1="Краснодарский край" WrongAnswer2="Дагестан" />
+  <Question quest="В лаборатории какого великого физика долгие годы работал Петр Леонидович Капица?" rightAnswer="Резерфорда" WrongAnswer1="Бора" WrongAnswer2="Рентгена" />
+  <Question quest="Внутри какой страны находится республика Сан-Марино?" rightAnswer="Италия" WrongAnswer1="Франция" WrongAnswer2="Англия" />
+  <Question quest="Вставьте недостающее слово в бенгальскую поговорку &quot;Рис … не ищет&quot;?" rightAnswer="Желудка" WrongAnswer1="Приключений" WrongAnswer2="Света" />
+  <Question quest="Где находится Венеция?" rightAnswer="На северо-востоке Италии" WrongAnswer1="На юге Италии" WrongAnswer2="На северо-западе Италии" />
+  <Question quest="Где находится картинная галерея Уффици?" rightAnswer="Во Флоренции" WrongAnswer1="В Турине" WrongAnswer2="В Венеции" />
+  <Question quest="Где находится море Гумбольдта?" rightAnswer="Луна" WrongAnswer1="Венера" WrongAnswer2="Марс" />
+  <Question quest="Где начинала свою карьеру Лайма Вайкуле?" rightAnswer="В Юрмале" WrongAnswer1="В Риге" WrongAnswer2="В Таллинне" />
+  <Question quest="Где расположен город Лондондерри?" rightAnswer="В Северной Ирландии" WrongAnswer1="В Уэльсе" WrongAnswer2="В Шотландии" />
+  <Question quest="Где расположен город-порт Игарка?" rightAnswer="Енисей" WrongAnswer1="Лена" WrongAnswer2="Обь" />
+  <Question quest="Гектолитр - это сколько литров?" rightAnswer="Сто" WrongAnswer1="Тысяча" WrongAnswer2="Десять" />
+  <Question quest="ГЕЛЬВЕЦИЯ - это латинское название какой страны?" rightAnswer="Швейцария" WrongAnswer1="Венгрия" WrongAnswer2="Австрия" />
+  <Question quest="Герб какого итальянского города изображен на эмблеме автомобилей &quot;Альфа-Ромео&quot;?" rightAnswer="Милан" WrongAnswer1="Венеция" WrongAnswer2="Турин" />
+  <Question quest="Губернатором какого штата был Билл Клинтон до своего президентства?" rightAnswer="Арканзас" WrongAnswer1="Айова" WrongAnswer2="Алабама" />
+  <Question quest="Закончите китайскую поговорку &quot;Обычные люди управляют …&quot;?" rightAnswer="Обычными делами" WrongAnswer1="Поднебесной империей" WrongAnswer2="Обычными людьми" />
+  <Question quest="И.Г. Песталоцци - это известный …?" rightAnswer="Педагог-психолог" WrongAnswer1="Архитектор" WrongAnswer2="Врач" />
+  <Question quest="Из волокон какого растения делается пенька?" rightAnswer="Конопля" WrongAnswer1="Лен" WrongAnswer2="Овес" />
+  <Question quest="Из какой страны был Рудольф Дизель, изобретатель оригинального двигателя?" rightAnswer="Из Германии" WrongAnswer1="Из Англии" WrongAnswer2="Из Австрии" />
+  <Question quest="Из чего был построен плот &quot;Кон-Тики&quot; Тура Хейердала?" rightAnswer="Бальзовое дерево" WrongAnswer1="Пробковый дуб" WrongAnswer2="Папирус" />
+  <Question quest="Из чего в Японии делают нэцкэ?" rightAnswer="Дерево, кость" WrongAnswer1="Кость, водоросли" WrongAnswer2="Рыба, водоросли" />
+  <Question quest="Из чего соорудили при Дмитрии Донском стены Московского Кремля?" rightAnswer="Известняк" WrongAnswer1="Кирпич" WrongAnswer2="Дуб" />
+  <Question quest="Именно эта рыба дружит с актиниями. Какая это рыба?" rightAnswer="Рыба клоун" WrongAnswer1="Рыба попугай" WrongAnswer2="Рыба хирург" />
+  <Question quest="Как в карточной игре называется недобор нужного числа взяток?" rightAnswer="Ремиз" WrongAnswer1="Ренонс" WrongAnswer2="Сюркуп" />
+  <Question quest="Как звали дочь Риголетто из оперы Дж. Верди?" rightAnswer="Джильда" WrongAnswer1="Изольда" WrongAnswer2="Бригитта" />
+  <Question quest="Как звали императора &quot;Священной Римской империи&quot; по прозвищу Барбаросса (краснобородый)?" rightAnswer="Фридрих" WrongAnswer1="Карл" WrongAnswer2="Генрих" />
+  <Question quest="Как звали сына Бориса Годунова, ставшего очень ненадолго царем после кончины отца?" rightAnswer="Федор" WrongAnswer1="Василий" WrongAnswer2="Павел" />
+  <Question quest="Как зовут дочь Билла Клинтона?" rightAnswer="Челси" WrongAnswer1="Салли" WrongAnswer2="Мэгги" />
+  <Question quest="Как называется выдача преступника одним государством другому для суда или отбывания наказания по уже состоявшемуся решению суда?" rightAnswer="Экстрадиция" WrongAnswer1="Интерполяция" WrongAnswer2="Репатриация" />
+  <Question quest="Как называется песня венецианских гондольеров?" rightAnswer="Баркарола" WrongAnswer1="Канцона" WrongAnswer2="Кантилена" />
+  <Question quest="Как называется приспособление в музыкальных инструментах для уменьшения силы звука и изменения тембра?" rightAnswer="Сурдинка" WrongAnswer1="Бекар" WrongAnswer2="Медиатор" />
+  <Question quest="Как называется самая высокая мачта на парусном корабле?" rightAnswer="Грот-мачта" WrongAnswer1="Том-мачта" WrongAnswer2="Фок-мачта" />
+  <Question quest="Как называется самое большое в мире парусное судно?" rightAnswer="&quot;Седов&quot;" WrongAnswer1="&quot;Крузенштерн&quot;" WrongAnswer2="&quot;Витязь&quot;" />
+  <Question quest="Как называется слово, которое совпадает с другим по написанию, но не по значению?" rightAnswer="Омоним" WrongAnswer1="Синекдоха" WrongAnswer2="Анаграмма" />
+  <Question quest="Как называется специалист, обучающий верховой езде?" rightAnswer="Берейтор" WrongAnswer1="Кунктатор" WrongAnswer2="Форейтор" />
+  <Question quest="Как называется столица Сенегала?" rightAnswer="Дакар" WrongAnswer1="Катманду" WrongAnswer2="Рабат" />
+  <Question quest="Как называлась в дореволюционной русской армии должность ответственного за хранение оружия и имущества?" rightAnswer="Каптенармус" WrongAnswer1="Маркитант" WrongAnswer2="Хорунжий" />
+  <Question quest="Как назывался весенний языческий праздник у восточных славян, связанный с поминовением предков?" rightAnswer="Радуница" WrongAnswer1="Солнцеворот" WrongAnswer2="Купала" />
+  <Question quest="Как назывался первый в социалистической Польше независимый профсоюз, во главе которого стоял будущий президент Лех Валенса?" rightAnswer="&quot;Солидарность&quot;" WrongAnswer1="&quot;Свободная Польша&quot;" WrongAnswer2="&quot;Сопротивление&quot;" />
+  <Question quest="Как назывался первый электромузыкальный инструмент?" rightAnswer="Терменвокс" WrongAnswer1="Спинет" WrongAnswer2="Клавесин" />
+  <Question quest="Как назывался щит Зевса - символ покровительства и гнева богов?" rightAnswer="Эгида" WrongAnswer1="Трезор" WrongAnswer2="Сень" />
+  <Question quest="Как называются буквы N.B. или знак NB на полях книги, рукописи, обращающие особое внимание на данное место в тексте?" rightAnswer="Нотабене" WrongAnswer1="Нотабль" WrongAnswer2="Носце бис" />
+  <Question quest="Как называются знаменитые греческие монастыри на скалах?" rightAnswer="Метеоры" WrongAnswer1="Болиды" WrongAnswer2="Астероиды" />
+  <Question quest="Как называются линии равного значения глубины водоема на карте?" rightAnswer="Изобаты" WrongAnswer1="Изоанемоны" WrongAnswer2="Изохоры" />
+  <Question quest="Как переводится на русский слово &quot;фокстрот&quot;?" rightAnswer="Лисий шаг" WrongAnswer1="Хитрый ход" WrongAnswer2="Быстрая змейка" />
+  <Question quest="Как по-другому называется олений мох?" rightAnswer="Ягель" WrongAnswer1="Юкола" WrongAnswer2="Сфагнум" />
+  <Question quest="Как по-другому называются Мальвинские острова?" rightAnswer="Фолклендские" WrongAnswer1="Канарские" WrongAnswer2="Мальдивские" />
+  <Question quest="Как фамилия пушкинской Капитанской дочки?" rightAnswer="Миронова" WrongAnswer1="Аронова" WrongAnswer2="Матвеева" />
+  <Question quest="Какая денежная единица равна 100 баням?" rightAnswer="Лея" WrongAnswer1="Форинт" WrongAnswer2="Шекель" />
+  <Question quest="Какая из этих авиакомпаний - голландская?" rightAnswer="&quot;КЛМ&quot;" WrongAnswer1="&quot;САС&quot;" WrongAnswer2="&quot;Дельта&quot;" />
+  <Question quest="Какая из этих оперетт написана Г. С. Милютиным?" rightAnswer="&quot;Поцелуй Чаниты&quot;" WrongAnswer1="&quot;Белая акация&quot;" WrongAnswer2="&quot;Вольный ветер&quot;" />
+  <Question quest="Какая из этих планет носит имя дедушки бога Зевса?" rightAnswer="Уран" WrongAnswer1="Плутон" WrongAnswer2="Нептун" />
+  <Question quest="Какая картина Рембрандта из &quot;Эрмитажа&quot; была очень сильно повреждена преступником и многие годы находилась на реставрации?" rightAnswer="&quot;Даная&quot;" WrongAnswer1="&quot;Мадонна с младенцем&quot;" WrongAnswer2="&quot;Мона Лиза&quot;" />
+  <Question quest="Какая компьютерная программа предназначена для работы с векторной графикой?" rightAnswer="Corel Draw" WrongAnswer1="Photoshop" WrongAnswer2="Access" />
+  <Question quest="Какая профессия была у первого хозяина Каштанки?" rightAnswer="Столяр" WrongAnswer1="Плотник" WrongAnswer2="Слесарь" />
+  <Question quest="Какие сумчатые млекопитающие есть в Австралии и на Новой Гвинее?" rightAnswer="Кускусы" WrongAnswer1="Ньямньямы" WrongAnswer2="Амамы" />
+  <Question quest="Какие три карты одной масти в преферансе (и не только) называются трельяж?" rightAnswer="Валет, дама, король" WrongAnswer1="Десятка, дама, туз" WrongAnswer2="Дама, король, туз" />
+  <Question quest="Каких клеток больше всего в составе человеческой крови?" rightAnswer="Эритроциты" WrongAnswer1="Лимфоциты" WrongAnswer2="Лейкоциты" />
+  <Question quest="Какого английского короля пытались спасти от казни мушкетеры из романа А. Дюма?" rightAnswer="Карла I" WrongAnswer1="Якова I" WrongAnswer2="Карла II" />
+  <Question quest="Какого доброго волшебника в Новогоднюю ночь ждут и взрослые и дети в Италии?" rightAnswer="Баба Натале" WrongAnswer1="Дед Мороз" WrongAnswer2="Санта-Клаус" />
+  <Question quest="Какое животное по-другому называется кугуар?" rightAnswer="Пума" WrongAnswer1="Леопард" WrongAnswer2="Барс" />
+  <Question quest="Какое звание на флоте соответствует званию сержанта?" rightAnswer="Старшина 1-й статьи" WrongAnswer1="Старшина 2-й статьи" WrongAnswer2="Старший матрос" />
+  <Question quest="Какое из этих государств - конституционная монархия?" rightAnswer="Нидерланды" WrongAnswer1="Португалия" WrongAnswer2="Австрия" />
+  <Question quest="Какое из этих животных по-другому называется мускусная крыса?" rightAnswer="Ондатра" WrongAnswer1="Опоссум" WrongAnswer2="Нутрия" />
+  <Question quest="Какое из этих слов - полный синоним слова БЛАГОТВОРИТЕЛЬНОСТЬ?" rightAnswer="Филантропия" WrongAnswer1="Меценатство" WrongAnswer2="Альтруизм" />
+  </root>

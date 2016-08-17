@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Question quest="Вокруг чего вращаются объекты в гелиоцентрической системе?" rightAnswer="Солнце" WrongAnswer1="Центр галактики" WrongAnswer2="Земля" />
+  <Question quest="Духовным главой какой религии выступает Далай-Лама?" rightAnswer="Буддизм" WrongAnswer1="Ислам" WrongAnswer2="Индуизм" />
+  <Question quest="Российские грузовики какой марки, традиционно участвуют в ежегодном мировом ралли 'Париж-Дакар'?" rightAnswer="КамАЗ" WrongAnswer1="ЗиЛ" WrongAnswer2="ГАЗ" />
+  <Question quest="Где вручается премия 'Ника'?" rightAnswer="Москва" WrongAnswer1="Канны" WrongAnswer2="Манчестер" />
+  <Question quest="В каком из этих городов княжил Александр Невский?" rightAnswer="Новгород" WrongAnswer1="Суздаль" WrongAnswer2="Тверь" />
+  <Question quest="Где вручается премия 'Оскар'?" rightAnswer="Лос-Анджелес" WrongAnswer1="Канны" WrongAnswer2="Манчестер" />
+  <Question quest="Какое слово используют итальянцы для обозначения всех видов макаронных изделий?" rightAnswer="Паста" WrongAnswer1="Лазанья" WrongAnswer2="Спагетти" />
+  <Question quest="Как в Древней Греции называли землевладельцев?" rightAnswer="Геморы" WrongAnswer1="Ландеры" WrongAnswer2="Диггеры" />
+  <Question quest="Кто из отечественных полководцев ходил в 'Итальянский поход'?" rightAnswer="Суворов" WrongAnswer1="Жуков" WrongAnswer2="Дмитрий Донской" />
+  <Question quest="Какой из перечисленных терминов обозначает неполноценный заменитель?" rightAnswer="Суррогат" WrongAnswer1="Дубликат" WrongAnswer2="Подделка" />
+  <Question quest="Какая из перечисленных емкостей является наименее вместительней?" rightAnswer="Шкалик" WrongAnswer1="Бочка" WrongAnswer2="Чарка" />
+  <Question quest="Какой остров раньше назывался Формозой?" rightAnswer="Тайвань" WrongAnswer1="Калимантан" WrongAnswer2="Гаити" />
+  <Question quest="Назовите столицу Марокко?" rightAnswer="Рабат" WrongAnswer1="Касабланка" WrongAnswer2="Дакка" />
+  <Question quest="На чем растут ягоды винограда?" rightAnswer="Лианы" WrongAnswer1="Деревья" WrongAnswer2="Кустарники" />
+  <Question quest="Какие астрономические объекты распушают хвост по мере приближения к солнцу?" rightAnswer="Кометы" WrongAnswer1="Астероиды" WrongAnswer2="Планеты" />
+  <Question quest="На торговой марке какого автомобильного завода изображен олень?" rightAnswer="ГАЗ" WrongAnswer1="УАЗ" WrongAnswer2="ВАЗ" />
+  <Question quest="Какое животное не является символом года по восточному календарю?" rightAnswer="Лев" WrongAnswer1="Крыса" WrongAnswer2="Лошадь" />
+  <Question quest="Как называют временного правителя при малолетнем или недееспособном монархе?" rightAnswer="Регент" WrongAnswer1="Опекун" WrongAnswer2="Наместник" />
+  <Question quest="Какой восточный город знаменит своими стальными клинками?" rightAnswer="Дамаск" WrongAnswer1="Багдад" WrongAnswer2="Бухара" />
+  <Question quest="В каком из этих продуктов не содержится ТАНИН?" rightAnswer="Молоко" WrongAnswer1="Вино" WrongAnswer2="Кофе" />
+  <Question quest="Кто стал спутником Наташи Ростовой из романа Льва Толстого 'Война и мир'?" rightAnswer="Безухов" WrongAnswer1="Болконский" WrongAnswer2="Курагин" />
+  <Question quest="Как правильно подзывать гуся?" rightAnswer="Тега-тега" WrongAnswer1="Цып-цып" WrongAnswer2="Гуль-гуль" />
+  <Question quest="Кто из участников корриды - всадник приводящий быка в ярость, уколами копья?" rightAnswer="Пикадор" WrongAnswer1="Тореадор" WrongAnswer2="Бандерильерос" />
+  <Question quest="Какой из этих алкогольных напитков не употребляют в горячем виде?" rightAnswer="Крюшон" WrongAnswer1="Пунш" WrongAnswer2="Грог" />
+  <Question quest="Как называется летательный аппарат без мотора?" rightAnswer="Планер" WrongAnswer1="Параплан" WrongAnswer2="Гидроплан" />
+  <Question quest="В каком углу телеэкрана находится эмблема канала ОРТ?" rightAnswer="Правом верхнем" WrongAnswer1="Правом нижнем" WrongAnswer2="Левом верхнем" />
+  <Question quest="Чьего секретаря звали мисс Лемон?" rightAnswer="Эркюль Пуаро" WrongAnswer1="Коломбо" WrongAnswer2="Перри Мейсон" />
+  <Question quest="Кто был режиссером - постановщиком фильма 'Джентельмены удачи'?" rightAnswer="Александр Серый" WrongAnswer1="Леонид Гайдай" WrongAnswer2="Эльдар Рязанов" />
+  <Question quest="Какая из этих трав не используется как пряность?" rightAnswer="Зверобой" WrongAnswer1="Душица" WrongAnswer2="Мелисса" />
+  <Question quest="С чем недовольный качеством товара покупатель обращается к продавцу?" rightAnswer="С рекламацией" WrongAnswer1="С апелляцией" WrongAnswer2="С петицией" />
+  <Question quest="К какому типу звезд, по мнению астрономов, относится наше солнце?" rightAnswer="Желтая" WrongAnswer1="Белая" WrongAnswer2="Голубая" />
+  <Question quest="Какое министерство возглавляла единственная в СССР женщина - министр?" rightAnswer="Культуры" WrongAnswer1="Здравоохранения" WrongAnswer2="Образования" />
+  <Question quest="В каком виде спорта выполняется 'затяжной прыжок'?" rightAnswer="Парашютный спорт" WrongAnswer1="Слалом" WrongAnswer2="Легкая атлетика" />
+  <Question quest="Какие магазины в советские времена существовали при большинстве ресторанов?" rightAnswer="Кулинарии" WrongAnswer1="Бакалеи" WrongAnswer2="Гастрономы" />
+  <Question quest="Какой стиль плавания, сама того не подозревая, использует лягушка?" rightAnswer="Брасс" WrongAnswer1="Баттерфляй" WrongAnswer2="По-собачьи" />
+  <Question quest="Какое из этих слов имеет единственное число?" rightAnswer="Пени" WrongAnswer1="Бредни" WrongAnswer2="Сутки" />
+  <Question quest="Какой из этих звуконосителей изобретен позднее других?" rightAnswer="Мини-диск" WrongAnswer1="Грампластинка" WrongAnswer2="Компакт-диск" />
+  <Question quest="Какой из этих ювелирных материалов неорганического происхождения?" rightAnswer="Бирюза" WrongAnswer1="Коралл" WrongAnswer2="Янтарь" />
+  <Question quest="Какая из этих воинских структур низшая в иерархическом порядке?" rightAnswer="Танковые войска" WrongAnswer1="Сухопутные войска" WrongAnswer2="Российская армия" />
+  <Question quest="В каком из этих армейских подразделений наибольшее количество солдат?" rightAnswer="Дивизия" WrongAnswer1="Рота" WrongAnswer2="Взвод" />
+  <Question quest="В каком из этих армейских подразделений наименьшее количество солдат?" rightAnswer="Взвод" WrongAnswer1="Рота" WrongAnswer2="Дивизия" />
+  <Question quest="Какая из этих воинских структур высшая в иерархическом порядке?" rightAnswer="Вооруженные силы" WrongAnswer1="Сухопутные войска" WrongAnswer2="Танковые войска" />
+  <Question quest="Какой из этих звуконосителей изобретен ранее других?" rightAnswer="Грампластинка" WrongAnswer1="Компакт-диск" WrongAnswer2="Мини-диск" />
+  <Question quest="Что служит рабочим материалом скорняку?" rightAnswer="Шкуры" WrongAnswer1="Глина" WrongAnswer2="Пряжа" />
+  <Question quest="Какой головой наделяют человека, отличающегося нерасторопностью и рассеянностью?" rightAnswer="Садовой" WrongAnswer1="Бедовой" WrongAnswer2="Шальной" />
+  <Question quest="На что ставят ноты музыканты?" rightAnswer="Пюпитр" WrongAnswer1="Штатив" WrongAnswer2="Метроном" />
+  <Question quest="В каком имении А.С. Пушкину довелось провести три плодотворные осени?" rightAnswer="Болдино" WrongAnswer1="Тригорское" WrongAnswer2="Суйда" />
+  <Question quest="Какое из этих восточных блюд готовится из курицы?" rightAnswer="Сациви" WrongAnswer1="Бастурма" WrongAnswer2="Лобио" />
+  <Question quest="Кто из российских самодержцев достиг максимального порядкового номера?" rightAnswer="Иван" WrongAnswer1="Николай" WrongAnswer2="Александр" />
+  <Question quest="В каком арабском городе орудовал знаменитый экранный вор?" rightAnswer="Багдад" WrongAnswer1="Бейрут" WrongAnswer2="Дамаск" />
+  <Question quest="Какой летательный аппарат иначе называется 'геликоптер'?" rightAnswer="Вертолет" WrongAnswer1="Дирижабль" WrongAnswer2="Самолет" />
+  <Question quest="Кого подразумевает футбольный комментатор, произнося английское слово 'хавбек'?" rightAnswer="Полузащитника" WrongAnswer1="Вратаря" WrongAnswer2="Нападающего" />
+  <Question quest="Как называют человека, сознательно отказывающего себе в жизненных удовольствиях?" rightAnswer="Аскет" WrongAnswer1="Скряга" WrongAnswer2="Мизантроп" />
+  <Question quest="Кого сыграл Спартак Мишулин в фильме 'Белое солнце пустыни'?" rightAnswer="Саида" WrongAnswer1="Махмуда" WrongAnswer2="Абдуллу" />
+  <Question quest="Что сделает судья, если вратарь, выбросив мяч от своих ворот через все поле, забьет гол сопернику?" rightAnswer="Засчитает гол" WrongAnswer1="Назначит пенальти" WrongAnswer2="Назначит угловой" />
+  <Question quest="Руководителем какой социалистической страны был Янош Кадар?" rightAnswer="Венгрия" WrongAnswer1="Чехословакия" WrongAnswer2="Румыния" />
+  <Question quest="Какой Спас не празднуют летом православные верующие?" rightAnswer="Квасной" WrongAnswer1="Ореховый" WrongAnswer2="Медовый" />
+  <Question quest="Как до 1935 года называлось государство Иран?" rightAnswer="Персия" WrongAnswer1="Финикия" WrongAnswer2="Месопотамия" />
+  <Question quest="Из какого теста принято делать эклеры?" rightAnswer="Заварного" WrongAnswer1="Слоенного" WrongAnswer2="Бисквитного" />
+  <Question quest="Что такое РЕПЕТИР?" rightAnswer="Механизм часов" WrongAnswer1="Репетитор" WrongAnswer2="Амплуа актера" />
+</root>

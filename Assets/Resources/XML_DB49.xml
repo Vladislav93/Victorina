@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest="Какая русская мера вместимости для сыпучих тел больше?" rightAnswer="Четверть" WrongAnswer1="Четверик" WrongAnswer2="Гарнец" />
+  <Question quest="Какой народ начал первым изготавливать монеты круглой формы с двухсторонней чеканкой?" rightAnswer="Др. греки" WrongAnswer1="Др. египтяне" WrongAnswer2="Персы" />
+  <Question quest="Кто из этих писателей не был лауреатом Нобелевской премии?" rightAnswer="Генрих Манн" WrongAnswer1="Генрик Сенкевич" WrongAnswer2="Иво Андрич" />
+  <Question quest="Какая из этих четырех рек имеет наибольшую площадь бассейна?" rightAnswer="Конго" WrongAnswer1="Янцзы" WrongAnswer2="Обь" />
+  <Question quest="Какая из этих опер Р.Вагнера не входит в тетралогию 'Кольцо Нибелунгов'?" rightAnswer="Парсифаль" WrongAnswer1="Гибель богов" WrongAnswer2="Зигфрид" />
+  <Question quest="Какое животное раньше называли камелопардом?" rightAnswer="Жираф" WrongAnswer1="Леопард" WrongAnswer2="Верблюд" />
+  <Question quest="Какой стране принадлежат Фарерские острова?" rightAnswer="Дании" WrongAnswer1="Ирландии" WrongAnswer2="Великобритании" />
+  <Question quest="В какой стране на население наводили ужас тонтон-макуты?" rightAnswer="Гаити" WrongAnswer1="Парагвай" WrongAnswer2="Гватемала" />
+  <Question quest="Какая из этих 'лун' - спутник Сатурна?" rightAnswer="Энцелад" WrongAnswer1="Тритон" WrongAnswer2="Каллисто" />
+  <Question quest="У какого типа звезд наибольшая температура поверхности?" rightAnswer="Голубые" WrongAnswer1="Красные" WrongAnswer2="Желтые" />
+  <Question quest="Кто, заботясь о будущем, скомандовал перед сражением: 'Ослов и ученых на середину!'?" rightAnswer="Наполеон" WrongAnswer1="Цезарь" WrongAnswer2="Македонский" />
+  <Question quest="Какое из этих государств имеет столицу, которая называется Бельмопан?" rightAnswer="Белиз" WrongAnswer1="Барбадос" WrongAnswer2="Антигуа и Барбуда" />
+  <Question quest="Какое имя породило следующие сокращенные формы: Аля, Алик, Ася, Ара, Ксана, Ксаня, Адя?" rightAnswer="Александр" WrongAnswer1="Алексей" WrongAnswer2="Ксения" />
+  <Question quest="Что означает слово 'имаго'?" rightAnswer="Взрослое насекомое" WrongAnswer1="Поэтический образ" WrongAnswer2="Вид болезни" />
+  <Question quest="Назовите самую большую провинцию Канады?" rightAnswer="Квебек" WrongAnswer1="Брит.Колумбия" WrongAnswer2="Манитоба" />
+  <Question quest="В древнерусской живописи 1 из атрибутов архангела-тонкий жезл в его руке. Название жезла?" rightAnswer="Мерило" WrongAnswer1="Лор" WrongAnswer2="Орарь" />
+  <Question quest="Какое из этих деревьев - не из семейства березовых?" rightAnswer="Берест" WrongAnswer1="Карельская береза" WrongAnswer2="Ольха" />
+  <Question quest="Как называется вид церковной литературы - жизнеописания святых?" rightAnswer="Агиография" WrongAnswer1="Палеография" WrongAnswer2="Ангиография" />
+  <Question quest="С названием какого города этимологически связано название 'джинсы'?" rightAnswer="Генуя" WrongAnswer1="Джорджтуан" WrongAnswer2="Джэесонвилл" />
+  <Question quest="Кто изобрел надувные шины?" rightAnswer="Данлоп" WrongAnswer1="Пирелли" WrongAnswer2="Мишлен" />
+  <Question quest="Какой из этих языков не относится к финно-угорским?" rightAnswer="Табасаранский" WrongAnswer1="Вепсский" WrongAnswer2="Коми-зырянский" />
+  <Question quest="Какая организация ведала в России XVIII века государственными расходами?" rightAnswer="Штатс-коллегия" WrongAnswer1="Камер-коллегия" WrongAnswer2="Ревизион-коллегия" />
+  <Question quest="Из чего плетут пеньковые веревки?" rightAnswer="Конопля" WrongAnswer1="Джут" WrongAnswer2="Липа" />
+  <Question quest="Какой полуостров является самым крупным?" rightAnswer="Аравийский" WrongAnswer1="Скандинавский" WrongAnswer2="Пиренейский" />
+  <Question quest="Как назывались водяные часы в античные времена?" rightAnswer="Клепсидра" WrongAnswer1="Таблиний" WrongAnswer2="Гидрохрон" />
+  <Question quest="Как настоящая фамилия писателя Андрея Белого?" rightAnswer="Бугаев" WrongAnswer1="Меринов" WrongAnswer2="Баранов" />
+  <Question quest="Какой художник выкупил из крепостной зависимости Тараса Шевченко?" rightAnswer="Брюллов" WrongAnswer1="Васнецов" WrongAnswer2="Иванов" />
+  <Question quest="Какой цвет волос был у возлюбленной Тристана Изольды, если верить Бедье?" rightAnswer="Белокурый" WrongAnswer1="Каштановый" WrongAnswer2="Вороново крыло" />
+  <Question quest="Как в России в старину называли изумруд?" rightAnswer="Смарагд" WrongAnswer1="Яхонт" WrongAnswer2="Карбункул" />
+  <Question quest="Большую, исключительно яркую разновидность какого небесного тела называют 'болид'?" rightAnswer="Метеорит" WrongAnswer1="Комета" WrongAnswer2="Звезда" />
+  <Question quest="Какая страна владеет островом Кюрасао?" rightAnswer="Нидерланды" WrongAnswer1="Франция" WrongAnswer2="Испания" />
+  <Question quest="Кто из чемпионов мира по профессиональному боксу отстаивал свое звание наибольшее число раз?" rightAnswer="Джо Луис" WrongAnswer1="Рокки Марциано" WrongAnswer2="Моххамед Али" />
+  <Question quest="Кто из этой четверки не входил в группу 'Освобождения труда'?" rightAnswer="Л.Мартов" WrongAnswer1="Г.Плеханов" WrongAnswer2="П.Аскельрод" />
+  <Question quest="Кто из этих должностных лиц, заведовал при дворе Екатерины II винными погребами?" rightAnswer="Обер-Шенк" WrongAnswer1="Обер-Гофмейстер" WrongAnswer2="Обер-Гофмаршал" />
+  <Question quest="Какой район Парижа Пуччини назвал в одной из опер 'богемным' популяризовав понятие художественной богемы?" rightAnswer="Латинский квартал" WrongAnswer1="Монпарнас" WrongAnswer2="Сен - Жермен" />
+  <Question quest="Кто из этих писателей первым получил Нобелевскую премию?" rightAnswer="И.Бунин" WrongAnswer1="И.Бродский" WrongAnswer2="М.Шолохов" />
+  <Question quest="Какое из этих прозаических произведений А.С.Пушкина написано от женского лица?" rightAnswer="'Рославлев'" WrongAnswer1="'Выстрел'" WrongAnswer2="'Кирджали'" />
+  <Question quest="Какой городошной фигуры не существует?" rightAnswer="Змейка" WrongAnswer1="Вилка" WrongAnswer2="Пушка" />
+  <Question quest="Кто из этих писателей последним получил Нобелевскую премию?" rightAnswer="И.Бродский" WrongAnswer1="М.Шолохов" WrongAnswer2="И.Бунин" />
+  <Question quest="Как в действительности звали 'даму сердца' Дон-Кихота, названную им Дульсинеей?" rightAnswer="Альдонса" WrongAnswer1="Аделина" WrongAnswer2="Соледад" />
+  <Question quest="Представитель какой профессии в старину занимался перевозкой и продажей соли?" rightAnswer="Чумак" WrongAnswer1="Бортник" WrongAnswer2="Бондарь" />
+  <Question quest="Представитель какой профессии в старину занимался изготовлением деревянных бочек?" rightAnswer="Бондарь" WrongAnswer1="Коваль" WrongAnswer2="Бортник" />
+  <Question quest="Представитель какой профессии в старину занимался пчеловодством?" rightAnswer="Бортник" WrongAnswer1="Бондарь" WrongAnswer2="Коваль" />
+  <Question quest="Какой христианский пост предшествует Рождеству ?" rightAnswer="Филиппов" WrongAnswer1="Петров" WrongAnswer2="Великий" />
+  <Question quest="Представитель какой профессии в старину занимался кузнечным делом?" rightAnswer="Коваль" WrongAnswer1="Бондарь" WrongAnswer2="Бортник" />
+  <Question quest="На флаге какой бывшей Советской республики голубой цвет дополнял обязательный красный?" rightAnswer="Украина" WrongAnswer1="Латвия" WrongAnswer2="Армения" />
+  <Question quest="Кто согласно 'божественной комедии' Данте, находится в последнем, девятом круге ада ?" rightAnswer="Предатели" WrongAnswer1="Насильники" WrongAnswer2="Сладострастники" />
+  <Question quest="Центральное поле каких ковров часто имеет одноцветный, не заполненный орнаментом фон ?" rightAnswer="Китайских" WrongAnswer1="Турецких" WrongAnswer2="Персидских" />
+  <Question quest="Как в православном календаре называется масленая неделя?" rightAnswer="Сырная" WrongAnswer1="Творожная" WrongAnswer2="Блинная" />
+  <Question quest="Что означает немецкое словосочетание 'крафт тойфель', от которого произошло слово 'картофель'?" rightAnswer="Дьявольская сила" WrongAnswer1="Чудесный плод" WrongAnswer2="Богатырский дух" />
+  <Question quest="У кого из этих известных людей, вторая часть фамилии, является псевдонимом?" rightAnswer="Салтыков-Щедрин" WrongAnswer1="Лебедев-Кумач" WrongAnswer2="Петров-Водкин" />
+  <Question quest="Какая российская река берет свое начало в Китае?" rightAnswer="Иртыш" WrongAnswer1="Лена" WrongAnswer2="Ангара" />
+  <Question quest="Что, по современным данным, находится в центре нашей Галактики?" rightAnswer="Черная дыра" WrongAnswer1="Белый карлик" WrongAnswer2="Пульсар" />
+  <Question quest="Кто создал известный звукоряд 'до, ре, ми, фа, соль, ля, си'?" rightAnswer="Пифагор" WrongAnswer1="Платон" WrongAnswer2="Евклид" />
+  <Question quest="Кто был президентом США во время 1-й мировой войны?" rightAnswer="Вундро Вильсон" WrongAnswer1="Уильям Тафт" WrongAnswer2="Теодор Рузвельт" />
+  <Question quest="В каком море находятся Соловецкие острова?" rightAnswer="Белое" WrongAnswer1="Балтийское" WrongAnswer2="Барецево" />
+  <Question quest="Как называлось кремневое ружье, заменившее ранее исп. в армия многих стран мушкет?" rightAnswer="Фузея" WrongAnswer1="Мушкетон" WrongAnswer2="Кулеврина" />
+  <Question quest="На территории какой страны находится Южно-Каспийская низменность?" rightAnswer="Ирана" WrongAnswer1="Туркмении" WrongAnswer2="Азербайджана" />
+  <Question quest="Как называется круглая по форме картина или рельеф?" rightAnswer="Тондо" WrongAnswer1="Рондо" WrongAnswer2="Картуш" />
+  <Question quest="К какой группе собак относится КУРЦХААР?" rightAnswer="Легавым" WrongAnswer1="Терьерам" WrongAnswer2="Пинчерам" />
+  <Question quest="Какой английский монарх скончался в 1952 году?" rightAnswer="Георг VI" WrongAnswer1="Эдуард VI" WrongAnswer2="Эдуард IV" />
+  <Question quest="В кого богиня Афина превратила бросившую ей вызов ткачиху и вышивальщицу Арахну?" rightAnswer="В паука" WrongAnswer1="В змею" WrongAnswer2="В жабу" />
+  <Question quest="Кто 22 июня 1941 года выступил по радио с заявлением о начале войны?" rightAnswer="Молотов" WrongAnswer1="Жданов" WrongAnswer2="Калинин" />
+</root>

@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <Question quest ="Что дарили в Кембридже студенту, показавшему наихудшие знания по математике?"
+rightAnswer="Деревянную ложку"
+WrongAnswer1="Чёрную ручку"
+WrongAnswer2="Свечку">
+  </Question>
+
+  <Question quest ="Какого героя «Звездных войн» «озвучивали» сразу четверо: белый медведь, морж, барсук и верблюд?"
+rightAnswer="Чубакку"
+WrongAnswer1="Дарта Вейдера"
+WrongAnswer2="R2-D2">
+  </Question>
+
+  <Question quest ="Все в России знают слово «durak». А что оно означает в Турции?"
+        rightAnswer="Остановка"
+        WrongAnswer1="Молодой жених"
+        WrongAnswer2="Начальник">
+  </Question>
+
+<Question quest ="Каким французским словом называют брак с лицом низшего социального положения, неравный брак?"
+rightAnswer="Мезальянс"
+WrongAnswer1="Марьяж"
+WrongAnswer2="Визаж">
+  </Question>
+
+  <Question quest ="Какая компьютерная игра, согласно Книге рекордов Гиннеса, является самой популярной в мире?"
+rightAnswer="Pac-Man"
+WrongAnswer1="Марио"
+WrongAnswer2="Diablo 2">
+  </Question>
+
+  <Question quest ="Денежная единица Замбии?"
+rightAnswer="Замбийская квача"
+WrongAnswer1="Замбийская лира"
+WrongAnswer2="Замбилия">
+  </Question>
+  
+<Question quest ="В какой стране установлен памятник конной курьерской почте?"
+rightAnswer="США"
+WrongAnswer1="Австралия"
+WrongAnswer2="Франция">
+  </Question>
+
+  <Question quest ="4 Сколько клеток в организме человека?"
+rightAnswer="100 триллионов"
+WrongAnswer1="1 миллион"
+WrongAnswer2="500 миллиардов">
+  </Question>
+
+  <Question quest ="Люди продолжают спорить, существует ли «снежный человек», а где живёт «снежная» обезьяна?"
+rightAnswer="На островах в Японии"
+WrongAnswer1="Высоко в горах"
+WrongAnswer2="В Антарктиде">
+  </Question>
+
+  <Question quest ="Что означает в переводе с латинского «лемур»?"
+rightAnswer="Привидение"
+WrongAnswer1="Вечная любовь"
+WrongAnswer2="Сердечная тайна">
+  </Question>
+
+  <Question quest ="Как переводится слово «орангутан»?"
+rightAnswer="Лесной человек"
+WrongAnswer1="Волосатый человек"
+WrongAnswer2="Морской дьявол">
+  </Question>
+
+<Question quest ="Назовите «Нобелевский металл» для супругов Кюри?"
+rightAnswer="Радий"
+WrongAnswer1="Магний"
+WrongAnswer2="Барий">
+  </Question>
+
+  <Question quest ="Что есть внутри квадрата?"
+  rightAnswer="Площадь"
+  WrongAnswer1="Периметр"
+  WrongAnswer2="Объём">
+  </Question>
+
+<Question quest ="Что означает слово «музей» в переводе с греческого?"
+  rightAnswer="Храм муз"
+  WrongAnswer1="Храм души"
+  WrongAnswer2="Собрание картин">
+  </Question>
+
+<Question quest ="Как называется вид театрального искусства, в котором выразительными средствами являются музыка и танец?"
+  rightAnswer="Балет"
+  WrongAnswer1="Опера"
+  WrongAnswer2="Фарс">
+  </Question>
+
+<Question quest ="Какие птицы самые дальнозоркие?"
+rightAnswer="Грифы"
+WrongAnswer1="Орлы"
+WrongAnswer2="Совы">
+  </Question>
+
+<Question quest ="Откуда родом такие единоборства, как дзюдо, каратэ?"
+rightAnswer="Япония"
+WrongAnswer1="Китай"
+WrongAnswer2="Россия">
+  </Question>
+  
+  <Question quest ="Она бывает песчаная, глинистая, солончаковая и даже гипсовая - что это?"
+rightAnswer="Пустыня"
+WrongAnswer1="Буря"
+WrongAnswer2="Погода">
+  </Question>
+
+    <Question quest ="Благодаря указу какого царя мы теперь отмечаем Новый год 31 декабря?"
+rightAnswer="Пётр I"
+WrongAnswer1="Иван Грозный"
+WrongAnswer2="Борис Годунов">
+  </Question>
+
+<Question quest ="В каком году произошло Ледовое побоище?"
+        rightAnswer="1242"
+        WrongAnswer1="2001"
+        WrongAnswer2="1833">
+  </Question>
+
+  <Question quest ="Сколько музыкантов в квинтете?"
+    rightAnswer="5"
+    WrongAnswer1="4"
+    WrongAnswer2="1">
+  </Question>
+
+<Question quest ="Где впервые появились елочные игрушки из стекла?"
+rightAnswer="В Швеции"
+WrongAnswer1="В России"
+WrongAnswer2="В США">
+  </Question>
+  
+  <Question quest ="Когда впервые появились главные новогодние персонажи - Дед Мороз и Снегурочка?"
+rightAnswer="1937 год"
+WrongAnswer1="2005 год"
+WrongAnswer2="1259 год">
+  </Question>
+  
+  <Question quest ="Жир на зиму бобр накапливает именно в этой части тела. В какой?"
+rightAnswer="В хвосте"
+WrongAnswer1="В животе"
+WrongAnswer2="В щеках">
+  </Question>
+
+  <Question quest ="Какой весенний месяц в старину назывался травник?"
+rightAnswer="Май"
+WrongAnswer1="Март"
+WrongAnswer2="Апрель">
+  </Question>
+
+  <Question quest ="В каком месяце наступает весна в Австралии?"
+rightAnswer="В сентябре"
+WrongAnswer1="В январе"
+WrongAnswer2="В марте">
+  </Question>
+
+  <Question quest ="Сколько костей в скелете человека?"
+rightAnswer="Более 200"
+WrongAnswer1="689"
+WrongAnswer2="Менее 150">
+  </Question>
+
+  <Question quest ="Где находятся самые маленькие кости человека?"
+rightAnswer="В ухе"
+WrongAnswer1="В голове"
+WrongAnswer2="В кистях">
+  </Question>
+
+  <Question quest ="Как называют богиню домашнего очага в Древнем Риме?"
+rightAnswer="Веста"
+WrongAnswer1="Нефертити"
+WrongAnswer2="Клеопатра">
+  </Question>
+
+<Question quest ="Каждые сутки Земля «поправляется» на 400 т. За счет чего?"
+rightAnswer="Космической пыли"
+WrongAnswer1="Земного мусора"
+WrongAnswer2="Солнечного тепла">
+  </Question>
+
+  <Question quest ="Что получили в Индии, скрестив апельсин с лимоном?"
+rightAnswer="Грейпфрут"
+WrongAnswer1="Лайм"
+WrongAnswer2="Мандарин">
+  </Question>
+
+  <Question quest ="Сколько килобайт в 1 мегабайте?"
+rightAnswer="1024"
+WrongAnswer1="1000"
+WrongAnswer2="4201">
+  </Question>
+
+<Question quest ="До 1942 г. мужчины считали ниже своего достоинства носить эти часы. И лишь на фронте выявились их преимущества. Что это за часы?"
+rightAnswer="Наручные"
+WrongAnswer1="Электронные"
+WrongAnswer2="Часы-будильник">
+  </Question>
+
+  <Question quest ="Кто автор картины «Утро в сосновом лесу»?"
+rightAnswer="Шишкин"
+WrongAnswer1="Мышкин"
+WrongAnswer2="Васнецов">
+  </Question>
+
+  <Question quest ="К какой стихии относится знак Зодиака Водолей?"
+rightAnswer="Воздух"
+WrongAnswer1="Вода"
+WrongAnswer2="Земля">
+  </Question>
+
+<Question quest ="С какого знака Зодиака начинается новый астрологический год?"
+rightAnswer="Овен"
+WrongAnswer1="Скорпион"
+WrongAnswer2="Рыбы">
+  </Question>
+
+<Question quest ="К чему испытывает непреодолимое влечение пироман?"
+rightAnswer="К поджогам"
+WrongAnswer1="К пирогам"
+WrongAnswer2="К программам">
+  </Question>
+
+  <Question quest ="Как следует именовать жителей Новороссийска?"
+rightAnswer="Новороссийцы"
+WrongAnswer1="Новороссы"
+WrongAnswer2="Новороссияне">
+  </Question>
+
+  <Question quest ="Куда дует восточный ветер?"
+rightAnswer="На запад"
+WrongAnswer1="На восток"
+WrongAnswer2="На север">
+  </Question>
+
+    <Question quest ="Что создает резистор в электрической цепи?"
+rightAnswer="Сопротивление"
+WrongAnswer1="Напряжение"
+WrongAnswer2="Отклонение">
+  </Question>
+
+  <Question quest ="Кто написал произведение «Война и мир»?"
+rightAnswer="Толстой"
+WrongAnswer1="Достоевский"
+WrongAnswer2="Гоголь">
+  </Question>
+
+  <Question quest ="Что такое органза?"
+      rightAnswer="Ткань"
+      WrongAnswer1="Лошадь"
+      WrongAnswer2="Растение">
+  </Question>
+  
+  <Question quest ="Что такое большой адронный коллайдер?"
+        rightAnswer="Ускоритель частиц"
+        WrongAnswer1="Машина смерти"
+        WrongAnswer2="Спутник Земли">
+  </Question>
+  
+  <Question quest ="Как назывались органы внутренних дел в 1918 году?"
+        rightAnswer="Милиция"
+        WrongAnswer1="Полиция"
+        WrongAnswer2="Казаки">
+  </Question>
+  
+  <Question quest ="Что делали с хирургом в Древнем Египте, у которого пациент умирал во время операции?"
+        rightAnswer="Ему отрубали руки"
+        WrongAnswer1="Его убивали"
+        WrongAnswer2="Ему делали ту же операцию">
+  </Question>
+  
+ <Question quest ="В честь кого назван автомобиль Мерседес?"
+        rightAnswer="Дочери владельца"
+        WrongAnswer1="Сына владельца"
+        WrongAnswer2="Жены владельца">
+  </Question>
+  
+  <Question quest ="Как называют человека, который знает много языков?"
+        rightAnswer="Полиглот"
+        WrongAnswer1="Язычник"
+        WrongAnswer2="Языковед">
+  </Question>
+  
+  <Question quest ="Выберите правильный вариант написания слова?"
+        rightAnswer="Привилегия"
+        WrongAnswer1="Привелегия"
+        WrongAnswer2="Превилегия">
+  </Question> 
+  
+  <Question quest ="Самая распространенная религия среди всего населения Земли?"
+      rightAnswer="Христианство"
+      WrongAnswer1="Буддизм"
+      WrongAnswer2="Ислам">
+  </Question>
+
+  <Question quest ="На каком музыкальном инструменте три струны?"
+rightAnswer="На балалайке"
+WrongAnswer1="На гуслях"
+WrongAnswer2="На скрипке">
+  </Question>
+
+<Question quest ="Какие горы принято считать границей между Европой и Азией?"
+  rightAnswer="Уральские горы"
+  WrongAnswer1="Алтайские горы"
+  WrongAnswer2="Кавказские горы">
+  </Question>
+
+  <Question quest ="Какого цвета кровь у скорпионов?"
+rightAnswer="Голубого"
+WrongAnswer1="Красного"
+WrongAnswer2="Зелёного">
+  </Question>
+
+  <Question quest ="Какого моря не существует?"
+rightAnswer="Синее"
+WrongAnswer1="Красное"
+WrongAnswer2="Жёлтое">
+  </Question>
+
+<Question quest ="Американский президент, чье имя носит аэропорт в Нью-Йорке?"
+    rightAnswer="Кеннеди"
+    WrongAnswer1="Буш"
+    WrongAnswer2="Никсон">
+  </Question>
+  
+  <Question quest ="Государственный язык Австрии?"
+    rightAnswer="Немецкий"
+    WrongAnswer1="Австрийский"
+    WrongAnswer2="Австралийский">
+  </Question>
+
+  <Question quest ="Период времени в историческом развитии, отличающийся характерными особенностями и значительными событиями?"
+  rightAnswer="Эпоха"
+  WrongAnswer1="Век"
+  WrongAnswer2="Год">
+  </Question>
+
+<Question quest ="Назовите самый маленький океан?"
+rightAnswer="Атлантический"
+WrongAnswer1="Тихий"
+WrongAnswer2="Индийский">
+  </Question>
+  
+  <Question quest ="Древние римляне носили тунику. А что они носили, когда наступали холода?"
+rightAnswer="Несколько туник"
+WrongAnswer1="Шубу"
+WrongAnswer2="Пальто">
+  </Question>
+
+<Question quest ="Что в переводе с испанского означает фамилия Колумб?"
+            rightAnswer="Голубь"
+            WrongAnswer1="Америка"
+            WrongAnswer2="Мореплаватель">
+  </Question>
+
+<Question quest ="Кто такая ЗЛАТОГУЗКА?"
+        rightAnswer="Бабочка"
+        WrongAnswer1="Канарейка"
+        WrongAnswer2="Антилопа">
+  </Question>
+  
+  <Question quest ="Название лапши по-узбекски?"
+rightAnswer="Лагман"
+WrongAnswer1="Удон"
+WrongAnswer2="Фунчоза">
+  </Question>
+  
+  <Question quest ="Какой породы была собачка из рассказа А.П.Чехова «Дама с собачкой»?"
+rightAnswer="Шпиц"
+WrongAnswer1="Спаниель"
+WrongAnswer2="Пудель">
+  </Question>
+    
+  <Question quest ="Нынешняя столица Республики Казахстан?"
+rightAnswer="Астана"
+WrongAnswer1="Оренбург"
+WrongAnswer2="Алматы">
+  </Question>
+  
+<Question quest ="Назовите птицу, являющуюся с XV века символом Москвы?"
+rightAnswer="Сокол"
+WrongAnswer1="Орёл"
+WrongAnswer2="Сова">
+  </Question>
+
+<Question quest ="Сколько лет было А.С. Пушкину, когда напечатали его первое стихотворение?"
+rightAnswer="15"
+WrongAnswer1="25"
+WrongAnswer2="35">
+  </Question>
+
+  <Question quest ="Кто был воспитателем Александра Македонского?"
+rightAnswer="Аристотель"
+WrongAnswer1="Галилео"
+WrongAnswer2="Бруно">
+  </Question>
+
+    <Question quest ="Сколько рек вытекает из озера Байкал?"
+rightAnswer="1"
+WrongAnswer1="0"
+WrongAnswer2="12">
+  </Question>
+
+  <Question quest ="Какой код возвращает сервер, если документ не найден?"
+rightAnswer="404"
+WrongAnswer1="606"
+WrongAnswer2="000">
+  </Question>
+
+  <Question quest ="Из какого языка пришло слово «алгебра»?"
+rightAnswer="Арабского"
+WrongAnswer1="Греческого"
+WrongAnswer2="Русского">
+  </Question>
+
+  <Question quest ="Какой древнегреческий философ любил повторять: «Я знаю, что ничего не знаю»?"
+rightAnswer="Сократ"
+WrongAnswer1="Платон"
+WrongAnswer2="Аристотель">
+  </Question>
+
+  <Question quest ="Какая игра является симулятором бога?"
+rightAnswer="Sims"
+WrongAnswer1="Warcraft"
+WrongAnswer2="Counter-Strike">
+  </Question>
+
+  <Question quest ="В каком городе был открыт первый в СССР рок-клуб?"
+rightAnswer="Ленинград"
+WrongAnswer1="Челябинск"
+WrongAnswer2="Казань">
+  </Question>
+
+<Question quest ="Как иначе называют инжир?"
+rightAnswer="Фига"
+WrongAnswer1="Финик"
+WrongAnswer2="Жир">
+  </Question>
+
+<Question quest ="На каком языке были написаны мемуары Екатерины II?"
+rightAnswer="На французском"
+WrongAnswer1="На греческом"
+WrongAnswer2="На русском">
+  </Question>
+
+  <Question quest ="Сколько раз Франклин Рузвельт избирался на пост президента США?"
+rightAnswer="4"
+WrongAnswer1="10"
+WrongAnswer2="1">
+  </Question>
+  
+  <Question quest ="Какой древнегреческий бог олицетворял западный ветер?"
+          rightAnswer="Зефир"
+          WrongAnswer1="Нот"
+          WrongAnswer2="Мармелад">
+  </Question>
+
+<Question quest ="При какой императрице произошло Пугачевское восстание?"
+      rightAnswer="При Екатерине II"
+      WrongAnswer1="При Елизавете Петровне"
+      WrongAnswer2="При Анне Иоанновне">
+  </Question>
+  
+<Question quest ="Какая свадьба празднуется после одного года брака?"
+        rightAnswer="Ситцевая"
+        WrongAnswer1="Рубиновая"
+        WrongAnswer2="Жемчужная">
+  </Question>
+
+<Question quest ="Сколько цветов используется в классификации вин?"
+        rightAnswer="3"
+        WrongAnswer1="12"
+        WrongAnswer2="4">
+  </Question>
+  
+  <Question quest ="Сколько символов используется в системе римских чисел?"
+        rightAnswer="7"
+        WrongAnswer1="12"
+        WrongAnswer2="5">
+  </Question>
+  
+  <Question quest ="Что устанавливают в болиде «Формулы-1» уже после того, как пилот сел в кабину?"
+        rightAnswer="Руль"
+        WrongAnswer1="Колёса"
+        WrongAnswer2="Камеру">
+  </Question>
+
+  <Question quest ="Что такое или кто такие монегаски?"
+      rightAnswer="Граждане Монако"
+      WrongAnswer1="Монеты Монголии"
+      WrongAnswer2="Жители Монегаски">
+  </Question>
+
+  <Question quest ="От какого латинского слова произошло слово «помада»?"
+  rightAnswer="Яблоко"
+  WrongAnswer1="Губы"
+  WrongAnswer2="Поцелуй">
+  </Question>
+
+<Question quest ="Какое фруктовое дерево из списка является священным в Индии?"
+rightAnswer="Манго"
+WrongAnswer1="Слива"
+WrongAnswer2="Вишня">
+  </Question>
+
+</root>

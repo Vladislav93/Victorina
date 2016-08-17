@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest="Какого революционера убили ледорубом в Мексике в 1940 году?" rightAnswer="Троцкого" WrongAnswer1="Джона Рида" WrongAnswer2="Риверу" />
+  <Question quest="На территории какого современного государства находится легендарная Троя?" rightAnswer="Турции" WrongAnswer1="Сирии" WrongAnswer2="Греции" />
+  <Question quest="Как называется обязательное безбрачие у католического духовенства?" rightAnswer="Целибат" WrongAnswer1="Агименат" WrongAnswer2="Конкордат" />
+  <Question quest="Какой из этих городов не входит в Золотое кольцо России?" rightAnswer="Рязань" WrongAnswer1="Суздаль" WrongAnswer2="Ярославль" />
+  <Question quest="Сколько крыльев у пчелы?" rightAnswer="4" WrongAnswer1="2" WrongAnswer2="3" />
+  <Question quest="Пистолет какой системы использовал обычно Джеймс Бонд?" rightAnswer="Вальтер" WrongAnswer1="Браунинг" WrongAnswer2="Беретта" />
+  <Question quest="Что изготавливает шорник?" rightAnswer="Хомуты" WrongAnswer1="Валенки" WrongAnswer2="Парусину" />
+  <Question quest="Сколько ребер имеет куб?" rightAnswer="12" WrongAnswer1="6" WrongAnswer2="8" />
+  <Question quest="Что такое гамаши?" rightAnswer="Теплые чулки" WrongAnswer1="Теплые брюки" WrongAnswer2="Теплые перчатки" />
+  <Question quest="При помощи какого устройства обычно регулируют силу тока в электрической цепи?" rightAnswer="Реостат" WrongAnswer1="Диод" WrongAnswer2="Транзистор" />
+  <Question quest="При помощи какого из этих приборов обычно измеряют влажность воздуха?" rightAnswer="Психрометр" WrongAnswer1="Барометр" WrongAnswer2="Манометр" />
+  <Question quest="Как пользователи ПК обычно называют процессор компьютера?" rightAnswer="Камень" WrongAnswer1="Винт" WrongAnswer2="Резак" />
+  <Question quest="Среднее расстояние от Земли до какого небесного тела назвали астрономической единицей?" rightAnswer="Солнце" WrongAnswer1="Марс" WrongAnswer2="Альфа Центавра" />
+  <Question quest="Что нельзя наблюдать, находясь на Луне?" rightAnswer="Метеоры" WrongAnswer1="Затмения" WrongAnswer2="Звезды" />
+  <Question quest="Какой из этих газов преобладает в атмосфере Земли?" rightAnswer="Азот" WrongAnswer1="Углекислый газ" WrongAnswer2="Кислород" />
+  <Question quest="Какой из этих газов преобладает в атмосфере Марса?" rightAnswer="Углекислый газ" WrongAnswer1="Кислород" WrongAnswer2="Азот" />
+  <Question quest="Какой гриб называют волчий табак?" rightAnswer="Дождевик" WrongAnswer1="Мухомор" WrongAnswer2="Трюфель" />
+  <Question quest="Как называется утверждение международного договора?" rightAnswer="Ратификация" WrongAnswer1="Меморандум" WrongAnswer2="Конкордат" />
+  <Question quest="Какую игру называют рюхи?" rightAnswer="Городки" WrongAnswer1="Крикет" WrongAnswer2="Регби" />
+  <Question quest="Какой из этих воинских чинов не является казачьим?" rightAnswer="Ротмистр" WrongAnswer1="Есаул" WrongAnswer2="Хорунжий" />
+  <Question quest="Какой купюры не бывает в США?" rightAnswer="3 доллара" WrongAnswer1="2 доллара" WrongAnswer2="5 долларов" />
+  <Question quest="Что из перечисленного является единственным колониальным владением Британии в Европе?" rightAnswer="Гибралтар" WrongAnswer1="Андорра" WrongAnswer2="Люксембург" />
+  <Question quest="Какой из этих падежей - не косвенный?" rightAnswer="Именительный" WrongAnswer1="Винительный" WrongAnswer2="Предложный" />
+  <Question quest="Какой шахматной фигурой советовал ходить Хмырю Косой в кинофильме Джентельмены удачи?" rightAnswer="Конь" WrongAnswer1="Ферзь" WrongAnswer2="Слон" />
+  <Question quest="Какой из перечисленных металлов не растворяется в царской водке?" rightAnswer="Серебро" WrongAnswer1="Платина" WrongAnswer2="Железо" />
+  <Question quest="У прадеда какого поэта крёстным отцом был сам Пётр I?" rightAnswer="А.С.Пушкин" WrongAnswer1="Г.Р.Державин" WrongAnswer2="М.Ю.Лермонтов" />
+  <Question quest="С какого дня начинается неделя на календарях Великобритании?" rightAnswer="Воскресенье" WrongAnswer1="Понедельник" WrongAnswer2="Суббота" />
+  <Question quest="Кто из этих богатырей русских былин обладал наибольшей физической силой?" rightAnswer="Святогор" WrongAnswer1="Добрыня Никитич" WrongAnswer2="Илья Муромец" />
+  <Question quest="На каком из этих растительных масел нельзя жарить пищу?" rightAnswer="Конопляном" WrongAnswer1="Соевом" WrongAnswer2="Хлопковом" />
+  <Question quest="Где в XVIII веке в России служил асессор?" rightAnswer="В суде" WrongAnswer1="В больнице" WrongAnswer2="В бане" />
+  <Question quest="В кого барон Мюнхгаузен стрелял вишнёвой косточкой?" rightAnswer="В оленя" WrongAnswer1="В медведя" WrongAnswer2="В волка" />
+  <Question quest="Как называется жилое помещение, расположенное под крышей здания?" rightAnswer="Мансарда" WrongAnswer1="Веранда" WrongAnswer2="Мезонин" />
+  <Question quest="В каком городе был подписан мирный договор, завершивший Первую мировую войну?" rightAnswer="Версаль" WrongAnswer1="Париж" WrongAnswer2="Вена" />
+  <Question quest="Как называется хлеб имеющий форму косички?" rightAnswer="Хала" WrongAnswer1="Сайка" WrongAnswer2="Лаваш" />
+  <Question quest="Какой из этих грибов собирают ранней весной?" rightAnswer="Сморчок" WrongAnswer1="Маслёнок" WrongAnswer2="Моховик" />
+  <Question quest="В какой части тела располагается мениск?" rightAnswer="Колено" WrongAnswer1="Щиколотка" WrongAnswer2="Таз" />
+  <Question quest="В какой из этих спортивных игр правила не предусматривают удаление игрока с поля?" rightAnswer="Теннис" WrongAnswer1="Хоккей" WrongAnswer2="Баскетбол" />
+  <Question quest="Под каким знаком зодиака начинается учебный год в российских школах?" rightAnswer="Дева" WrongAnswer1="Лев" WrongAnswer2="Скорпион" />
+  <Question quest="Какой из этих городов является родиной дамы сердца Дон Кихота?" rightAnswer="Тобосо" WrongAnswer1="Сарагоса" WrongAnswer2="Толедо" />
+  <Question quest="Как называется криволинейное перекрытие между двумя опорами?" rightAnswer="Арка" WrongAnswer1="Пилястра" WrongAnswer2="Капитель" />
+  <Question quest="В какой реке Владимир Святославович в 988 году провёл крещение славян?" rightAnswer="Днепр" WrongAnswer1="Дон" WrongAnswer2="Яуза" />
+  <Question quest="Основоположником какого кардинального нового направления стал Зигмунд Фрейд?" rightAnswer="Психоанализ" WrongAnswer1="Психогогика" WrongAnswer2="Психолиз" />
+  <Question quest="Какой знак восточного гороскопа следует за знаком Дракона?" rightAnswer="Змея" WrongAnswer1="Собака" WrongAnswer2="Тигр" />
+  <Question quest="Кто из австрийских композиторов уже в шесть лет давал концерты?" rightAnswer="Моцарт" WrongAnswer1="Маулер" WrongAnswer2="Гайдн" />
+  <Question quest="В каком месяце, согласно известной песне, весёлые качели начинают свой разбег?" rightAnswer="Апрель" WrongAnswer1="Февраль" WrongAnswer2="Март" />
+  <Question quest="Что на Руси называли ветрилом?" rightAnswer="Парус" WrongAnswer1="Палубу" WrongAnswer2="Борт" />
+  <Question quest="Из мяса какой рыбы делают крабовые палочки отечественного производства?" rightAnswer="Треска" WrongAnswer1="Окунь" WrongAnswer2="Камбала" />
+  <Question quest="Кого авторы приключенческих романов нарекли рыцарями плаща и кинжала?" rightAnswer="Шпионов" WrongAnswer1="Иллюзионистов" WrongAnswer2="Мушкетёров" />
+  <Question quest="С какими сорняками ежедневно боролся на своей планете Маленький принц?" rightAnswer="С баобабами" WrongAnswer1="С пальмами" WrongAnswer2="С чертополохом" />
+  <Question quest="Какой слесарный инструмент совмещает в себе плоскогубцы, кусачки, резак для проволоки, отвёртку?" rightAnswer="Пассатижи" WrongAnswer1="Кернер" WrongAnswer2="Рашпиль" />
+  <Question quest="В каком итальянском городе жили Ромео и Джульетта?" rightAnswer="Верона" WrongAnswer1="Генуа" WrongAnswer2="Флоренция" />
+  <Question quest="К какой части речи относятся слова «Ах» и «Ох»?" rightAnswer="Междометие" WrongAnswer1="Частица" WrongAnswer2="Наречие" />
+  <Question quest="В кого превращается дама, которая красит волосы басмой?" rightAnswer="В брюнетку" WrongAnswer1="В рыжую" WrongAnswer2="В шатенку" />
+  <Question quest="Какому учёному принадлежит изобретение системы координат в математике?" rightAnswer="Декарту" WrongAnswer1="Ньютону" WrongAnswer2="Лейбницу" />
+  <Question quest="Какая из сельскохозяйственных культур не относится к семейству тыквенных?" rightAnswer="Баклажан" WrongAnswer1="Дыня" WrongAnswer2="Кабачок" />
+  <Question quest="Какое оружие держит в руке Алёша Попович на картине Васнецова «Три богатыря»?" rightAnswer="Лук" WrongAnswer1="Меч" WrongAnswer2="Палица" />
+  <Question quest="Из какого мяса традиционно готовится начинка для чебуреков?" rightAnswer="Баранина" WrongAnswer1="Телятина" WrongAnswer2="Конина" />
+  <Question quest="Какой из этих российских городов не имеет в названии слово великий?" rightAnswer="Псков" WrongAnswer1="Луки" WrongAnswer2="Устюг" />
+  <Question quest="Какое женское имя прославило композитора Матвея Блантера?" rightAnswer="Катюша" WrongAnswer1="Надежда" WrongAnswer2="Любовь" />
+  <Question quest="Какой танец на ковре из жёлтых листьев был воспет в известной песне Розенбаума?" rightAnswer="Вальс Бостон" WrongAnswer1="Менуэт" WrongAnswer2="Венский вальс" />
+</root>

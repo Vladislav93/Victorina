@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest ="В каком году затонул легендарный «Титаник»?"
+            rightAnswer="1912"
+            WrongAnswer1="1921"
+            WrongAnswer2="1812">
+</Question>
+
+  <Question quest ="Как отражается число 3 в двоичном виде?"
+rightAnswer="11"
+WrongAnswer1="03"
+WrongAnswer2="10">
+  </Question>
+
+  <Question quest ="Как называются слова, которые читаются одинаково как с первой буквы к последней, так и от последней к первой?"
+        rightAnswer="Палиндромы"
+        WrongAnswer1="Валидолы"
+        WrongAnswer2="Омонимы">
+  </Question>
+
+<Question quest ="В переводе с латыни «приматы» означают «одни из первых». А кто ввёл это понятие в науку?"
+rightAnswer="Карл Линней"
+WrongAnswer1="Чарльз Дарвин"
+WrongAnswer2="Павлов">
+  </Question>
+
+<Question quest ="В какую созданную им статую влюбился мифологический скульптор Пигмалион?"
+rightAnswer="Галатеи"
+WrongAnswer1="Афины"
+WrongAnswer2="Девушки с веслом">
+  </Question>
+  
+<Question quest ="Какой из этих сыпучих продуктов во время озвучивания фильма применяется для имитации скрипа снега при сильном морозе?"
+        rightAnswer="Крахмал"
+        WrongAnswer1="Сахарная пудра"
+        WrongAnswer2="Мука">
+  </Question>
+    
+  <Question quest ="Какое австралийское животное удивленные ученые обозвали - paradoxus?"
+rightAnswer="Утконос"
+WrongAnswer1="Кенгуру"
+WrongAnswer2="Муравьед">
+  </Question>
+  
+  <Question quest ="Как называется переносное жилище чукчей, коряков, юкагиров?"
+  rightAnswer="Яранга"
+  WrongAnswer1="Вигвам"
+  WrongAnswer2="Иглу">
+  </Question>
+
+  <Question quest ="Один из видов театра в Японии называется?"
+  rightAnswer="Кабуки"
+  WrongAnswer1="Ти-ба-бо"
+  WrongAnswer2="Хокку">
+  </Question>
+
+  <Question quest ="Какая планета, кроме Венеры, вращается вокруг Солнца в сторону, противоположную вращению всех других планет?"
+rightAnswer="Уран"
+WrongAnswer1="Сатурн"
+WrongAnswer2="Марс">
+  </Question>
+
+  <Question quest ="Сколько килограммов в английском фунте?"
+rightAnswer="0,454"
+WrongAnswer1="0,125"
+WrongAnswer2="500">
+  </Question>
+
+    <Question quest ="Какая самая маленькая метрическая мера?"
+rightAnswer="Ангстрем"
+WrongAnswer1="Микрон"
+WrongAnswer2="Нанометр">
+  </Question>
+  
+  <Question quest ="В каком городе расположен Тадж-Махал?"
+      rightAnswer="Агра"
+      WrongAnswer1="Мумбаи"
+      WrongAnswer2="Ченнай">
+  </Question>
+
+<Question quest ="Детей какой богини Аполлон и Артемида поразили стрелами, отомстив тем самым за свою мать?"
+rightAnswer="Ниоба"
+WrongAnswer1="Ева"
+WrongAnswer2="Астарта">
+  </Question>
+
+<Question quest ="Какое растение «дружит» с пауками?"
+rightAnswer="Роридула"
+WrongAnswer1="Венерин башмачок"
+WrongAnswer2="Дремлик широколистный">
+  </Question>
+
+<Question quest ="Как называется подставка, ящик или корзинка для комнатных цветов?"
+rightAnswer="Жардиньерка"
+WrongAnswer1="Вазон"
+WrongAnswer2="Бутоньерка">
+  </Question>
+
+<Question quest ="Как называется сосновый лес, растущий на сухом возвышенном месте?"
+rightAnswer="Бор"
+WrongAnswer1="Роща"
+WrongAnswer2="Урман">
+  </Question>
+
+<Question quest ="Как называется транспортное средство, способное передвигаться и по суше, и по воде?"
+rightAnswer="Амфибия"
+WrongAnswer1="Универсал"
+WrongAnswer2="Вездеход">
+  </Question>
+
+<Question quest ="Какое звание является наивысшим в научной иерархии?"
+rightAnswer="Профессор"
+WrongAnswer1="Доцент"
+WrongAnswer2="Магистр">
+  </Question>
+
+<Question quest ="В какое время года родились люди, чей знак зодиака скорпион?"
+rightAnswer="Осень"
+WrongAnswer1="Весна"
+WrongAnswer2="Лето">
+  </Question>
+
+<Question quest ="Какого сорта шампанского не бывает?"
+rightAnswer="Полубрют"
+WrongAnswer1="Очень сухое"
+WrongAnswer2="Полусухое">
+  </Question>
+
+<Question quest ="На каком сооружении принято вручать награды победителям спортивных соревнований?"
+rightAnswer="Пьедестал"
+WrongAnswer1="Монумент"
+WrongAnswer2="Подиум">
+  </Question>
+
+<Question quest ="Кого засылают в дом невесты?"
+rightAnswer="Сватов"
+WrongAnswer1="Разведчиков"
+WrongAnswer2="Казачков">
+  </Question>
+
+<Question quest ="Какое из этих музыкальных произведений традиционно звучит на церемонии бракосочетания?"
+rightAnswer="Марш Мендельсона"
+WrongAnswer1="Вальс Штрауса"
+WrongAnswer2="Полонез Огиньского">
+  </Question>
+
+<Question quest ="Жених богат и стар, невеста молода и бедна. А как назвал такой сюжет Василий Владимирович Пукирев?"
+rightAnswer="«Неравный брак»"
+WrongAnswer1="«Брак по расчёту»"
+WrongAnswer2="«Выгодный брак»">
+  </Question>
+
+<Question quest ="Каким словом называют любовь, не знающую меры?"
+rightAnswer="Обожание"
+WrongAnswer1="Одержимость"
+WrongAnswer2="Привязанность">
+  </Question>
+
+<Question quest ="Что делает сердце от страха и волнения?"
+rightAnswer="Ёкает"
+WrongAnswer1="Окает"
+WrongAnswer2="Акает">
+  </Question>
+
+<Question quest ="Какие надзиратели в царской России следили за порядком на улицах города?"
+rightAnswer="Квартальные"
+WrongAnswer1="Месячные"
+WrongAnswer2="Годовые">
+  </Question>
+
+<Question quest ="Кому раньше помогали ретушёры?"
+rightAnswer="Фотографам"
+WrongAnswer1="Композиторам"
+WrongAnswer2="Пожарным">
+  </Question>
+
+<Question quest ="Куда уходят в маске Гиппократа?"
+rightAnswer="На тот свет"
+WrongAnswer1="На маскарад"
+WrongAnswer2="На дом к больному">
+  </Question>
+
+<Question quest ="Какое из этих слов НЕ обозначает врача?"
+rightAnswer="Скальпер"
+WrongAnswer1="Целитель"
+WrongAnswer2="Медик">
+  </Question>
+
+<Question quest ="Как называется прибор, какой применяют в своей работе медики?"
+rightAnswer="Тонометр"
+WrongAnswer1="Камертон"
+WrongAnswer2="Баритон">
+  </Question>
+
+<Question quest ="Как называется неотъемлемый медицинский атрибут врача-невропатолога?"
+rightAnswer="Молоточек"
+WrongAnswer1="Рефлектор"
+WrongAnswer2="Скальпель">
+  </Question>
+
+<Question quest ="Каким словом в 19-20 вв. в нашей стране называли важнейшие общественные здания?"
+rightAnswer="Дворец"
+WrongAnswer1="Храм"
+WrongAnswer2="Замок">
+  </Question>
+
+<Question quest ="Как называют красочную бумажную обложку поверх переплёта книги?"
+rightAnswer="Суперобложка"
+WrongAnswer1="Ультраобложка"
+WrongAnswer2="Гранд-обложка">
+  </Question>
+
+<Question quest ="Кто раньше занимался уличной книжной торговлей?"
+rightAnswer="Книгоноши"
+WrongAnswer1="Букмекеры"
+WrongAnswer2="Книгопроды">
+  </Question>
+
+<Question quest ="На сколько лет превратили в лягушку Василису Премудрую?"
+rightAnswer="На 3 года"
+WrongAnswer1="На 1 год"
+WrongAnswer2="На 5 лет">
+  </Question>
+
+<Question quest ="У семи богатырей была собака. Как её кличка?"
+rightAnswer="Соколко"
+WrongAnswer1="Воронок"
+WrongAnswer2="Журавка">
+  </Question>
+
+<Question quest ="Как называлась харчевня в сказке А.Толстого «Золотой ключик»?"
+rightAnswer="«Три пескаря»"
+WrongAnswer1="«Три поросёнка»"
+WrongAnswer2="«Три корочки хлеба»">
+  </Question>
+
+<Question quest ="В каком качестве Мальвина использовала карпа?"
+rightAnswer="Зеркало"
+WrongAnswer1="Подушка"
+WrongAnswer2="Мочалка">
+  </Question>
+
+<Question quest ="Как назвали Буратино и его друзья свой театр?"
+rightAnswer="«Молния»"
+WrongAnswer1="«Гроза»"
+WrongAnswer2="«Ветер»">
+  </Question>
+
+<Question quest ="Какого доктора придумал Н.Носов?"
+rightAnswer="Пилюлькина"
+WrongAnswer1="Айболита"
+WrongAnswer2="Пипеткина">
+  </Question>
+
+<Question quest ="Как звали помощника капитана Врунгеля?"
+rightAnswer="Лом"
+WrongAnswer1="Сом"
+WrongAnswer2="Мол">
+  </Question>
+
+<Question quest ="Как звали Галчонка из сказки Эдуарда Успенского «Дядя Фёдор, пёс и кот»?"
+rightAnswer="Хватайка"
+WrongAnswer1="Ктотамка"
+WrongAnswer2="Отвечайка">
+  </Question>
+
+<Question quest ="Кто из этих сказочных героев Пушкина НЕ живёт под водой?"
+rightAnswer="Черномор"
+WrongAnswer1="Призрак Рогдая"
+WrongAnswer2="Царевна Лебедь">
+  </Question>
+
+<Question quest ="Как звали сына дяди Стёпы?"
+rightAnswer="Егор"
+WrongAnswer1="Артур"
+WrongAnswer2="Слава">
+  </Question>
+
+<Question quest ="Сколько пар ног у комара?"
+rightAnswer="3"
+WrongAnswer1="1"
+WrongAnswer2="2">
+  </Question>
+
+<Question quest ="На какую ноту пищит комар?"
+rightAnswer="Фа-диез"
+WrongAnswer1="Си"
+WrongAnswer2="До-диез">
+  </Question>
+
+<Question quest ="Есть ли зубы у комаров? Если да, то сколько их?"
+rightAnswer="22 зуба"
+WrongAnswer1="Нет зубов"
+WrongAnswer2="32 зуба">
+  </Question>
+
+<Question quest ="Сколько укусов делает самка комара за свою жизнь (2-3 месяца)?"
+rightAnswer="До 10 раз"
+WrongAnswer1="До 1000 раз"
+WrongAnswer2="До 100 раз">
+  </Question>
+
+<Question quest ="Какое слово пропущено в лермонтовском афоризме: «Все это было бы смешно, Когда бы не было так…»?"
+rightAnswer="Грустно"
+WrongAnswer1="Опасно"
+WrongAnswer2="Трудно">
+  </Question>
+
+<Question quest ="Какое из перечисленных произведений НЕ принадлежит М.Ю.Лермонтову?"
+rightAnswer="«Полтава»"
+WrongAnswer1="«Демон»"
+WrongAnswer2="«Парус»">
+  </Question>
+
+<Question quest ="Сколько дней продолжалась решающая битва за Сталинград?"
+rightAnswer="200 дней"
+WrongAnswer1="30 дней"
+WrongAnswer2="300 дней">
+  </Question>
+
+<Question quest ="«Велика Россия, а отступать некуда – позади Москва». Кому принадлежат эти известные слова?"
+rightAnswer="Клочкову"
+WrongAnswer1="Кутузову"
+WrongAnswer2="Матросову">
+  </Question>
+
+<Question quest ="За что вручали самую известную медаль Великой Отечественной войны?"
+rightAnswer="За отвагу"
+WrongAnswer1="За мужество"
+WrongAnswer2="За храбрость">
+  </Question>
+
+<Question quest ="На какой реке в 1945 году встретились советские и американские солдаты?"
+rightAnswer="Эльба"
+WrongAnswer1="Рейн"
+WrongAnswer2="Неман">
+  </Question>
+</root>

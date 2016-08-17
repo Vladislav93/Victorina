@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  
+ <Question quest ="Как назвал свою яхту капитан Врунгель?"
+rightAnswer="Победа"
+WrongAnswer1="Мария"
+WrongAnswer2="Арабелла">
+  </Question>
+  
+  <Question quest ="Кому Винни-Пух подарил на день рождения пустой горшок?"
+rightAnswer="Ослику ИА"
+WrongAnswer1="Пятачку"
+WrongAnswer2="Кролику">
+  </Question>
+
+  <Question quest ="Кто автор сказки «Бременские музыканты»?"
+rightAnswer="Братья Гримм"
+WrongAnswer1="Андерсон"
+WrongAnswer2="Пушкин">
+  </Question>
+
+  <Question quest ="Что такое пуэр?"
+rightAnswer="Чай"
+WrongAnswer1="Десерт"
+WrongAnswer2="Вид сахара">
+  </Question>
+
+  <Question quest ="Как правильно есть плов?"
+rightAnswer="Руками"
+WrongAnswer1="Ложкой"
+WrongAnswer2="Палочками">
+  </Question>
+
+  <Question quest ="Аналог равиоли в русской кухне?"
+rightAnswer="Пельмени"
+WrongAnswer1="Вермишель"
+WrongAnswer2="Пирожки">
+  </Question>
+
+  <Question quest ="Как называется кровать для лошадей?"
+rightAnswer="Стойло"
+WrongAnswer1="Стог"
+WrongAnswer2="Подстилка">
+  </Question>
+
+  <Question quest ="Какой материк не принадлежит ни одному государству?"
+rightAnswer="Антарктида"
+WrongAnswer1="Африка"
+WrongAnswer2="Австралия">
+  </Question>
+
+  <Question quest ="Какое значение у имени Виктория?"
+rightAnswer="Победа"
+WrongAnswer1="Беда"
+WrongAnswer2="Война">
+  </Question>
+  
+  <Question quest ="Кто стал президентом российской федерации в 2012 году?"
+rightAnswer="Путин"
+WrongAnswer1="Медведев"
+WrongAnswer2="Ельцин">
+  </Question>
+
+    <Question quest ="Как звали знаменитого мореплавателя Кука?"
+rightAnswer="Джеймс"
+WrongAnswer1="Джон"
+WrongAnswer2="Марс">
+  </Question>
+
+  <Question quest ="Какой город оказался в блокаде во время Великой Отечественной войны?"
+rightAnswer="Ленинград"
+WrongAnswer1="Симферополь"
+WrongAnswer2="Челябинск">
+  </Question>
+
+  <Question quest ="Как называется боковая часть пистолета?"
+rightAnswer="Щека"
+WrongAnswer1="Подбородок"
+WrongAnswer2="Бочонок">
+  </Question>
+
+  <Question quest ="Какая мышца в теле человека самая крупная?"
+rightAnswer="Ягодичная"
+WrongAnswer1="Бицепс"
+WrongAnswer2="Икроножная">
+  </Question>
+
+<Question quest ="Какой пигмент окрашивает листья в зелёный цвет?"
+rightAnswer="Хлорофилл"
+WrongAnswer1="Каротин"
+WrongAnswer2="Меланин">
+  </Question>
+
+  <Question quest ="Продолжите: «Лес рубят - ... »."
+rightAnswer="Щепки летят"
+WrongAnswer1="Шум стоит"
+WrongAnswer2="Деревья гибнут">
+  </Question>
+
+  <Question quest ="Как называются абрикосы, высушенные вместе с косточкой?"
+rightAnswer="Урюк"
+WrongAnswer1="Брики"
+WrongAnswer2="Курага">
+  </Question>
+
+  <Question quest ="Сколько гласных в русском алфавите?"
+rightAnswer="10"
+WrongAnswer1="7"
+WrongAnswer2="15">
+  </Question>
+
+  <Question quest ="Какую игру придумали студенты Кембриджа, используя коробки для сигар и пробки от шампанского?"
+      rightAnswer="Настольный теннис"
+      WrongAnswer1="Шахматы"
+      WrongAnswer2="Шашки">
+  </Question>
+
+  <Question quest ="Какой орех напомнил средневековым португальским морякам гримасничающую мордочку?"
+        rightAnswer="Кешью"
+        WrongAnswer1="Арахис"
+        WrongAnswer2="Кедровый">
+  </Question>
+  
+  <Question quest ="Какой город был построен на семи холмах?"
+        rightAnswer="Рим"
+        WrongAnswer1="Вашингтон"
+        WrongAnswer2="Марсель">
+  </Question>
+
+<Question quest ="Что держит в поднятой руке Пётр I на монументе работы Зураба Церетели?"
+        rightAnswer="Свиток"
+        WrongAnswer1="Свисток"
+        WrongAnswer2="Пистолет">
+  </Question>
+  
+  <Question quest ="Кто выиграл конкурс Евровидение в 2008 году?"
+        rightAnswer="Дима Билан"
+        WrongAnswer1="Ани Лорак"
+        WrongAnswer2="Сирушо">
+  </Question>
+  
+<Question quest ="Как называется белый, расписанный синим фарфор?"
+        rightAnswer="Гжель"
+        WrongAnswer1="Дымковская игрушка"
+        WrongAnswer2="Хохлома">
+  </Question>
+
+  <Question quest ="Какой из этих журналов основал А.С.Пушкин?"
+        rightAnswer="Современник"
+        WrongAnswer1="Антенна"
+        WrongAnswer2="Русь">
+  </Question> 
+
+<Question quest ="Как правильно расшифровывается модное сейчас сокращение IT?"
+        rightAnswer="Информационные технологии"
+        WrongAnswer1="Интернет телефония"
+        WrongAnswer2="Истребитель танков">
+  </Question>
+  
+  <Question quest ="В каком месяце в Петербурге бывают Белые ночи?"
+        rightAnswer="Июнь"
+        WrongAnswer1="Январь"
+        WrongAnswer2="Март">
+  </Question>
+
+  <Question quest ="На каком здании Москвы в 1953 году были установлены самые большие башенные часы в стране?"
+      rightAnswer="МГУ"
+      WrongAnswer1="Музей им.Пушкина"
+      WrongAnswer2="Третьяковская галерея">
+  </Question>
+
+  <Question quest ="Где зародился танец румба?"
+      rightAnswer="На Кубе"
+      WrongAnswer1="В Голландии"
+      WrongAnswer2="В Румынии">
+  </Question>
+
+  <Question quest ="Для кого были изготовлены первые шариковые ручки?"
+    rightAnswer="Для лётчиков"
+    WrongAnswer1="Для депутатов"
+    WrongAnswer2="Для простых людей">
+  </Question>
+  
+  <Question quest ="Какое число получается при сложении цифр, указанныx на диске телефона?"
+    rightAnswer="45"
+    WrongAnswer1="100"
+    WrongAnswer2="50">
+  </Question>
+  
+  <Question quest ="Кого или что ненавидит мизантроп?"
+    rightAnswer="Людей"
+    WrongAnswer1="Животных"
+    WrongAnswer2="Природу">
+  </Question>
+
+  <Question quest ="Название какой единицы времени произошло от латинского слова «маленький»?"
+  rightAnswer="Минута"
+  WrongAnswer1="Секунда"
+  WrongAnswer2="Час">
+  </Question>
+
+  <Question quest ="Как сейчас называют жителей Парижа?"
+  rightAnswer="Парижане"
+  WrongAnswer1="Парижичи"
+  WrongAnswer2="Парижцы">
+  </Question>
+
+  <Question quest ="Как называют жителей Лондона?"
+  rightAnswer="Лондонцы"
+  WrongAnswer1="Лондончане"
+  WrongAnswer2="Лоноды">
+  </Question>
+
+  <Question quest ="Как называется декоративная косметика, которую используют для оттенения щёк?"
+  rightAnswer="Румяна"
+  WrongAnswer1="Тени"
+  WrongAnswer2="Помада">
+  </Question>
+
+  <Question quest ="Из чего изготавливают кармин, натуральный пищевой краситель, используемый в косметике?"
+  rightAnswer="Из насекомых"
+  WrongAnswer1="Из минералов"
+  WrongAnswer2="Из растений">
+  </Question>
+
+<Question quest ="В каком фрукте из списка больше витамина C?"
+rightAnswer="Киви"
+WrongAnswer1="Апельсин"
+WrongAnswer2="Яблоко">
+  </Question>
+
+  <Question quest ="Какое из этих животных может родиться под водой?"
+rightAnswer="Бегемот"
+WrongAnswer1="Слон"
+WrongAnswer2="Тигр">
+  </Question>
+
+  <Question quest ="Собака какой породы снималась в фильме «Маска», в котором Джим Керри сыграл главную роль?"
+rightAnswer="Джек-рассел-терьер"
+WrongAnswer1="Шпиц"
+WrongAnswer2="Миттельшнауцер">
+  </Question>
+
+  <Question quest ="Что сложнее всего догнать собаке?"
+rightAnswer="Свой собственный хвост"
+WrongAnswer1="Мячик"
+WrongAnswer2="Другую собаку">
+  </Question>
+  
+  <Question quest ="Какая птица умеет спать в полёте на скорости 40 километров в час?"
+rightAnswer="Альбатрос"
+WrongAnswer1="Аист"
+WrongAnswer2="Сорока">
+  </Question>
+  
+
+  
+</root>

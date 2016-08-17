@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Как зовут слугу и оруженосца Дон-Кихота?" rightAnswer="Панса" WrongAnswer1="Гримо" WrongAnswer2="Планше" />
+  <Question quest="Приключения какого бравого солдата написал Ярослав Гашек?" rightAnswer="Швейка" WrongAnswer1="Ивана Чонкина" WrongAnswer2="Бубмараша" />
+  <Question quest="Кем в Королевстве кривых зеркал был Нушрок?" rightAnswer="Министром" WrongAnswer1="Королем" WrongAnswer2="Палачом" />
+  <Question quest="Что из этого не является отравляющим веществом?" rightAnswer="Пирит" WrongAnswer1="Люизит" WrongAnswer2="Табун" />
+  <Question quest="Какой музыкальный инструмент прославил Веру Дулову?" rightAnswer="Арфа" WrongAnswer1="Альт" WrongAnswer2="Виолончель" />
+  <Question quest="В какой стране были изобретены бесфосфорные, безопасные спички, используемые до сих пор?" rightAnswer="Швеция" WrongAnswer1="Швейцария" WrongAnswer2="Германия" />
+  <Question quest="Какой металл обязательно присутствует в любой бронзе?" rightAnswer="Медь" WrongAnswer1="Цинк" WrongAnswer2="Железо" />
+  <Question quest="Какой стране принадлежит остров Таити?" rightAnswer="Франции" WrongAnswer1="США" WrongAnswer2="Великобритании" />
+  <Question quest="Какой из этих городов является центром одного из семи федеральных округов?" rightAnswer="Нижний Новгород" WrongAnswer1="Казань" WrongAnswer2="Самара" />
+  <Question quest="Какую профессию приобрел Карлик Нос вместе с ужасной внешностью?" rightAnswer="Повара" WrongAnswer1="Скорохода" WrongAnswer2="Шута" />
+  <Question quest="В каком городе находится крупнейший в мире футбольный стадион?" rightAnswer="Рио-де-Жанейро" WrongAnswer1="Шанхай" WrongAnswer2="Сан-Паулу" />
+  <Question quest="Какое пропущенно слово в цитате из Евгения Онегина: «Он из Германии ... Привез учености плоды»?" rightAnswer="Туманной" WrongAnswer1="Заумной" WrongAnswer2="Богатой" />
+  <Question quest="За какую футбольную команду долгие годы выступал великий вратарь Лев Яшин?" rightAnswer="Динамо" WrongAnswer1="Торпедо" WrongAnswer2="ЦСКА" />
+  <Question quest="Что из этих мясных блюд даже в лучших домах и ресторанах подают и холодным?" rightAnswer="Ростбиф" WrongAnswer1="Лангет" WrongAnswer2="Ромштекс" />
+  <Question quest="Кто озвучивал Шарика в мультфильмах про Простоквашино?" rightAnswer="Л. Дуров" WrongAnswer1="Г. Вицин" WrongAnswer2="О. Анофриев" />
+  <Question quest="Какое французское слово употребляется для обозначения супружеской неверности, измены?" rightAnswer="Адюльтер" WrongAnswer1="Куафюр" WrongAnswer2="Мезальянс" />
+  <Question quest="Какое из этих слов - название гриба?" rightAnswer="Козляк" WrongAnswer1="Ежовник" WrongAnswer2="Волчанка" />
+  <Question quest="Как называются породы овец с однородной шерстью белого цвета?" rightAnswer="Мериносы" WrongAnswer1="Романовки" WrongAnswer2="Яснорунки" />
+  <Question quest="Какая из этих латинских букв не употреблялась в качестве римской цифры?" rightAnswer="B" WrongAnswer1="C" WrongAnswer2="D" />
+  <Question quest="В каком из этих видов спорта мужчины и женщины соревнуются на равных?" rightAnswer="Конный спорт" WrongAnswer1="Бадминтон" WrongAnswer2="Прыжки в воду" />
+  <Question quest="Яблоки какого из этих сортов хорошо хранятся всю зиму?" rightAnswer="Ренет Симиренко" WrongAnswer1="Белый налив" WrongAnswer2="Папировка" />
+  <Question quest="Комолая корова - это какая?" rightAnswer="Безрогая" WrongAnswer1="Малоудойная" WrongAnswer2="Стельная" />
+  <Question quest="С добычей чего сравнивал В. В. Маяковский поэзию?" rightAnswer="Радия" WrongAnswer1="Угля" WrongAnswer2="Руды" />
+  <Question quest="В какой стране находится город Антверпен?" rightAnswer="Бельгия" WrongAnswer1="Франция" WrongAnswer2="Германия" />
+  <Question quest="Как назывался первый советский пленочный фотоаппарат?" rightAnswer="ФЭД" WrongAnswer1="Смена" WrongAnswer2="Зоркий" />
+  <Question quest="Чьему перу принадлежат строки: «Люблю грозу в начале мая?»" rightAnswer="Тютчев" WrongAnswer1="Майков" WrongAnswer2="Фет" />
+  <Question quest="Какой вид березы славится красивой древесиной?" rightAnswer="Карельская" WrongAnswer1="Канадская" WrongAnswer2="Курильская" />
+  <Question quest="Какое из этих животных родом не из Австралии?" rightAnswer="Панда" WrongAnswer1="Коала" WrongAnswer2="Утконос" />
+  <Question quest="Какое мясо используется для супа харчо?" rightAnswer="Баранина" WrongAnswer1="Телятина" WrongAnswer2="Курятина" />
+  <Question quest="Кто из этих декабристов был повешен?" rightAnswer="Каховский" WrongAnswer1="Волконский" WrongAnswer2="Трубецкой" />
+  <Question quest="Какую реку называют жёлтой рекой?" rightAnswer="Хуанхэ" WrongAnswer1="Меконг" WrongAnswer2="Амур" />
+  <Question quest="Какому времени года посвящена известная песня группы ДДТ?" rightAnswer="Осень" WrongAnswer1="Весна" WrongAnswer2="Лето" />
+  <Question quest="Какой язык относится к западно-славянской группе?" rightAnswer="Польский" WrongAnswer1="Немецкий" WrongAnswer2="Французский" />
+  <Question quest="Что из названного является сортом ликера?" rightAnswer="Бенедиктин" WrongAnswer1="Бельведер" WrongAnswer2="Бергамот" />
+  <Question quest="Назовите столицу Боснии и Герцеговины?" rightAnswer="Сараево" WrongAnswer1="Люблин" WrongAnswer2="Кошице" />
+  <Question quest="Как звали сказочного фламандского короля - изобретателя пива?" rightAnswer="Гамбринус" WrongAnswer1="Праздрой" WrongAnswer2="Хольстен" />
+  <Question quest="Кто из этих поэтов прожил самую короткую жизнь?" rightAnswer="Лермонтов" WrongAnswer1="Есенин" WrongAnswer2="Жуковский" />
+  <Question quest="Какая порода собак больше известна у нас под именем водолаз?" rightAnswer="Ньюфаундленд" WrongAnswer1="Грейхаунд" WrongAnswer2="Ризеншнауцер" />
+  <Question quest="Какое растение является символом Шотландии?" rightAnswer="Чертополох" WrongAnswer1="Роза" WrongAnswer2="Тюльпан" />
+  <Question quest="Какое из этих женских имен - греческого происхождения?" rightAnswer="Татьяна" WrongAnswer1="Анна" WrongAnswer2="Нина" />
+  <Question quest="Чем бьют по мячу при игре в крокет?" rightAnswer="Молотком" WrongAnswer1="Клюшкой" WrongAnswer2="Кием" />
+  <Question quest="Как называют католического армейского священника?" rightAnswer="Капеллан" WrongAnswer1="Иезуит" WrongAnswer2="Пастор" />
+  <Question quest="Как называется судоходство между портами одной страны?" rightAnswer="Каботаж" WrongAnswer1="Саботаж" WrongAnswer2="Такелаж" />
+  <Question quest="Во что играли Чичиков и Ноздрев в романе Гоголя «Мертвые души?»" rightAnswer="Шашки" WrongAnswer1="Карты" WrongAnswer2="Шахматы" />
+  <Question quest="Памятник из какого материала со временем может покрыться патиной и позеленеть?" rightAnswer="Из бронзы" WrongAnswer1="Из мрамора" WrongAnswer2="Из гипса" />
+</root>

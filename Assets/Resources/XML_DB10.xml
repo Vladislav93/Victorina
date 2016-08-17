@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Question quest ="Столица Канады - это?"
+        rightAnswer="Оттава"
+        WrongAnswer1="Торонто"
+        WrongAnswer2="Монреаль">
+  </Question>
+  
+  <Question quest ="Люди, какой страны стали родоначальниками празднования Нового года?"
+        rightAnswer="Китая"
+        WrongAnswer1="СССР"
+        WrongAnswer2="Индии">
+  </Question>
+
+  <Question quest ="Как называют французы первый выстрел по мишени?"
+        rightAnswer="Дебют"
+        WrongAnswer1="Зелёный"
+        WrongAnswer2="Виант">
+  </Question> 
+  
+  <Question quest ="Что никогда не кладут в Монгольский чай?"
+      rightAnswer="Сахар"
+      WrongAnswer1="Мёд"
+      WrongAnswer2="Корицу">
+  </Question>
+    
+  <Question quest ="Галстук какого цвета был у пионеров ГДР?"
+        rightAnswer="Синий"
+        WrongAnswer1="Красный"
+        WrongAnswer2="Жёлтый">
+  </Question>
+    
+  <Question quest ="Ученый, сделавший величайшее открытие в 20 лет?"
+        rightAnswer="Ньютон"
+        WrongAnswer1="Галилео"
+        WrongAnswer2="Бруно">
+  </Question>
+
+  <Question quest ="В честь какого бога в Греции устраивались олимпийские игры?"
+      rightAnswer="Зевс"
+      WrongAnswer1="Олимп"
+      WrongAnswer2="Арес">
+  </Question>
+
+  <Question quest ="Как назывался корабль Артура Грея из «Алых парусов» Грина?"
+    rightAnswer="Секрет"
+    WrongAnswer1="Алый парус"
+    WrongAnswer2="Ассоль">
+  </Question>
+  
+  <Question quest ="Какое животное больше всего боятся крокодилы?"
+    rightAnswer="Выдра"
+    WrongAnswer1="Лягушка"
+    WrongAnswer2="Слон">
+  </Question>
+  
+  <Question quest ="Как раньше назывался Нью-Йорк?"
+    rightAnswer="Новый Амстердам"
+    WrongAnswer1="Новый Вашингтон"
+    WrongAnswer2="Ситка">
+  </Question>
+
+  <Question quest ="Исследованием чего занимается ученый лимнолог?"
+  rightAnswer="Озера"
+  WrongAnswer1="Лимонов"
+  WrongAnswer2="Воды">
+  </Question>
+
+  <Question quest ="Как называется самая длинная змея в мире?"
+  rightAnswer="Анаконда"
+  WrongAnswer1="Уж"
+  WrongAnswer2="Гадюка">
+  </Question>
+
+  <Question quest ="Какой породы была собака Баскервилей?"
+  rightAnswer="Мастиф"
+  WrongAnswer1="Алабай"
+  WrongAnswer2="Хаски">
+  </Question>
+
+  <Question quest ="Кто в России правил самый большой срок?"
+  rightAnswer="Иван Грозный"
+  WrongAnswer1="Екатерина II"
+  WrongAnswer2="Пётр I">
+  </Question>
+
+  <Question quest ="Название какого из районов Нью-Йорка означает «место выпивки»?"
+  rightAnswer="Манхэттен"
+  WrongAnswer1="Бруклин"
+  WrongAnswer2="Стейтен-Айленд">
+  </Question>
+
+  <Question quest ="Что представляет собой Римский Капитолий?"
+  rightAnswer="Холм"
+  WrongAnswer1="Театр"
+  WrongAnswer2="Фонтан">
+  </Question>
+
+  <Question quest ="Как называются пышные складки на женских рукавах и юбках?"
+  rightAnswer="Буфы"
+  WrongAnswer1="Рюши"
+  WrongAnswer2="Накладки">
+  </Question>
+
+  <Question quest ="Кто из лучших теннисистов мира использует деревянную ракетку?"
+  rightAnswer="Никто"
+  WrongAnswer1="Кафельников"
+  WrongAnswer2="Куэртен">
+  </Question>
+
+  <Question quest ="Как называют художника, изготавливающего формы для монет и медалей?"
+rightAnswer="Медальер"
+WrongAnswer1="Монетчик"
+WrongAnswer2="Кинолог">
+  </Question>
+
+  <Question quest ="Как правильно называются жители столицы Македонии г.Скопье?"
+rightAnswer="Скопляне"
+WrongAnswer1="Скопьянцы"
+WrongAnswer2="Скопы">
+  </Question>
+
+  <Question quest ="Какая настоящая фамилия И.В.Сталина?"
+rightAnswer="Джугашвили"
+WrongAnswer1="Барин"
+WrongAnswer2="Магикян">
+  </Question>
+  
+  <Question quest ="Какая ступень образования следует после бакалавра?"
+rightAnswer="Магистр"
+WrongAnswer1="Аспирант"
+WrongAnswer2="Специалист">
+  </Question>
+
+<Question quest ="К какой стихии принадлежит зодиакальный знак Близнецов?"
+          rightAnswer="Воздух"
+          WrongAnswer1="Земля"
+          WrongAnswer2="Вода">
+  </Question>
+
+<Question quest ="Сколько часов в неделе?"
+      rightAnswer="168"
+      WrongAnswer1="300"
+      WrongAnswer2="252">
+  </Question>
+  
+  <Question quest ="Как называется гибкая часть зимней удочки?"
+rightAnswer="Сторожок"
+WrongAnswer1="Караульщик"
+WrongAnswer2="Охранник">
+  </Question>
+
+  <Question quest ="В каком городе прорыт канал Зимняя канавка?"
+rightAnswer="Санкт-Петербург"
+WrongAnswer1="Волгоград"
+WrongAnswer2="Москва">
+  </Question>
+
+  <Question quest ="Каким из слов заканчивается название 1-й симфонии П.И. Чайковского «Зимние ...»?"
+rightAnswer="Грёзы"
+WrongAnswer1="Морозы"
+WrongAnswer2="Праздники">
+  </Question>
+
+  <Question quest ="Как назывались самые простые древние сани?"
+rightAnswer="Волокуши"
+WrongAnswer1="Возок"
+WrongAnswer2="Салазки">
+  </Question>
+
+  <Question quest ="Как называют спортсменов, мчащихся по ледяной трассе на санях?"
+rightAnswer="Саночники"
+WrongAnswer1="Сановники"
+WrongAnswer2="Санитары">
+  </Question>
+
+  <Question quest ="Как называется трасса бобслеистов?"
+rightAnswer="Жёлоб"
+WrongAnswer1="Колея"
+WrongAnswer2="Трек">
+  </Question>
+
+  <Question quest ="Что из перечисленного является символом любви?"
+rightAnswer="Стрела Амура"
+WrongAnswer1="Камень Сизифа"
+WrongAnswer2="Нить Ариадны">
+  </Question>
+
+<Question quest ="Как называли прованских поэтов, воспевающих рыцарскую любовь?"
+rightAnswer="Трубадуры"
+WrongAnswer1="Аэды"
+WrongAnswer2="Рапсоды">
+  </Question>
+
+  <Question quest ="Какой литературный герой был влюблён в камеристку королевы?"
+rightAnswer="Д’Артаньян"
+WrongAnswer1="Фигаро"
+WrongAnswer2="Дон Кихот">
+  </Question>
+  
+  <Question quest ="Как звали бога славяно-русской мифологии, родоначальника жизни, покровителя семьи и дома?"
+rightAnswer="Род"
+WrongAnswer1="Сварог"
+WrongAnswer2="Велес">
+  </Question>
+
+  <Question quest ="Как в старину в России назывался свадебный обряд?"
+rightAnswer="«Каша»"
+WrongAnswer1="«Щи»"
+WrongAnswer2="«Вено»">
+  </Question>
+
+  <Question quest ="Что не является сортом лапши?"
+rightAnswer="Мисо"
+WrongAnswer1="Удон"
+WrongAnswer2="Соба">
+  </Question>
+
+  <Question quest ="В молоке какого животного купалась Клеопатра?"
+rightAnswer="Ослицы"
+WrongAnswer1="Коровы"
+WrongAnswer2="Кошки">
+  </Question>
+
+  <Question quest ="Как зовут подружку Микки Мауса?"
+        rightAnswer="Минни"
+        WrongAnswer1="Винни"
+        WrongAnswer2="Мунни">
+  </Question>
+
+<Question quest ="Какое слово произошло от греческого «подражательный»?"
+rightAnswer="Мимика"
+WrongAnswer1="Хрен"
+WrongAnswer2="Драже">
+  </Question>
+
+  <Question quest ="Какую сельскохозяйственную культуру также называют маис?"
+rightAnswer="Кукурузу"
+WrongAnswer1="Овёс"
+WrongAnswer2="Ячмень">
+  </Question>
+
+<Question quest ="Как по-научному называется детектор лжи?"
+rightAnswer="Полиграф"
+WrongAnswer1="Пантограф"
+WrongAnswer2="Детеграф">
+  </Question>
+
+  <Question quest ="На какой реке обитает змея Анаконда?"
+rightAnswer="Амазонка"
+WrongAnswer1="Нил"
+WrongAnswer2="Днепр">
+  </Question>
+
+  <Question quest ="Какое перо чаще всего использовали в старину для письма?"
+rightAnswer="Гусиное"
+WrongAnswer1="Орлиное"
+WrongAnswer2="Куриное">
+  </Question>
+
+  <Question quest ="На гербе какого города изображён верблюд?"
+rightAnswer="Челябинск"
+WrongAnswer1="Москва"
+WrongAnswer2="Кострома">
+  </Question>
+
+<Question quest ="Какой из этих цитрусовых представителей является самым маленьким?"
+rightAnswer="Кумкват"
+WrongAnswer1="Мандарин"
+WrongAnswer2="Каламондин">
+  </Question>
+
+  <Question quest ="Как называются семейные группы у львов?"
+rightAnswer="Прайд"
+WrongAnswer1="Косяк"
+WrongAnswer2="Табун">
+  </Question>
+
+ <Question quest ="Какой город является столицей Китая?"
+rightAnswer="Пекин"
+WrongAnswer1="Шанхай"
+WrongAnswer2="Гонконг">
+  </Question>
+    
+  <Question quest ="Как называется группа пород бесшёрстных кошек?"
+rightAnswer="Сфинксы"
+WrongAnswer1="Фараоны"
+WrongAnswer2="Вислоухие">
+  </Question>
+  
+  <Question quest ="Какое мужское имя древнегреческого происхождения означает «господин», «владыка»?"
+rightAnswer="Кирилл"
+WrongAnswer1="Иван"
+WrongAnswer2="Ларион">
+  </Question>
+  
+  <Question quest ="Значение какого женского имени, популярного в России, «свет, светлая, сияющая»?"
+rightAnswer="Елена"
+WrongAnswer1="Тамара"
+WrongAnswer2="Татьяна">
+  </Question>
+  
+  <Question quest ="Кто по национальности миссис Хадсон?"
+rightAnswer="Шотландка"
+WrongAnswer1="Русская"
+WrongAnswer2="Немка">
+  </Question>
+
+<Question quest ="Как на Руси называли мальчика-посыльного?"
+rightAnswer="Красная шапка"
+WrongAnswer1="Заячья шляпа"
+WrongAnswer2="Мальчик-спальчик">
+  </Question>
+
+  <Question quest ="Название какого пищевого жира переводится с греческого, как «перламутровый»?"
+rightAnswer="Маргарин"
+WrongAnswer1="Рыбий жир"
+WrongAnswer2="Инжир">
+  </Question>
+
+  <Question quest ="Какой орган человека не функционирует до его рождения?"
+rightAnswer="Лёгкие"
+WrongAnswer1="Органы чувств"
+WrongAnswer2="Сердце">
+  </Question>
+
+<Question quest ="Символ 1996 года?"
+rightAnswer="Мышь"
+WrongAnswer1="Петух"
+WrongAnswer2="Обезьяна">
+  </Question>
+
+<Question quest ="Со сколькими странами граничит Австралия?"
+rightAnswer="0"
+WrongAnswer1="1"
+WrongAnswer2="7">
+  </Question>
+
+<Question quest ="Столицей какого государства является город Улан-Батор?"
+rightAnswer="Монголия"
+WrongAnswer1="Казахстан"
+WrongAnswer2="Таджикистан">
+  </Question>
+  
+</root>

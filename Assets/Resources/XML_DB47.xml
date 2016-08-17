@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Укажите самый большой из перечисленных островов?" rightAnswer="Новая гвинея" WrongAnswer1="Ява" WrongAnswer2="Калимантан" />
+  <Question quest="Что из перечисленного является одной из самых глубоких впадин на Земле?" rightAnswer="Афар" WrongAnswer1="Гюмри" WrongAnswer2="Нукуалофа" />
+  <Question quest="Кто из этих прославленных спортсменов менее, чем девятикратный Олимпийский чемпион?" rightAnswer="Вера ЧАСЛАВСКА" WrongAnswer1="Пааво НУРМИ" WrongAnswer2="Марк СПИЦ" />
+  <Question quest="Какое из этих названий не имеет никакого отношения к Семи Чудесам света?" rightAnswer="Мцхета" WrongAnswer1="Родос" WrongAnswer2="Эль-гиза" />
+  <Question quest="Открытие какого острова Северной Америки считается официальным открытием Америки?" rightAnswer="Саман" WrongAnswer1="Мадейра" WrongAnswer2="Гаити" />
+  <Question quest="В каком году был учрежден Орден Святого Георгия?" rightAnswer="В 1769 году" WrongAnswer1="В 1869 году" WrongAnswer2="В 1005 году" />
+  <Question quest="Какого диабета никогда не бывает?" rightAnswer="Надпочечный" WrongAnswer1="Почечный" WrongAnswer2="Сахарный" />
+  <Question quest="Автор исторических драм 'Царская невеста' и 'Псковитянка'?" rightAnswer="Лев МЕЙ" WrongAnswer1="Дм. МЕРЕЖКОВСКИЙ" WrongAnswer2="Нестор КУКОЛЬНИК" />
+  <Question quest="Из какого языка пришло к нам слово 'сабля'?" rightAnswer="Венгерский" WrongAnswer1="Арабский" WrongAnswer2="Турецкий" />
+  <Question quest="Как звали дочь Иродиады, танец которой вынудил Ирода отдать приказ обезглавить Иоанна Крестителя?" rightAnswer="Саломея" WrongAnswer1="Суламифь" WrongAnswer2="Вирсавия" />
+  <Question quest="Как называется парламент в Индии?" rightAnswer="Альтинг" WrongAnswer1="Фолькетинг" WrongAnswer2="Стортинг" />
+  <Question quest="Конец монголо-татарскому игу положило 'Стояние на Угре'. В каком году это было?" rightAnswer="В 1480" WrongAnswer1="В 1382" WrongAnswer2="В 1520" />
+  <Question quest="Что означает первая буква в названии марки автоматического стрелкового оружия ППШ ?" rightAnswer="Пистолет" WrongAnswer1="Противопехотный" WrongAnswer2="Пулемет" />
+  <Question quest="Кто сыграл главную роль в фильме 'Храброе Сердце'?" rightAnswer="Мел Гибсон" WrongAnswer1="Адам Болдуин" WrongAnswer2="Брюс Уиллис" />
+  <Question quest="Дата заложения первой плиты завода КамАЗ." rightAnswer="1969" WrongAnswer1="1974" WrongAnswer2="1976" />
+  <Question quest="Кто из апостолов трижды отрекся от Иисуса Христа?" rightAnswer="Петр" WrongAnswer1="Фома" WrongAnswer2="Андрей" />
+  <Question quest="Кто по национальности Рики Мартин?" rightAnswer="Пуэрториканец" WrongAnswer1="Испанец" WrongAnswer2="Итальянец" />
+  <Question quest="Как назывался орган управления в России, заменивший ВЧК ?" rightAnswer="ОГПУ" WrongAnswer1="Дума" WrongAnswer2="ОБХСС" />
+  <Question quest="По чьей инициативе был создан Музей изобразительных искусств имени А.С.Пушкина?" rightAnswer="И. Цветаев" WrongAnswer1="М. Горький" WrongAnswer2="М. Булгаков" />
+  <Question quest="На флаге какого из этих государств не изображён месяц?" rightAnswer="Марокко" WrongAnswer1="Мавритания" WrongAnswer2="Алжир" />
+  <Question quest="Организмы, питающиеся остатками мертвых растений и животных называются?" rightAnswer="Редуценты" WrongAnswer1="Консументы" WrongAnswer2="Афтотрофы" />
+  <Question quest="Какое из этих экзотических деревьев растёт в Крыму?" rightAnswer="Конфетное" WrongAnswer1="Дынное" WrongAnswer2="Хлебное" />
+  <Question quest="Годы жизни Уолта Диснея" rightAnswer="1901-1966" WrongAnswer1="1888-1953" WrongAnswer2="1928-1981" />
+  <Question quest="Какая самая 'горная' страна в Европе?" rightAnswer="Швейцария" WrongAnswer1="Финляндия" WrongAnswer2="Германия" />
+  <Question quest="Назовите время, когда в СССР появились первые ВИА." rightAnswer="60-е" WrongAnswer1="70-е" WrongAnswer2="40-е" />
+  <Question quest="Кто дебютировал в 'Action Comics' выпуске 1?" rightAnswer="Superman" WrongAnswer1="Fatman" WrongAnswer2="Batman" />
+  <Question quest="В социологии для характеристики социального в человеке служит понятие" rightAnswer="Личность" WrongAnswer1="Характер" WrongAnswer2="Индивидуальность" />
+  <Question quest="Отдел сердца из которого кровь идет по большому кругу кровообращения?" rightAnswer="Левый желудочек" WrongAnswer1="Левое предсердие" WrongAnswer2="Правый желудочек" />
+  <Question quest="Кто первый изобрел электрическую лампочку?" rightAnswer="Джозеф Сван" WrongAnswer1="Карл Ауэр" WrongAnswer2="Томас Эдисон" />
+  <Question quest="Кто в 1924г. запатентовал лампу с матовым покрытием ?" rightAnswer="Пипкин" WrongAnswer1="Капица" WrongAnswer2="Яблочков" />
+  <Question quest="Столица Гондураса." rightAnswer="Тегусигальпа" WrongAnswer1="Сан-Хосе" WrongAnswer2="Гватемала" />
+  <Question quest="Какое созвездие состоит всего из двух звёзд?" rightAnswer="Рысь" WrongAnswer1="Компас" WrongAnswer2="Овен" />
+  <Question quest="Амман - столицо какого гос-ва?" rightAnswer="Иордания" WrongAnswer1="Израиль" WrongAnswer2="Оман" />
+  <Question quest="Религия в основе которой положено обожествление природы" rightAnswer="Синто" WrongAnswer1="Эудаизм" WrongAnswer2="Хинди" />
+  <Question quest="Какими словами заканчивается афоризм Хэмингуэя 'счастье - это крепкое здоровье и ...'?" rightAnswer="Слабая память" WrongAnswer1="Сильная воля" WrongAnswer2="Хорошие друзья" />
+  <Question quest="Какая настоящая фамилия русского театрального режиссера Константина Сергеевича Станиславского?" rightAnswer="Алексеев" WrongAnswer1="Иванов" WrongAnswer2="Константинов" />
+  <Question quest="Кого из композиторов называют 'отцом симфонии'?" rightAnswer="Гайдн" WrongAnswer1="Гендель" WrongAnswer2="Бетховен" />
+  <Question quest="Как называется теория ораторского искусства ?" rightAnswer="Риторика" WrongAnswer1="Казуистика" WrongAnswer2="Демагогия" />
+  <Question quest="Кто из царей династии Романовых был назван 'миротворцем' ?" rightAnswer="Александр 3" WrongAnswer1="Алексей Михайлович" WrongAnswer2="Александр 2" />
+  <Question quest="Назовите денежную единицу Кувейта." rightAnswer="Динар" WrongAnswer1="Песо" WrongAnswer2="Риял" />
+  <Question quest="Как называется единственный Федеральный округ США ?" rightAnswer="Колумбия" WrongAnswer1="Флорида" WrongAnswer2="Нью-Йорк" />
+  <Question quest="При помощи чего Архимед поджог римские корабли при осаде его родного города Сиракузы ?" rightAnswer="Зеркал" WrongAnswer1="Стрел" WrongAnswer2="Линз" />
+  <Question quest="Под каким мостом Санкт-Петербурга в 1929 году пролетел Валерий Чкалов ?" rightAnswer="Троицкий" WrongAnswer1="Аничков" WrongAnswer2="Поцелуев" />
+  <Question quest="При каком из этих монархов был установлен 25-летний срок воинской службы для дворян ?" rightAnswer="Анна Иоанновна" WrongAnswer1="Павел I" WrongAnswer2="Екатерина II" />
+  <Question quest="К кому или к чему обращался Пушкин, воскликнув: 'Здравствуй, племя младое, незнакомое' ?" rightAnswer="К соснам" WrongAnswer1="К цветам" WrongAnswer2="К лицеистам" />
+  <Question quest="Кто был председателем выпускной комиссии, когда Алла Пугачева заканчивала ГИТИС ?" rightAnswer="Леонид Утесов" WrongAnswer1="Петр Лещенко" WrongAnswer2="Марк Бернес" />
+  <Question quest="Какое из перечисленных животных является самым крупным грызуном ?" rightAnswer="Капибара" WrongAnswer1="Агути" WrongAnswer2="Пакарана" />
+  <Question quest="Какого цвета ткань маренго ?" rightAnswer="Черная" WrongAnswer1="Оливковая" WrongAnswer2="Синяя" />
+  <Question quest="Какой композитор написал 'Прощальную симфонию', которая традиционно исполняется при свечах ?" rightAnswer="Гайдн" WrongAnswer1="Моцарт" WrongAnswer2="Глюк" />
+  <Question quest="Кто из деятелей революционной России подписал Брестский мир ?" rightAnswer="Чичерин" WrongAnswer1="Киров" WrongAnswer2="Троцкий" />
+  <Question quest="Какой из перечисленных типографических шрифтов самый маленький ?" rightAnswer="Бриллиант" WrongAnswer1="Петит" WrongAnswer2="Цицеро" />
+  <Question quest="Кто из писателей придумал выражение 'из прекрасного далека' ?" rightAnswer="Н.Гоголь" WrongAnswer1="В.Маяковский" WrongAnswer2="К.Булычев" />
+  <Question quest="У побережья какого континента находится остров Мафия ?" rightAnswer="Африка" WrongAnswer1="Австралия" WrongAnswer2="Южная Америка" />
+  <Question quest="В каком городе находится Международный суд ООН?" rightAnswer="Гаага" WrongAnswer1="Вена" WrongAnswer2="Лондон" />
+  <Question quest="В какой стране находится крупный город Фейсалабад?" rightAnswer="Пакистан" WrongAnswer1="Индия" WrongAnswer2="Саудовская Аравия" />
+  <Question quest="В каком году Павел Буре дебютировал в НХЛ?" rightAnswer="1991" WrongAnswer1="1990" WrongAnswer2="1993" />
+  <Question quest="Распространение ложной информации, которая порочит личность называется" rightAnswer="Диффамация" WrongAnswer1="Деформация" WrongAnswer2="Делимитация" />
+  <Question quest="Девушка, давшая греческому герою волшебную путеводную нить?" rightAnswer="Ариадна" WrongAnswer1="Пандора" WrongAnswer2="Деянира" />
+  <Question quest="Кто является самым известным человеком в мире?" rightAnswer="М. Али" WrongAnswer1="Б. Гейтс" WrongAnswer2="Б. Ельцин" />
+  <Question quest="Фунафути является столицей" rightAnswer="Тувалу" WrongAnswer1="Самоа" WrongAnswer2="Токелау" />
+  <Question quest="Где проходили Олимпийские игры 1936 года?" rightAnswer="Берлин" WrongAnswer1="Амстердам" WrongAnswer2="Лондон" />
+  <Question quest="Город Баальбек находился в" rightAnswer="Ливане" WrongAnswer1="Сирии" WrongAnswer2="Израиле" />
+  <Question quest="Боккэн - это тренировочная копия" rightAnswer="меча" WrongAnswer1="ножа" WrongAnswer2="копья" />
+  <Question quest="Английский мыслитель, автор книги «Утопия»" rightAnswer="Мор" WrongAnswer1="Мортон" WrongAnswer2="Чосер" />
+  <Question quest="Римский полководец, разгромивший Спартака" rightAnswer="Красс" WrongAnswer1="Цезарь" WrongAnswer2="Помпей" />
+  <Question quest="Имя основателя компании Ferrari" rightAnswer="Энцо" WrongAnswer1="Эннио" WrongAnswer2="Эмилио" />
+  <Question quest="Имя основателя компании Lamborghini" rightAnswer="Ферруччо" WrongAnswer1="Фабрицио" WrongAnswer2="Фредиэно" />
+  <Question quest="Название 'Шварцвальд' переводится как?" rightAnswer="Чёрный лес" WrongAnswer1="Рыжий лес" WrongAnswer2="Синий лес" />
+  <Question quest="Кто возглавляет киноконцерн Мосфильм?" rightAnswer="Шахназаров" WrongAnswer1="Бондарчук" WrongAnswer2="Герман" />
+  <Question quest="В Европе первые фейерверки запустили" rightAnswer="В Италии" WrongAnswer1="В России" WrongAnswer2="В Швеции" />
+  <Question quest="Где была образована группа 'Tokio Hotel'?" rightAnswer="Магдебург" WrongAnswer1="Майнц" WrongAnswer2="Мюнхен" />
+  <Question quest="1-я нобелевская премия по экономике вручена?" rightAnswer="В 1969" WrongAnswer1="В 1939" WrongAnswer2="В 1929" />
+  <Question quest="Мать этого писателя - княжна Волконская?" rightAnswer="Л.Толстой" WrongAnswer1="А.Герцен" WrongAnswer2="И.Тургенев" />
+  <Question quest="Этот индийский бог был священной обезьяной?" rightAnswer="Хануман" WrongAnswer1="Вишну" WrongAnswer2="Шива" />
+  <Question quest="Пинакли, фиалы и краббы - это стиль... ?" rightAnswer="Готика" WrongAnswer1="Хай-тек" WrongAnswer2="Барокко" />
+  <Question quest="Административным центром какого штата является столица Олимпийских игр-2000 Сидней?" rightAnswer="Новый Южный Уэльс" WrongAnswer1="Виктория" WrongAnswer2="Квинсленд" />
+  <Question quest="Актерский дебют Владимира Высоцкого состоялся в 1959 году в фильме Василия Ордынского &quot;Сверстницы&quot;, в котором он сыграл эпизодическую роль, сказав лишь?" rightAnswer="&quot;Сундук и корыто&quot;" WrongAnswer1="&quot;Правее давай!&quot;" WrongAnswer2="&quot;Вносите мебель&quot;" />
+  <Question quest="Боковыми ветвями какой древней династии были Йорки и Ланкастеры?" rightAnswer="Плантагенетов" WrongAnswer1="Меровингов" WrongAnswer2="Капетингов" />
+  <Question quest="В какой из этих стран вы будете расплачиваться не рупиями?" rightAnswer="Бангладеш" WrongAnswer1="Пакистан" WrongAnswer2="Непал" />
+  <Question quest="В какой из этих стран вы будете расплачиваться не фунтами?" rightAnswer="Мальта" WrongAnswer1="Ливан" WrongAnswer2="Египет" />
+  <Question quest="В какой из этих стран один из официальных языков соответствует названию страны?" rightAnswer="Люксембург" WrongAnswer1="Швейцария" WrongAnswer2="Андорра" />
+  <Question quest="В какой стране вы будете расплачиваться за покупки донгами?" rightAnswer="Вьетнам" WrongAnswer1="Лаос" WrongAnswer2="Таиланд" />
+  <Question quest="В какой стране проживает народ, одно из названий которого - ЛУЖИЦКИЕ СЕРБЫ?" rightAnswer="Германия" WrongAnswer1="Польша" WrongAnswer2="Австрия" />
+  <Question quest="В каком веке великий Шота Руставели написал своего &quot;Витязя в тигровой шкуре&quot;?" rightAnswer="XII" WrongAnswer1="XIII" WrongAnswer2="XI" />
+  <Question quest="В каком городе издавалась с 1857 г. А. Герценом и Н. Огаревым первая российская революционная газета &quot;Колокол&quot;?" rightAnswer="Лондон" WrongAnswer1="Амстердам" WrongAnswer2="Париж" />
+  <Question quest="В каком городе обосновалось коллаборационистское правительство Петена в период оккупации Франции немецкими войсками?" rightAnswer="Виши" WrongAnswer1="Реймс" WrongAnswer2="Бурж" />
+  <Question quest="В каком европейском государстве того времени был в начале 18-го в. изобретен твердый фарфор?" rightAnswer="Саксония" WrongAnswer1="Лотарингия" WrongAnswer2="Франция" />
+  <Question quest="В каком музее мира находится картина Винсента Ван Гога &quot;Красные виноградники в Арле&quot;?" rightAnswer="Им. Пушкина" WrongAnswer1="&quot;Эрмитаж&quot;" WrongAnswer2="&quot;Прадо&quot;" />
+  <Question quest="В процессе написания какого произведения А. С. Пушкин похвалил самого себя: &quot;Ай да Пушкин! Ай да сукин сын!&quot;?" rightAnswer="&quot;Борис Годунов&quot;" WrongAnswer1="&quot;Евгений Онегин&quot;" WrongAnswer2="&quot;Руслан и Людмила&quot;" />
+  <Question quest="В толковом словаре В. Даля слово ерепенить означает?" rightAnswer="Бить, сечь, наказывать телесно" WrongAnswer1="Понуждать, заставлять" WrongAnswer2="Бранить, ругать, оскорблять словесно" />
+  <Question quest="В толковом словаре В. Даля слово жубрить означает?" rightAnswer="Жевать" WrongAnswer1="Зубрить" WrongAnswer2="Учить" />
+  <Question quest="Видом чего является куманика?" rightAnswer="Ежевики" WrongAnswer1="Малины" WrongAnswer2="Княженики" />
+  <Question quest="Во времена какого правителя на государственном гербе России изображался Мальтийский крест?" rightAnswer="Павел I" WrongAnswer1="Николай II" WrongAnswer2="Иван Грозный" />
+  <Question quest="Гибрид каких злаков называется ТРИТИКАЛЕ?" rightAnswer="Рожь и пшеница" WrongAnswer1="Овес и рис" WrongAnswer2="Просо и ячмень" />
+  <Question quest="До какого возраста включительно дворянский сынок в России 18 - нач. 19 в. назывался НЕДОРОСЛЕМ?" rightAnswer="15 лет" WrongAnswer1="17 лет" WrongAnswer2="14 лет" />
+  <Question quest="Из какой области слово волюта?" rightAnswer="Архитектура" WrongAnswer1="Музыка" WrongAnswer2="Финансы" />
+  <Question quest="Из листьев какого растения получают грубое волокно сизаль, идущее на изготовление канатов, сетей, щеток и пр.?" rightAnswer="Агава" WrongAnswer1="Абака" WrongAnswer2="Арека" />
+  <Question quest="Из чего изготавливают канифоль?" rightAnswer="Из старых пней" WrongAnswer1="Из нефти" WrongAnswer2="Из расплавленной слюды" />
+  <Question quest="Как в архитектуре называют вертикальные желобки на створе колонны?" rightAnswer="Каннелюры" WrongAnswer1="Пилястры" WrongAnswer2="Канниццары" />
+  <Question quest="Как в Древней Греции называлось лицо, насильственно захватившее власть?" rightAnswer="Тиран" WrongAnswer1="Архонт" WrongAnswer2="Деспот" />
+  <Question quest="Как в Древнем Риме называли жрецов (или жриц), гадавших только по внутренностям жертвенных животных?" rightAnswer="Гаруспики" WrongAnswer1="Авгуры" WrongAnswer2="Весталки" />
+  <Question quest="Как в старину называлось русское женское парадное платье с очень длинными широкими рукавами (часто разрезными)?" rightAnswer="Летник" WrongAnswer1="Панева" WrongAnswer2="Строй" />
+  <Question quest="Как заметил Станислав Ежи Лец: «Истинный эксгибиционизм состоит в показывании того, ...»" rightAnswer="Чего нет" WrongAnswer1="Что есть" WrongAnswer2="Что можно показывать" />
+  <Question quest="Как звали отца Иванушки из &quot;Конька-Горбунка&quot;?" rightAnswer="Петр" WrongAnswer1="Неизвестно как" WrongAnswer2="Федор" />
+  <Question quest="Как зовут одного из основателей легендарной корпорации Apple Computer?" rightAnswer="Стивен Возняк" WrongAnswer1="Уильям Хьюлетт" WrongAnswer2="Билл Гейтс" />
+  <Question quest="Как называется застежка-украшение на ожерелье, альбоме и др.?" rightAnswer="Фермуар" WrongAnswer1="Аграф" WrongAnswer2="Панагия" />
+  <Question quest="Как называется кормовая мачта судна, имеющего не менее трех мачт?" rightAnswer="Бизань-мачта" WrongAnswer1="Фок-мачта" WrongAnswer2="Грот-мачта" />
+  <Question quest="Как называется курс парусного судна, совпадающий с направлением ветра?" rightAnswer="Фордевинд" WrongAnswer1="Галфинд" WrongAnswer2="Бакштаг" />
+  <Question quest="Как называется лес, вытянутый вдоль реки узкой длинной полосой?" rightAnswer="Галерейный" WrongAnswer1="Ленточный бор" WrongAnswer2="Парковый" />
+  <Question quest="Как называлась старинная большая карета со спальными местами, предназначенная для дальних поездок?" rightAnswer="Дормез" WrongAnswer1="Фаэтон" WrongAnswer2="Шарабан" />
+  <Question quest="Как называлось одно из двух парусных судов 1-й российской экспедиции И. В. Крузенштерна?" rightAnswer="&quot;Нева&quot;" WrongAnswer1="&quot;Новик&quot;" WrongAnswer2="&quot;Ладога&quot;" />
+  <Question quest="Как назывался низший, 4-й чин членов Боярской думы в Русском государстве 16-17 веков?" rightAnswer="Думные дьяки" WrongAnswer1="Думные дворяне" WrongAnswer2="Думные бояре" />
+  <Question quest="Как называются золотые монеты ЮАР, выпускаемые для коллекционеров и хранителей сбережений в золоте?" rightAnswer="Крюгерранды" WrongAnswer1="Риксдалеры" WrongAnswer2="Гульдстоллеры" />
+  <Question quest="Какая из этих единиц длины самая большая?" rightAnswer="Межевая верста" WrongAnswer1="Англ. сухопутная миля" WrongAnswer2="Англ. морская миля" />
+  <Question quest="Какая из этих змей относится к семейству аспидов?" rightAnswer="Мамба" WrongAnswer1="Малоазиатская гадюка" WrongAnswer2="Гюрза" />
+  <Question quest="Какая из этих стран не ввела и не планирует вводить в качестве национальной валюты доллар США?" rightAnswer="Венесуэла" WrongAnswer1="Сальвадор" WrongAnswer2="Эквадор" />
+  <Question quest="Какая наука изучает поведение животных в естественной среде их обитания?" rightAnswer="Этология" WrongAnswer1="Энтомология" WrongAnswer2="Этимология" />
+  <Question quest="Какая самая высокая гора на Урале, если считать до начала разработки некоторых из них?" rightAnswer="Народная" WrongAnswer1="Ямантау" WrongAnswer2="Благодать" />
+  <Question quest="Какая страна является родиной бадминтона?" rightAnswer="Индия" WrongAnswer1="Китай" WrongAnswer2="Великобритания" />
+  <Question quest="Какие клеточные органеллы отвечают за переваривание питательных веществ?" rightAnswer="Лизосомы" WrongAnswer1="Аппарат Гольджи" WrongAnswer2="Рибосомы" />
+  <Question quest="Какие птицы существуют?" rightAnswer="Фаэтоны" WrongAnswer1="Пошевни" WrongAnswer2="Таратайки" />
+  <Question quest="Каким типом корабля был &quot;Кореец&quot;, храбро сражавшийся вместе с &quot;Варягом&quot; против японской эскадры?" rightAnswer="Канонерская лодка" WrongAnswer1="Торпедный катер" WrongAnswer2="Миноносец" />
+  <Question quest="Каких птиц не существует?" rightAnswer="Гороховки" WrongAnswer1="Просянки" WrongAnswer2="Овсянки" />
+  <Question quest="Какого значения у слова ТЕРЦИЯ нет?" rightAnswer="Карточная игра" WrongAnswer1="Типографский шрифт" WrongAnswer2="Музыкальный интервал" />
+  <Question quest="Какого языка не существует?" rightAnswer="Боснийский" WrongAnswer1="Словенский" WrongAnswer2="Сербскохорватский" />
+  <Question quest="Какое вино необходимо для приготовления классического крюшона?" rightAnswer="Белое столовое" WrongAnswer1="Красное столовое" WrongAnswer2="Портвейн" />
+</root>

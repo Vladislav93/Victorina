@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Какое из этих животных -  кит, а не дельфин?" rightAnswer="Финвал" WrongAnswer1="Афалина" WrongAnswer2="Нарвал" />
+  <Question quest="Как называлась частная гимнастическая школа в Древней Греции для обучения детей 12-16 лет?" rightAnswer="Палестра" WrongAnswer1="Симпосион" WrongAnswer2="Ликей" />
+  <Question quest="Какой из этих четырех минералов наименее твердый?" rightAnswer="Апатит" WrongAnswer1="Ортоклаз" WrongAnswer2="Кварц" />
+  <Question quest="У какого из этих конных экипажей верх не откидывался?" rightAnswer="Дормез" WrongAnswer1="Фаэтон" WrongAnswer2="Ландо" />
+  <Question quest="Какой из этих островов больше?" rightAnswer="Мадагаскар" WrongAnswer1="Баффинова Земля" WrongAnswer2="Виктория" />
+  <Question quest="Как официально назывались документы делопроизводства, записи устных показаний в учреждениях России 17-18 вв.?" rightAnswer="Сказки" WrongAnswer1="Календы" WrongAnswer2="Былины" />
+  <Question quest="На каком из Филиппинских островов расположена столица страны - Манила?" rightAnswer="Лусон" WrongAnswer1="Палаван" WrongAnswer2="Минданао" />
+  <Question quest="Название какого из этих элементов этимологически связано с именем древнего поселения на территории Парижа?" rightAnswer="Лютеций" WrongAnswer1="Празеодим" WrongAnswer2="Гафний" />
+  <Question quest="Гражданином какой страны был открыватель пенициллина Александр Флеминг?" rightAnswer="Великобритания" WrongAnswer1="Канада" WrongAnswer2="Швейцария" />
+  <Question quest="В какой стране проводились 1-вые зимние Олимпийские игры?" rightAnswer="Франция" WrongAnswer1="Норвегия" WrongAnswer2="Австрия" />
+  <Question quest="Назовите настоящее имя Джека Лондона?" rightAnswer="Джон" WrongAnswer1="Майкл" WrongAnswer2="Мартин" />
+  <Question quest="В каком веке христианство раскололось на православие и католицизм?" rightAnswer="В 11 веке" WrongAnswer1="В 4 веке" WrongAnswer2="В 10 веке" />
+  <Question quest="Как называется светло-каштановая, рыжеватая масть лошадей?" rightAnswer="Каурая" WrongAnswer1="Муругая" WrongAnswer2="Саврасая" />
+  <Question quest="Какое сечение у клинка спортивной рапиры?" rightAnswer="Прямоугольное" WrongAnswer1="Ромбовидное" WrongAnswer2="Треугольное" />
+  <Question quest="Из какого языка пришло к нам слово цукаты?" rightAnswer="Польский" WrongAnswer1="Турецкий" WrongAnswer2="Фарси" />
+  <Question quest="Какой международный регистрационный код у автомобилей Швейцарии?" rightAnswer="CH" WrongAnswer1="KS" WrongAnswer2="SH" />
+  <Question quest="Женой какого фараона была Нефертити?" rightAnswer="Аменхотепа IV" WrongAnswer1="Рамсеса II" WrongAnswer2="Хефрена" />
+  <Question quest="Какую реку древние греки называли Танаис?" rightAnswer="Дон" WrongAnswer1="Дунай" WrongAnswer2="Днестр" />
+  <Question quest="Как называется венгерская копейка?" rightAnswer="Филлер" WrongAnswer1="Эре" WrongAnswer2="Пара" />
+  <Question quest="Кто из этих исторических личностей был генералиссимусом?" rightAnswer="Меншиков" WrongAnswer1="Кутузов" WrongAnswer2="Потемкин" />
+  <Question quest="На марках какой страны название страны отсутствует?" rightAnswer="Англия" WrongAnswer1="Исландия" WrongAnswer2="Швеция" />
+  <Question quest="Кто первым в мире сколотил состояние в миллиард долларов?" rightAnswer="Рокфеллер" WrongAnswer1="Форд" WrongAnswer2="Меллон" />
+  <Question quest="Какой из этих российских придворных чинов был ниже остальных?" rightAnswer="Камергер" WrongAnswer1="Гофмейстер" WrongAnswer2="Гофмаршал" />
+  <Question quest="Какой модельер создал первый дом от кутюр?" rightAnswer="Чарльз Ворт" WrongAnswer1="Кристиан Диор" WrongAnswer2="Коко Шанель" />
+  <Question quest="Кто написал музыку для песни группы Любэ Комбат?" rightAnswer="Матвиенко" WrongAnswer1="Шаганов" WrongAnswer2="Птичкин" />
+  <Question quest="Какого созвездия не существует?" rightAnswer="Бабочка" WrongAnswer1="Муха" WrongAnswer2="Ящерица" />
+  <Question quest="В какой стране основная денежная единица называется боливар?" rightAnswer="Венесуэла" WrongAnswer1="Эквадор" WrongAnswer2="Перу" />
+  <Question quest="Какой стране принадлежит остров Эльба - место ссылки Наполеона?" rightAnswer="Италия" WrongAnswer1="Франция" WrongAnswer2="Великобритания" />
+  <Question quest="Какой из этих витаминов по-другому называется РЕТИНОЛ?" rightAnswer="A" WrongAnswer1="B2" WrongAnswer2="E" />
+  <Question quest="Какой кухне принадлежит блюдо форшмак?" rightAnswer="Еврейской" WrongAnswer1="Индийской" WrongAnswer2="Грузинской" />
+  <Question quest="Кольцо какого цвета на Олимпийском флаге символизирует Европу?" rightAnswer="Голубое" WrongAnswer1="Зеленое" WrongAnswer2="Желтое" />
+  <Question quest="Как называется венчающая часть колонны?" rightAnswer="Капитель" WrongAnswer1="Каннелюра" WrongAnswer2="Архитрав" />
+  <Question quest="Какой музыкальный инструмент прославил имя Генри Стейнвея?" rightAnswer="Рояль" WrongAnswer1="Саксофон" WrongAnswer2="Аккордеон" />
+  <Question quest="Как звали мать мифологического Минотавра?" rightAnswer="Пасифая" WrongAnswer1="Персефона" WrongAnswer2="Европа" />
+  <Question quest="Как назывался военный вождь, а затем и король у скандинавских народов в средние века?" rightAnswer="Конунг" WrongAnswer1="Скальд" WrongAnswer2="Тан" />
+  <Question quest="Кто из этих бывших героев Формулы-1 основал собственную авиалинию?" rightAnswer="Ники Лауда" WrongAnswer1="Джекки Стюарт" WrongAnswer2="Алан Прост" />
+  <Question quest="Как в России в XVIII веке называлась перепись податного населения?" rightAnswer="Ревизия" WrongAnswer1="Протокол" WrongAnswer2="Статистика" />
+  <Question quest="Какому божеству обязан своим появлением драматический театр?" rightAnswer="Дионис" WrongAnswer1="Мельпомена" WrongAnswer2="Терпсихора" />
+  <Question quest="Кто возглавлял бесследно исчезнувший экипаж, совершивший третий перелёт из СССР в США в 1937 году?" rightAnswer="Леваневский" WrongAnswer1="Черевичный" WrongAnswer2="Ляпидевский" />
+  <Question quest="Какую из этих рыб также называют макрель?" rightAnswer="Скумбрия" WrongAnswer1="Лосось" WrongAnswer2="Окунь" />
+  <Question quest="Кто считается основателем первого русского театра?" rightAnswer="Волков" WrongAnswer1="Мочалов" WrongAnswer2="Щукин" />
+  <Question quest="Кто занимает второе место по численности в США после американцев европейского происхождения?" rightAnswer="Латиноамериканцы" WrongAnswer1="Индейцы" WrongAnswer2="Афроамериканцы" />
+  <Question quest="Какой из этих военно-политических блоков, созданный на противостоянии СССР, распался первым?" rightAnswer="СЕАТО" WrongAnswer1="НАТО" WrongAnswer2="АНСЮЗ" />
+  <Question quest="Какое из этих вин относится к красным?" rightAnswer="Кларет" WrongAnswer1="Алиготе" WrongAnswer2="Сотерн" />
+  <Question quest="Какой из этих правящих титулов официально просуществовал дольше остальных?" rightAnswer="Царь" WrongAnswer1="Кесарь" WrongAnswer2="Кайзер" />
+  <Question quest="Какой космический аппарат европейские страны запустили в 1985 году к комете Галлея?" rightAnswer="Джотто" WrongAnswer1="Викинг" WrongAnswer2="Вега" />
+  <Question quest="Поверхность какой ткани внешне подходит на мелкий каракуль?" rightAnswer="Букле" WrongAnswer1="Сержа" WrongAnswer2="Джерси" />
+  <Question quest="Сколько сердец у осьминога?" rightAnswer="Три" WrongAnswer1="Четыре" WrongAnswer2="Два" />
+  <Question quest="Кто из лицейских товарищей А.С.Пушкина был его секундантом на дуэли с Дантесом?" rightAnswer="Данзас" WrongAnswer1="Кюхельбекер" WrongAnswer2="Яковлев" />
+  <Question quest="Как называется балет Д.Д.Шостаковича для производственной тематики?" rightAnswer="Болт" WrongAnswer1="Шайба" WrongAnswer2="Гайка" />
+  <Question quest="Какое из перечисленных государств возглавляет королева Великобритании?" rightAnswer="Ямайка" WrongAnswer1="Малайзия" WrongAnswer2="Шри-Ланка" />
+  <Question quest="Чей осёл помер от голода, не сумев выбрать между двумя одинаковыми связками сена?" rightAnswer="Жана Буридана" WrongAnswer1="Валаама" WrongAnswer2="Санчо Канци" />
+  <Question quest="Кто написал письма товарища Сухова к Катерине Матвеевне в фильме Белое солнце пустыни?" rightAnswer="Марк Захаров" WrongAnswer1="Георгий Данелия" WrongAnswer2="Олег Ефремов" />
+  <Question quest="Какой философ первым ввёл понятие пессимизм?" rightAnswer="Шопенгауэр" WrongAnswer1="Ницше" WrongAnswer2="Юм" />
+  <Question quest="Какие плоды получают с дынного дерева?" rightAnswer="Папайя" WrongAnswer1="Фейкоа" WrongAnswer2="Кокос" />
+  <Question quest="Какое масло должно составлять основу церковного елея?" rightAnswer="Оливковое" WrongAnswer1="Миртовое" WrongAnswer2="Розовое" />
+  <Question quest="С какой рыбы начинают варить царскую уху?" rightAnswer="С ерша" WrongAnswer1="С судака" WrongAnswer2="Со стерляди" />
+  <Question quest="Морской путь в какую страну искала экспедиция Христофора Колумба, доплыв вместо этого до Америки?" rightAnswer="Индия" WrongAnswer1="Китай" WrongAnswer2="Япония" />
+  <Question quest="Как звали женщину, по словам Н.А.Некрасова, способную на скаку остановить коня и войти в горящую избу?" rightAnswer="Дарья" WrongAnswer1="Арина" WrongAnswer2="Матрёна" />
+  <Question quest="Кого использует апитерапевт для лечения людей?" rightAnswer="Пчёл" WrongAnswer1="Змей" WrongAnswer2="Волков" />
+  <Question quest="В какой стране находится гора Арарат, к которой причалил Ноев ковчег?" rightAnswer="Турция" WrongAnswer1="Грузия" WrongAnswer2="Сирия" />
+</root>

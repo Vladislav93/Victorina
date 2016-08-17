@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Question quest ="Как называются одногорбые верблюды?"
+rightAnswer="Дромадеры"
+WrongAnswer1="Бактрианы"
+WrongAnswer2="Каракара-каранча">
+  </Question>
+
+  <Question quest ="Как называются двугорбые верблюды?"
+rightAnswer="Бактрианы"
+WrongAnswer1="Дромадеры"
+WrongAnswer2="Каракара-каранча">
+  </Question>
+    
+<Question quest ="Название какого из этих блюд переводится с французского как «мороз»?"
+rightAnswer="Желе"
+WrongAnswer1="Суфле"
+WrongAnswer2="Мусс">
+  </Question>
+
+<Question quest ="Как называется торжественное стихотворение, поэма или песнь в честь новобрачных?"
+rightAnswer="Эпиталама"
+WrongAnswer1="Эпиграф"
+WrongAnswer2="Эпитафия">
+  </Question>
+
+<Question quest ="Как называется отдел сердца, регулирующий движение крови по кровеносной системе?"
+rightAnswer="Желудочек"
+WrongAnswer1="Почечка"
+WrongAnswer2="Селезёночка">
+  </Question>
+
+<Question quest ="Как в феодальной Руси 10-18 вв. назывались крупные купцы, которые вели межгородскую и зарубежную торговлю?"
+rightAnswer="Гости"
+WrongAnswer1="Туристы"
+WrongAnswer2="Челноки">
+  </Question>
+
+<Question quest ="Кого в России конца 18-го века называли «архаровцами»?"
+rightAnswer="Полицейских"
+WrongAnswer1="Пожарных"
+WrongAnswer2="Ямщиков">
+  </Question>
+
+<Question quest ="Как называется архитектурно оформленный вход в здание?"
+rightAnswer="Портал"
+WrongAnswer1="Блог"
+WrongAnswer2="Форум">
+  </Question>
+
+<Question quest ="Название какого архитектурного стиля переводится с французского как «империя»?"
+rightAnswer="Ампир"
+WrongAnswer1="Модерн"
+WrongAnswer2="Барокко">
+  </Question>
+
+<Question quest ="Какой чай англичане называют «русским чаем»?"
+rightAnswer="С лимоном"
+WrongAnswer1="С молоком"
+WrongAnswer2="С мёдом">
+  </Question>
+
+<Question quest ="Как называется российская «Книга рекордов Гиннесса»?"
+rightAnswer="«Диво»"
+WrongAnswer1="«Чудо»"
+WrongAnswer2="«Чары»">
+  </Question>
+
+<Question quest ="Сколько (примерно) в мире видов комаров?"
+rightAnswer="3000"
+WrongAnswer1="300"
+WrongAnswer2="1500">
+  </Question>
+
+<Question quest ="В какой области РФ установлен памятник комару?"
+rightAnswer="Тюменской"
+WrongAnswer1="Ростовской"
+WrongAnswer2="Тамбовской">
+  </Question>
+
+<Question quest ="В каком городе родился М.Ю.Лермонтов?"
+rightAnswer="В Москве"
+WrongAnswer1="В Санкт-Петербурге"
+WrongAnswer2="В Пензе">
+  </Question>
+
+<Question quest ="Где прошло детство М.Ю.Лермонтова?"
+rightAnswer="В Тарханах"
+WrongAnswer1="В Абрамцево"
+WrongAnswer2="В Ясной поляне">
+  </Question>
+
+<Question quest ="Что странно смотрится на одной хоккейной площадке?"
+rightAnswer="Две шайбы"
+WrongAnswer1="Двое ворот"
+WrongAnswer2="«Блин» и «ловушка»">
+  </Question>
+
+<Question quest ="В какой из этих спортивных игр используются коньки?"
+rightAnswer="Бенди"
+WrongAnswer1="Ринк-хоккей"
+WrongAnswer2="Хоккей на траве">
+  </Question>
+
+<Question quest ="Как прозвали Павла Буре хоккейные болельщики?"
+rightAnswer="Русская ракета"
+WrongAnswer1="Ледовый ас"
+WrongAnswer2="Стальная клюшка">
+  </Question>
+
+<Question quest ="Что получает каждый игрок хоккейной команды, завоевавшей Кубок Стэнли?"
+rightAnswer="Перстень"
+WrongAnswer1="Цепочку"
+WrongAnswer2="Браслет">
+  </Question>
+
+<Question quest ="Какой из этих спортивных терминов не относится к шахматам?"
+rightAnswer="Рашпиль"
+WrongAnswer1="Эндшпиль"
+WrongAnswer2="Гамбит">
+  </Question>
+
+<Question quest ="Как говорят о шахматисте, который стал чемпионом мира, обыграв предыдущего чемпиона?"
+rightAnswer="Отобрал корону"
+WrongAnswer1="Свергнул с трона"
+WrongAnswer2="Занял трон">
+  </Question>
+
+<Question quest ="Из скольких  клеток состоит шахматная доска?"
+rightAnswer="64"
+WrongAnswer1="32"
+WrongAnswer2="100">
+  </Question>
+
+<Question quest ="Какая фигура, кроме пешки, может начать шахматную партию?"
+rightAnswer="Конь"
+WrongAnswer1="Ладья"
+WrongAnswer2="Ферзь">
+  </Question>
+
+<Question quest ="Какая шахматная фигура может перепрыгивать через свои и чужие фигуры?"
+rightAnswer="Конь"
+WrongAnswer1="Пешка"
+WrongAnswer2="Слон">
+  </Question>
+
+<Question quest ="Какое из этих названий предметов столового прибора является также шахматным термином?"
+rightAnswer="Вилка"
+WrongAnswer1="Нож"
+WrongAnswer2="Лопатка">
+  </Question>
+
+<Question quest ="Как называется середина шахматной партии?"
+rightAnswer="Миттельшпиль"
+WrongAnswer1="Цугцванг"
+WrongAnswer2="Мидлтайм">
+  </Question>
+
+<Question quest ="Какая республика самая шахматная в России?"
+rightAnswer="Калмыкия"
+WrongAnswer1="Карелия"
+WrongAnswer2="Татария">
+  </Question>
+
+<Question quest ="К какому виду программ относятся компьютерные шахматы?"
+rightAnswer="Симуляторы"
+WrongAnswer1="Шутеры"
+WrongAnswer2="Стратегии">
+  </Question>
+
+<Question quest ="Как первоначально назывался Кубок УЕФА?"
+rightAnswer="Кубок ярмарок"
+WrongAnswer1="Кубок огня"
+WrongAnswer2="Кубок продуктов">
+  </Question>
+
+<Question quest ="Как звучит неофициальное название чемпионата мира по футболу?"
+rightAnswer="Мундиаль"
+WrongAnswer1="Мирабель"
+WrongAnswer2="Миндаль">
+  </Question>
+
+<Question quest ="Как в футболе называется глухая защита?"
+rightAnswer="Бетон"
+WrongAnswer1="Цемент"
+WrongAnswer2="Кирпич">
+  </Question>
+
+<Question quest ="В каком государстве Древней Греции родились Олимпийские игры?"
+rightAnswer="В Элиде"
+WrongAnswer1="В Аркаиде"
+WrongAnswer2="В Македонии">
+  </Question>
+
+<Question quest ="В какой стране проводились I Зимние Олимпийские игры?"
+rightAnswer="Во Франции"
+WrongAnswer1="В Норвегии"
+WrongAnswer2="В Швейцарии">
+  </Question>
+
+<Question quest ="На каких Олимпийских играх появился девиз: «Главное не победа, а участие»?"
+rightAnswer="IV в Лондоне"
+WrongAnswer1="II  в Париже"
+WrongAnswer2="III в Сент-Луисе">
+  </Question>
+
+<Question quest ="Какой спортсмен может заработать наибольшее количество медалей за одни олимпийские игры?"
+rightAnswer="Гимнаст"
+WrongAnswer1="Боксёр"
+WrongAnswer2="Тяжелоатлет">
+  </Question>
+
+<Question quest ="Сколько судейских бригад оценивает выступление в художественной гимнастике на Олимпийских играх?"
+rightAnswer="3"
+WrongAnswer1="2"
+WrongAnswer2="4">
+  </Question>
+
+<Question quest ="Какое из этих единоборств является Олимпийским видом спорта?"
+rightAnswer="Дзюдо"
+WrongAnswer1="Самбо"
+WrongAnswer2="Айкидо">
+  </Question>
+
+<Question quest ="Где проходили зимние Олимпийские игры, талисманом которых стал Снежок и Кубик льда?"
+rightAnswer="Турин"
+WrongAnswer1="Нагано"
+WrongAnswer2="Альбервиль">
+  </Question>
+
+<Question quest ="Какой персонаж мультфильма стал талисманом сборной России на Олимпиаде-2004?"
+rightAnswer="Чебурашка"
+WrongAnswer1="Кот Матроскин"
+WrongAnswer2="Крокодил Гена">
+  </Question>
+
+<Question quest ="Сколько человек было в первом отряде космонавтов?"
+rightAnswer="20"
+WrongAnswer1="50"
+WrongAnswer2="10">
+  </Question>
+
+ <Question quest ="Первой построенной в Египте гигантской ступенчатой пирамидой была?"
+      rightAnswer="Пирамида Джосера"
+      WrongAnswer1="Пирамида Тутанхамона"
+      WrongAnswer2="Пирамида Хеопса">
+ </Question>
+
+    <Question quest ="Какой известный памятник находится в Дании?"
+    rightAnswer="Русалочке"
+    WrongAnswer1="Герде"
+    WrongAnswer2="Дюймовочке">
+  </Question>  
+  
+  <Question quest ="Что давали в Древнем Египте после обеда на десерт?"
+  rightAnswer="Варёные кочаны капусты"
+  WrongAnswer1="Варёную морковь"
+  WrongAnswer2="Горох">
+  </Question>
+
+<Question quest ="Чемпионом первых Олимпийских игр стал молодой атлет по имени Корзб. Кем он был по профессии?"
+rightAnswer="Пекарь"
+WrongAnswer1="Пахарь"
+WrongAnswer2="Торговец">
+  </Question>
+
+<Question quest ="Как называлась атомная подводная лодка, затонувшая в августе 2001 года?"
+rightAnswer="Курск"
+WrongAnswer1="Белгород"
+WrongAnswer2="Тула">
+  </Question>
+
+<Question quest ="На какой реке стоит город Прага?"
+rightAnswer="Влтава"
+WrongAnswer1="Тиса"
+WrongAnswer2="Одра">
+  </Question>
+
+<Question quest ="Как называется человек без гражданства(подданства)?"
+rightAnswer="Апатрид"
+WrongAnswer1="Иммигрант"
+WrongAnswer2="Изгой">
+  </Question>
+
+<Question quest ="Какое действие петуха во время девичьего гадания предсказывает, что муж будет пьяницей?"
+rightAnswer="Пьёт воду"
+WrongAnswer1="Клюёт зерно"
+WrongAnswer2="Убегает">
+  </Question>
+
+<Question quest ="На каком музыкальном инструменте в сказке Пушкина играл Баян на свадьбе Руслана и Людмилы?"
+rightAnswer="На гуслях"
+WrongAnswer1="На баяне"
+WrongAnswer2="На балалайке">
+  </Question>
+
+<Question quest ="Кто, по мнению Ф.Э. Дзержинского, должен иметь «холодную голову, горячее сердце и чистые руки»?"
+rightAnswer="Чекист"
+WrongAnswer1="Врач"
+WrongAnswer2="Повар">
+  </Question>
+
+<Question quest ="Кто вошёл в историю как «отец медицины»?"
+rightAnswer="Гиппократ"
+WrongAnswer1="Аристотель"
+WrongAnswer2="Пифагор">
+  </Question>
+
+<Question quest ="Кто написал цикл рассказов «Записки юного врача»?"
+rightAnswer="М. Булгаков"
+WrongAnswer1="С. Боткин"
+WrongAnswer2="В. Вересаев">
+  </Question>
+
+<Question quest ="Какие стены есть в здании?"
+rightAnswer="Глухие"
+WrongAnswer1="Слепые"
+WrongAnswer2="Немые">
+  </Question>
+
+<Question quest ="Как в давние времена называли паровоз?"
+rightAnswer="Пароход"
+WrongAnswer1="Дымоход"
+WrongAnswer2="Самоход">
+  </Question>
+
+<Question quest ="Как называется конец железнодорожного пути?"
+rightAnswer="Тупик"
+WrongAnswer1="Перегон"
+WrongAnswer2="Узел">
+  </Question>
+
+<Question quest ="Как называют часть железнодорожной линии между смежными станциями?"
+rightAnswer="Перегон"
+WrongAnswer1="Прогон"
+WrongAnswer2="Пробег">
+  </Question>
+
+<Question quest ="Какой из этих великих россиян слыл большим специалистом по варке варенья?"
+rightAnswer="Д.И. Менделеев"
+WrongAnswer1="Н.И. Пирогов"
+WrongAnswer2="В.И. Вернадский">
+  </Question>
+
+<Question quest ="Как называют подлинное имя автора, пишущего под псевдонимом?"
+rightAnswer="Автоним"
+WrongAnswer1="Антоним"
+WrongAnswer2="Аноним">
+  </Question>
+
+<Question quest ="Какой литературный псевдоним имел Иван Андреевич Крылов?"
+rightAnswer="Нави Волырк"
+WrongAnswer1="Антоша Чехонте"
+WrongAnswer2="Человек изгой">
+  </Question>
+
+<Question quest ="Какая еда сама прыгала в рот ленивому Пацюку из гоголевской «Ночи перед Рождеством»?"
+rightAnswer="Вареники"
+WrongAnswer1="Галушки"
+WrongAnswer2="Пельмени">
+  </Question>
+
+<Question quest ="В честь какого полководца немецкие захватчики назвали один из своих захватнических планов?"
+rightAnswer="Барбароссы"
+WrongAnswer1="Мамая"
+WrongAnswer2="Тамерлана">
+  </Question>
+
+<Question quest ="Какова главная заповедь врача, сформулированная Гиппократом?"
+rightAnswer="Не навреди"
+WrongAnswer1="Не откажи"
+WrongAnswer2="Не убий">
+  </Question>
+
+<Question quest ="Как в архитектуре называют первый этаж здания?"
+rightAnswer="Цоколь"
+WrongAnswer1="Бельэтаж"
+WrongAnswer2="Мансарда">
+  </Question>
+
+<Question quest ="Название какого головного убора произошло от слова «тень»?"
+rightAnswer="Сомбреро"
+WrongAnswer1="Берет"
+WrongAnswer2="Пилотка">
+  </Question>
+
+<Question quest ="Какое кулинарное изделие называется итальянским словом «червячки»?"
+rightAnswer="Вермишель"
+WrongAnswer1="Лапша"
+WrongAnswer2="Макароны">
+  </Question>
+
+<Question quest ="Как называется кусок говядины из спинной части, отбитый и обжаренный в яйце и сухарях?"
+rightAnswer="Ромштекс"
+WrongAnswer1="Шницель"
+WrongAnswer2="Азу">
+  </Question>
+
+<Question quest ="Как дословно переводится с французского название пирожного эклер?"
+rightAnswer="Молния"
+WrongAnswer1="Град"
+WrongAnswer2="Гром">
+  </Question>
+
+<Question quest ="Сколько (примерно) видов комаров в России?"
+rightAnswer="100"
+WrongAnswer1="300"
+WrongAnswer2="1000">
+  </Question>
+
+<Question quest ="Как мастером сделана работа, если о ней говорят: «Комар носу не подточит»?"
+rightAnswer="Очень хорошо"
+WrongAnswer1="Очень быстро"
+WrongAnswer2="Очень плохо">
+  </Question>
+
+<Question quest ="Как Гоголь определил жанр своего произведения «Мёртвые души»?"
+rightAnswer="Поэма в прозе"
+WrongAnswer1="Роман в стихах"
+WrongAnswer2="Научный трактат">
+  </Question>
+
+<Question quest ="Кто из этих персонажей – не из «Мёртвых душ»?"
+rightAnswer="Земляника"
+WrongAnswer1="Манилов"
+WrongAnswer2="Коробочка">
+  </Question>
+
+<Question quest ="Чей голос звучал по Всесоюзному радио, оповещая о начале Великой Отечественной войны?"
+rightAnswer="Левитана Ю.Б."
+WrongAnswer1="Жукова Г.К."
+WrongAnswer2="Сталина И.В.">
+  </Question>
+
+<Question quest ="По плану Гитлера на месте столицы советского народа Москвы должно было возникнуть это. Что?"
+rightAnswer="Море"
+WrongAnswer1="Пустыня"
+WrongAnswer2="Столица Германии">
+  </Question>
+
+<Question quest ="Кто основал первую библиотеку на Руси?"
+rightAnswer="Ярослав Мудрый"
+WrongAnswer1="Иван Грозный"
+WrongAnswer2="Екатерина Великая">
+  </Question>
+
+<Question quest ="Загадочную библиотеку какого русского монарха до сих пор ищут в таинственных кремлёвских подземельях?"
+rightAnswer="Ивана Грозного"
+WrongAnswer1="Бориса Годунова"
+WrongAnswer2="Петра I">
+  </Question>
+
+<Question quest ="На какой странице библиотечной книги обычно стоит штамп?"
+rightAnswer="На 17-й"
+WrongAnswer1="На 3-й"
+WrongAnswer2="На 13-й">
+  </Question>
+
+<Question quest ="Как называют книгу, бывшую в пользовании и вновь поступившую в продажу?"
+rightAnswer="Букинистическая"
+WrongAnswer1="Антикварная"
+WrongAnswer2="Буколическая">
+  </Question>
+
+<Question quest ="На каком музыкальном инструменте играл поэт Лермонтов?"
+rightAnswer="Скрипка"
+WrongAnswer1="Гитара"
+WrongAnswer2="Кларнет">
+  </Question>
+
+<Question quest ="Какое произведение сделало имя Лермонтова знаменитым?"
+rightAnswer="«Смерть поэта»"
+WrongAnswer1="«Маскарад»"
+WrongAnswer2="«Парус»">
+  </Question>
+
+<Question quest ="Как называется произведение Н.В. Гоголя?"
+rightAnswer="«Нос»"
+WrongAnswer1="«Рот»"
+WrongAnswer2="«Глаз»">
+  </Question>
+
+<Question quest ="Как именуется главный проводник пассажирского поезда?"
+rightAnswer="Бригадир"
+WrongAnswer1="Прораб"
+WrongAnswer2="Старшина">
+  </Question>
+
+<Question quest ="Какого вокзала нет на Комсомольской площади (площади трёх вокзалов) Москвы?"
+rightAnswer="Киевского"
+WrongAnswer1="Ярославского"
+WrongAnswer2="Казанского">
+  </Question>
+
+<Question quest ="Как называлась первая русская датированная печатная книга, выпущена в 1564 году Иваном Фёдоровым?"
+rightAnswer="«Апостол»"
+WrongAnswer1="«Псалтырь»"
+WrongAnswer2="«Азбука»">
+  </Question>
+
+<Question quest ="Какой нож раньше был необходим для прочтения книг?"
+rightAnswer="Разрезной"
+WrongAnswer1="Охотничий"
+WrongAnswer2="Штык-нож">
+  </Question>
+
+<Question quest ="Что в 1-м веке до н.э. погубило часть знаменитой Александрийской библиотеки?"
+rightAnswer="Пожар"
+WrongAnswer1="Наводнение"
+WrongAnswer2="Землетрясение">
+  </Question>
+
+<Question quest ="Гладкий бег, на какую дистанцию не входит в программу Олимпийских игр в соревнованиях мужчин?"
+rightAnswer="3000 м"
+WrongAnswer1="5000 м"
+WrongAnswer2="10000 м">
+  </Question>
+
+<Question quest ="Какое из этих имен - латинского происхождения?"
+rightAnswer="Виктор"
+WrongAnswer1="Андрей"
+WrongAnswer2="Иван">
+  </Question>
+
+<Question quest ="Где берет начало Гольфстрим?"
+rightAnswer="Побережье Флориды"
+WrongAnswer1="Побережье Ямайки"
+WrongAnswer2="Азорские острова">
+  </Question>
+
+<Question quest ="Как называется специалист обучающий верховой езде?"
+rightAnswer="Берейтор"
+WrongAnswer1="Форейтор"
+WrongAnswer2="Шталмейстер">
+  </Question>
+
+<Question quest ="Как древние римляне называли греческого Зевса?"
+rightAnswer="Юпитер"
+WrongAnswer1="Вулкан"
+WrongAnswer2="Меркурий">
+  </Question>
+
+<Question quest ="Чему в древнерусском счете равнялась ТЬМА?"
+rightAnswer="10000"
+WrongAnswer1="40х40х40"
+WrongAnswer2="100000">
+  </Question>
+
+<Question quest ="Какое пропущено слово в известном афоризме Гиппократа: «Врач лечит, … исцеляет»?"
+rightAnswer="Природа"
+WrongAnswer1="Вера"
+WrongAnswer2="Любовь">
+  </Question>
+
+<Question quest ="Какой из этих медицинских терминов в переводе с греческого означает «распознавание»?"
+rightAnswer="Диагноз"
+WrongAnswer1="Симптом"
+WrongAnswer2="Анамнез">
+  </Question>
+
+<Question quest ="Какой архитектурно-строительный термин является разговорным синонимом слов «голова», «ум», «мозги»?"
+rightAnswer="Чердак"
+WrongAnswer1="Балкон"
+WrongAnswer2="Лоджия">
+  </Question>
+
+</root>

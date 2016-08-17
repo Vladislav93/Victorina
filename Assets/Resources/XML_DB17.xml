@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+<Question quest ="Как называется широко распространённое семейство комаров?"
+rightAnswer="Комары-звонцы"
+WrongAnswer1="Комары-певцы"
+WrongAnswer2="Комары-стрельцы">
+  </Question>
+
+<Question quest ="В каком городе родился А.П. Чехов?"
+rightAnswer="Таганрог"
+WrongAnswer1="Тула"
+WrongAnswer2="Таруса">
+  </Question>
+
+<Question quest ="Частью какой оперы являются «Половецкие пляски»?"
+rightAnswer="Князь Игорь"
+WrongAnswer1="Снегурочка"
+WrongAnswer2="Садко">
+  </Question>
+
+<Question quest ="В каком фильме снялась Кейт Бланшет?"
+rightAnswer="Золотой век"
+WrongAnswer1="Медный век"
+WrongAnswer2="Железный век">
+  </Question>
+
+<Question quest ="Что означает аббревиатура www?"
+rightAnswer="World Wide Web"
+WrongAnswer1="Wade World Walk"
+WrongAnswer2="What What What">
+  </Question>
+
+<Question quest ="Какие по счету летние Олимпийские игры прошли летом 2012 года в Лондоне?"
+rightAnswer="Тридцатые"
+WrongAnswer1="Двадцатые"
+WrongAnswer2="Двадцать пятые">
+  </Question>
+
+<Question quest ="Сколько человек было в команде России на  IV Олимпийских играх в Лондоне в 1908 году?"
+rightAnswer="5"
+WrongAnswer1="25"
+WrongAnswer2="50">
+  </Question>
+
+<Question quest ="Что такое ГО?"
+rightAnswer="Настольная игра"
+WrongAnswer1="Жанр живописи"
+WrongAnswer2="Жанр поэзии">
+  </Question>
+
+<Question quest ="Талисманами Олимпийских игр в Лондоне стали две капли. Какие это капли?"
+rightAnswer="Капли стали"
+WrongAnswer1="Капли воды"
+WrongAnswer2="Капли крови">
+  </Question>
+
+<Question quest ="Каков вес медали олимпийских чемпионов лета 2012 года?"
+rightAnswer="400 г"
+WrongAnswer1="100 г"
+WrongAnswer2="300 г">
+  </Question>
+
+<Question quest ="Соревнований в каком виде спорта НЕ было на летней Олимпиаде-2012 в Лондоне?"
+rightAnswer="Бейсбол"
+WrongAnswer1="Пляжный волейбол"
+WrongAnswer2="Гандбол">
+  </Question>
+
+<Question quest ="Какой по счёту женщиной-знаменосцем в истории отечественного спорта стала Мария Шарапова?"
+rightAnswer="1"
+WrongAnswer1="2"
+WrongAnswer2="4">
+  </Question>
+
+<Question quest ="На соревнованиях по какому виду спорта присутствовал в Лондоне президент РФ В.В. Путин (2 августа 2012 года)?"
+rightAnswer="Дзюдо"
+WrongAnswer1="Фехтование"
+WrongAnswer2="Синхронное плавание">
+  </Question>
+
+<Question quest ="Мэру какого города в Лондоне 12 августа 2012 года был передан Олимпийский флаг?"
+rightAnswer="Рио-де-Жанейро"
+WrongAnswer1="Буэнос-Айрес"
+WrongAnswer2="Баден-Баден">
+  </Question>
+
+<Question quest ="В какой раз в Южной Америке пройдут Олимпийские игры?"
+rightAnswer="В первый"
+WrongAnswer1="В пятый"
+WrongAnswer2="В третий">
+  </Question>
+
+<Question quest ="Кто из данных млекопитающих не относится к летучим мышам?"
+rightAnswer="Бурозубка"
+WrongAnswer1="Подковонос"
+WrongAnswer2="Вечерница">
+  </Question>
+
+<Question quest ="В какой город плыл знаменитый Титаник?"
+rightAnswer="Нью-Йорк"
+WrongAnswer1="Лондон"
+WrongAnswer2="Гавана">
+  </Question>
+
+<Question quest ="Какая часть гвоздичного дерева после сушки становится пряностью?"
+rightAnswer="Цветки"
+WrongAnswer1="Кора"
+WrongAnswer2="Листья">
+  </Question>
+
+<Question quest ="Каким средневековым государством правила царица Тамара?"
+rightAnswer="Грузия"
+WrongAnswer1="Греция"
+WrongAnswer2="Армения">
+  </Question>
+
+<Question quest ="Какой из этих соколов самый маленький?"
+rightAnswer="Чеглок"
+WrongAnswer1="Кречет"
+WrongAnswer2="Сапсан">
+  </Question>
+
+<Question quest ="К какому типу химических реакций относится появление ржавчины на железе?"
+rightAnswer="Соединение"
+WrongAnswer1="Обмен"
+WrongAnswer2="Разложение">
+  </Question>
+
+<Question quest ="Как раньше назывался начальник пожарной команды?"
+rightAnswer="Брандмейстер"
+WrongAnswer1="Брандахлыст"
+WrongAnswer2="Брандербур">
+  </Question>
+
+<Question quest ="В какой стране были изобретены бесфосфорные, безопасные спички, используемые до сих пор?"
+rightAnswer="Швеция"
+WrongAnswer1="Швейцария"
+WrongAnswer2="Германия">
+  </Question>
+
+<Question quest ="Горение какого металла использовали для освещения при фотосъёмке?"
+rightAnswer="Магний"
+WrongAnswer1="Бериллий"
+WrongAnswer2="Палладий">
+  </Question>
+
+<Question quest ="Как называется огненная печь кузнеца?"
+rightAnswer="Горн"
+WrongAnswer1="Фагот"
+WrongAnswer2="Бубен">
+  </Question>
+
+<Question quest ="Как заканчивается народная мудрость: «Кто ругает товар, хочет его …»?"
+rightAnswer="Купить"
+WrongAnswer1="Продать"
+WrongAnswer2="Выбросить">
+  </Question>
+
+<Question quest ="Какой из этих терминов не из области экономики?"
+rightAnswer="Кредо"
+WrongAnswer1="Сальдо"
+WrongAnswer2="Ажур">
+  </Question>
+
+<Question quest ="От какого латинского глагола происходит слово «реклама»?"
+rightAnswer="Выкрикивать"
+WrongAnswer1="Завлекать"
+WrongAnswer2="Обманывать">
+  </Question>
+
+<Question quest ="Как называли на Руси чрезмерную прибыль торговцев?"
+rightAnswer="Лихва"
+WrongAnswer1="Навар"
+WrongAnswer2="Чаевые">
+  </Question>
+
+<Question quest ="Как заканчивается известная схема К. Маркса «Товар – деньги – ...»?"
+rightAnswer="Товар"
+WrongAnswer1="Проценты"
+WrongAnswer2="Работа">
+  </Question>
+
+<Question quest ="В каком российском городе есть Банковский мост?"
+rightAnswer="В Санкт-Петербурге"
+WrongAnswer1="В Екатеринбурге"
+WrongAnswer2="В Самаре">
+  </Question>
+
+<Question quest ="Как называют биржевого спекулянта, играющего на повышение курса бумаг?"
+rightAnswer="Бык"
+WrongAnswer1="Медведь"
+WrongAnswer2="Слон">
+  </Question>
+
+<Question quest ="Как называют биржевого спекулянта, играющего на понижение курса бумаг?"
+rightAnswer="Медведь"
+WrongAnswer1="Бык"
+WrongAnswer2="Лис">
+  </Question>
+
+<Question quest ="Какой из этих металлов люди открыли первым?"
+rightAnswer="Золото"
+WrongAnswer1="Серебро"
+WrongAnswer2="Олово">
+  </Question>
+
+<Question quest ="Как в древности назывался сплав золота и серебра?"
+rightAnswer="Электр"
+WrongAnswer1="Авиаль"
+WrongAnswer2="Инвар">
+  </Question>
+
+<Question quest ="С каким местом связана самая знаменитая «золотая лихорадка» начала ХХ века?"
+rightAnswer="Клондайк"
+WrongAnswer1="Калифорния"
+WrongAnswer2="Трансвааль">
+  </Question>
+
+<Question quest ="Какое масло ценится на вес золота?"
+rightAnswer="Розовое"
+WrongAnswer1="Льняное"
+WrongAnswer2="Кукурузное">
+  </Question>
+
+<Question quest ="Что получает победитель на испанском кинофестивале в Сан-Себастьяне?"
+rightAnswer="«Золотая раковина»"
+WrongAnswer1="«Золотой лев»"
+WrongAnswer2="«Золотой леопард»">
+  </Question>
+
+<Question quest ="Как называлась монета древнегреческого города Ольвия?"
+rightAnswer="Дельфинчик"
+WrongAnswer1="Акулёнок"
+WrongAnswer2="Китёнок">
+  </Question>
+
+<Question quest ="Какая наука изучает бумажные денежные знаки, вышедшие из употребления?"
+rightAnswer="Бонистика"
+WrongAnswer1="Нумизматика"
+WrongAnswer2="Баллистика">
+  </Question>
+
+<Question quest ="Какая из этих российских монет не была золотой?"
+rightAnswer="Алтын"
+WrongAnswer1="Червонец"
+WrongAnswer2="Империал">
+  </Question>
+
+<Question quest ="Как называлась самая мелкая, неделимая денежная единица в Древней Руси?"
+rightAnswer="Веверица"
+WrongAnswer1="Ногата"
+WrongAnswer2="Куна">
+  </Question>
+
+<Question quest ="Из какого металла в России при Иване Грозном чеканили копеечные монеты?"
+rightAnswer="Серебро"
+WrongAnswer1="Медь"
+WrongAnswer2="Золото">
+  </Question>
+</root>

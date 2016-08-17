@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest ="Литературный персонаж, прославивший свой диван?"
+rightAnswer="Обломов"
+WrongAnswer1="Чичиков"
+WrongAnswer2="Онегин">
+  </Question>
+
+  <Question quest ="В какую одежду принято плакать, чтобы вызвать сочувствие?"
+rightAnswer="Жилетку"
+WrongAnswer1="Рубашку"
+WrongAnswer2="Подушку">
+  </Question>
+
+  <Question quest ="Каким предметом китайцы стараются не пользоваться в преддверии Нового года, чтобы не разрушить счастья?"
+rightAnswer="Ножом"
+WrongAnswer1="Туалетной бумагой"
+WrongAnswer2="Пакетами">
+  </Question>
+
+  <Question quest ="Из какого металла были сделаны ложки в недорогих советских столовых?"
+rightAnswer="Алюминий"
+WrongAnswer1="Свинец"
+WrongAnswer2="Олово">
+  </Question>
+
+  <Question quest ="На какой птице летала Дюймовочка?"
+rightAnswer="Ласточка"
+WrongAnswer1="Колибри"
+WrongAnswer2="Кукушка">
+  </Question>
+
+  <Question quest ="Что, согласно примете, происходит с человеком, если он летает во сне?"
+rightAnswer="Растёт"
+WrongAnswer1="Болеет"
+WrongAnswer2="Мёрзнет">
+  </Question>
+
+  <Question quest ="Сколько педалей у автомобиля с автоматической коробкой передач?"
+rightAnswer="2"
+WrongAnswer1="3"
+WrongAnswer2="0">
+  </Question>
+
+  <Question quest ="Где находится Лувр?"
+        rightAnswer="Франция"
+        WrongAnswer1="Германия"
+        WrongAnswer2="Италия">
+  </Question>
+  
+  <Question quest ="Где находятся Помпеи?"
+        rightAnswer="Италия"
+        WrongAnswer1="Испания"
+        WrongAnswer2="Франция">
+  </Question>
+  
+<Question quest ="Как на Руси в древности называли собаку?"
+        rightAnswer="Сторожок"
+        WrongAnswer1="Островок"
+        WrongAnswer2="Хранитель">
+  </Question>
+
+  <Question quest ="Как заканчивается расхожее выражение «Враг моего врага...»?"
+    rightAnswer="Мой друг"
+    WrongAnswer1="Мой враг"
+    WrongAnswer2="Овраг">
+  </Question>
+
+<Question quest ="Как называется повесть Н.В. Гоголя «Ночь перед ...»?"
+rightAnswer="Рождеством"
+WrongAnswer1="Новым Годом"
+WrongAnswer2="Пасхой">
+  </Question>
+
+  <Question quest ="Закончите американскую поговорку: “Свобода начинается после первого ... ”?"
+rightAnswer="Миллиона долларов"
+WrongAnswer1="Миллиона рублей"
+WrongAnswer2="Отдыха">
+  </Question>
+
+  <Question quest ="Специалист по производству вин?"
+rightAnswer="Винодел"
+WrongAnswer1="Винзаводчик"
+WrongAnswer2="Вин Дизель">
+  </Question>
+
+    <Question quest ="Где вручается премия “Золотая пальмовая ветвь”?"
+rightAnswer="В Каннах"
+WrongAnswer1="В Мадриде"
+WrongAnswer2="В Нью-Йорке">
+  </Question>
+
+<Question quest ="Толстый заостренный стержень – традиционный инструмент взломщиков?"
+        rightAnswer="Лом"
+        WrongAnswer1="Гвоздь"
+        WrongAnswer2="Шпилька">
+  </Question>
+  
+  <Question quest ="Как называется деятельность просветителя?"
+        rightAnswer="Просветительство"
+        WrongAnswer1="Просвет"
+        WrongAnswer2="Правенство">
+  </Question>
+  
+    <Question quest ="Какой гимнастический трюк выполняет Земля ко времени наступления очередного Нового года?"
+        rightAnswer="Оборот"
+        WrongAnswer1="Поворот"
+        WrongAnswer2="Ласточку">
+  </Question>
+    
+  <Question quest ="Где начинается процесс пищеварения?"
+        rightAnswer="Во рту"
+        WrongAnswer1="В пищеводе"
+        WrongAnswer2="В желудке">
+  </Question>
+    
+  <Question quest ="Как зовут самца сёмги в период нереста?"
+        rightAnswer="Лох"
+        WrongAnswer1="Сёма"
+        WrongAnswer2="Нерест">
+  </Question>
+  
+  <Question quest ="Болезнь, при которой вам плохо видны далекие предметы и хорошо близкие?"
+        rightAnswer="Близорукость"
+        WrongAnswer1="Дальнозоркость"
+        WrongAnswer2="Гиперметропия">
+  </Question>
+
+  <Question quest ="Открытая, короткая, небольшого объема маечка, как предмет летнего женского туалета?"
+        rightAnswer="Топ"
+        WrongAnswer1="Кофта"
+        WrongAnswer2="Свитер">
+  </Question>
+
+  <Question quest ="Завод по обработке леса?"
+    rightAnswer="Лесозавод"
+    WrongAnswer1="Лесобиржа"
+    WrongAnswer2="Лесоповал">
+  </Question>
+
+<Question quest ="Эту громаду-ягоду называют «матушкой» и добавляют её в кашу. А ещё из неё делают посуду. О какой ягоде идёт речь?"
+  rightAnswer="Тыква"
+  WrongAnswer1="Арбуз"
+  WrongAnswer2="Дыня">
+  </Question>
+
+<Question quest ="Карлсон убеждал Малыша, что именно от этого продукта питания будет счастье. Что это?"
+  rightAnswer="Пирог"
+  WrongAnswer1="Яблоко"
+  WrongAnswer2="Варенье">
+  </Question>
+
+  <Question quest ="Что добавляют для снижения вязкости в шоколад?"
+rightAnswer="Лецитин"
+WrongAnswer1="Молоко"
+WrongAnswer2="Ванилин">
+  </Question>
+
+<Question quest ="Какое молоко получают путем кипячения цельного молока с последующим длительным нагреванием?"
+rightAnswer="Топленое"
+WrongAnswer1="Кипяченое"
+WrongAnswer2="Сгущенное">
+  </Question>
+
+  <Question quest ="Какой сладкий продукт оставила мама детям в рассказе Н.Носова «Мишкина каша»?"
+rightAnswer="Варенье"
+WrongAnswer1="Мёд"
+WrongAnswer2="Печенье">
+  </Question>
+
+<Question quest ="В каком ресторане подают тако?"
+rightAnswer="В Мексиканском"
+WrongAnswer1="В Китайском"
+WrongAnswer2="В Татарском">
+  </Question>
+
+<Question quest ="В состав этого продукта входят: молоко, яйца, вода, соль. Что это за продукт?"
+rightAnswer="Омлет"
+WrongAnswer1="Глазунья"
+WrongAnswer2="Яичница">
+  </Question>
+
+  <Question quest ="Что означает приставка «гео»?"
+        rightAnswer="Земля"
+        WrongAnswer1="Чистота"
+        WrongAnswer2="Воля">
+  </Question>
+
+<Question quest ="Как называют человека, который коллекционирует монеты?"
+      rightAnswer="Нумизмат"
+      WrongAnswer1="Мизантроп"
+      WrongAnswer2="Антиквар">
+  </Question>
+
+  <Question quest ="Какое масло не дает дыма?"
+  rightAnswer="Кокосовое"
+  WrongAnswer1="Оливковое"
+  WrongAnswer2="Моторное">
+  </Question>
+
+<Question quest ="Какой цветок считается символом России?"
+  rightAnswer="Ромашка"
+  WrongAnswer1="Роза"
+  WrongAnswer2="Тюльпан">
+  </Question>
+
+  <Question quest ="Какая птица иногда кричит как кошка?"
+rightAnswer="Иволга"
+WrongAnswer1="Сова"
+WrongAnswer2="Дятел">
+  </Question>
+  
+  <Question quest ="Какая нить в природе самая тонкая?"
+rightAnswer="Паутина"
+WrongAnswer1="Коконная нить"
+WrongAnswer2="Человеческий волос">
+  </Question>
+
+  <Question quest ="Какая птица совсем не имеет крыльев?"
+rightAnswer="Киви"
+WrongAnswer1="Альбатрос"
+WrongAnswer2="Попугай">
+  </Question>
+
+<Question quest ="Из чего складываются предложения?"
+rightAnswer="Из слов"
+WrongAnswer1="Из букв"
+WrongAnswer2="Из цифр">
+  </Question>
+
+  <Question quest ="Какая речь, устная или письменная, появилась раньше?"
+rightAnswer="Устная"
+WrongAnswer1="Письменная"
+WrongAnswer2="Появились одновременно">
+  </Question>
+
+<Question quest ="Какая театральная премия существует в России?"
+rightAnswer="Гвоздь сезона"
+WrongAnswer1="Актёрская шпилька"
+WrongAnswer2="Театральный винтик">
+  </Question>
+
+  <Question quest ="Как называется коллективное посещение театра, музея, кино?"
+rightAnswer="Культпоход"
+WrongAnswer1="Культвизит"
+WrongAnswer2="Культзабег">
+  </Question>
+
+  <Question quest ="При каком условии борода старика Хоттабыча теряла свою волшебную силу?"
+rightAnswer="Если намокала"
+WrongAnswer1="Если спутывалась"
+WrongAnswer2="После окраски">
+  </Question>
+
+  <Question quest ="Какого цвета орангутаны?"
+rightAnswer="Рыжие"
+WrongAnswer1="Белые"
+WrongAnswer2="Чёрные">
+  </Question>
+
+<Question quest ="Когда лоси сбрасывают свой «головной убор» – рога?"
+rightAnswer="Зимой"
+WrongAnswer1="Весной"
+WrongAnswer2="Летом">
+  </Question>
+
+  <Question quest ="Сушка продуктов на открытом воздухе на ветру?"
+rightAnswer="Вяление"
+WrongAnswer1="Валяние"
+WrongAnswer2="Копчение">
+  </Question>
+
+<Question quest ="Выдающегося русского поэта Тютчева звали ...?"
+rightAnswer="Фёдор"
+WrongAnswer1="Антон"
+WrongAnswer2="Слава">
+  </Question>
+
+  <Question quest ="С каким ударом курантов на Спасской башне наступает Новый Год?"
+rightAnswer="1"
+WrongAnswer1="12"
+WrongAnswer2="3">
+  </Question>
+  
+  <Question quest ="Свойство тел сохранять состояние покоя или равномерного прямолинейного движения?"
+rightAnswer="Инерция"
+WrongAnswer1="Покойция"
+WrongAnswer2="Равномерция">
+  </Question>
+
+  <Question quest ="Как англичане прозвали короля Ричарда I?	"
+rightAnswer="Львиное сердце"
+WrongAnswer1="Злое сердце"
+WrongAnswer2="Доброе сердце">
+  </Question>
+
+  <Question quest ="Вещество, применяемое для изготовления свечей?"
+rightAnswer="Парафин"
+WrongAnswer1="Слюна"
+WrongAnswer2="Азот">
+  </Question>
+
+  <Question quest ="Где два Стивена, Джобс и Возняк, собрали свой первый полноценный персональный компьютер?"
+rightAnswer="В гараже"
+WrongAnswer1="В комнате Джобса"
+WrongAnswer2="В кафе">
+  </Question>
+
+  <Question quest ="В какой стране зародился стиль рококо?"
+rightAnswer="Во Франции"
+WrongAnswer1="В России"
+WrongAnswer2="В США">
+  </Question>
+
+  <Question quest ="Устройство, позволяющее видеть то, что наверху, когда вы находитесь под водой?"
+rightAnswer="Перископ"
+WrongAnswer1="Телескоп"
+WrongAnswer2="Микроскоп">
+  </Question>
+
+  <Question quest ="Как называется кузов автомобиля с откидным верхом?"
+rightAnswer="Кабриолет"
+WrongAnswer1="Пикап"
+WrongAnswer2="Джип">
+  </Question>
+
+<Question quest ="Как называется рулевое колесо на парусных судах?"
+rightAnswer="Штурвал"
+WrongAnswer1="Фал"
+WrongAnswer2="Руль">
+  </Question>
+
+<Question quest ="Индейцы вымачивали кору фигового дерева, отбивали ее молотком и покрывали известковым лаком. Что получалось?"
+rightAnswer="Бумага"
+WrongAnswer1="Подстилка"
+WrongAnswer2="Картина">
+  </Question>
+</root>

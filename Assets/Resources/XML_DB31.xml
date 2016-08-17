@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <Question quest="Что такое КИПРЕЙ?" rightAnswer="Иван-чай" WrongAnswer1="Глава Кипра" WrongAnswer2="Механизм часов" />
+  <Question quest="Что из названного не часы?" rightAnswer="Хронос" WrongAnswer1="Клепсидра" WrongAnswer2="Гномон" />
+  <Question quest="Кто изобрёл фонограф?" rightAnswer="Эдисон" WrongAnswer1="Белл" WrongAnswer2="Бодо" />
+  <Question quest="Кто изобрёл телефон?" rightAnswer="Белл" WrongAnswer1="Эдисон" WrongAnswer2="Бодо" />
+  <Question quest="Кто изобрёл телеграф?" rightAnswer="Бодо" WrongAnswer1="Маркони" WrongAnswer2="Децибелл" />
+  <Question quest="Страна, где платят кипами, а сдачу получают атами?" rightAnswer="Лаос" WrongAnswer1="Камбоджа" WrongAnswer2="Таиланд" />
+  <Question quest="Старинная профессия 'бортник' в современном значении - это...?" rightAnswer="Пчеловод" WrongAnswer1="Лодочник" WrongAnswer2="Закройщик" />
+  <Question quest="Первый парашют изобрел?" rightAnswer="Котельников" WrongAnswer1="Кондом" WrongAnswer2="Юнкерс" />
+  <Question quest="Первый воздушный шар создан?" rightAnswer="Монгольфье" WrongAnswer1="Мессершмиттом" WrongAnswer2="Дедалом" />
+  <Question quest="Первый в мире пулемет изобрел?" rightAnswer="Гатлинк" WrongAnswer1="Маузер" WrongAnswer2="Чапаев" />
+  <Question quest="Первую ракету изобрел?" rightAnswer="Кибальчич" WrongAnswer1="Циолковский" WrongAnswer2="Браун фон" />
+  <Question quest="Курс парусного судна, когда ветер дует перпендикулярно в борт, называется ...?" rightAnswer="Галфвинд" WrongAnswer1="Оверкиль" WrongAnswer2="Бакштаг" />
+  <Question quest="Кто заложил основы кибернетики?" rightAnswer="Норберт ВИНЕР" WrongAnswer1="Всеволод КЕЛДЫШ" WrongAnswer2="Билл ГЕЙТС" />
+  <Question quest="Когда была испытана первая советская атомная бомба?" rightAnswer="В 1949г" WrongAnswer1="В 1988г" WrongAnswer2="В 1978г" />
+  <Question quest="Какой из этих городов не находится на территории Южной Африки?" rightAnswer="Зурбаган" WrongAnswer1="Претория" WrongAnswer2="Дурбан" />
+  <Question quest="Какая змея самая ядовитая?" rightAnswer="Морская змея" WrongAnswer1="Очковая змея" WrongAnswer2="Змея-теща" />
+  <Question quest="Как на западе называют бокалы, из которых пьются все безалкогольные напитки и часть алкогольных?" rightAnswer="Хайбол" WrongAnswer1="Крокет" WrongAnswer2="Бейсбол" />
+  <Question quest="Кто изобрёл первый велосипед?" rightAnswer="Мишо" WrongAnswer1="Фултон" WrongAnswer2="Райт" />
+  <Question quest="Деталь одежды, отличающая смокинг от фрака?" rightAnswer="Фалды" WrongAnswer1="Борты" WrongAnswer2="Пуговицы" />
+  <Question quest="В прошлом бытовало убеждение: 'Советские курицы - самые ... курицы в мире'?" rightAnswer="Стройные" WrongAnswer1="Толстые" WrongAnswer2="Лучшие" />
+  <Question quest="Что такое базука?" rightAnswer="Гранатомёт" WrongAnswer1="Огнемёт" WrongAnswer2="Пулемёт" />
+  <Question quest="БОЙЛЕР - это?" rightAnswer="Котел" WrongAnswer1="Пруд" WrongAnswer2="Цыпленок" />
+  <Question quest="Какого революционера убили ледорубом в Мексике в 1940г.?" rightAnswer="Троцкого" WrongAnswer1="Джона Рида" WrongAnswer2="Панчо Вилью" />
+  <Question quest="Как называется обязательное безбрачие у католического духовенства?" rightAnswer="Целибат" WrongAnswer1="Предикат" WrongAnswer2="Конкордат" />
+  <Question quest="Как называется первый в мире банк, накапливающий органы для трансплантации?" rightAnswer="Костный банк" WrongAnswer1="Банк крови" WrongAnswer2="Инкомбанк" />
+  <Question quest="Как с лёгкой руки португальцев в Европе называли китайских чиновников?" rightAnswer="Мандарин" WrongAnswer1="Мандрил" WrongAnswer2="Мандибул" />
+  <Question quest="Какое из этих животных не является домашним?" rightAnswer="Тарпан" WrongAnswer1="Вигонь" WrongAnswer2="Гуанако" />
+  <Question quest="Как называется новорождённый детёныш нерпы?" rightAnswer="Белёк" WrongAnswer1="Пыжик" WrongAnswer2="Детва" />
+  <Question quest="Какая страна в средние века называлась Чосон?" rightAnswer="Корея" WrongAnswer1="Китай" WrongAnswer2="Япония" />
+  <Question quest="Как переводится 'Double bass'?" rightAnswer="Контрабас" WrongAnswer1="Густой бас" WrongAnswer2="Басовый дуэт" />
+  <Question quest="Какую страну римляне называли 'Каледония'?" rightAnswer="Шотландию" WrongAnswer1="Германию" WrongAnswer2="Италию" />
+  <Question quest="Отряд рыб у которых отсутствуют тела позвонков?" rightAnswer="Осётрообразные" WrongAnswer1="Спиношипообразные" WrongAnswer2="Сельдеобразные" />
+  <Question quest="К какому жанру относится картина Ван Гога 'Подсолнухи'?" rightAnswer="Натюрморт" WrongAnswer1="Портрет" WrongAnswer2="Пейзаж" />
+  <Question quest="Какой штат США был раньше независимой республикой?" rightAnswer="Техас" WrongAnswer1="Онтарио" WrongAnswer2="Калифорния" />
+  <Question quest="Кто из этих богов не принадлежит к скандинавской мифологии?" rightAnswer="Велес" WrongAnswer1="Локи" WrongAnswer2="Тор" />
+  <Question quest="Как в народе называют игровые автоматы?" rightAnswer="Однорукие бандиты" WrongAnswer1="Одноглазые циклопы" WrongAnswer2="Одноногие пираты" />
+  <Question quest="Какая певица родом из Уфы?" rightAnswer="Земфира" WrongAnswer1="Алла Пугачева" WrongAnswer2="Наташа Королева" />
+  <Question quest="Какая страна является родиной ананаса?" rightAnswer="Бразилия" WrongAnswer1="Тайланд" WrongAnswer2="Аргентина" />
+  <Question quest="В каком году произошло 'Бостонское чаепитие'?" rightAnswer="1770 год" WrongAnswer1="1620 год" WrongAnswer2="1776 год" />
+  <Question quest="Кто открыл Новую Зеландию?" rightAnswer="Кук" WrongAnswer1="Магелан" WrongAnswer2="Беленгауз" />
+  <Question quest="Кого хлестал Суворов?" rightAnswer="Свои сапоги" WrongAnswer1="Свои ноги" WrongAnswer2="Землю" />
+  <Question quest="Кто первым из полководцев пересёк Альпы?" rightAnswer="Ганнибал" WrongAnswer1="Суворов" WrongAnswer2="Наполеон" />
+  <Question quest="Какой грамматической категории нет у глаголов?" rightAnswer="Падежа" WrongAnswer1="Числа" WrongAnswer2="Лица" />
+  <Question quest="Какой предмет одежды ввел в употребление Леви Страусс?" rightAnswer="Джинсы" WrongAnswer1="Кроссовки" WrongAnswer2="Бейсболки" />
+  <Question quest="Что такое рупия?" rightAnswer="Денежная единица" WrongAnswer1="Медальон" WrongAnswer2="Храм" />
+  <Question quest="Как называется духовой музыкальный инструмент с воздушным резервуаром?" rightAnswer="Волынка" WrongAnswer1="Гобой" WrongAnswer2="Фагот" />
+  <Question quest="Какой музыкальный коллектив представлял Россию на конкурсе Евровидение-2001?" rightAnswer="Мумий Троль" WrongAnswer1="Чайф" WrongAnswer2="Любэ" />
+  <Question quest="В каком городе ежегодно проводится крупнейший фестиваль итальянской песни?" rightAnswer="Сан-Ремо" WrongAnswer1="Венеция" WrongAnswer2="Палермо" />
+  <Question quest="Как звали героя поэта Ляписа-Трубецкого из 'Двенадцати стульев'?" rightAnswer="Гаврила" WrongAnswer1="Иван" WrongAnswer2="Данила" />
+  <Question quest="Какая фишка игры в русское лото получила прозвище 'дед'?" rightAnswer="90" WrongAnswer1="70" WrongAnswer2="99" />
+  <Question quest="Из какого предмета кухонного обихода отлили стойкого оловянного солдатика в сказке Андерсена?" rightAnswer="Ложка" WrongAnswer1="Кружка" WrongAnswer2="Миска" />
+  <Question quest="При каком свете печатают черно-белые фотографии?" rightAnswer="Красном" WrongAnswer1="Желтом" WrongAnswer2="Зеленом" />
+  <Question quest="В честь какого бога был назван месяц март?" rightAnswer="Марс" WrongAnswer1="Меркурий" WrongAnswer2="Юпитер" />
+  <Question quest="Какая из наук получила бы другое название на Венере, Марсе или Луне?" rightAnswer="Геология" WrongAnswer1="Биохимя" WrongAnswer2="Зоология" />
+  <Question quest="Чьей столицей является город Тегусигальпа?" rightAnswer="Гондурас" WrongAnswer1="Гватемала" WrongAnswer2="Никарагуа" />
+  <Question quest="Какому ученому принадлежит изобретение рельефно-точечного шрифта для письма и чтения слепых?" rightAnswer="Луи Брайль" WrongAnswer1="Тимоти Брайт" WrongAnswer2="Исаак Питман" />
+  <Question quest="Какая часть спортивной игры обычно бывает завершающей?" rightAnswer="Третий период" WrongAnswer1="Второй гейм" WrongAnswer2="Четвертый ход" />
+  <Question quest="Луковицы каких цветов в XVII веке ценились в Голландии на вес золота?" rightAnswer="Тюльпанов" WrongAnswer1="Нарциссов" WrongAnswer2="Подснежников" />
+  <Question quest="Кто написал 'Облако в штанах'?" rightAnswer="Маяковский" WrongAnswer1="Пушкин" WrongAnswer2="Цветаева" />
+  <Question quest="Какой день Самуил Маршак назвал 'Красным днем' календаря?" rightAnswer="7 ноября" WrongAnswer1="8 марта" WrongAnswer2="23 февраля" />
+  <Question quest="Как называется соленая и провяленная хребтовая часть рыбы?" rightAnswer="Балык" WrongAnswer1="Буженина" WrongAnswer2="Бекон" />
+  <Question quest="Кому из советских политических деятелей принадлежит лозунг: 'Жить стало лучше, жить стало веселей!'?" rightAnswer="Сталин" WrongAnswer1="Брежнев" WrongAnswer2="Горбачев" />
+  <Question quest="Назовите дворовое прозвище Аллы Пугачевой?" rightAnswer="Фельдфебель" WrongAnswer1="Генеральша" WrongAnswer2="Командирша" />
+  <Question quest="Как называется известная песня Вячеслава Бутусова 'Скованные...'?" rightAnswer="Одной цепью" WrongAnswer1="Одними оковами" WrongAnswer2="Одними комплексами" />
+  <Question quest="Курс какой валюты указан обычно вторым в перечне вывешиваемом у пунктов обмена?" rightAnswer="Евро" WrongAnswer1="Йена" WrongAnswer2="Франк" />
+  <Question quest="Известнейшая самозванка, заточенная и погибшая в Новодевичьем монастыре?" rightAnswer="Софья" WrongAnswer1="Тараканова" WrongAnswer2="Мнишек" />
+  <Question quest="Какая из этих стран граничит с Германией?" rightAnswer="Швейцария" WrongAnswer1="Венгрия" WrongAnswer2="Италия" />
+  <Question quest="Единица количества теплоты?" rightAnswer="Джоуль" WrongAnswer1="Ом" WrongAnswer2="Этвеш" />
+  <Question quest="Хозяин голоса, провозгласивший: 'Кто ходит в гости по утрам, тот поступает мудро'?" rightAnswer="ЛЕОНОВ" WrongAnswer1="ПАПАНОВ" WrongAnswer2="ЛИВАНОВ" />
+  <Question quest="В России беспокойным детям на ночь давали столовую ложку... Чего?" rightAnswer="Кагора" WrongAnswer1="Молока с медом" WrongAnswer2="Молока" />
+  <Question quest="Какая часть зрительного зала театра, ближе всего от сцены?" rightAnswer="Партер" WrongAnswer1="Амфитеатр" WrongAnswer2="Галерка" />
+  <Question quest="Какая часть зрительного зала театра, дальше всего от сцены?" rightAnswer="Галерка" WrongAnswer1="Амфитеатр" WrongAnswer2="Бельэтаж" />
+  <Question quest="Какую фамилию носил украинский философ, поэт и педагог 18-го века?" rightAnswer="Сковорода" WrongAnswer1="Скороварка" WrongAnswer2="Чайник" />
+  <Question quest="Чьи нежности, согласно образному выражению, неуместны?" rightAnswer="Телячьи" WrongAnswer1="Собачьи" WrongAnswer2="Девичьи" />
+  <Question quest="Как называются люди, которые стараются обратить других в свою религию?" rightAnswer="Миссионеры" WrongAnswer1="Религисты" WrongAnswer2="Еретики" />
+  <Question quest="Сколько двигателей в Боинге 737?" rightAnswer="2" WrongAnswer1="1" WrongAnswer2="4" />
+  <Question quest="В какой стране приставка 'де' перед фамилией означает дворянское происхождение?" rightAnswer="Франция" WrongAnswer1="Англия" WrongAnswer2="Испания" />
+  <Question quest="Минерал, прозрачная разновидность берилла, окрашенная окисью хрома в густой ярко зеленый цвет?" rightAnswer="Изумруд" WrongAnswer1="Кварц" WrongAnswer2="Бриллиант" />
+  <Question quest="В какую сторону сахара разрастается по полмили каждый год?" rightAnswer="Юг" WrongAnswer1="Запад" WrongAnswer2="Север" />
+  <Question quest="Какая станция закончила свое существование на дне океана?" rightAnswer="Мир" WrongAnswer1="Аполон-12" WrongAnswer2="Восток" />
+  <Question quest="Начало Второй Мировой Войны?" rightAnswer="1939" WrongAnswer1="1938" WrongAnswer2="1941" />
+  <Question quest="Сколько должен весить 1л водки (по Менделееву)?" rightAnswer="953 грамма" WrongAnswer1="1021 грамм" WrongAnswer2="977 грамм" />
+  <Question quest="Изобретатель акваланга?" rightAnswer="Кусто" WrongAnswer1="Кулибин" WrongAnswer2="Яблочков" />
+  <Question quest="Какую страну сокращённо называют GB?" rightAnswer="Великобритания" WrongAnswer1="Дания" WrongAnswer2="Северная Ирландия" />
+  <Question quest="Укажите годы жизни Рене Декарта?" rightAnswer="1596-1650" WrongAnswer1="1570-1624" WrongAnswer2="1670-1724" />
+  <Question quest="Назовите первый элемент таблицы Менделеева?" rightAnswer="Водород" WrongAnswer1="Кислород" WrongAnswer2="Углерод" />
+  <Question quest="Режиссер фильмов саги «Звёздные войны»?" rightAnswer="Лукас" WrongAnswer1="Спилберг" WrongAnswer2="Хичкок" />
+  <Question quest="Древний город Мохенджо-Даро находится в...?" rightAnswer="Пакистане" WrongAnswer1="Китае" WrongAnswer2="Индии" />
+  <Question quest="Автор картины «Покорение Сибири Ермаком»?" rightAnswer="Суриков" WrongAnswer1="Репин" WrongAnswer2="Васнецов" />
+  <Question quest="Река, носившая до 1775 года название Яик?" rightAnswer="Урал" WrongAnswer1="Дон" WrongAnswer2="Волга" />
+</root>

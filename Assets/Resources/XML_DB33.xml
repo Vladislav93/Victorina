@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Кто был Генеральным секретарем ЦК КПСС сразу после Брежнева?" rightAnswer="Андропов" WrongAnswer1="Горбачев" WrongAnswer2="Черненко" />
+  <Question quest="Кто был отцом виконта де Бражелона?" rightAnswer="Атос" WrongAnswer1="Д'Артаньян" WrongAnswer2="Арамис" />
+  <Question quest="Кто из римских императоров ввел в сенат своего коня?" rightAnswer="Калигула" WrongAnswer1="Клавдий" WrongAnswer2="Домициан" />
+  <Question quest="Кто из этих актеров играет в фильме &quot;Жандарм и жандарметки&quot;?" rightAnswer="Луи де Фюнес" WrongAnswer1="Жерар Депардье" WrongAnswer2="Жан Поль Бельмондо" />
+  <Question quest="Кто из этих бывших премьеров демонстрировал умение играть на баяне?" rightAnswer="Черномырдин" WrongAnswer1="Кириенко" WrongAnswer2="Степашин" />
+  <Question quest="Кто из этих животных является ближайшим родственником жирафа?" rightAnswer="Окапи" WrongAnswer1="Кенгуру" WrongAnswer2="Вомбат" />
+  <Question quest="Кто из этих знаменитых сыщиков увлекался выращиванием орхидей?" rightAnswer="Ниро Вульф" WrongAnswer1="Перри Мейсон" WrongAnswer2="Шерлок Холмс" />
+  <Question quest="Кто из этих известных людей был раньше шофером грузовика?" rightAnswer="Элвис Пресли" WrongAnswer1="Альберт Эйнштейн" WrongAnswer2="Джеймс Бонд" />
+  <Question quest="Кто надавал детям &quot;Вредных советов&quot;?" rightAnswer="Григорий Остер" WrongAnswer1="Самуил Маршак" WrongAnswer2="Владимир Носов" />
+  <Question quest="Кто написал роман &quot;Хождение по мукам&quot;?" rightAnswer="Толстой" WrongAnswer1="Пушкин" WrongAnswer2="Дюма" />
+  <Question quest="Кто написал: &quot;Поэтом можешь ты не быть, // Но гражданином быть обязан!&quot;?" rightAnswer="Н. А. Некрасов" WrongAnswer1="А. С. Пушкин" WrongAnswer2="М. Ю. Лермонтов" />
+  <Question quest="Кто такой ориенталист?" rightAnswer="Востоковед" WrongAnswer1="Зоолог, изучающий птиц" WrongAnswer2="Геодезист" />
+  <Question quest="Лидером какой музыкальной группы является Николай Расторгуев?" rightAnswer="&quot;Любэ&quot;" WrongAnswer1="&quot;Чайф&quot;" WrongAnswer2="&quot;На-на&quot;" />
+  <Question quest="МГУ был учрежден 25 января 1755 года в день великомученицы …?" rightAnswer="Татьяны" WrongAnswer1="Марии" WrongAnswer2="Ольги" />
+  <Question quest="На какой из этих островов претендует Япония?" rightAnswer="Кунашир" WrongAnswer1="Парамушир" WrongAnswer2="Симушир" />
+  <Question quest="На какой реке стоит город Прага?" rightAnswer="Влтава" WrongAnswer1="Тиса" WrongAnswer2="Лаба" />
+  <Question quest="На какой реке стоит город Рим?" rightAnswer="Тибр" WrongAnswer1="Евфрат" WrongAnswer2="По" />
+  <Question quest="На каком русском инструменте умеет &quot;играть&quot; Б.Н. Ельцин?" rightAnswer="Ложки" WrongAnswer1="Балалайка" WrongAnswer2="Гудок" />
+  <Question quest="На сколько федеральных округов поделена указом В. В. Путина территория Российской Федерации?" rightAnswer="7" WrongAnswer1="5" WrongAnswer2="8" />
+  <Question quest="На территории какой страны находилась оборонительная линия Маннергейма?" rightAnswer="Финляндия" WrongAnswer1="Украина" WrongAnswer2="Монголия" />
+  <Question quest="На чем играют в квиддич Гарри Поттер и его друзья?" rightAnswer="На метлах" WrongAnswer1="На драконах" WrongAnswer2="На пегасах" />
+  <Question quest="Название какой рыбы присутствует в песне &quot;Вдоль по Питерской&quot;?" rightAnswer="Судак" WrongAnswer1="Осетр" WrongAnswer2="Пескарь" />
+  <Question quest="Назовите административный центр (столицу) Мордовии?" rightAnswer="Саранск" WrongAnswer1="Сарапул" WrongAnswer2="Саров" />
+  <Question quest="Назовите режиссера-мультипликатора, создавшего серию мультфильмов &quot;Ну, погоди!&quot;?" rightAnswer="Котеночкин" WrongAnswer1="Дежкин" WrongAnswer2="Русаков" />
+  <Question quest="Площадь в миллион квадратных метров - это сколько квадратных километров?" rightAnswer="Один" WrongAnswer1="Тысяча" WrongAnswer2="Десять" />
+  <Question quest="Под каким зодиакальным созвездием родился человек 26 июня?" rightAnswer="Рак" WrongAnswer1="Лев" WrongAnswer2="Близнецы" />
+  <Question quest="Под каким общим псевдонимом выступали А. К. Толстой и братья Жемчужниковы?" rightAnswer="Козьма Прутков" WrongAnswer1="Месье Жак" WrongAnswer2="Русский патриот" />
+  <Question quest="Почему в книге Волкова город назывался изумрудным?" rightAnswer="Все носили зеленые очки" WrongAnswer1="Был покрыт тиной" WrongAnswer2="Был сделан из изумруда" />
+  <Question quest="Продолжите строку: &quot;Будь же, князь, ты комаром. И … замахала, воду с шумом расплескала&quot;?" rightAnswer="Крылами" WrongAnswer1="Руками" WrongAnswer2="Палочкой" />
+  <Question quest="Разновидность какого предмета мебели лишний раз увековечила имя Вольтера?" rightAnswer="Кресло" WrongAnswer1="Стул" WrongAnswer2="Диван" />
+  <Question quest="С какой из стран СНГ Россия ввела визовый режим в декабре 2000 г.?" rightAnswer="Грузия" WrongAnswer1="Азербайджан" WrongAnswer2="Армения" />
+  <Question quest="С какой стороны должен подходить к клиенту официант?" rightAnswer="Справа" WrongAnswer1="Спереди" WrongAnswer2="Слева" />
+  <Question quest="С какой стороны на деревьях растет мох?" rightAnswer="С севера" WrongAnswer1="С юга" WrongAnswer2="С запада" />
+  <Question quest="Сколькими картами играют в преферанс?" rightAnswer="32" WrongAnswer1="36" WrongAnswer2="28" />
+  <Question quest="Сколько витков вокруг Земли сделал первый пилотируемый космический корабль &quot;Восток&quot; с Юрием Гагариным на борту?" rightAnswer="Один" WrongAnswer1="Три" WrongAnswer2="Пять" />
+  <Question quest="Сколько всего башен у Московского Кремля?" rightAnswer="Двадцать" WrongAnswer1="Сто одна" WrongAnswer2="Сорок три" />
+  <Question quest="Сколько шаров надо &quot;положить&quot;, чтобы выиграть на бильярде партию в &quot;американку&quot;?" rightAnswer="8" WrongAnswer1="7" WrongAnswer2="9" />
+  <Question quest="У гаги - ценный пух. Так чей же это пух?" rightAnswer="Гагачий" WrongAnswer1="Гагарий" WrongAnswer2="Гагажий" />
+  <Question quest="У какого из этих зверей самцы почти никогда сами не охотятся?" rightAnswer="Львы" WrongAnswer1="Гиены" WrongAnswer2="Волки" />
+  <Question quest="У какой планеты нет естественных спутников?" rightAnswer="У Венеры" WrongAnswer1="У Юпитера" WrongAnswer2="У Марса" />
+  <Question quest="У кого или чего есть мантисса?" rightAnswer="У логарифма" WrongAnswer1="У кардинала" WrongAnswer2="У герцогини" />
+  <Question quest="Улисс - это другое имя какого древнегреческого героя или бога?" rightAnswer="Одиссея" WrongAnswer1="Прометея" WrongAnswer2="Гелиоса" />
+  <Question quest="Улитка относится к …?" rightAnswer="Моллюскам" WrongAnswer1="Земноводным" WrongAnswer2="Насекомым" />
+  <Question quest="Частью какой страны является остров Тасмания?" rightAnswer="Австралия" WrongAnswer1="Бразилия" WrongAnswer2="Новая Зеландия" />
+  <Question quest="Чего не было у крокодила Гены?" rightAnswer="Брюк" WrongAnswer1="Трубки" WrongAnswer2="Шляпы" />
+</root>

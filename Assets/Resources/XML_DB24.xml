@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="В какой из этих игр не применяют биту?" rightAnswer="Поло" WrongAnswer1="Крикет" WrongAnswer2="Лапта" />
+  <Question quest="Что в XV веке называли животом?" rightAnswer="Жизнь" WrongAnswer1="Смерть" WrongAnswer2="Голод" />
+  <Question quest="Как называется сверхчувствительный слой фотоплёнки?" rightAnswer="Эмульсия" WrongAnswer1="Аленад" WrongAnswer2="Амалия" />
+  <Question quest="Какой из этих университетов имеет второе название Сорбонна?" rightAnswer="Парижский" WrongAnswer1="Римский" WrongAnswer2="Стокгольмский" />
+  <Question quest="В какой стране необходимо побывать, чтобы отдохнуть в Анталье?" rightAnswer="В Турции" WrongAnswer1="В Греции" WrongAnswer2="В Египте" />
+  <Question quest="Какое море получило своё название от плавающих на его поверхности водорослей?" rightAnswer="Саргассово" WrongAnswer1="Ионическое" WrongAnswer2="Эгейское" />
+  <Question quest="Сколько белых полосок на воротнике матроса российского флота?" rightAnswer="Три" WrongAnswer1="Четыре" WrongAnswer2="Две" />
+  <Question quest="Какой класс животных называют рептилиями?" rightAnswer="Пресмыкающиеся" WrongAnswer1="Насекомые" WrongAnswer2="Беспозвоночные" />
+  <Question quest="Кто из перечисленных купцов основал известную на всю Москву булочную?" rightAnswer="Филлипов" WrongAnswer1="Елисеев" WrongAnswer2="Сытин" />
+  <Question quest="Как называется способ записи ходов в шахматной партии?" rightAnswer="Нотация" WrongAnswer1="Легенда" WrongAnswer2="Экспликация" />
+  <Question quest="Кем был Квазимодо - персонаж романа «Собор Парижской богоматери»?" rightAnswer="Звонарём" WrongAnswer1="Садовником" WrongAnswer2="Священником" />
+  <Question quest="Как назывался автомобиль с откидным сиденьем вдоль бортов?" rightAnswer="Пикап" WrongAnswer1="Купе" WrongAnswer2="Кабриолет" />
+  <Question quest="Как называется причудливое переплетение начальных букв имени и отчества в виде связи?" rightAnswer="Вензель" WrongAnswer1="Росчерк" WrongAnswer2="Пиктограмма" />
+  <Question quest="Донор с какой группой крови является универсальным?" rightAnswer="Первой" WrongAnswer1="Третьей" WrongAnswer2="Четвёртой" />
+  <Question quest="Кто написал Ленинградскую симфонию?" rightAnswer="Шостакович" WrongAnswer1="Мясковский" WrongAnswer2="Хачатурян" />
+  <Question quest="Какое дерево бывает чёрным, белым и пирамидальным?" rightAnswer="Тополь" WrongAnswer1="Клён" WrongAnswer2="Липа" />
+  <Question quest="Какой цвет отсутствует на государственном флаге Италии?" rightAnswer="Жёлтый" WrongAnswer1="Красный" WrongAnswer2="Белый" />
+  <Question quest="Кем был по профессии Афоня - главный герой комедии Гайдая?" rightAnswer="Сантехником" WrongAnswer1="Каменщиком" WrongAnswer2="Маляром" />
+  <Question quest="Как называется гол, который решил судьбу финального матча чемпионата Европы в 1996 году?" rightAnswer="Золотой" WrongAnswer1="Платиновый" WrongAnswer2="Серебряный" />
+  <Question quest="Какая страна дала миру Графа Дракулу?" rightAnswer="Румыния" WrongAnswer1="Венгрия" WrongAnswer2="Франция" />
+  <Question quest="Какая планета Солнечной системы имеет самый большой период обращения вокруг Солнца?" rightAnswer="Плутон" WrongAnswer1="Уран" WrongAnswer2="Юпитер" />
+  <Question quest="Каким праздником на Руси заканчивается купальный сезон?" rightAnswer="Ильин день" WrongAnswer1="Петров день" WrongAnswer2="Калинин день" />
+  <Question quest="Какая из этих стран производит автомобиль Альфа-Ромео?" rightAnswer="Италия" WrongAnswer1="Германия" WrongAnswer2="Испания" />
+  <Question quest="Какое из этих существ не относится к классу насекомых?" rightAnswer="Паук" WrongAnswer1="Муравей" WrongAnswer2="Пчела" />
+  <Question quest="Во что, согласно древнегреческим мифам, взгляд Медузы Горгоны превращал всё живое?" rightAnswer="В камень" WrongAnswer1="В стекло" WrongAnswer2="В золото" />
+  <Question quest="Какое из этих растений родственник табака?" rightAnswer="Картофель" WrongAnswer1="Редис" WrongAnswer2="Лук" />
+  <Question quest="Кто из перечисленных не был мужем Мэрилин Монро?" rightAnswer="Роберт Кеннеди" WrongAnswer1="Джо ди Маджо" WrongAnswer2="Джим Дагерти" />
+  <Question quest="Встреча с человеком какой профессии предвещает удачу в Новом году?" rightAnswer="С трубочистом" WrongAnswer1="С лесником" WrongAnswer2="С пекарем" />
+  <Question quest="Какой химический элемент учёные считают самым распространённым во Вселенной?" rightAnswer="Водород" WrongAnswer1="Кислород" WrongAnswer2="Углерод" />
+  <Question quest="Из какого мяса делают пожарские котлеты?" rightAnswer="Курица" WrongAnswer1="Свинина" WrongAnswer2="Баранина" />
+  <Question quest="Какая была девичья фамилия у Дианы - принцессы Уэльской?" rightAnswer="Спенсер" WrongAnswer1="Гессен" WrongAnswer2="Беннет" />
+  <Question quest="Соком какого растения был отравлен отец Гамлета?" rightAnswer="Белена" WrongAnswer1="Мухомор" WrongAnswer2="Беладонна" />
+  <Question quest="Самая полноводная река мира?" rightAnswer="Амазонка" WrongAnswer1="Конго" WrongAnswer2="Волга" />
+  <Question quest="Единственного казненного короля Англии звали...?" rightAnswer="Карл" WrongAnswer1="Эдуард" WrongAnswer2="Георг" />
+  <Question quest="Какой календарь был введен в 46 году до н.э.?" rightAnswer="Юлианский" WrongAnswer1="Васильевский" WrongAnswer2="Григорианский" />
+  <Question quest="Во времена какого правителя России появилась наука история?" rightAnswer="Петр I" WrongAnswer1="Екатерина II" WrongAnswer2="Иван IV" />
+  <Question quest="Какая наука изучает рельефы суши, дна океанов и морей?" rightAnswer="Геоморфология" WrongAnswer1="Геотермия" WrongAnswer2="Метрофология" />
+  <Question quest="Как в опере называют ведущую певицу?" rightAnswer="Примадонна" WrongAnswer1="Оперная Прима" WrongAnswer2="Прима" />
+  <Question quest="Какое море отделяет Италию от Югославии?" rightAnswer="Адриатическое" WrongAnswer1="Итальянское" WrongAnswer2="Средиземное" />
+  <Question quest="Чем является крахмал?" rightAnswer="Углеводом" WrongAnswer1="Жиром" WrongAnswer2="Витамином" />
+  <Question quest="В каких войсках служил в молодости граф Лев Николаевич Толстой?" rightAnswer="Артиллерия" WrongAnswer1="Флот" WrongAnswer2="Пехота" />
+  <Question quest="Как называется широкий и низкий мягкий диван с подушками, заменяющими спинку и с валиками по бокам?" rightAnswer="Оттоманка" WrongAnswer1="Кушетка" WrongAnswer2="Софа" />
+  <Question quest="Кто из этих политических деятелей - лауреатов Нобелевской премии мира - был убит?" rightAnswer="Анвар Садат" WrongAnswer1="Ясир Арафат" WrongAnswer2="Менахем Бегин" />
+  <Question quest="Как называют ярого приверженца какой-либо идеи, направления, социального устройства?" rightAnswer="Апологет" WrongAnswer1="Эпигон" WrongAnswer2="Филистер" />
+  <Question quest="Как в кириллице называлась современная буква Д?" rightAnswer="Добро" WrongAnswer1="Дети" WrongAnswer2="Дом" />
+  <Question quest="В каком штате США расположен город Солт-Лейк-Сити - столица Зимней Олимпиады 2002 года?" rightAnswer="Юта" WrongAnswer1="Колорадо" WrongAnswer2="Висконсин" />
+  <Question quest="При каком императоре Аляска была продана США?" rightAnswer="Александр II" WrongAnswer1="Александр III" WrongAnswer2="Николай I" />
+  <Question quest="Какой из этих крепких спиртных напитков изготовлен из яблок?" rightAnswer="Кальвадос" WrongAnswer1="Сакэ" WrongAnswer2="Граппа" />
+  <Question quest="Какая из этих стран имеет наибольшую площадь?" rightAnswer="Канада" WrongAnswer1="Китай" WrongAnswer2="США" />
+  <Question quest="Какова протяжённость великой китайской стены?" rightAnswer="4000 км" WrongAnswer1="5000 км" WrongAnswer2="6000 км" />
+  <Question quest="Температура абсолютного нуля по Фаренгейту - это?" rightAnswer="-459,67 градусов" WrongAnswer1="-17,8 градусов" WrongAnswer2="-273,15 градусов" />
+  <Question quest="В каком городе родился Людвиг ван Бетховен?" rightAnswer="Бонн" WrongAnswer1="Будапешт" WrongAnswer2="Вена" />
+  <Question quest="Как называется денежная единица Мексики?" rightAnswer="Песо" WrongAnswer1="Лира" WrongAnswer2="Крона" />
+  <Question quest="Сколько лет (согласно Гомеру) длилось возвращение Одиссея на родину?" rightAnswer="10 лет" WrongAnswer1="20 лет" WrongAnswer2="30 лет" />
+  <Question quest="В каком веке возник танец танго?" rightAnswer="В 20 веке" WrongAnswer1="В 18 веке" WrongAnswer2="В 19 веке" />
+  <Question quest="В какой стране проходила Зимняя Олимпиада 1998 года?" rightAnswer="Япония" WrongAnswer1="Норвегия" WrongAnswer2="Швейцария" />
+  <Question quest="На каких судах Колумб доплыл до Америки?" rightAnswer="На каравеллах" WrongAnswer1="На галеонах" WrongAnswer2="На бригантинах" />
+  <Question quest="Как финны называют свою страну?" rightAnswer="Суоми" WrongAnswer1="Лапландия" WrongAnswer2="Валио" />
+  <Question quest="Какой орган человека вырабатывает желчь?" rightAnswer="Печень" WrongAnswer1="Желудок" WrongAnswer2="Селезенка" />
+  <Question quest="Какой из перечисленных металлов не относится к цветным?" rightAnswer="Железо" WrongAnswer1="Хром" WrongAnswer2="Цинк" />
+  <Question quest="Какой художник заставил запорожцев написать письмо турецкому султану?" rightAnswer="Репин" WrongAnswer1="Серов" WrongAnswer2="Васнецов" />
+  <Question quest="В какой из этих игр есть термин каре?" rightAnswer="Покер" WrongAnswer1="Гольф" WrongAnswer2="Боулинг" />
+  <Question quest="В какой стране воевали между собой в 15 веке Алая и Белая Розы?" rightAnswer="Англия" WrongAnswer1="Германия" WrongAnswer2="Италия" />
+  <Question quest="Где служили гардемарины?" rightAnswer="Флот" WrongAnswer1="Разведка" WrongAnswer2="Кавалерия" />
+  <Question quest="Какую разновидность овчарки называют колли?" rightAnswer="Шотландская" WrongAnswer1="Немецкая" WrongAnswer2="Южнороссийская" />
+  <Question quest="Какой спортивный термин  означает нарушение в ходе игры?" rightAnswer="Фол" WrongAnswer1="Фул" WrongAnswer2="Фал" />
+  <Question quest="Какой литературный персонаж пользовался часами, на циферблате которых было 24 деления?" rightAnswer="Капитан Немо" WrongAnswer1="Фигаро" WrongAnswer2="Мистер Фогг" />
+  <Question quest="Какое максимальное количество очков можно набрать одним броском при игре в дартс?" rightAnswer="60" WrongAnswer1="25" WrongAnswer2="50" />
+  <Question quest="Назовите имя киевской княгини, спалившей город древлян с помощью птиц?" rightAnswer="Ольга" WrongAnswer1="Рогнеда" WrongAnswer2="Ярослава" />
+  <Question quest="При приготовлении чего мясо обязательно обваливают в панировочных сухарях?" rightAnswer="Ромштекса" WrongAnswer1="Ростбифа" WrongAnswer2="Антрекота" />
+  <Question quest="В каком году родился известный французский писатель Жюль Верн?" rightAnswer="1828" WrongAnswer1="1787" WrongAnswer2="1812" />
+  <Question quest="Что из перечисленного не имеет отношения к атмосфере Солнца?" rightAnswer="Лучистая зона" WrongAnswer1="Хромосфера" WrongAnswer2="Корона" />
+  <Question quest="Какая из этих звезд - самая маленькая?" rightAnswer="Альтаир" WrongAnswer1="Полярная звезда" WrongAnswer2="Капелла" />
+  <Question quest="Какая из этих планет - самая маленькая?" rightAnswer="Плутон" WrongAnswer1="Венера" WrongAnswer2="Марс" />
+  <Question quest="Какой рыбой знаменито озеро Байкал?" rightAnswer="Омуль" WrongAnswer1="Сельдь" WrongAnswer2="Ставрида" />
+  <Question quest="Какое место в мире занимает Бразилия по численности населения?" rightAnswer="5-е место" WrongAnswer1="6-е место" WrongAnswer2="7-е место" />
+  <Question quest="Какой город считается родиной джаза?" rightAnswer="Новый Орлеан" WrongAnswer1="Одесса" WrongAnswer2="Нью-Йорк" />
+  <Question quest="Кто является автором книг о Тарзане?" rightAnswer="Берроуз" WrongAnswer1="Стивенсон" WrongAnswer2="Честертон" />
+  <Question quest="Как звали известного греческого магната-судовладельца Онассиса?" rightAnswer="Аристотель" WrongAnswer1="Сократ" WrongAnswer2="Плутарх" />
+  <Question quest="Какое из этих растений не встречается в природе в виде кустарника?" rightAnswer="Осина" WrongAnswer1="Ольха" WrongAnswer2="Орешник" />
+  <Question quest="Крупинки какого минерала содержит наждачная бумага?" rightAnswer="Корунда" WrongAnswer1="Слюды" WrongAnswer2="Халцедона" />
+  <Question quest="В каком веке на Руси было установлено монголо-татарское иго?" rightAnswer="В тринадцатом" WrongAnswer1="В четырнадцатом" WrongAnswer2="В пятнадцатом" />
+  <Question quest="Кто первый вызвал на дуэль д`Артаньяна, приехавшего в Париж?" rightAnswer="Портос" WrongAnswer1="Арамис" WrongAnswer2="Рошфор" />
+  <Question quest="Какая из этих пород собак выведена в Америке?" rightAnswer="Чихуахуа" WrongAnswer1="Пекинес" WrongAnswer2="Тоса-ину" />
+  <Question quest="Что послужило эталоном единицы веса драгоценных камней-карат?" rightAnswer="Семечка" WrongAnswer1="Бусинка" WrongAnswer2="Монета" />
+  <Question quest="На какой геометрический угол поворачивается секундная стрелка часов за 35 секунд?" rightAnswer="210 градусов" WrongAnswer1="220 градусов" WrongAnswer2="230 градусов" />
+  <Question quest="Какой час наступает в Москве, когда в столице Бразилии встречают Новый год?" rightAnswer="6" WrongAnswer1="15" WrongAnswer2="19" />
+  <Question quest="Какой из этих персонажей сначала был мультипликационным, а затем стал литературным героем?" rightAnswer="Попугай Кеша" WrongAnswer1="Доктор Айболит" WrongAnswer2="Капитан Врунгель" />
+  <Question quest="Кому адресовал Кутузов: «Я прощаю, государь, но Россия Вам этого никогда не простит?»" rightAnswer="Александр I" WrongAnswer1="Александр II" WrongAnswer2="Николай I" />
+  <Question quest="Какого цвета не было на императорским флаге Романовых?" rightAnswer="Красный" WrongAnswer1="Золотой" WrongAnswer2="Белый" />
+  <Question quest="Кто стал самым молодым маршалом Советского Союза в истории СССР?" rightAnswer="М.Н.Тухачевский" WrongAnswer1="В.К.Блюхер" WrongAnswer2="Г.К.Жуков" />
+  <Question quest="Кто из этих русских руководителей похоронен не на Кремлёвском кладбище?" rightAnswer="Хрущёв" WrongAnswer1="Андропов" WrongAnswer2="Черненко" />
+  <Question quest="Административным центром каких островов является город Гонолулу?" rightAnswer="Гавайских" WrongAnswer1="Вердинских" WrongAnswer2="Канарских" />
+  <Question quest="Где находится вторая столица Римской Империи после её раскола на Западную и Восточную?" rightAnswer="Константинополь" WrongAnswer1="Киев" WrongAnswer2="Александрия" />
+  <Question quest="Какой цвет отсутствует на флаге Германии?" rightAnswer="Голубой" WrongAnswer1="Чёрный" WrongAnswer2="Красный" />
+  <Question quest="Какое греческое числительное соответствует персидскому пендж?" rightAnswer="Пенте" WrongAnswer1="Трио" WrongAnswer2="Тетра" />
+  <Question quest="В каком городе проходили первые игры Доброй Воли?" rightAnswer="Москва" WrongAnswer1="Осло" WrongAnswer2="Нью-Йорк" />
+  <Question quest="Как в дореволюционной России назывался письменный вызов на дуэль?" rightAnswer="Картель" WrongAnswer1="Концерн" WrongAnswer2="Синдикат" />
+  <Question quest="Какой из перечисленных терминов не имеет никакого смысла к шахматам?" rightAnswer="Флешрояль" WrongAnswer1="Гарде" WrongAnswer2="Гангут" />
+  <Question quest="На каком острове Пётр I заложил крепость, с которой началось строительство Санкт-Петербурга?" rightAnswer="Заячий" WrongAnswer1="Подзорный" WrongAnswer2="Каменный" />
+  <Question quest="Как до 1862 года называлась низшая городская административно-полицейская единица Российской Империи?" rightAnswer="Квартал" WrongAnswer1="Улица" WrongAnswer2="Район" />
+  <Question quest="Какая картина Моне дала название новому направлению в живописи - импрессионизму?" rightAnswer="Впечатление" WrongAnswer1="Дама в саду" WrongAnswer2="Дикий мальчик" />
+  <Question quest="Как называют участников публичного мероприятия, специально нанятых для создания успеха или провала?" rightAnswer="Клакёры" WrongAnswer1="Квакеры" WrongAnswer2="Минитмены" />
+  <Question quest="Как называется газон из цветущих пёстрых трав?" rightAnswer="Мавританский" WrongAnswer1="Ливийский" WrongAnswer2="Камерунский" />
+  <Question quest="Какая муза не покровительствует ни одному из видов искусств?" rightAnswer="Урания" WrongAnswer1="Терпсихора" WrongAnswer2="Мельпомена" />
+  <Question quest="Как называлась река забвения в древнегреческом царстве мёртвых?" rightAnswer="Лета" WrongAnswer1="Харон" WrongAnswer2="Рубикон" />
+  <Question quest="Где впервые был зажжён Вечный огонь на могиле Неизвестного солдата?" rightAnswer="Париж" WrongAnswer1="Рим" WrongAnswer2="Лондон" />
+  <Question quest="Кто из этих композиторов является родоначальником оперетты?" rightAnswer="Оффенбах" WrongAnswer1="Штраус" WrongAnswer2="Кальман" />
+  <Question quest="Какое заболевание было названо по фамилии учёного, который его впервые описал?" rightAnswer="Дальтонизм" WrongAnswer1="Астигматизм" WrongAnswer2="Трахома" />
+  <Question quest="Кто правит Саудовской Аравией?" rightAnswer="Король" WrongAnswer1="Шах" WrongAnswer2="Султан" />
+  <Question quest="В каком веке в русском военно-морском флоте появились тельняшки?" rightAnswer="В XIX" WrongAnswer1="В XX" WrongAnswer2="В XVIII" />
+  <Question quest="Что из перечисленного волхвы не принесли в дар младенцу Иисусу?" rightAnswer="Шерсть" WrongAnswer1="Ладан" WrongAnswer2="Мирру" />
+  <Question quest="Чей цветок, по поверию, надо съесть для счастья, если вместо четырёх лепестков он имеет пять?" rightAnswer="Сирень" WrongAnswer1="Жасмин" WrongAnswer2="Акация" />
+  <Question quest="Военно-политический союз России с какой страной стал предпосылкой образования Антанты?" rightAnswer="Франция" WrongAnswer1="Испания" WrongAnswer2="Англия" />
+  <Question quest="Какую из этих латиноамериканских стран 10 лет возглавлял японец Альберто Фухимори?" rightAnswer="Перу" WrongAnswer1="Эквадор" WrongAnswer2="Венесуэла" />
+  <Question quest="На какой конференции союзники по антигитлеровской коалиции создали ООН?" rightAnswer="Сан-Франциской" WrongAnswer1="Ялтинской" WrongAnswer2="Постдамской" />
+  <Question quest="Как звали жену египетского царя Птолемея, которая свои волосы принесла в жертву за победы мужа?" rightAnswer="Вероника" WrongAnswer1="Ариадна" WrongAnswer2="Кассиопея" />
+  <Question quest="Как называлось самое крупное воинское подразделение армии Древнего Рима?" rightAnswer="Легион" WrongAnswer1="Когорта" WrongAnswer2="Центурия" />
+  <Question quest="В какой губернии родился Сергей Есенин?" rightAnswer="Рязанская" WrongAnswer1="Вологодская" WrongAnswer2="Владимирская" />
+  <Question quest="В каком году, постановлением Верховного Совета России, город на Неве вновь стал называться Санкт-Петербургом?" rightAnswer="1991" WrongAnswer1="1985" WrongAnswer2="1990" />
+</root>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Какой цвет имеет александрит при искусственном освещении?" rightAnswer="Красный" WrongAnswer1="Голубой" WrongAnswer2="Зеленый" />
+  <Question quest="Какую из этих женщин звали не Софья?" rightAnswer="Мать Ивана Грозного" WrongAnswer1="Дочка Фамусова" WrongAnswer2="Жена Л. Н. Толстого" />
+  <Question quest="Какую из этих пьес написал М. Булгаков?" rightAnswer="&quot;Зойкина квартира&quot;" WrongAnswer1="&quot;Любовь Яровая&quot;" WrongAnswer2="&quot;Машенька&quot;" />
+  <Question quest="Какую мужскую оперную партию обычно исполняет женщина?" rightAnswer="Лель" WrongAnswer1="Левко" WrongAnswer2="Ленский" />
+  <Question quest="Кандиль - это сорт каких фруктов?" rightAnswer="Яблоки" WrongAnswer1="Сливы" WrongAnswer2="Абрикосы" />
+  <Question quest="Капеллан - это …?" rightAnswer="Священник при часовне" WrongAnswer1="Мыслитель" WrongAnswer2="Служащий театра" />
+  <Question quest="Книжное воленс-ноленс - это тоже самое, что и …?" rightAnswer="Волей-неволей" WrongAnswer1="Ей-ей" WrongAnswer2="Фифти-фифти" />
+  <Question quest="Когда возник ислам?" rightAnswer="В 7-м веке" WrongAnswer1="В 10-м веке" WrongAnswer2="Во 2-м веке до н. э." />
+  <Question quest="Кого в Одессе называли БИНДЮЖНИКАМИ?" rightAnswer="Ломовых извозчиков" WrongAnswer1="Налетчиков" WrongAnswer2="Рыночных перекупщиков" />
+  <Question quest="Кто из этих апостолов был распят на косом кресте?" rightAnswer="Андрей" WrongAnswer1="Фома" WrongAnswer2="Павел" />
+  <Question quest="Кто из этих достойных людей изобрел печатный станок?" rightAnswer="Иоганн Гутенберг" WrongAnswer1="Антони ван Левенгук" WrongAnswer2="Иван Федоров" />
+  <Question quest="Кто из этих древних сочинителей согласно легендам был хромым рабом?" rightAnswer="Эзоп" WrongAnswer1="Овидий" WrongAnswer2="Аристофан" />
+  <Question quest="Кто из этих классиков - автор романа &quot;Подросток&quot;?" rightAnswer="Ф. М. Достоевский" WrongAnswer1="И. С. Тургенев" WrongAnswer2="И. А. Бунин" />
+  <Question quest="Кто из этих литературных персонажей отличался неувядающей красотой?" rightAnswer="Дориан Грей" WrongAnswer1="Квазимодо" WrongAnswer2="Крошка Цахес" />
+  <Question quest="Кто расследовал убийство в &quot;Восточном экспрессе&quot;?" rightAnswer="Мисс Марпл" WrongAnswer1="Холмс" WrongAnswer2="Пинкертон" />
+  <Question quest="Кто сделал первый телефонный звонок?" rightAnswer="Александр Белл" WrongAnswer1="Бартоломео Диас" WrongAnswer2="Эдмунд Хилари" />
+  <Question quest="Кто такая КВАКВА?" rightAnswer="Птица" WrongAnswer1="Земноводное" WrongAnswer2="Пресмыкающееся" />
+  <Question quest="Кто такие белухи?" rightAnswer="Дельфины" WrongAnswer1="Рыбы" WrongAnswer2="Киты" />
+  <Question quest="Кто такой МЕТРАНПАЖ?" rightAnswer="Старший наборщик" WrongAnswer1="Дежурный редактор в газете" WrongAnswer2="Старший геодезист" />
+  <Question quest="Кто, согласно греческой мифологии, построил лабиринт Минотавра?" rightAnswer="Дедал" WrongAnswer1="Минос" WrongAnswer2="Цирцея" />
+  <Question quest="Куда впадает Терек?" rightAnswer="В Каспийское море" WrongAnswer1="В Арагви" WrongAnswer2="В Куру" />
+  <Question quest="На какую известную всем карточную игру очень похож пресловутый &quot;Блэк-Джек&quot;?" rightAnswer="&quot;Очко&quot;" WrongAnswer1="&quot;Бура&quot;" WrongAnswer2="&quot;Пьяница&quot;" />
+  <Question quest="На пьедестале чьего памятника высечены слова: &quot;Остановивший Солнце, сдвинувший Землю&quot;?" rightAnswer="Николай Коперник" WrongAnswer1="Джордано Бруно" WrongAnswer2="Галилео Галилей" />
+  <Question quest="На территории какого современного государства находилась империя Ацтеков?" rightAnswer="Мексика" WrongAnswer1="Перу" WrongAnswer2="Куба" />
+  <Question quest="На территории какого современного государства находилась империя Инков?" rightAnswer="Перу" WrongAnswer1="Бразилия" WrongAnswer2="Мексика" />
+  <Question quest="Название какого из этих цветков произошло от слова звезда?" rightAnswer="Астра" WrongAnswer1="Хризантема" WrongAnswer2="Нарцисс" />
+  <Question quest="Название какой из этих ягод - анаграмма столицы Филиппин?" rightAnswer="Малина" WrongAnswer1="Морошка" WrongAnswer2="Калина" />
+  <Question quest="Назовите американского писателя - автора десятков бестселлеров - &quot;ужастиков&quot;?" rightAnswer="Стивен Кинг" WrongAnswer1="Стюарт Кинг" WrongAnswer2="Мартин Л. Кинг" />
+  <Question quest="Назовите амплуа династии цирковых артистов Кантемировых?" rightAnswer="Наездники-джигиты" WrongAnswer1="Дрессировщики" WrongAnswer2="Иллюзионисты" />
+  <Question quest="Назовите второе имя английского юмориста Джерома Джерома?" rightAnswer="Клапка" WrongAnswer1="Кришна" WrongAnswer2="Клеменс" />
+  <Question quest="Назовите имя героини пьесы А. Н. Островского &quot;Бесприданница&quot;?" rightAnswer="Лариса" WrongAnswer1="Варвара" WrongAnswer2="Ирина" />
+  <Question quest="Назовите имя героя поэмы А. С. Пушкина &quot;Медный всадник&quot;?" rightAnswer="Евгений" WrongAnswer1="Владимир" WrongAnswer2="Александр" />
+  <Question quest="Назовите отчество президента Белоруссии Александра Лукашенко?" rightAnswer="Григорьевич" WrongAnswer1="Георгиевич" WrongAnswer2="Трофимович" />
+  <Question quest="Назовите самую южную столицу государства в континентальной Европе?" rightAnswer="Афины" WrongAnswer1="Рим" WrongAnswer2="Мадрид" />
+  <Question quest="Назовите столицу Черногории?" rightAnswer="Подгорица" WrongAnswer1="Нови-Сад" WrongAnswer2="Скопье" />
+  <Question quest="Назовите столицу Чувашии?" rightAnswer="Чебоксары" WrongAnswer1="Батайск" WrongAnswer2="Ижевск" />
+  <Question quest="Назовите фамилию клоуна, в паре с которым долгие годы выступал Юрий Никулин?" rightAnswer="Шуйдин" WrongAnswer1="Румянцев" WrongAnswer2="Енгибаров" />
+  <Question quest="Назовите фамилию режиссера фильмов &quot;Брат-1&quot; и &quot;Брат-2&quot;?" rightAnswer="Балабанов" WrongAnswer1="Меньшов" WrongAnswer2="Бодров" />
+  <Question quest="Племянник какого из этих писателей был выдающимся актером?" rightAnswer="А. П. Чехов" WrongAnswer1="А. И. Куприн" WrongAnswer2="В. В. Набоков" />
+  <Question quest="При каком президенте в США была гражданская война и произошла отмена рабства?" rightAnswer="При Линкольне" WrongAnswer1="При Франклине" WrongAnswer2="При Рузвельте" />
+  <Question quest="С какими государствами граничит Княжество Андорра?" rightAnswer="Испания и Франция" WrongAnswer1="Испания и Португалия" WrongAnswer2="Италия и Швейцария" />
+  <Question quest="С какой из этих стран Швейцария не граничит?" rightAnswer="Андорра" WrongAnswer1="Франция" WrongAnswer2="Италия" />
+  <Question quest="Сколько корней максимально может быть у линейного уравнения?" rightAnswer="Один" WrongAnswer1="Четыре" WrongAnswer2="Два" />
+  <Question quest="Сколько ног у краба?" rightAnswer="10" WrongAnswer1="8" WrongAnswer2="6" />
+  <Question quest="Сколько человек находится одновременно на площадке при игре в пляжный волейбол?" rightAnswer="Четыре" WrongAnswer1="Восемь" WrongAnswer2="Шесть" />
+  <Question quest="Сколько шашек у каждого из партнеров при игре в международные шашки?" rightAnswer="20" WrongAnswer1="12" WrongAnswer2="24" />
+  <Question quest="Столица какой африканской страны еще не так давно называлась Лагос?" rightAnswer="Нигерия" WrongAnswer1="Кения" WrongAnswer2="Уганда" />
+  <Question quest="Что из этого пишется с В раздельно?" rightAnswer="(В)насмешку" WrongAnswer1="(В)натяжку" WrongAnswer2="(В)накладку" />
+  <Question quest="Что используется при уборке сахарного тросника?" rightAnswer="Мачете" WrongAnswer1="Катана" WrongAnswer2="Крис" />
+  <Question quest="Что означает старинное русское слово НАПЕРСНИК?" rightAnswer="Близкий друг" WrongAnswer1="Бюстгальтер" WrongAnswer2="Средний палец" />
+  <Question quest="Что такое пестрядь?" rightAnswer="Ткань" WrongAnswer1="Рыба" WrongAnswer2="Одежда" />
+  <Question quest="Что такое тримминг?" rightAnswer="Выщипывание" WrongAnswer1="Промывание" WrongAnswer2="Разложение" />
+  <Question quest="Чье имя носит шкала скорости ветра?" rightAnswer="Бофорта" WrongAnswer1="Рихтера" WrongAnswer2="Мооса" />
+  <Question quest="Кем по национальности был учредитель знаменитой премии Альфред Нобель?" rightAnswer="Швед" WrongAnswer1="Итальянец" WrongAnswer2="Француз" />
+  <Question quest="Какая страна является родиной популярного во всем мире богемского стекла?" rightAnswer="Чехия" WrongAnswer1="Польша" WrongAnswer2="Венгрия" />
+  <Question quest="Игра на каком музыкальном инструменте принесла всемирную славу Ванессе Мэй?" rightAnswer="Скрипка" WrongAnswer1="Фортепиано" WrongAnswer2="Флейта" />
+  <Question quest="Какая европейская столица находится на реке Тибр?" rightAnswer="Рим" WrongAnswer1="Лиссабон" WrongAnswer2="Мадрид" />
+  <Question quest="Какая из этих стран не имеет прав на территорию Арктики?" rightAnswer="Швеция" WrongAnswer1="Канада" WrongAnswer2="Дания" />
+  <Question quest="Какой комик сыграл главную роль в фильме 'Великий диктатор'?" rightAnswer="Чарли Чаплин" WrongAnswer1="Макс Линдер" WrongAnswer2="Гарольд Ллойд" />
+  <Question quest="Кто выдвинул теорему, за доказательство которой был установлен приз в 100 тысяч марок?" rightAnswer="Ферма" WrongAnswer1="Лобачевский" WrongAnswer2="Евклид" />
+  <Question quest="Продуктом переработки какого злака является пшено?" rightAnswer="Просо" WrongAnswer1="Пшеница" WrongAnswer2="Овес" />
+  <Question quest="Что держал в лапах крокодил на эмблеме одноименного сатирического журнала?" rightAnswer="Вилы" WrongAnswer1="Штык" WrongAnswer2="Трезубец" />
+  <Question quest="Кто считается родоначальником русской классической музыки?" rightAnswer="Глинка" WrongAnswer1="Римский-Корсаков" WrongAnswer2="Чайковский" />
+  <Question quest="Кто из этих авторов описал действие лазера до его изобретения?" rightAnswer="Алексей Толстой" WrongAnswer1="Иван Ефремов" WrongAnswer2="Александр Беляев" />
+  <Question quest="Кто из этих помещиков не уступил Чичикову души своих умерших крестьян?" rightAnswer="Ноздрев" WrongAnswer1="Плюшкин" WrongAnswer2="Манилов" />
+  <Question quest="Какой цвет соответствует символу разлуки?" rightAnswer="Желтый" WrongAnswer1="Белый" WrongAnswer2="Голубой" />
+  <Question quest="Какие острова из за живущих на них слоновых черепах, называют 'черепашьими'?" rightAnswer="Галапагосские" WrongAnswer1="Багамские" WrongAnswer2="Сейшельские" />
+  <Question quest="Какое воинское звание обозначают три нашивки на погоне?" rightAnswer="Сержант" WrongAnswer1="Младший сержант" WrongAnswer2="Ефрейтор" />
+  <Question quest="Что было в руках у Остапа Бендера, когда он входил в Старгород?" rightAnswer="Астролябия" WrongAnswer1="Телескоп" WrongAnswer2="Компас" />
+  <Question quest="Кто из перечисленных детективов был реальным лицом?" rightAnswer="Пинкертон" WrongAnswer1="Мегрэ" WrongAnswer2="Ниро Вульф" />
+  <Question quest="Столицей какой страны, образовавшейся после распада СФРЮ, стал город Загреб?" rightAnswer="Хорватия" WrongAnswer1="Босния" WrongAnswer2="Словения" />
+  <Question quest="В какой области науки проявились выдающиеся способности Софьи Ковалевской?" rightAnswer="Математика" WrongAnswer1="Философия" WrongAnswer2="Биология" />
+  <Question quest="Какая группа музыкальных инструментов может не входить в состав симфонического оркестра?" rightAnswer="Клавишные" WrongAnswer1="Смычковые" WrongAnswer2="Ударные" />
+  <Question quest="Какую форму имело рыцарское построение 'кабанья голова'?" rightAnswer="Клин" WrongAnswer1="Цепь" WrongAnswer2="Квадрат" />
+  <Question quest="Какой народ называет себя 'мадьярами'?" rightAnswer="Венгры" WrongAnswer1="Молдаване" WrongAnswer2="Румыны" />
+  <Question quest="Какой из этих грибов появляется в лесу сразу после таяния снега?" rightAnswer="Строчок" WrongAnswer1="Опенок" WrongAnswer2="Груздь" />
+  <Question quest="Какую из этих этнографических групп нельзя назвать грузинами?" rightAnswer="Аварцы" WrongAnswer1="Кахетины" WrongAnswer2="Аджарцы" />
+  <Question quest="В каком виде спорта установил 24 мировых рекорда исполнитель роли Тарзана Джонни Вейсмюллер?" rightAnswer="Плавание" WrongAnswer1="Легкая атлетика" WrongAnswer2="Бокс" />
+  <Question quest="К какому классу относится большинство известных видов животных?" rightAnswer="Насекомые" WrongAnswer1="Млекопитающие" WrongAnswer2="Птицы" />
+  <Question quest="В каком климатическом поясе находится город Сочи?" rightAnswer="Субтропический" WrongAnswer1="Тропический" WrongAnswer2="Умеренный" />
+  <Question quest="В каком океане находится самое глубокое место в мире Марианская впадина?" rightAnswer="Тихий" WrongAnswer1="Индийский" WrongAnswer2="Атлантический" />
+  <Question quest="Кто из этих философов изложил свое мировоззрение в труде 'Так говорил Заратустра'?" rightAnswer="Ницше" WrongAnswer1="Юнг" WrongAnswer2="Кант" />
+  <Question quest="Кто из этих детективов жил в Нью-Йорке?" rightAnswer="Ниро Вульф" WrongAnswer1="Аввакум Захов" WrongAnswer2="Перри Мейсон" />
+  <Question quest="Шерсть какого животного называется 'мохер'?" rightAnswer="Коза" WrongAnswer1="Кролик" WrongAnswer2="Лама" />
+  <Question quest="Орбита вокруг какого небесного тела называется селеноцентрической?" rightAnswer="Луна" WrongAnswer1="Солнце" WrongAnswer2="Земля" />
+  <Question quest="Какой калибр у пистолета Макарова?" rightAnswer="9" WrongAnswer1="7.62" WrongAnswer2="5.66" />
+  <Question quest="Какой калибр у автомата Калашникова 'АК-74'?" rightAnswer="5.45" WrongAnswer1="7.62" WrongAnswer2="5.66" />
+  <Question quest="Кто сыграл главную мужскую роль в фильме 'Молчание ягнят'?" rightAnswer="Энтони Хопкинс" WrongAnswer1="Том Хэнкс" WrongAnswer2="Шон Пенн" />
+  <Question quest="Какой калибр у автомата Калашникова 'АК-47'?" rightAnswer="7.62" WrongAnswer1="5.66" WrongAnswer2="5.45" />
+  <Question quest="Какой великий русский композитор одновременно был известным химиком?" rightAnswer="Бородин" WrongAnswer1="Римский-Корсаков" WrongAnswer2="Глинка" />
+</root>

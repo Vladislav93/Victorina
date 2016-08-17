@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="В какой стране есть город Аллахабад?" rightAnswer="Индия" WrongAnswer1="Бангладеш" WrongAnswer2="Афганистан" />
+  <Question quest="Кто является автором памятника Минину и Пожарскому в Москве?" rightAnswer="Мартос" WrongAnswer1="Клодт" WrongAnswer2="Опекушин" />
+  <Question quest="Кто из этой четверки не является легендарным основателем Киева?" rightAnswer="Аскольд" WrongAnswer1="Щек" WrongAnswer2="Хорив" />
+  <Question quest="На сколько градусов изменяется температура лунной поверхности за одни лунные сутки?" rightAnswer="300" WrongAnswer1="30" WrongAnswer2="100" />
+  <Question quest="Какой американский президент был актером?" rightAnswer="Рейган" WrongAnswer1="Картер" WrongAnswer2="Трумэн" />
+  <Question quest="Как в строительстве называют стержень, при помощи которого соединяются части деревянных конструкций?" rightAnswer="Нагель" WrongAnswer1="Кегель" WrongAnswer2="Цапфа" />
+  <Question quest="Какую древнеримскую богиню нередко изображают с повязкой на глазах?" rightAnswer="Фортуна" WrongAnswer1="Юнона" WrongAnswer2="Венера" />
+  <Question quest="В какой стране был изобретен противогаз?" rightAnswer="Россия" WrongAnswer1="Англия" WrongAnswer2="Франция" />
+  <Question quest="Что из перечисленного не является сортом огурцов?" rightAnswer="Нантский" WrongAnswer1="Нежинский" WrongAnswer2="Вязниковский" />
+  <Question quest="Как называется новорожденный детеныш нерпы?" rightAnswer="Белек" WrongAnswer1="Умка" WrongAnswer2="Детва" />
+  <Question quest="Вблизи какого города находится Большой Ливадийский дворец - летняя резиденция Николая II?" rightAnswer="Ялта" WrongAnswer1="Евпатория" WrongAnswer2="Туапсе" />
+  <Question quest="В каких единицах измеряется вес боксерских перчаток?" rightAnswer="Унции" WrongAnswer1="Золотники" WrongAnswer2="Фунты" />
+  <Question quest="Кого рисовали древние египтяне на подошвах своих сандалий?" rightAnswer="Врага" WrongAnswer1="Фараона" WrongAnswer2="Богов" />
+  <Question quest="Прототипом какого литературного героя стал английский моряк Александр Селькирк?" rightAnswer="Робинзон Крузо" WrongAnswer1="Капитан Немо" WrongAnswer2="Джон Сильвер" />
+  <Question quest="У какой из этих планет больше всего спутников?" rightAnswer="Нептун" WrongAnswer1="Плутон" WrongAnswer2="Марс" />
+  <Question quest="Какой из этих языков относится не лингвистике, а к вычислительной технике?" rightAnswer="Алгол" WrongAnswer1="Лансмол" WrongAnswer2="Букмол" />
+  <Question quest="Какая из этих звезд наиболее удалена от Земли?" rightAnswer="Полярная звезда" WrongAnswer1="Альдебаран" WrongAnswer2="Вега" />
+  <Question quest="Какой титул носит супруг королевы Великобритании Елизаветы II?" rightAnswer="Герцог" WrongAnswer1="Граф" WrongAnswer2="Барон" />
+  <Question quest="Какие дрова на Руси назывались царскими?" rightAnswer="Ольховые" WrongAnswer1="Берёзовые" WrongAnswer2="Дубовые" />
+  <Question quest="Из какого материала Пигмалион создал Галатею?" rightAnswer="Слоновая кость" WrongAnswer1="Пчелиный воск" WrongAnswer2="Известняк" />
+  <Question quest="Чем на Руси становились вершки, если их набиралось шестнадцать?" rightAnswer="Аршин" WrongAnswer1="Сажень" WrongAnswer2="Пуд" />
+  <Question quest="В честь какого мореплавателя названы оба Американских континента?" rightAnswer="Веспуччи" WrongAnswer1="Васка-да-Гама" WrongAnswer2="Магеллан" />
+  <Question quest="Какое животное изображено на эмблеме зоопарка в Санкт-Петербурге?" rightAnswer="Белый медведь" WrongAnswer1="Морж" WrongAnswer2="Чайка" />
+  <Question quest="Кто является режиссёром фильма Титаник выпущенного в 1997 году?" rightAnswer="Кэмерон" WrongAnswer1="Компола" WrongAnswer2="Спилберг" />
+  <Question quest="Какая область деятельности не включена в аббревиатуру ЮНЕСКО?" rightAnswer="Искусство" WrongAnswer1="Культура" WrongAnswer2="Наука" />
+  <Question quest="Какой город располагается в двух частях света?" rightAnswer="Стамбул" WrongAnswer1="Панама" WrongAnswer2="Каир" />
+  <Question quest="Какой город был столицей Украины до 1934 года?" rightAnswer="Харьков" WrongAnswer1="Львов" WrongAnswer2="Запорожье" />
+  <Question quest="В каком из этих городов есть метро?" rightAnswer="Новосибирск" WrongAnswer1="Красноярск" WrongAnswer2="Пермь" />
+  <Question quest="Какой из этих судов не является промысловым рыболовным?" rightAnswer="Тендер" WrongAnswer1="Траулер" WrongAnswer2="Дрифтер" />
+  <Question quest="Какой из этих соборов превосходит по высоте пирамиду Хеопса?" rightAnswer="Кёльнский" WrongAnswer1="Успенский" WrongAnswer2="Софийский" />
+  <Question quest="Что из перечисленного получило своё название от греческого слова «неизданный»?" rightAnswer="Анекдот" WrongAnswer1="Псалом" WrongAnswer2="Рефрен" />
+  <Question quest="Что проводит боксёр, наносящий противнику удар снизу?" rightAnswer="Апперкот" WrongAnswer1="Джут" WrongAnswer2="Хук" />
+  <Question quest="Среди какого народа долго жил Миклухо-Маклай?" rightAnswer="Папуасы" WrongAnswer1="Алеуты" WrongAnswer2="Самоанцы" />
+  <Question quest="Какое из этих насекомых единственное способно поворачивать голову, не двигая телом?" rightAnswer="Богомол" WrongAnswer1="Оса" WrongAnswer2="Муравей" />
+  <Question quest="Как называется музыкальный знак, означающий громкую игру?" rightAnswer="Форте" WrongAnswer1="Легато" WrongAnswer2="Анданте" />
+  <Question quest="Какое оружие можно увидеть на месте казни декабристов?" rightAnswer="Шпага" WrongAnswer1="Мортира" WrongAnswer2="Штык" />
+  <Question quest="Кто организовал зарубежные русские сезоны, прославившие в начале XX века русский балет?" rightAnswer="Сергей Дягилев" WrongAnswer1="Вацлав Нижинский" WrongAnswer2="Михаил Фокин" />
+  <Question quest="Какой христианский праздник отмечается на сороковой день после Рождества?" rightAnswer="Сретение" WrongAnswer1="Преображение" WrongAnswer2="Вознесение" />
+  <Question quest="Какой из этих терминов обозначает японский вариант шашек?" rightAnswer="Рэндзю" WrongAnswer1="Кабуки" WrongAnswer2="Бонсай" />
+  <Question quest="В каком городе разворачивалось действие пьесы «Собака на сене»?" rightAnswer="Неаполь" WrongAnswer1="Севилья" WrongAnswer2="Верона" />
+  <Question quest="Кто сыграл роль Ленина в английской революции XVII века?" rightAnswer="Кромвель" WrongAnswer1="Бекингэм" WrongAnswer2="Джефферсон" />
+  <Question quest="Какая из этих птиц не относится к семейству вороновых?" rightAnswer="Дрозд" WrongAnswer1="Сорока" WrongAnswer2="Галка" />
+  <Question quest="Какое из этих растений является медоносным?" rightAnswer="Черёмуха" WrongAnswer1="Жасмин" WrongAnswer2="Облепиха" />
+  <Question quest="Какое из этих имён - мужское?" rightAnswer="Иона" WrongAnswer1="Русс" WrongAnswer2="Фаина" />
+  <Question quest="Сколько всего белых и красных полос на Государственном флаге США?" rightAnswer="13" WrongAnswer1="15" WrongAnswer2="11" />
+  <Question quest="Как называется декоративный рельеф в виде лица человека или головы животного?" rightAnswer="Макарон" WrongAnswer1="Гласис" WrongAnswer2="Виадук" />
+  <Question quest="Какой цветок на протяжении многих веков символизировал королевскую власть во Франции?" rightAnswer="Лилия" WrongAnswer1="Гвоздика" WrongAnswer2="Фиалка" />
+  <Question quest="Какая гостиница Москвы является одной из крупнейших в Европе?" rightAnswer="Россия" WrongAnswer1="Космос" WrongAnswer2="Украина" />
+  <Question quest="Какого путешественника туземцы Новой Гвинеи прозвали человеком с Луны?" rightAnswer="Миклухо-Маклая" WrongAnswer1="Франсиса Дрейка" WrongAnswer2="Тура Хейердала" />
+  <Question quest="Что изучает микология?" rightAnswer="Грибы" WrongAnswer1="Деревья" WrongAnswer2="Насекомых" />
+  <Question quest="Какое из этих морей не относится к озёрам?" rightAnswer="Балтийское" WrongAnswer1="Капийское" WrongAnswer2="Аральское" />
+  <Question quest="Где состоялся чемпионат мира по хоккею в 2000 году?" rightAnswer="Россия" WrongAnswer1="Швеция" WrongAnswer2="Чехия" />
+  <Question quest="В каком виде спорта был неоднократным чемпионом СССР знаменитый комментатор Николай Озеров?" rightAnswer="Теннис" WrongAnswer1="Баскетбол" WrongAnswer2="Хоккей" />
+  <Question quest="Детективные произведения какого автора почти всегда связаны со скачками и скаковыми лошадьми?" rightAnswer="Дик Фрэнсис" WrongAnswer1="Джеймс Чейз" WrongAnswer2="Борман Диксан" />
+  <Question quest="Как звали третьего сына Адама?" rightAnswer="Сиф" WrongAnswer1="Лот" WrongAnswer2="Моисей" />
+  <Question quest="Где, по преданию, Мухаммед получил первые откровения от Аллаха?" rightAnswer="Близ Мекки" WrongAnswer1="Близ Эр-Рияда" WrongAnswer2="Близ Иерусалима" />
+  <Question quest="В какой из этих стран в денежном обращении нет мелкой разменной монеты?" rightAnswer="Италия" WrongAnswer1="Испания" WrongAnswer2="Бельгия" />
+  <Question quest="Какой позывной был у Юрия Гагарина во время первого в истории космического полёта?" rightAnswer="Кедр" WrongAnswer1="Первый" WrongAnswer2="Тополь" />
+  <Question quest="Первого января какого года началось наличное обращение евро?" rightAnswer="2002" WrongAnswer1="1999" WrongAnswer2="2000" />
+  <Question quest="В какой области культуры получают премию Эмми?" rightAnswer="Телевидение" WrongAnswer1="Литература" WrongAnswer2="Живопись" />
+</root>

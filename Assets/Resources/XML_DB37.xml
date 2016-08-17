@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest="Растение ананас - это ...?" rightAnswer="Трава" WrongAnswer1="Дерево" WrongAnswer2="Лиана" />
+  <Question quest="Что зацветает раньше?" rightAnswer="Сон-трава" WrongAnswer1="Астра" WrongAnswer2="Пион" />
+  <Question quest="На каком инструменте играет Эрик Клэптон?" rightAnswer="Гитара" WrongAnswer1="Клавесин" WrongAnswer2="Флейта" />
+  <Question quest="Как называется ветер в верховьях Амударьи?" rightAnswer="Афганец" WrongAnswer1="Эскимос" WrongAnswer2="Индеец" />
+  <Question quest="Фильм 'Ангелы и демоны' снят по роману ...?" rightAnswer="Д.Брауна" WrongAnswer1="Б.Акунина" WrongAnswer2="Б.Вербера" />
+  <Question quest="К какой величине ближе скорость звука в воздухе?" rightAnswer="330 м/сек" WrongAnswer1="550 м/сек" WrongAnswer2="440 м/сек" />
+  <Question quest="В 1977 году Людмила Зыкина стала художественным руководителем …?" rightAnswer="Ансамбля &quot;Россия&quot;" WrongAnswer1="Ансамбля &quot;Березка&quot;" WrongAnswer2="Театра эстрады" />
+  <Question quest="В какой из этих стран Латинской Америки государственный язык - не испанский?" rightAnswer="Бразилия" WrongAnswer1="Уругвай" WrongAnswer2="Аргентина" />
+  <Question quest="В какой области Нобелевская премия самая &quot;весомая&quot; в денежном выражении?" rightAnswer="Ни в какой" WrongAnswer1="Химия" WrongAnswer2="Физика" />
+  <Question quest="В каком году умер И. В. Сталин?" rightAnswer="В 1953" WrongAnswer1="В 1951" WrongAnswer2="В 1957" />
+  <Question quest="В каком городе заседает парламент Совета Европы?" rightAnswer="Страсбург" WrongAnswer1="Гаага" WrongAnswer2="Женева" />
+  <Question quest="В каком из этих мультфильмов волк говорит голосом А. Джигарханяна?" rightAnswer="&quot;Жил-был пёс&quot;" WrongAnswer1="&quot;Ну, погоди!&quot;" WrongAnswer2="&quot;Волк и телёнок&quot;" />
+  <Question quest="В каком из этих озер вода пресная?" rightAnswer="Севан" WrongAnswer1="Эльтон" WrongAnswer2="Арал" />
+  <Question quest="В каком из этих фильмов играл Р. Быков?" rightAnswer="&quot;Служили два товарища&quot;" WrongAnswer1="&quot;Два капитана&quot;" WrongAnswer2="&quot;Два бойца&quot;" />
+  <Question quest="В каком из этих фильмов играла Кристина Орбакайте?" rightAnswer="&quot;Лимита&quot;" WrongAnswer1="&quot;Такси-блюз&quot;" WrongAnswer2="&quot;Брат-2&quot;" />
+  <Question quest="В каком из этих фильмов снималась Фаина Георгиевна Раневская?" rightAnswer="&quot;Подкидыш&quot;" WrongAnswer1="&quot;Цирк&quot;" WrongAnswer2="&quot;Волга-Волга&quot;" />
+  <Question quest="В каком романе главным отрицательным персонажем был рыцарь-тамплиер?" rightAnswer="Айвенго" WrongAnswer1="Спартак" WrongAnswer2="Роб Рой" />
+  <Question quest="В произведении какого писателя и драматурга впервые появилось слово робот?" rightAnswer="Карел Чапек" WrongAnswer1="Роберт Хайнлайн" WrongAnswer2="Станислав Лем" />
+  <Question quest="Видом какого прибора является анероид?" rightAnswer="Барометра" WrongAnswer1="Анемометра" WrongAnswer2="Гигрометра" />
+  <Question quest="Во время какого путешествия Христофор Колумб впервые достиг американского материка?" rightAnswer="Третьего" WrongAnswer1="Второго" WrongAnswer2="Первого" />
+  <Question quest="Во время какого путешествия Христофор Колумб открыл остров Кубу?" rightAnswer="Первого" WrongAnswer1="Третьего" WrongAnswer2="Второго" />
+  <Question quest="Вставьте пропущенное слово: &quot;Ярмо он барщины … // Оброком легким заменил.&quot;?" rightAnswer="Старинной" WrongAnswer1="Исконной" WrongAnswer2="Дремучей" />
+  <Question quest="Где находится вулкан Этна?" rightAnswer="На острове Сицилия" WrongAnswer1="На острове Сардиния" WrongAnswer2="На острове Корсика" />
+  <Question quest="Где находится город Уральск?" rightAnswer="Казахстан" WrongAnswer1="Челябинская область" WrongAnswer2="Свердловская область" />
+  <Question quest="Где познакомились герои фильма &quot;Добровольцы&quot;?" rightAnswer="На строительстве метро" WrongAnswer1="На войне в Испании" WrongAnswer2="Во время революции" />
+  <Question quest="Где упал тунгусский метеорит?" rightAnswer="В Иркутской области" WrongAnswer1="В Новосибирской области" WrongAnswer2="На Чукотке" />
+  <Question quest="Для какого из этих видов спорта не требуется ледяной площадки?" rightAnswer="Сквош" WrongAnswer1="Шорт-трек" WrongAnswer2="Бенди" />
+  <Question quest="Из какой &quot;оперы&quot; слово АВИЗО?" rightAnswer="Бухгалтерия" WrongAnswer1="Птицеводство" WrongAnswer2="Авиация" />
+  <Question quest="Из какой науки термин синклиналь?" rightAnswer="Геологии" WrongAnswer1="Медицины" WrongAnswer2="Оптики" />
+  <Question quest="Именем какого из этих мифических героев названо созвездие?" rightAnswer="Персей" WrongAnswer1="Тесей" WrongAnswer2="Парис" />
+  <Question quest="К каким собакам относятся сеттеры?" rightAnswer="К легавым" WrongAnswer1="К декоративным" WrongAnswer2="К терьерам" />
+  <Question quest="Как бильярдисты называют шар, на котором стоит цифра 1?" rightAnswer="&quot;Туз&quot;" WrongAnswer1="&quot;Копейка&quot;" WrongAnswer2="&quot;Перст&quot;" />
+  <Question quest="Как в Российской империи назывался заместитель министра?" rightAnswer="Товарищ министра" WrongAnswer1="Секунд-министр" WrongAnswer2="Вице-министр" />
+  <Question quest="Как древние греки называли Черное море?" rightAnswer="Эвксинский понт" WrongAnswer1="Тирренский понт" WrongAnswer2="Эвбейский понт" />
+  <Question quest="Как ещё, кроме пензенец, традиционно называют жителя города Пензы?" rightAnswer="Пензяк" WrongAnswer1="Пензин" WrongAnswer2="Пензанин" />
+  <Question quest="Как звали возлюбленную Дафниса?" rightAnswer="Хлоя" WrongAnswer1="Харита" WrongAnswer2="Клио" />
+  <Question quest="Как звали героя Миронова в кинофильме &quot;Бриллиантовая рука&quot;?" rightAnswer="Геннадий Петрович" WrongAnswer1="Григорий Павлович" WrongAnswer2="Иннокентий Иванович" />
+  <Question quest="Как звали далматинца без пятен в фильме 102 далматинца?" rightAnswer="Диковинка" WrongAnswer1="Белоснежка" WrongAnswer2="Снегурочка" />
+  <Question quest="Как звали дедушку, на деревню которому адресовал письмо Ванька Жуков?" rightAnswer="Константин Макарович" WrongAnswer1="Константин Васильевич" WrongAnswer2="Василий Макарович" />
+  <Question quest="Как звали мать Девы Марии?" rightAnswer="Анна" WrongAnswer1="Дебора" WrongAnswer2="Рахиль" />
+  <Question quest="Как звали президента Египта, убитого исламскими фундаменталистами?" rightAnswer="Анвар Садат" WrongAnswer1="Бабрак Кармаль" WrongAnswer2="Хосни Мубарак" />
+  <Question quest="Как называется амплуа актрисы, исполняющей роли мальчиков, подростков, девочек?" rightAnswer="Травести" WrongAnswer1="Гризетка" WrongAnswer2="Инженю" />
+  <Question quest="Как называется артиллерийское орудие для навесной стрельбы по укрытым целям?" rightAnswer="Гаубица" WrongAnswer1="Зенитка" WrongAnswer2="Пушка" />
+  <Question quest="Как называется конусообразная насыпь из пустой породы?" rightAnswer="Терриконик" WrongAnswer1="Надолб" WrongAnswer2="Курган" />
+  <Question quest="Как называется короткая комедия для 2-х (реже - 3-х) исполнителей?" rightAnswer="Скетч" WrongAnswer1="Интерлюдия" WrongAnswer2="Буффонада" />
+</root>

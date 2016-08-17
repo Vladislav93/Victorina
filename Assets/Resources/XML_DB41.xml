@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Кто хотел назначить сенатором своего любимого коня?" rightAnswer="Калигула" WrongAnswer1="Карл I" WrongAnswer2="Петр III" />
+  <Question quest="Кто утверждал, что рок-н-ролл мертв, а они еще нет?" rightAnswer="'Аквариум'" WrongAnswer1="'ДДТ'" WrongAnswer2="'Пикник'" />
+  <Question quest="Кто сыграл Эммануэль?" rightAnswer="Сильвия Кристель" WrongAnswer1="Ким Бессинджер" WrongAnswer2="Шерон Стоун" />
+  <Question quest="Кто снялся в роли советского офицера Ивана Драги, противостоящего знаменитому боксеру Рокки?" rightAnswer="Дольф Лундгрем" WrongAnswer1="Халл Хоган" WrongAnswer2="Жан Клод Ван-Дамм" />
+  <Question quest="Кто сказал 'Бумага не краснеет'?" rightAnswer="Цицерон" WrongAnswer1="Иван Грозный" WrongAnswer2="Юлий Цезарь" />
+  <Question quest="Кто режиссер фильма 'От заката до рассвета'?" rightAnswer="Родригес" WrongAnswer1="Камерон" WrongAnswer2="Верховен" />
+  <Question quest="Кто разбил армию Спартака?" rightAnswer="Марк Красс" WrongAnswer1="Олег Романцев" WrongAnswer2="Юлий Цезарь" />
+  <Question quest="Кто произнес 'У меня нет средств содержать совесть'?" rightAnswer="Артур Шопенгауэр" WrongAnswer1="Остап Бендер" WrongAnswer2="Зигмунд Фрейд" />
+  <Question quest="Кто придумал Конана-варвара?" rightAnswer="Роберт Говард" WrongAnswer1="Роджер Желязны" WrongAnswer2="Дж.Толкиен" />
+  <Question quest="Кто придумал Винни-Пуха и Пятачка?" rightAnswer="Алан Милн" WrongAnswer1="Джанни Родари" WrongAnswer2="Льюис Кэролл" />
+  <Question quest="Кто придумал Алису Селезневу?" rightAnswer="Кир Булычев" WrongAnswer1="Ольга Ларионова" WrongAnswer2="Льюис Кэролл" />
+  <Question quest="Кто первый открыл сперматозоиды?" rightAnswer="Левенгук" WrongAnswer1="Пирогов" WrongAnswer2="Мадонна" />
+  <Question quest="Кто первый испытал водородную бомбу?" rightAnswer="СССР" WrongAnswer1="Япония" WrongAnswer2="Франция" />
+  <Question quest="Кто нарисовал цикл карикатур 'Забавная библия'?" rightAnswer="Жан Эффель" WrongAnswer1="Кукрыниксы" WrongAnswer2="Бидструп" />
+  <Question quest="Кто написал поэму 'Черный человек'?" rightAnswer="С.Есенин" WrongAnswer1="А.Блок" WrongAnswer2="В.Маяковский" />
+  <Question quest="Кто написал поэму 'Потерянный рай'?" rightAnswer="Джон Мильтон" WrongAnswer1="Эдмунд Спенсер" WrongAnswer2="Уильям Блейк" />
+  <Question quest="Кто из рок-групп в одной из песен перечислил алфавит?" rightAnswer="Uriah Heep" WrongAnswer1="The Beatles" WrongAnswer2="Rolling Stones" />
+  <Question quest="Кто из перечисленных музыкантов никогда не играл в The Beatles?" rightAnswer="Стив Вандер" WrongAnswer1="Пит Бест" WrongAnswer2="Эрик Клаптон" />
+  <Question quest="Кто из знаменитых американских фантастов родился в России?" rightAnswer="Айзек Азимов" WrongAnswer1="Гарри Гаррисон" WrongAnswer2="Роберт Хайнлайн" />
+  <Question quest="Кто восклицал 'Коня мне, коня! Полцарства за коня!'?" rightAnswer="Ричард III" WrongAnswer1="Генрих VIII" WrongAnswer2="Филипп IV" />
+  <Question quest="Кто автор поэмы 'Энеида'?" rightAnswer="Вергилий" WrongAnswer1="Пушкин" WrongAnswer2="Гомер" />
+  <Question quest="Кому принадлежит фраза 'После нас хоть потоп'?" rightAnswer="Мадам Помпадур" WrongAnswer1="Понтию Пилату" WrongAnswer2="Людовику XIV" />
+  <Question quest="Кому принадлежит знаменитый девиз 'Бороться и искать, найти и не сдаваться!'?" rightAnswer="А.Теннисону" WrongAnswer1="В.Катаеву" WrongAnswer2="В.Каверину" />
+  <Question quest="Как переводится 'A flecc of dust'?" rightAnswer="Пылинка" WrongAnswer1="Налет пыли" WrongAnswer2="Облако пыли" />
+  <Question quest="Как назывался самый первый альбом группы Ария?" rightAnswer="Мания Величия" WrongAnswer1="Переезд" WrongAnswer2="Наугад" />
+  <Question quest="Как раньше называли ИНТЕРНЕТ?" rightAnswer="Арпанет" WrongAnswer1="Фидонет" WrongAnswer2="Инфранет" />
+  <Question quest="Сколько лет длилась первая ПУНИЧЕСКАЯ ВОЙНА?" rightAnswer="23" WrongAnswer1="21" WrongAnswer2="24" />
+  <Question quest="Какое ограничение скорости на немецких автобанах?" rightAnswer="Никакого" WrongAnswer1="100 км/ч" WrongAnswer2="120 км/ч" />
+  <Question quest="Кто из ниже перечисленных английских футболистов никогда не был обладателем 'Золотого мяча'?" rightAnswer="Гари Линекер" WrongAnswer1="Кевин Киган" WrongAnswer2="Стэнли Мэтьюз" />
+  <Question quest="Кто сыграл главную роль в фильме 'Альф'?" rightAnswer="Мартин Шин" WrongAnswer1="Джим Керри" WrongAnswer2="Уильям О'Лири" />
+  <Question quest="Родиной кукурузы является ...?" rightAnswer="Южная Америка" WrongAnswer1="Африка" WrongAnswer2="Азия" />
+  <Question quest="Когда отмечают День российской науки?" rightAnswer="8 февраля" WrongAnswer1="10 февраля" WrongAnswer2="6 февраля" />
+  <Question quest="Какой цвет в древнем Египте служил для выделения первой строки абзаца?" rightAnswer="Красный" WrongAnswer1="Темно оранжевый" WrongAnswer2="Никакой" />
+  <Question quest="В каком году родился Александр I?" rightAnswer="1777" WrongAnswer1="1779" WrongAnswer2="1810" />
+  <Question quest="Столица Республики Кипр?" rightAnswer="Никосия" WrongAnswer1="Фамагуста" WrongAnswer2="Курион" />
+  <Question quest="Кто был основоположником реализма в русской литературе?" rightAnswer="А.С.Пушкин" WrongAnswer1="Н.В.Гоголь" WrongAnswer2="Б.Пастернак" />
+  <Question quest="Какая столица у страны, которую Австралия обыграла 31-0?" rightAnswer="Апиа" WrongAnswer1="Мельбурн" WrongAnswer2="Аганья" />
+  <Question quest="Какая из этих стран использует кириллицу?" rightAnswer="Югославия" WrongAnswer1="Хорватия" WrongAnswer2="Чехия" />
+  <Question quest="Кто в 1999 году выиграл кубок Лиги Чемпионов?" rightAnswer="Манчестер Юнайтед" WrongAnswer1="Ливерпуль" WrongAnswer2="Бавария" />
+  <Question quest="Какой титул носил бывший президент Международного олимпийского комитета Хуан Антонио Самаранч?" rightAnswer="Маркиз" WrongAnswer1="Барон" WrongAnswer2="Граф" />
+  <Question quest="Какая русская мера длины определяется широко разведенными в стороны руками?" rightAnswer="Маховая сажень" WrongAnswer1="Маховой вершок" WrongAnswer2="Маховой аршин" />
+  <Question quest="В каком из перечисленных культовых сооружений мужчины обязаны быть с покрытой головой?" rightAnswer="Синагога" WrongAnswer1="Мечеть" WrongAnswer2="Костел" />
+  <Question quest="Какой из этих фильмов не снимал Люк Бессон?" rightAnswer="'Гладиатор'" WrongAnswer1="'Голубая бездна'" WrongAnswer2="'Леон'" />
+  <Question quest="Знаменитая лестница Одессы?" rightAnswer="Потемкинская" WrongAnswer1="Портовая" WrongAnswer2="Одесская" />
+  <Question quest="Какое советское издательство выпускало журнал 'Крокодил'?" rightAnswer="'Правда'" WrongAnswer1="'Мир'" WrongAnswer2="'Планета'" />
+  </root>

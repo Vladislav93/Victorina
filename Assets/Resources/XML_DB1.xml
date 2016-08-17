@@ -1,0 +1,892 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  
+    <Question quest ="Кто такой мойдодыр?"
+        rightAnswer="Умывальник"
+        WrongAnswer1="Грязевик"
+        WrongAnswer2="Нахлебник">
+  </Question>
+  
+  <Question quest ="Какая стрелка часов самая медленная?"
+rightAnswer="Часовая"
+WrongAnswer1="Секундная"
+WrongAnswer2="Минутная">
+  </Question>
+  
+  <Question quest ="Назовите самую знаменитую фразу Шерлока Холмса?"
+rightAnswer="«Элементарно, Ватсон!»"
+WrongAnswer1="«Мистер Ватсон!»"
+WrongAnswer2="«Что-нибудь ещё, джентльмены?»">
+  </Question>
+
+  <Question quest ="Какой музыкальный инструмент берут в поход чаще всего?"
+rightAnswer="Гитара"
+WrongAnswer1="Скрипка"
+WrongAnswer2="Дудочка">
+  </Question>
+
+  <Question quest ="Какая башня самая известная в мире?"
+rightAnswer="Эйфелева башня"
+WrongAnswer1="Останкинская башня"
+WrongAnswer2="Пизанская башня">
+  </Question>
+
+  <Question quest ="Слова «алый» и «красный» - это ...?"
+rightAnswer="Синонимы"
+WrongAnswer1="Омонимы"
+WrongAnswer2="Антонимы">
+  </Question>
+
+  <Question quest ="Какого цвета икра у горбуши?"
+rightAnswer="Красный"
+WrongAnswer1="Чёрный"
+WrongAnswer2="Белый">
+  </Question>
+
+  <Question quest ="Какого цвета волосы у Мальвины?"
+rightAnswer="Голубой"
+WrongAnswer1="Белый"
+WrongAnswer2="Розовый">
+  </Question>
+
+  <Question quest ="Как называют вузовский диплом с отличием?"
+rightAnswer="Красный"
+WrongAnswer1="Золотой"
+WrongAnswer2="Белый">
+  </Question>
+
+  <Question quest ="Имя легендарного короля Англии, героя рыцарских романов?"
+rightAnswer="Артур"
+WrongAnswer1="Стёпа"
+WrongAnswer2="Майкл">
+  </Question>
+
+<Question quest ="Что легче: 1 кг ваты или 1 кг железа?"
+rightAnswer="Одинаково"
+WrongAnswer1="1 кг ваты"
+WrongAnswer2="1 кг железа">
+  </Question>
+
+  <Question quest ="Чему равна четверть часа?"
+rightAnswer="15 минут"
+WrongAnswer1="25 минут"
+WrongAnswer2="20 минут">
+  </Question>
+
+  <Question quest ="Как называется заключительная часть дистанции, соревнований?"
+rightAnswer="Финиш"
+WrongAnswer1="Конец"
+WrongAnswer2="Старт">
+  </Question>
+
+  <Question quest ="Какую сумку берут в поход?"
+rightAnswer="Рюкзак"
+WrongAnswer1="Тяжёлую"
+WrongAnswer2="Клатч">
+  </Question>
+
+  <Question quest ="Какой цветок называют «Царица цветов»?"
+rightAnswer="Роза"
+WrongAnswer1="Орхидея"
+WrongAnswer2="Ромашка">
+  </Question>
+
+  <Question quest ="Самая большая и вкусная ягода?"
+rightAnswer="Арбуз"
+WrongAnswer1="Клубника"
+WrongAnswer2="Ежевика">
+  </Question>
+
+  <Question quest ="Как называется полосатая африканская лошадь?"
+rightAnswer="Зебра"
+WrongAnswer1="Полосатик"
+WrongAnswer2="Монохромная">
+  </Question>
+  
+  <Question quest ="Самое глубокое озеро?"
+rightAnswer="Байкал"
+WrongAnswer1="Рица"
+WrongAnswer2="Ладожское">
+  </Question>
+
+  <Question quest ="Справочник о каком-нибудь историческом месте, музее, туристском маршруте?"
+rightAnswer="Путеводитель"
+WrongAnswer1="Навигатор"
+WrongAnswer2="Указатель">
+  </Question>
+
+  <Question quest ="Самый твёрдый минерал?"
+rightAnswer="Алмаз"
+WrongAnswer1="Рубин"
+WrongAnswer2="Золото">
+  </Question>
+
+  <Question quest ="Часть зарплаты, выданная вперёд?"
+rightAnswer="Аванс"
+WrongAnswer1="Альянс"
+WrongAnswer2="Залог">
+  </Question>
+
+  <Question quest ="Имущество, переходящее после смерти его владельца к новому лицу?"
+rightAnswer="Наследство"
+WrongAnswer1="Гостинцы"
+WrongAnswer2="Долг">
+  </Question>
+
+  <Question quest ="Древнее народное сказание о легендарных героях, богах, о явлениях природы?"
+rightAnswer="Миф"
+WrongAnswer1="Библия"
+WrongAnswer2="Гриф">
+  </Question>
+
+  <Question quest ="Место жительства Водяного?"
+rightAnswer="Болото"
+WrongAnswer1="Лес"
+WrongAnswer2="Водохранилище">
+  </Question>
+
+  <Question quest ="Какое яйцо снесла курочка Ряба?"
+rightAnswer="Золотое"
+WrongAnswer1="Серебряное"
+WrongAnswer2="Платиновое">
+  </Question>
+
+  <Question quest ="Какой гриб является самым ядовитым?"
+rightAnswer="Мухомор"
+WrongAnswer1="Поганка"
+WrongAnswer2="Дождевик">
+  </Question>
+
+  <Question quest ="Первый весенний цветок?"
+rightAnswer="Подснежник"
+WrongAnswer1="Ромашка"
+WrongAnswer2="Подсолнух">
+  </Question>
+
+  <Question quest ="Какой зверь всю зиму находится в спячке?"
+rightAnswer="Медведь"
+WrongAnswer1="Тигр"
+WrongAnswer2="Панда">
+  </Question>
+
+  <Question quest ="Как называют курицу в детстве?"
+rightAnswer="Цыплёнок"
+WrongAnswer1="Курёнок"
+WrongAnswer2="Цыпочка">
+  </Question>
+
+  <Question quest ="Какой месяц самый короткий?"
+rightAnswer="Февраль"
+WrongAnswer1="Январь"
+WrongAnswer2="Май">
+  </Question>
+
+  <Question quest ="Без чего нельзя вытащить рыбку из пруда?"
+rightAnswer="Без труда"
+WrongAnswer1="Без окна"
+WrongAnswer2="Без еды">
+  </Question>
+
+  <Question quest ="На какой планете мы живем?"
+rightAnswer="Земля"
+WrongAnswer1="Марс"
+WrongAnswer2="Луна">
+  </Question>
+
+  <Question quest ="На какое дерево садится ворона после дождя?"
+rightAnswer="На мокрое"
+WrongAnswer1="На высокое"
+WrongAnswer2="На дуб">
+  </Question>
+
+  <Question quest ="Из какой посуды ничего нельзя поесть?"
+rightAnswer="Из пустой"
+WrongAnswer1="Из золотой"
+WrongAnswer2="Из бумажной">
+  </Question>
+
+  <Question quest ="И альбомный, и кленовый?"
+rightAnswer="Лист"
+WrongAnswer1="Сироп"
+WrongAnswer2="Напиток">
+  </Question>
+
+  <Question quest ="Назовите самый высокий памятник в России?"
+rightAnswer="Памятник Петру I"
+WrongAnswer1="Памятник Ленину"
+WrongAnswer2="Памятник Ельцину">
+  </Question>
+
+  <Question quest ="Самое высокое животное?"
+rightAnswer="Жираф"
+WrongAnswer1="Слон"
+WrongAnswer2="Верблюд">
+  </Question>
+  
+  <Question quest ="Что любят есть кошки больше всего?"
+rightAnswer="Сметану"
+WrongAnswer1="Овощи"
+WrongAnswer2="Фрукты">
+  </Question>
+  
+<Question quest ="Название какого спортивного инвентаря переводится с английского языка на русский как «снежная доска»?"
+      rightAnswer="Сноуборд"
+      WrongAnswer1="Скейтборд"
+      WrongAnswer2="Сёрфингборд">
+  </Question>
+  
+  <Question quest ="Что надо добавить к ветру, дабы получилась пурга?"
+        rightAnswer="Снег"
+        WrongAnswer1="Дождь"
+        WrongAnswer2="Пыль">
+  </Question>
+  
+  <Question quest ="Как зовут отважную красногрудую певчую птичку?"
+        rightAnswer="Снегирь"
+        WrongAnswer1="Колибри"
+        WrongAnswer2="Синица">
+  </Question>
+  
+  <Question quest ="Назовите головной убор снеговика?"
+        rightAnswer="Ведро"
+        WrongAnswer1="Кепка"
+        WrongAnswer2="Чашка">
+  </Question>
+  
+  <Question quest ="Что несла Красная Шапочка своей бабушке?"
+rightAnswer="Пирожки"
+WrongAnswer1="Обогреватель"
+WrongAnswer2="Лампу">
+  </Question>
+
+  <Question quest ="Кентавр - это человек с туловищем ...?"
+rightAnswer="Лошади"
+WrongAnswer1="Собаки"
+WrongAnswer2="Тигра">
+  </Question>
+
+<Question quest ="Кто такая Арина Радионовна?"
+rightAnswer="Няня Пушкина"
+WrongAnswer1="Певица"
+WrongAnswer2="Мама Пушкина">
+  </Question>
+
+  <Question quest ="С каким немецким городом связано название мясной рубленой котлеты в тесте?"
+rightAnswer="Гамбург"
+WrongAnswer1="Дрезден"
+WrongAnswer2="Берлин">
+  </Question>
+
+  <Question quest ="Чем уколола палец принцесса из сказки «Спящая красавица»?"
+rightAnswer="Веретеном"
+WrongAnswer1="Кактусом"
+WrongAnswer2="Шипами розы">
+  </Question>
+
+  <Question quest ="Что не является кисломолочным продуктом?"
+rightAnswer="Майонез"
+WrongAnswer1="Кефир"
+WrongAnswer2="Йогурт">
+  </Question>
+
+  <Question quest ="Вечернее собрание для дружеской встречи, для развлечения?"
+rightAnswer="Вечеринка"
+WrongAnswer1="КВН"
+WrongAnswer2="Совещание">
+  </Question>
+
+<Question quest ="Как называется тихий храп?"
+rightAnswer="Сопение"
+WrongAnswer1="Храпёшка"
+WrongAnswer2="Дыхание">
+  </Question>
+
+  <Question quest ="Что надевает невеста на свадьбу?"
+rightAnswer="Фату"
+WrongAnswer1="Шлем"
+WrongAnswer2="Кокошник">
+  </Question>
+
+  <Question quest ="На каком здании Москвы в 1953 году были установлены самые большие башенные часы в стране?"
+      rightAnswer="МГУ"
+      WrongAnswer1="Музей им.Пушкина"
+      WrongAnswer2="Третьяковская галерея">
+  </Question>
+
+  <Question quest ="Какой актёр является создателем знаменитого образа немого кино — бродяжки Чарли?"
+  rightAnswer="Чарли Чаплин"
+  WrongAnswer1="Элтон Джон"
+  WrongAnswer2="Микки Рург">
+  </Question>
+
+  <Question quest ="Француз скажет: «Это поделка из жеваной бумаги». А как мы назовем этот материал?"
+rightAnswer="Папье-маше"
+WrongAnswer1="Фарфор"
+WrongAnswer2="Жвачка">
+  </Question>
+
+  <Question quest ="В какой стране самое большое население в мире?"
+rightAnswer="Китай"
+WrongAnswer1="США"
+WrongAnswer2="Россия">
+  </Question>
+
+  <Question quest ="Продолжи пословицу: «Повторенье — ...»?"
+rightAnswer="Мать ученья"
+WrongAnswer1="Мать науки"
+WrongAnswer2="Гранит науки">
+  </Question>
+
+  <Question quest ="Что измеряют спидометром?"
+rightAnswer="Скорость"
+WrongAnswer1="Температуру"
+WrongAnswer2="Уровень воды">
+  </Question>
+
+  <Question quest ="Какого князя считают основателем Москвы?"
+rightAnswer="Юрия Долгорукого"
+WrongAnswer1="Дмитрия Одноногого"
+WrongAnswer2="Владимира Длинноухого">
+  </Question>
+
+<Question quest ="Какой цвет имеет продажная бульварная пресса?"
+rightAnswer="Жёлтый"
+WrongAnswer1="Чёрный"
+WrongAnswer2="Серый">
+  </Question>
+
+<Question quest ="Где, если верить пословице, любопытной Варваре нос оторвали?"
+rightAnswer="На базаре"
+WrongAnswer1="В баре"
+WrongAnswer2="На кладбище">
+  </Question>
+
+  <Question quest ="Что кричат болельщики на хоккейном матче?"
+rightAnswer="Шайбу!"
+WrongAnswer1="Молот!"
+WrongAnswer2="Зубы!">
+  </Question>
+
+  <Question quest ="Чей дом сгорел в детской сказке С. Я. Маршака?"
+rightAnswer="Кошкин"
+WrongAnswer1="Мышкин"
+WrongAnswer2="Зайца">
+  </Question>
+
+  <Question quest ="Какие берега были у молочной реки в сказке «Гуси-лебеди»?"
+rightAnswer="Кисельные"
+WrongAnswer1="Сладкие"
+WrongAnswer2="Кефирные">
+  </Question>
+
+  <Question quest ="Как называется приз телепередачи «Что? Где? Когда?»?"
+rightAnswer="Хрустальная сова"
+WrongAnswer1="Хрустальный паук"
+WrongAnswer2="Золотой фазан">
+  </Question>
+
+  <Question quest ="Как называется телефон-автомат на городской улице?"
+rightAnswer="Таксофон"
+WrongAnswer1="Магнитофон"
+WrongAnswer2="Автоответчик">
+  </Question>
+
+<Question quest ="Как называется детская игрушка-неваляшка?"
+rightAnswer="Ванька-встанька"
+WrongAnswer1="Валентина"
+WrongAnswer2="Палка вставалка">
+  </Question>
+
+  <Question quest ="Как современные школьники называют очень усердного ученика?"
+rightAnswer="Ботаник"
+WrongAnswer1="Умник"
+WrongAnswer2="Звезда">
+  </Question>
+
+  <Question quest ="Что означают шашечки на дверях автомобиля?"
+rightAnswer="Такси"
+WrongAnswer1="Шахматный клуб"
+WrongAnswer2="Шашки в машине">
+  </Question>
+
+  <Question quest ="Какая профессия у главного героя серии игр Super Mario?"
+        rightAnswer="Водопроводчик"
+        WrongAnswer1="Уборщик"
+        WrongAnswer2="Пожарник">
+  </Question>
+  
+<Question quest ="Какую планету называют красной?"
+        rightAnswer="Марс"
+        WrongAnswer1="Земля"
+        WrongAnswer2="Сатурн">
+  </Question>
+
+  <Question quest ="Сколько в неделе рабочих дней?"
+        rightAnswer="5"
+        WrongAnswer1="2"
+        WrongAnswer2="7">
+  </Question>
+  
+<Question quest ="Название какой породы собак с английского просто переводится «собака»?"
+        rightAnswer="Дог"
+        WrongAnswer1="Пудель"
+        WrongAnswer2="Бигль">
+  </Question> 
+
+<Question quest ="Самый главный город каждой страны?"
+        rightAnswer="Столица"
+        WrongAnswer1="Главнейск"
+        WrongAnswer2="Москва">
+  </Question>	
+
+<Question quest ="Какое слово отсутствовало в обращении царицы из сказки Пушкина к зеркальцу: «Я ль на свете всех ...»?"
+  rightAnswer="Стройнее"
+  WrongAnswer1="Милее"
+  WrongAnswer2="Румяней">
+  </Question>
+
+  <Question quest ="Любимая еда жителей острова Чунга-Чанга?"
+  rightAnswer="Кокосы и бананы"
+  WrongAnswer1="Апельсины и лимоны"
+  WrongAnswer2="Орехи и картофель">
+  </Question>
+
+  <Question quest ="Какой марки был первый автомобиль Владимира Путина?"
+  rightAnswer="Запорожец"
+  WrongAnswer1="Мерседес"
+  WrongAnswer2="Ниссан">
+  </Question>
+
+  <Question quest ="Продолжите известную поговорку: «Яблоко от яблони недалеко...»?"
+  rightAnswer="Падает "
+  WrongAnswer1="Лежит"
+  WrongAnswer2="Находится">
+  </Question>
+
+  <Question quest ="Продолжите известную поговорку: «Чем богаты, тем и...»?"
+rightAnswer="Рады"
+WrongAnswer1="Бедны"
+WrongAnswer2="Накормим">
+  </Question>
+
+  <Question quest ="Продолжите известную поговорку: «Гусь свинье...»?"
+rightAnswer="Не товарищ"
+WrongAnswer1="Друг"
+WrongAnswer2="Никто">
+  </Question>
+
+  <Question quest ="Продолжите известную поговорку: «Слово — серебро, молчание — ...»?"
+rightAnswer="Золото"
+WrongAnswer1="Хорошо"
+WrongAnswer2="Алмаз">
+  </Question>
+
+  <Question quest ="Продолжите известную поговорку: «Сам заварил кашу — сам её и ...»?"
+rightAnswer="Расхлёбывай"
+WrongAnswer1="Ешь"
+WrongAnswer2="Разогревай">
+  </Question>
+
+  <Question quest ="Продолжите известную поговорку: «Смотрю в книгу – вижу...»?"
+rightAnswer="Фигу"
+WrongAnswer1="Нечто"
+WrongAnswer2="Слово">
+  </Question>
+
+  <Question quest ="Как называется пробел в начале строки?"
+rightAnswer="Отступ"
+WrongAnswer1="Выделение"
+WrongAnswer2="Белок">
+  </Question>
+
+  <Question quest ="Сколько однопалубных кораблей расставляет на своём поле игрок в классический «Морской бой»?"
+rightAnswer="4"
+WrongAnswer1="1"
+WrongAnswer2="0">
+  </Question>
+  
+  <Question quest ="Какой знак препинания появился первым в русском языке?"
+rightAnswer="Точка"
+WrongAnswer1="Запятая"
+WrongAnswer2="Многоточие">
+  </Question>
+
+<Question quest ="Виноградная ...?"
+rightAnswer="Лоза"
+WrongAnswer1="Кукуруза"
+WrongAnswer2="Гроза">
+  </Question>
+
+<Question quest ="Губит людей не пиво, губит людей ...?"
+rightAnswer="Вода"
+WrongAnswer1="Молоко"
+WrongAnswer2="Чай">
+  </Question>
+
+  <Question quest ="Как называется гриб, растущий под землей?"
+rightAnswer="Трюфель"
+WrongAnswer1="Белый гриб"
+WrongAnswer2="Лисичка">
+  </Question>
+
+  <Question quest ="Самая русская фамилия?"
+rightAnswer="Иванов"
+WrongAnswer1="Грей"
+WrongAnswer2="Киршнер">
+  </Question>
+
+  <Question quest ="Как зовут самку волка?"
+rightAnswer="Волчица"
+WrongAnswer1="Волкира"
+WrongAnswer2="Киса">
+  </Question>
+
+  <Question quest ="Как называется приз, ежегодно вручаемый лучшему футболисту Европы?"
+rightAnswer="Золотой мяч"
+WrongAnswer1="Золотой фазан"
+WrongAnswer2="Хрустальный мяч">
+  </Question>
+
+<Question quest ="Руссо туристо – ... (“Бриллиантовая рука”)?"
+rightAnswer="Облико морале"
+WrongAnswer1="Итальяно веро"
+WrongAnswer2="Лашате ми Кантаре">
+  </Question>
+
+  <Question quest ="С кем сражался Илья Муромец?"
+rightAnswer="С Соловьём-Разбойником"
+WrongAnswer1="С бродягами"
+WrongAnswer2="С дедушкой">
+  </Question>
+
+  <Question quest ="Свистун с горы из расхожего выражения, являющийся на самом деле образцовым “молчуном”?"
+rightAnswer="Рак"
+WrongAnswer1="Петух"
+WrongAnswer2="Соловей">
+  </Question>
+
+<Question quest ="Сколько гномов встретила Белоснежка?"
+rightAnswer="7"
+WrongAnswer1="3"
+WrongAnswer2="Ни одного">
+  </Question>
+
+  <Question quest ="Средство, с помощь которого врач избавляется от советов больного во время операции?"
+rightAnswer="Наркоз"
+WrongAnswer1="Молоток"
+WrongAnswer2="Кулак">
+  </Question>
+
+  <Question quest ="Служба рассылки коротких сообщений стандарта GSM?"
+rightAnswer="СМС"
+WrongAnswer1="ВВС"
+WrongAnswer2="ПМС">
+  </Question>
+
+  <Question quest ="Ссуда, выдаваемая кредитным учреждением под залог недвижимого имущества?"
+rightAnswer="Ипотека"
+WrongAnswer1="Паспорт"
+WrongAnswer2="Выписка">
+  </Question>
+
+<Question quest ="Стоп-кран у корабля?"
+rightAnswer="Якорь"
+WrongAnswer1="Узел"
+WrongAnswer2="Краник">
+  </Question>
+
+  <Question quest ="Властитель моря и всей водной стихии?"
+rightAnswer="Посейдон"
+WrongAnswer1="Гвидон"
+WrongAnswer2="Русал">
+  </Question>
+
+<Question quest ="Во что вживается артист?"
+rightAnswer="В образ"
+WrongAnswer1="В жизнь"
+WrongAnswer2="Ни во что">
+  </Question>
+
+  <Question quest ="Во что превращается коллектив без вожака?"
+rightAnswer="Стадо"
+WrongAnswer1="Газель"
+WrongAnswer2="Антиколлектив">
+  </Question>
+
+  <Question quest ="Военнослужащий, сбежавший с поля боя, из своей воинской части?"
+rightAnswer="Дезертир"
+WrongAnswer1="Беженец"
+WrongAnswer2="Предатель">
+  </Question>
+
+  <Question quest ="Возможно вы носили такие брюки, а возможно вы просто любите эти вкусные тропические плоды. Это ...?"
+rightAnswer="Банан"
+WrongAnswer1="Ананас"
+WrongAnswer2="Манго">
+  </Question>
+
+  <Question quest ="Воспитание детей в этом городе-государстве было столь суровым, что стало нарицательным. Что за город?"
+rightAnswer="Спарта"
+WrongAnswer1="Карта"
+WrongAnswer2="Викинг">
+  </Question>
+
+  <Question quest ="Как называется вскипевшая вода?"
+rightAnswer="Кипяток"
+WrongAnswer1="Горячка"
+WrongAnswer2="Кипелка">
+  </Question>
+
+<Question quest ="Вырез у шеи на женском платье (на груди, иногда и на спине)?"
+rightAnswer="Декольте"
+WrongAnswer1="Треугольник"
+WrongAnswer2="Овал">
+  </Question>
+  
+  <Question quest ="Какое слово можно составить из слова «апельсин»?"
+          rightAnswer="Спаниель"
+          WrongAnswer1="Сенатор"
+          WrongAnswer2="Собака">
+  </Question>
+
+  <Question quest ="Как называется теннисная площадка?"
+      rightAnswer="Корт"
+      WrongAnswer1="Поле"
+      WrongAnswer2="Пост">
+  </Question>
+
+  <Question quest ="То, что обычно не сбывается у метеоролога, но сбывается у врача?"
+      rightAnswer="Прогноз"
+      WrongAnswer1="Мечта"
+      WrongAnswer2="Сон">
+  </Question>
+
+  <Question quest ="Какой праздник мы отмечаем по два раза: по старому и новому стилю?"
+        rightAnswer="Новый Год"
+        WrongAnswer1="Масленица"
+        WrongAnswer2="Пасха">
+  </Question>
+
+  <Question quest ="Как называется русский старинный, но нестареющий танец у новогодней ёлки?"
+        rightAnswer="Хоровод"
+        WrongAnswer1="Полька"
+        WrongAnswer2="Калинка">
+  </Question>
+  
+  <Question quest ="Что назвал Леонардо да Винчи «соком жизни»?"
+        rightAnswer="Воду"
+        WrongAnswer1="Овощной сок"
+        WrongAnswer2="Кокосовое молоко">
+  </Question>
+
+<Question quest ="Продолжите пословицу: «Здоровье в аптеке...»?"
+        rightAnswer="Не купишь"
+        WrongAnswer1="Купишь"
+        WrongAnswer2="Не найдёшь">
+  </Question>
+  
+  <Question quest ="Отец отца или матери?"
+        rightAnswer="Дед"
+        WrongAnswer1="Сын"
+        WrongAnswer2="Прадед">
+  </Question> 
+  
+  <Question quest ="Первая – по библейскому сказанию – женщина на земле, прародительница человеческого рода?"
+      rightAnswer="Ева"
+      WrongAnswer1="Ива"
+      WrongAnswer2="Красота">
+  </Question>
+
+<Question quest ="Как называется аппарат для приготовления горячего напитка из молотых зерен кофе?"
+    rightAnswer="Кофеварка"
+    WrongAnswer1="Самовар"
+    WrongAnswer2="Кофевар">
+  </Question>
+  
+  <Question quest ="Как называют жителей или уроженцев Крыма?"
+    rightAnswer="Крымчанин"
+    WrongAnswer1="Крымчатскин"
+    WrongAnswer2="Крымслик">
+  </Question>
+
+  <Question quest ="Как называется потемнение кожи под влиянием солнечных лучей?"
+  rightAnswer="Загар"
+  WrongAnswer1="Ожог"
+  WrongAnswer2="Обморожение">
+  </Question>
+
+<Question quest ="Этот продукт «от семи недуг». О каком продукте идёт речь?"
+  rightAnswer="Лук"
+  WrongAnswer1="Шпинат"
+  WrongAnswer2="Эстрагон">
+  </Question>
+
+  <Question quest ="Человек, занимающийся фотографией?"
+rightAnswer="Фотограф"
+WrongAnswer1="Артист"
+WrongAnswer2="Аферист">
+  </Question>
+
+  <Question quest ="Что от любви теряют?"
+rightAnswer="Голову"
+WrongAnswer1="Руку"
+WrongAnswer2="Деньги">
+  </Question>
+
+<Question quest ="Человек, который владеет левой рукой лучше, чем правой?"
+rightAnswer="Левша"
+WrongAnswer1="Правша"
+WrongAnswer2="Умный">
+  </Question>
+
+  <Question quest ="Чтo cлeдyeт зa гpyбoe нapyшeниe пpaвил игpы в xoккee?"
+rightAnswer="Удаление"
+WrongAnswer1="Ускорение"
+WrongAnswer2="Уменьшение">
+  </Question>
+
+  <Question quest ="Почему кролики непрерывно что-то жуют?"
+rightAnswer="Стачивают зубы"
+WrongAnswer1="Набирают вес"
+WrongAnswer2="Копят еду в щеках">
+  </Question>
+
+<Question quest ="Какой рукой нужно есть суп?"
+rightAnswer="Ложкой"
+WrongAnswer1="Правой"
+WrongAnswer2="Левой">
+  </Question>
+
+  <Question quest ="Какая страна подарила миру свой открытый пирог – пиццу?"
+rightAnswer="Италия"
+WrongAnswer1="Россия"
+WrongAnswer2="Армения">
+  </Question>
+
+  <Question quest ="Из лепестков каких цветов варят варенье?"
+rightAnswer="Роз"
+WrongAnswer1="Тюльпанов"
+WrongAnswer2="Лилий">
+  </Question>
+
+  <Question quest ="Сколько длится век?"
+rightAnswer="Столетие"
+WrongAnswer1="Вечность"
+WrongAnswer2="Вечер">
+  </Question>
+
+<Question quest ="Что символизируют пять колец на Олимпийском флаге?"
+rightAnswer="Пять континентов"
+WrongAnswer1="Пять пальцев"
+WrongAnswer2="Лучшую оценку">
+  </Question>
+
+<Question quest ="Какой цветок назвали в честь мальчика Василия?"
+rightAnswer="Василёк"
+WrongAnswer1="Воронец"
+WrongAnswer2="Борец">
+  </Question>
+
+  <Question quest ="Какой цветок назван в честь профессора Петербургской Академии наук Иоганна Готлиба Георги?"
+rightAnswer="Георгин"
+WrongAnswer1="Аризема"
+WrongAnswer2="Маргаритка">
+  </Question>
+
+  <Question quest ="Какое животное плывёт к маме «по синему морю к зеленой земле» на корабле белого цвета?"
+rightAnswer="Мамонтёнок"
+WrongAnswer1="Дельфиненок"
+WrongAnswer2="Пингвинёнок">
+  </Question>
+
+<Question quest ="Чего НЕ может сделать папа из известной песни «Папа может всё, что угодно...»?"
+rightAnswer="Быть асом"
+WrongAnswer1="Плавать брассом"
+WrongAnswer2="Спорить басом">
+  </Question>
+
+  <Question quest ="Кто такой папа Карло?"
+rightAnswer="Отец Буратино"
+WrongAnswer1="Отец Чипполино"
+WrongAnswer2="Отец Мальвины">
+  </Question>
+
+  <Question quest ="Какие продукты питания принято относить к пасхальной обрядовой еде?"
+rightAnswer="Яйца, куличи"
+WrongAnswer1="Шаньги, молоко"
+WrongAnswer2="Сыр, масло">
+  </Question>
+
+  <Question quest ="Что волочится за дамским платьем?"
+rightAnswer="Шлейф"
+WrongAnswer1="Парень"
+WrongAnswer2="Собака">
+  </Question>
+
+  <Question quest ="Чтo пoмoглo пpинцy yзнaть в бeднo oдeтoй Зoлyшкe кpacaвицy кopoлeвcкoгo бaлa?"
+rightAnswer="Туфелька"
+WrongAnswer1="Зеркало"
+WrongAnswer2="Платье">
+  </Question>
+
+<Question quest ="Если вы будете употреблять в пищу эту лесную ягоду, то «глаз будет, как у орла». О какой ягоде идёт речь?"
+rightAnswer="Черника"
+WrongAnswer1="Клубника"
+WrongAnswer2="Земляника">
+  </Question>
+
+  <Question quest ="В кого превратился братец Иванушка, который не послушался сестрицу Аленушку?"
+rightAnswer="В козлёночка "
+WrongAnswer1="В барашка"
+WrongAnswer2="В волка">
+  </Question>
+
+  <Question quest ="В честь кого соус «бешамель» получил своё название?"
+rightAnswer="Маркиза Бешамель"
+WrongAnswer1="Царя Шамелеон"
+WrongAnswer2="Короля Артура">
+  </Question>
+
+<Question quest ="Как определить возраст спиленного дерева?"
+    rightAnswer="По кольцам на стволе"
+    WrongAnswer1="По размеру"
+    WrongAnswer2="По цвету коры">
+  </Question>
+
+  <Question quest ="Сочные гроздья ягоды служат десертом, а вьющиеся лианы украшают беседки и стены домов. Что это за ягода?"
+  rightAnswer="Виноград"
+  WrongAnswer1="Клубника"
+  WrongAnswer2="Крыжовник">
+  </Question>
+
+<Question quest ="Когда, по утверждению Пушкина, чудесный день?"
+rightAnswer="Когда мороз и солнце"
+WrongAnswer1="Когда в мороз ты дома"
+WrongAnswer2="Когда пасмурно и тепло">
+  </Question>
+
+<Question quest ="Что у обезьяны принято называть пятой рукой?"
+rightAnswer="Хвост"
+WrongAnswer1="Нос"
+WrongAnswer2="Уши">
+  </Question>
+  <Question quest ="Что, согласно песне, должна была сберечь Катюша, когда её возлюбленный оберегал родную землю от врагов?"
+rightAnswer="Любовь"
+WrongAnswer1="Яблони и груши"
+WrongAnswer2="Надежду">
+  </Question>
+
+  <Question quest ="Кто в известной песне кричал: «Наш Костя, кажется, влюбился!»?"
+rightAnswer="Грузчики"
+WrongAnswer1="Рыбачка Соня"
+WrongAnswer2="Лоцманы">
+  </Question>
+    
+  <Question quest ="Как звали русскую женщину, первой оторвавшейся от земли на аппарате тяжелее воздуха?"
+rightAnswer="Баба-Яга"
+WrongAnswer1="Гермиона"
+WrongAnswer2="Терешкова">
+  </Question>
+
+
+</root>

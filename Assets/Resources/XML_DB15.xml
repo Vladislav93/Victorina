@@ -1,0 +1,525 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <Question quest ="За 2 ч в кафе съедают 24 кг мороженого. А сколько его съедают за 20 мин?"
+  rightAnswer="4 кг"
+  WrongAnswer1="12 кг"
+  WrongAnswer2="3 кг">
+  </Question>
+
+<Question quest ="Какие два числа, если их перемножить, дают столько же, сколько получается при их сложении?"
+  rightAnswer="2 и 2"
+  WrongAnswer1="3 и 3"
+  WrongAnswer2="1 и 1">
+  </Question>
+
+  <Question quest ="Очередь. Один и тот же человек оказался пятым с конца и третьим с начала. Сколько всего человек в очереди?"
+rightAnswer="7 человек"
+WrongAnswer1="8 человек"
+WrongAnswer2="5 человек">
+  </Question>
+
+  <Question quest ="Два человека играли вдвоём 2 часа в шахматы. Сколько всего времени играл каждый?"
+rightAnswer="2 часа?"
+WrongAnswer1="1 час"
+WrongAnswer2="4 часа">
+  </Question>
+
+  <Question quest ="У Маши живет несколько собак. После прогулки в ненастную погоду она помыла 12 лап. Сколько собак у Маши?"
+rightAnswer="3 собаки"
+WrongAnswer1="4 собаки"
+WrongAnswer2="6 собак">
+  </Question>
+
+  <Question quest ="Объявление: «Цены увеличены на 1%». Сколько надо теперь платить за товар, который стоил 2000 рублей?"
+rightAnswer="2020 рублей"
+WrongAnswer1="2010 рублей"
+WrongAnswer2="2001 рубль">
+  </Question>
+
+  <Question quest ="У отца 6 сыновей. Каждый сын имеет сестру. Сколько детей у отца?"
+rightAnswer="7 "
+WrongAnswer1="12"
+WrongAnswer2="36">
+  </Question>
+  
+<Question quest ="Сколько этажей было в первом небоскрёбе, построенном в 1883 году в Чикаго, США?"
+rightAnswer="11"
+WrongAnswer1="25"
+WrongAnswer2="60">
+  </Question>
+
+<Question quest ="Как в старину называли железную дорогу?"
+rightAnswer="Чугунка"
+WrongAnswer1="Серебрянка"
+WrongAnswer2="Жестянка">
+  </Question>
+
+<Question quest ="Где находится Центральный музей железнодорожного транспорта России?"
+rightAnswer="В Санкт-Петербурге"
+WrongAnswer1="В Москве"
+WrongAnswer2="В Новосибирске">
+  </Question>
+
+<Question quest ="Как называется площадка, на которой может остановиться пешеход при переходе дороги?"
+rightAnswer="Островок безопасности"
+WrongAnswer1="Мыс спасения"
+WrongAnswer2="Безопасное поле">
+  </Question>
+
+<Question quest ="С какого возраста разрешается ездить на велосипеде по проезжей части?"
+rightAnswer="С 14 лет"
+WrongAnswer1="С 16 лет"
+WrongAnswer2="С 18 лет">
+  </Question>
+
+<Question quest ="Какой кодекс предусматривает ответственность за проезд на красный свет?"
+rightAnswer="Административный"
+WrongAnswer1="Уголовный"
+WrongAnswer2="Налоговый">
+  </Question>
+
+<Question quest ="Что из этого не является транспортным средством?"
+rightAnswer="Троллиус"
+WrongAnswer1="Омнибус"
+WrongAnswer2="Троллейвоз">
+  </Question>
+
+<Question quest ="С какого возраста ребёнок может сидеть один на первом сиденье автомобиля, что рядом с водителем?"
+rightAnswer="С 12 лет"
+WrongAnswer1="С 14 лет"
+WrongAnswer2="С 16 лет">
+  </Question>
+
+<Question quest ="Где, согласно этикету, находится самое почётное место в салоне такси?"
+rightAnswer="Сзади справа"
+WrongAnswer1="За водителем"
+WrongAnswer2="Рядом с водителем">
+  </Question>
+
+<Question quest ="Что можно увидеть на автомобиле?"
+rightAnswer="Кенгурятник"
+WrongAnswer1="Жирафник"
+WrongAnswer2="Слоновник">
+  </Question>
+
+<Question quest ="Кто из этих великих россиян не был Александром?"
+rightAnswer="Репин"
+WrongAnswer1="Грибоедов"
+WrongAnswer2="Невский">
+  </Question>
+
+<Question quest ="Как называется наука, изучающая горные породы?"
+rightAnswer="Петрология"
+WrongAnswer1="Егорология"
+WrongAnswer2="Горология">
+  </Question>
+
+<Question quest ="Какой флаг развевается над кормой кораблей российского ВМФ?"
+rightAnswer="Андреевский"
+WrongAnswer1="Петровский"
+WrongAnswer2="Владимирский">
+  </Question>
+
+<Question quest ="Какой город есть в Приморском крае России?"
+rightAnswer="Артём"
+WrongAnswer1="Емельян"
+WrongAnswer2="Борис">
+  </Question>
+
+<Question quest ="Кто был обладателем волшебного цветка из сказки В. Катаева «Цветик-семицветик»?"
+rightAnswer="Женя"
+WrongAnswer1="Алиса"
+WrongAnswer2="Оля">
+  </Question>
+
+<Question quest ="Помаду какого цвета использовали первые дикторы телевидения?"
+rightAnswer="Зелёного"
+WrongAnswer1="Чёрного"
+WrongAnswer2="Белого">
+  </Question>
+
+<Question quest ="Из чего древние римляне делали пудру?"
+rightAnswer="Из фасоли"
+WrongAnswer1="Из мела"
+WrongAnswer2="Из яичной скорлупы">
+  </Question>
+
+<Question quest ="Что из этого НЕ является шарфом?"
+rightAnswer="Манто"
+WrongAnswer1="Палантин"
+WrongAnswer2="Кашне">
+  </Question>
+
+<Question quest ="Какая из этих тканей является искусственной?"
+rightAnswer="Вискоза"
+WrongAnswer1="Сатин"
+WrongAnswer2="Крепдешин">
+  </Question>
+
+<Question quest ="Название какого из этих материалов в переводе с французского означает «тряпка»?"
+rightAnswer="Шифон"
+WrongAnswer1="Плюш"
+WrongAnswer2="Вельвет">
+  </Question>
+
+<Question quest ="Какая из этих тканей шерстяная?"
+rightAnswer="Драп"
+WrongAnswer1="Вельвет"
+WrongAnswer2="Бязь">
+  </Question>
+
+<Question quest ="Как называют короткое, случайное знакомство?"
+rightAnswer="Шапочное"
+WrongAnswer1="Шляпное"
+WrongAnswer2="Платочное">
+  </Question>
+
+<Question quest ="Как называется головной убор Папы Римского, имеющий вид тройной короны?"
+rightAnswer="Тиара"
+WrongAnswer1="Триада"
+WrongAnswer2="Тирада">
+  </Question>
+
+<Question quest ="В какой стране существует Академия кухни?"
+rightAnswer="Франция"
+WrongAnswer1="Китай"
+WrongAnswer2="Италия">
+  </Question>
+
+<Question quest ="Какой из этих русских супов не относится к холодным?"
+rightAnswer="Рассольник"
+WrongAnswer1="Свекольник"
+WrongAnswer2="Ботвинья">
+  </Question>
+
+<Question quest ="Какое из этих грузинских слов не обозначает названия грузинского блюда?"
+rightAnswer="Лари"
+WrongAnswer1="Лобио"
+WrongAnswer2="Бастурма">
+  </Question>
+
+<Question quest ="Из какой крупы готовят легендарную Гурьевскую кашу?"
+rightAnswer="Манной"
+WrongAnswer1="Гречневой"
+WrongAnswer2="Пшённой">
+  </Question>
+
+<Question quest ="Чем был персонаж известной русской сказки Колобок?"
+rightAnswer="Пряником"
+WrongAnswer1="Хлебом"
+WrongAnswer2="Пирогом">
+  </Question>
+
+<Question quest ="Какое из этих кулинарных блюд называют бланманже?"
+rightAnswer="Молочное желе"
+WrongAnswer1="Мясной паштет"
+WrongAnswer2="Овощное рагу">
+  </Question>
+
+<Question quest ="Название какого кондитерского изделия переводится с немецкого как «водоворот, пучина»?"
+rightAnswer="Штрудель"
+WrongAnswer1="Безе"
+WrongAnswer2="Эклер">
+  </Question>
+
+<Question quest ="Что представляет из себя японская приправа васаби?"
+rightAnswer="Хрен"
+WrongAnswer1="Горчица"
+WrongAnswer2="Водоросли">
+  </Question>
+
+<Question quest ="Какая страна – родина кетчупа?"
+rightAnswer="США"
+WrongAnswer1="Мексика"
+WrongAnswer2="Болгария">
+  </Question>
+
+<Question quest ="Из какого молока изготавливается греческий сыр фета?"
+rightAnswer="Овечьего"
+WrongAnswer1="Коровьего"
+WrongAnswer2="Кобыльего">
+  </Question>
+
+<Question quest ="Из семян какого растения делают тахинную халву?"
+rightAnswer="Кунжут"
+WrongAnswer1="Подсолнечник"
+WrongAnswer2="Миндаль">
+  </Question>
+
+<Question quest ="Сколько полных чайных ложек жидкости помещается в столовой ложке?"
+rightAnswer="3"
+WrongAnswer1="5"
+WrongAnswer2="7">
+  </Question>
+
+<Question quest ="Что из этого варят в тазу?"
+rightAnswer="Варенье"
+WrongAnswer1="Кашу"
+WrongAnswer2="Компот">
+  </Question>
+
+<Question quest ="Из стебля какого растения в славянской кухне варят кисель?"
+rightAnswer="Ревень"
+WrongAnswer1="Кукуруза"
+WrongAnswer2="Артишок">
+  </Question>
+
+<Question quest ="Как заканчивается известный афоризм: «Читатели читают, а почитатели…»?"
+rightAnswer="Почитывают"
+WrongAnswer1="Ликуют"
+WrongAnswer2="Пекутся">
+  </Question>
+
+<Question quest ="Чей день рождения – 2 апреля – отмечается ежегодно как Международный день детской книги?"
+rightAnswer="Андерсена"
+WrongAnswer1="Шарля Перро"
+WrongAnswer2="Маршака">
+  </Question>
+
+<Question quest ="Какая первая составная часть сложных слов соответствует по значению слову «книга»?"
+rightAnswer="Библио…"
+WrongAnswer1="Био..."
+WrongAnswer2="Графо…">
+  </Question>
+
+<Question quest ="Как на латинском языке звучит слово «книга»?"
+rightAnswer="Кодекс"
+WrongAnswer1="Конституция"
+WrongAnswer2="Документ">
+  </Question>
+
+<Question quest ="Для чего в библиотеках древности стояли вёдра?"
+rightAnswer="Для свитков"
+WrongAnswer1="Для мусора"
+WrongAnswer2="От пожара">
+  </Question>
+
+<Question quest ="Как назывались российские комиксы в старину?"
+rightAnswer="Лубок"
+WrongAnswer1="Лыко"
+WrongAnswer2="Дранка">
+  </Question>
+
+<Question quest ="На каких зданиях в Древней Греции была надпись: «Здесь живут мёртвые и говорят немые»?"
+rightAnswer="На библиотеках"
+WrongAnswer1="На мавзолеях"
+WrongAnswer2="На гимнасиях">
+  </Question>
+
+<Question quest ="Как на Руси называлась библиотека?"
+rightAnswer="Книговник"
+WrongAnswer1="Книгочея"
+WrongAnswer2="Книжница">
+  </Question>
+
+<Question quest ="Как назывался культурно-просветительский пункт в российской деревне до начала 70-х гг. прошлого века?"
+rightAnswer="Изба-читальня"
+WrongAnswer1="Читальный двор"
+WrongAnswer2="Книжная палата">
+  </Question>
+
+<Question quest ="Как называется сборник избранных произведений разных литературных авторов?"
+rightAnswer="Антология"
+WrongAnswer1="Антропология"
+WrongAnswer2="Альманах">
+  </Question>
+
+<Question quest ="Как называют книжную вошь, поедающую книги?"
+rightAnswer="Книгоед"
+WrongAnswer1="Книголюб"
+WrongAnswer2="Книгоман">
+  </Question>
+
+<Question quest ="По какой книге на Руси выбирали имя новорожденному?"
+rightAnswer="Святцы"
+WrongAnswer1="Библия"
+WrongAnswer2="Евангелие">
+  </Question>
+
+<Question quest ="Как называют книгу с репродукциями?"
+rightAnswer="Альбом"
+WrongAnswer1="Буклет"
+WrongAnswer2="Хрестоматия">
+  </Question>
+
+<Question quest =" Какой из этих работников книжного издательства выполняет работу, которая напоминает проверку диктанта учителем? "
+rightAnswer="Корректор"
+WrongAnswer1="Переплётчик"
+WrongAnswer2="Наборщик">
+  </Question>
+
+<Question quest ="До 16-го века крышки переплётов книг были... Какими?"
+rightAnswer="Деревянными"
+WrongAnswer1="Железными"
+WrongAnswer2="Картонными">
+  </Question>
+
+<Question quest ="Какая страна была освобождена советскими войсками после взятия Берлина в 1945 году?"
+rightAnswer="Чехословакия"
+WrongAnswer1="Польша"
+WrongAnswer2="Болгария">
+  </Question>
+
+<Question quest ="Как заканчивается крылатая фраза, актуальная и в наши дни: «Награда…»?"
+rightAnswer="Нашла героя"
+WrongAnswer1="Нашла покой"
+WrongAnswer2="Взяла верх">
+  </Question>
+
+<Question quest ="Каким веществом натирали дощечки для письма в школах Древней Греции?"
+rightAnswer="Воском"
+WrongAnswer1="Золой"
+WrongAnswer2="Маслом">
+  </Question>
+
+<Question quest ="Кто является автором слов: «Мы все учились понемногу чему-нибудь и как-нибудь»?"
+rightAnswer="Пушкин"
+WrongAnswer1="Лермонтов"
+WrongAnswer2="Крылов ">
+  </Question>
+
+<Question quest ="Каким «математическим» определением характеризуют человека с недостаточными познаниями?"
+rightAnswer="Ограниченный"
+WrongAnswer1="Замкнутый"
+WrongAnswer2="Угловатый">
+  </Question>
+
+<Question quest ="Как ещё называют школьных хорошистов? "
+rightAnswer="Ударник"
+WrongAnswer1="Маэстро"
+WrongAnswer2="Трубач">
+  </Question>
+
+<Question quest ="Как звучит философское окончание русской пословицы: «Век живи, век учись – ...»?"
+rightAnswer="Дураком помрёшь"
+WrongAnswer1="В люди выйдешь"
+WrongAnswer2="Богатым будешь">
+  </Question>
+
+<Question quest ="Название какой школьной принадлежности переводится с тюркского языка как «чёрный камень»?"
+rightAnswer="Карандаш"
+WrongAnswer1="Циркуль"
+WrongAnswer2="Мел">
+  </Question>
+
+<Question quest ="Слово «шпаргалка» произошло от греческого «спарган». Что означает это слово?"
+rightAnswer="Грязные пелёнки"
+WrongAnswer1="Тайные записи"
+WrongAnswer2="Грязный пергамент">
+  </Question>
+
+<Question quest ="Что обычно изучают в лингафонных кабинетах?"
+rightAnswer="Иностранный язык"
+WrongAnswer1="Химию"
+WrongAnswer2="Анатомию">
+  </Question>
+
+<Question quest ="Название какой науки произошло от слова «природа»?"
+rightAnswer="Физика"
+WrongAnswer1="Биология"
+WrongAnswer2="География">
+  </Question>
+
+<Question quest ="В какой стране лучшей оценкой знаний школьников является единица?"
+rightAnswer="В Германии"
+WrongAnswer1="Во Франции"
+WrongAnswer2="В Греции">
+  </Question>
+
+<Question quest ="Что является на Кубе и в Исландии обязательным школьным предметом?"
+rightAnswer="Шахматы"
+WrongAnswer1="Домино"
+WrongAnswer2="Бильярд">
+  </Question>
+
+<Question quest ="Что из себя представляют конфеты «Школьные»?"
+rightAnswer="Помадка сливочная"
+WrongAnswer1="Шоколад с орехом"
+WrongAnswer2="Карамель леденцовая">
+  </Question>
+
+<Question quest ="Как в Древних Афинах называли раба, сопровождавшего мальчика в школу?"
+rightAnswer="Педагог"
+WrongAnswer1="Директор"
+WrongAnswer2="Завуч">
+  </Question>
+
+<Question quest ="Какое пропущено слово в афоризме Аристотеля: «Ничто так прочно не запоминают ученики, как … своих учителей»?"
+rightAnswer="Ошибки"
+WrongAnswer1="Занятия"
+WrongAnswer2="Уроки">
+  </Question>
+
+<Question quest ="Как японцы обращаются к своему учителю?"
+rightAnswer="Сэнсэй"
+WrongAnswer1="Самурай"
+WrongAnswer2="Камикадзе">
+  </Question>
+
+<Question quest ="Кто автор слов детской песни «Чему учат в школе»?"
+rightAnswer="Пляцковский"
+WrongAnswer1="Орлов"
+WrongAnswer2="Энтин">
+  </Question>
+
+<Question quest ="«Учителями славится Россия. Ученики приносят славу ей. Не смейте забывать учителей!» Кто автор этих строк?"
+rightAnswer="Андрей Дементьев"
+WrongAnswer1="Эдуард Асадов"
+WrongAnswer2="Чингиз Айтматов">
+  </Question>
+
+<Question quest ="Сколько основных видов хоккея существует на настоящее время?"
+rightAnswer="4"
+WrongAnswer1="1"
+WrongAnswer2="3">
+  </Question>
+
+<Question quest ="Как называется хоккейный «асфальтовый каток»?"
+rightAnswer="Ринк"
+WrongAnswer1="Трек"
+WrongAnswer2="Дохё">
+  </Question>
+
+<Question quest ="Каким цветом окрашиваются линии, делящие ледяную хоккейную площадку на зоны?"
+rightAnswer="Синим"
+WrongAnswer1="Зелёным"
+WrongAnswer2="Красным">
+  </Question>
+
+<Question quest ="С чего начинается хоккейный матч?"
+rightAnswer="С подачи"
+WrongAnswer1="С вбрасывания"
+WrongAnswer2="С буллита">
+  </Question>
+
+<Question quest ="Какое наказание для игрока не предусмотрено правилами хоккея на льду?"
+rightAnswer=" Конфискация клюшки"
+WrongAnswer1="Малый штраф"
+WrongAnswer2="Удаление">
+  </Question>
+
+<Question quest ="В каком из этих олимпийских видов спорта команда состоит из пяти полевых игроков и вратаря?"
+rightAnswer="Хоккей"
+WrongAnswer1="Бейсбол"
+WrongAnswer2="Ватерполо">
+  </Question>
+
+<Question quest ="Какой «дробный» член есть в хоккейной команде?"
+rightAnswer="Полузащитник"
+WrongAnswer1="Полувратарь"
+WrongAnswer2="Полунападающий">
+  </Question>
+
+<Question quest ="Что сделал хоккеист, забивший гол после счёта 0:0?"
+rightAnswer="Размочил счёт"
+WrongAnswer1="Разбавил счёт"
+WrongAnswer2="Разморозил счёт">
+  </Question>
+
+<Question quest ="В каком свитере выходит на игровую площадку хоккейный арбитр?"
+rightAnswer="В полосатом"
+WrongAnswer1="В клетчатом"
+WrongAnswer2="В чёрном">
+  </Question>
+
+</root>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Кто из этих знаменитых сыщиков бельгиец?" rightAnswer="Эркюль Пуаро" WrongAnswer1="Ниро Вульф" WrongAnswer2="Огюст Дюпен" />
+  <Question quest="Кто из этих знаменитых сыщиков француз?" rightAnswer="Жюль Мегрэ" WrongAnswer1="Ниро Вульф" WrongAnswer2="Огюст Дюпен" />
+  <Question quest="Как мусульмане называют судью, который рассматривает дела на основе шариата?" rightAnswer="Кади" WrongAnswer1="Хаджа" WrongAnswer2="Мулла" />
+  <Question quest="Что изучают уфологи?" rightAnswer="НЛО" WrongAnswer1="Историю города Уфы" WrongAnswer2="Мифологию Египта" />
+  <Question quest="Назовите место трагической гибели мореплавателя Джеймса Кука?" rightAnswer="Гавайский острова" WrongAnswer1="Острова Гилберта" WrongAnswer2="Тасмания" />
+  <Question quest="Кто из этих художников является автором картины 'Опять двойка'?" rightAnswer="Федор Решетников" WrongAnswer1="Татьяна Яблонская" WrongAnswer2="Аркадий Пластов" />
+  <Question quest="Какая из этих дисциплин не относится к 'семи рыцарским добродетелям' эпохи Средневековья?" rightAnswer="Кулачный бой" WrongAnswer1="Плавание" WrongAnswer2="Фехтование" />
+  <Question quest="Какому атрибуту современной одежды соответствует старинный камзол?" rightAnswer="Жилет" WrongAnswer1="Пиджак" WrongAnswer2="Плащ" />
+  <Question quest="Вид аэробики, где используется резиновая лента?" rightAnswer="Тераробика" WrongAnswer1="Памп-аэробика" WrongAnswer2="Сайкл-аэробика" />
+  <Question quest="Чему равна сумма чисел, нанесенных на колесо рулетки в казино?" rightAnswer="666" WrongAnswer1="333" WrongAnswer2="777" />
+  <Question quest="К какому сорту вин принадлежит изысканная 'Вдова Клико'?" rightAnswer="Шампанское" WrongAnswer1="Столовое" WrongAnswer2="Игристое" />
+  <Question quest="Кто из голливудских звезд являлся партнером Джулии Робертс в фильме 'Красотка'?" rightAnswer="Ричард Гир" WrongAnswer1="Микки Рурк" WrongAnswer2="Том Круз" />
+  <Question quest="Какой танец принято танцевать под мелодию 'Брызги шампанского'?" rightAnswer="Танго" WrongAnswer1="Твист" WrongAnswer2="Вальс" />
+  <Question quest="Какая из этих колбас относится к сырокопченым?" rightAnswer="'Московская'" WrongAnswer1="'Полтавская'" WrongAnswer2="'Краковская'" />
+  <Question quest="Границу какой страны пытался перейти Остап Бендер в финале романа 'Золотой теленок'?" rightAnswer="Румынии" WrongAnswer1="Венгрии" WrongAnswer2="Польши" />
+  <Question quest="Какой из этих видов одежды получил название не от фамилии?" rightAnswer="Смокинг" WrongAnswer1="Реглан" WrongAnswer2="Френч" />
+  <Question quest="Как звали музу кинорежиссера Феллини - актрису Мазину?" rightAnswer="Джульетта" WrongAnswer1="Беатриче" WrongAnswer2="Лаура" />
+  <Question quest="Как называется один из сортов горького шоколада?" rightAnswer="Гвардейский" WrongAnswer1="Маршальский" WrongAnswer2="Офицерский" />
+  <Question quest="Какая актриса сыграла главную роль в фильме 'Весна'?" rightAnswer="Любовь Орлова" WrongAnswer1="Вера Марецкая" WrongAnswer2="Зоя Федорова" />
+  <Question quest="Как называется надмогильная насыпь из земли и камня?" rightAnswer="Курган" WrongAnswer1="Котловина" WrongAnswer2="Бархан" />
+  <Question quest="На каком материке Земли нет вулканов?" rightAnswer="Австралия" WrongAnswer1="Африка" WrongAnswer2="Антарктида" />
+  <Question quest="Что из перечисленного является металлом, а не сплавом?" rightAnswer="Никель" WrongAnswer1="Сталь" WrongAnswer2="Латунь" />
+  <Question quest="Кто из этих актеров сыграл маршала Жукова в двенадцати кинофильмах?" rightAnswer="Михаил Ульянов" WrongAnswer1="Юрий Соломин" WrongAnswer2="Евгений Матвеев" />
+  <Question quest="Какое масличное растение называется 'сезам'?" rightAnswer="Кунжут" WrongAnswer1="Мак" WrongAnswer2="Горчица" />
+  <Question quest="Что не относится к добрым спутникам настоящего мужчины, по мнению барона Мюнхаузена?" rightAnswer="Красавица" WrongAnswer1="Штопор" WrongAnswer2="Шпага" />
+  <Question quest="Какой из этих символов чаще всего встречается на государственных флагах стран мира?" rightAnswer="Звезда" WrongAnswer1="Полумесяц" WrongAnswer2="Солнце" />
+  <Question quest="Что предназначено для доставки воды?" rightAnswer="Акведук" WrongAnswer1="Кулуар" WrongAnswer2="Виадук" />
+  <Question quest="Призом какого кинофестиваля является 'Золотой лев'?" rightAnswer="Венецианского" WrongAnswer1="Московского" WrongAnswer2="Каннского" />
+  <Question quest="В какой стране возникли цифры, которые сегодня называют арабскими?" rightAnswer="Индия" WrongAnswer1="Китай" WrongAnswer2="Египет" />
+  <Question quest="Каким из этих столовых приборов запрещалось пользоваться монахам вплоть до XVIII века?" rightAnswer="Вилка" WrongAnswer1="Столовая ложка" WrongAnswer2="Чайная ложка" />
+  <Question quest="В каком курортном поселке города Сочи расположен аэропорт?" rightAnswer="Адлер" WrongAnswer1="Хоста" WrongAnswer2="Дагомыс" />
+  <Question quest="В какой профессиональной среде используется термин 'пленэр'?" rightAnswer="Художников" WrongAnswer1="Лесничих" WrongAnswer2="Синоптиков" />
+  <Question quest="Какой писатель считал, что 'краткость-сестра таланта'?" rightAnswer="Чехов" WrongAnswer1="Пушкин" WrongAnswer2="Блок" />
+  <Question quest="В каком городе прошла премьера первого кинофильма?" rightAnswer="Париж" WrongAnswer1="Лондон" WrongAnswer2="Нью-Йорк" />
+  <Question quest="Какое название в 20-е годы XX века носил жанр театрализованной агитации в СССР?" rightAnswer="'Синяя блуза'" WrongAnswer1="'Белый воротничок'" WrongAnswer2="'Красная рубаха'" />
+  <Question quest="В каком году была создана Уильямом Шикардом первая 'считающая машина'?" rightAnswer="1623г." WrongAnswer1="1824г." WrongAnswer2="1925г." />
+  <Question quest="Эфедрин был впервые получен из растения, которое в народе называется?" rightAnswer="Трава Кузьмича" WrongAnswer1="Эфедрос" WrongAnswer2="Столетник" />
+  <Question quest="В какой стране находится знаменитый курорт 'Карловы Вары'?" rightAnswer="Чехия" WrongAnswer1="Польша" WrongAnswer2="Болгария" />
+  <Question quest="Как называется часть гитарного грифа?" rightAnswer="Пятка" WrongAnswer1="Стопа" WrongAnswer2="Лодыжка" />
+  <Question quest="В каком журнале состоялась первая отечественная публикация 'Архипелага Гулаг'?" rightAnswer="Новый мир" WrongAnswer1="Октябрь" WrongAnswer2="Наш современник" />
+  <Question quest="Как в трагедии Шекспира Отелло поставил точку в жизни Дездемоны?" rightAnswer="Заколол" WrongAnswer1="Зарубил" WrongAnswer2="Отравил" />
+  <Question quest="Как назвалась первая футбольная команда в Узбекистане?" rightAnswer="Мускоманда" WrongAnswer1="Коканд" WrongAnswer2="Нефтяник" />
+  <Question quest="Тоннель какой длинны может вырыть крот за 1 ночь?" rightAnswer="90 м" WrongAnswer1="5 м" WrongAnswer2="15 м" />
+  <Question quest="Чему равен 1 фурлонг?" rightAnswer="201,168 м" WrongAnswer1="1,85318 км" WrongAnswer2="2,54 мм" />
+  <Question quest="Хуан Морено-и-Эррера Хименес известен как ...?" rightAnswer="Жан Рено" WrongAnswer1="Люк Бессон" WrongAnswer2="Жан Кокто" />
+  <Question quest="Палласов кот также известен как ...?" rightAnswer="Манул" WrongAnswer1="Сервал" WrongAnswer2="Пума" />
+  <Question quest="Лидер Исламской революции 1979 года в Иране?" rightAnswer="Хомейни" WrongAnswer1="Хаменеи" WrongAnswer2="Рушди" />
+  <Question quest="В каком году вышел первый фильм о Годзилле?" rightAnswer="1954" WrongAnswer1="1984" WrongAnswer2="1962" />
+  <Question quest="Год начала войны за независимость США?" rightAnswer="1775" WrongAnswer1="1773" WrongAnswer2="1783" />
+  <Question quest="Город Дакка является столицей ...?" rightAnswer="Бангладеш" WrongAnswer1="Непала" WrongAnswer2="Пакистана" />
+  <Question quest="Первый противотанковый гранатомёт создан в ...?" rightAnswer="Германии" WrongAnswer1="Японии" WrongAnswer2="СССР" />
+  <Question quest="Кого называли «лисом пустыни»?" rightAnswer="Роммель" WrongAnswer1="Клейст" WrongAnswer2="Паулюс" />
+  <Question quest="В какой стране находится город Ургенч?" rightAnswer="Узбекистан" WrongAnswer1="Таджикистан" WrongAnswer2="Афганистан" />
+  <Question quest="Имя известного немецкого диверсанта Скорцени?" rightAnswer="Отто" WrongAnswer1="Ганс" WrongAnswer2="Фриц" />
+  <Question quest="В какой стране находится город Сан-Сити?" rightAnswer="ЮАР" WrongAnswer1="ОАЭ" WrongAnswer2="Австралия" />
+  <Question quest="Чьей дочерью была Персефона?" rightAnswer="Зевс" WrongAnswer1="Посейдон" WrongAnswer2="Дионис" />
+  <Question quest="Родина Тура Хейердала?" rightAnswer="Норвегия" WrongAnswer1="Швеция" WrongAnswer2="Дания" />
+  <Question quest="С какой страной Румыния граничит по Дунаю?" rightAnswer="Болгария" WrongAnswer1="Венгрия" WrongAnswer2="Молдавия" />
+  <Question quest="Где лошадь не нужна?" rightAnswer="В бобслее" WrongAnswer1="В поло" WrongAnswer2="В конкуре" />
+  <Question quest="Где был запатентован саксофон?" rightAnswer="В Париже" WrongAnswer1="В Милане" WrongAnswer2="В Берне" />
+  </root>

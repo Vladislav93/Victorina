@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+<Question quest ="Сколько рублей было в русском золотом червонце, выпущенном в обращение при Петре Первом?"
+rightAnswer="3"
+WrongAnswer1="5"
+WrongAnswer2="10">
+  </Question>
+
+<Question quest ="В 1991 году был издан указ об обмене 50-и и 100-рублёвых купюр. Какой срок был отведён для этой операции?"
+rightAnswer="3 дня"
+WrongAnswer1="3 недели"
+WrongAnswer2="3 месяца">
+  </Question>
+
+<Question quest ="Какой российской купюре в 2011 году поставили памятник в Красноярске?"
+rightAnswer="10-рублёвой"
+WrongAnswer1="100-рублёвой"
+WrongAnswer2=" 50-рублёвой">
+  </Question>
+
+<Question quest ="В какой из этих стран вы будете расплачиваться не рупиями?"
+rightAnswer="Бангладеш"
+WrongAnswer1="Пакистан"
+WrongAnswer2="Непал">
+  </Question>
+
+<Question quest ="Как назывались лунные деньги в книге Николая Носова «Незнайка на Луне»?"
+rightAnswer="Фантинги и сантики"
+WrongAnswer1="Фунтинги и стелинги"
+WrongAnswer2="Фантики и бантики">
+  </Question>
+
+<Question quest ="Что из перечисленного означает «молодой городской профессиональный человек»?"
+rightAnswer="Яппи"
+WrongAnswer1="Денди"
+WrongAnswer2="Сноб">
+  </Question>
+
+<Question quest ="Когда Крым официально стал частью России?"
+rightAnswer="21 марта 2014"
+WrongAnswer1="18 марта 2014"
+WrongAnswer2="11 марта 2014">
+  </Question>
+
+<Question quest ="По версии Time человеком года 2012 стал...?"
+rightAnswer="Барак Обама"
+WrongAnswer1="Владимир Путин"
+WrongAnswer2="Ангела Меркель">
+  </Question>
+
+<Question quest ="В 2014 году была запущена отечественная поисковая система. Как она называется?"
+rightAnswer="Спутник"
+WrongAnswer1="Флаг"
+WrongAnswer2="Россия-1">
+  </Question>
+<Question quest ="Японец учится делать это в 10 раз медленнее европейца, но, научившись, делает это в 4 раза быстрее. Что?"
+rightAnswer="Пишет"
+WrongAnswer1="Рисует"
+WrongAnswer2="Жуёт">
+  </Question>
+<Question quest ="До сих пор в Японии существуют три вида подчинений: дочерей – родителям, жены – мужу, а вдовы – ...?"
+rightAnswer="Старшему сыну"
+WrongAnswer1="Свекрови"
+WrongAnswer2="Свекру">
+  </Question>
+<Question quest ="Иероглиф «чай» в Китае имеет и второе значение. Какое?"
+rightAnswer="Бодрость"
+WrongAnswer1="Здоровье"
+WrongAnswer2="Красота">
+  </Question>
+<Question quest ="У нас при встрече принято пожимать друг другу руки, а у китайцев – нет. Как они приветствуют друг друга?"
+rightAnswer="Пожимают руки сами себе"
+WrongAnswer1="Кланяются и машут рукой"
+WrongAnswer2="Кивком головы">
+  </Question>
+<Question quest ="Все собаки у китайцев делятся на три категории: сторожевые, охотничьи и... Какие еще?"
+rightAnswer="Съедобные"
+WrongAnswer1="Карликовые"
+WrongAnswer2="Поводыри">
+  </Question>
+<Question quest ="В Китае официальный минимум равен 1500, для рабочих – 2000, для окончивших школу, – 4000. Чего?"
+rightAnswer="Иероглифов"
+WrongAnswer1="Юаней"
+WrongAnswer2="Рабочих дней">
+  </Question>
+<Question quest ="Достаточная длина чего служила в Китае признаком высокого происхождения?"
+rightAnswer="Ногти"
+WrongAnswer1="Пальцы"
+WrongAnswer2="Ступни">
+  </Question>
+
+<Question quest ="Деликатесное китайское блюдо «Бой дракона с тигром» состоит из змеи и …?"
+rightAnswer="Кошки"
+WrongAnswer1="Собаки"
+WrongAnswer2="Ехидны">
+  </Question>
+
+<Question quest ="В переводе с итальянского название этого десерта - «вареные сливки». Что это за десерт?"
+rightAnswer="Панна котта"
+WrongAnswer1="Рикотта"
+WrongAnswer2="Семифредо">
+  </Question>
+
+<Question quest =" Очень ароматный и вкусный чай из Южной Африки. В переводе его название означает «красный кустарник»?"
+rightAnswer="Ройбуш"
+WrongAnswer1="Мате"
+WrongAnswer2="Оолонг">
+  </Question>
+
+<Question quest ="Когда был приготовлен первый гамбургер?"
+rightAnswer="В 1885 году"
+WrongAnswer1="В 1935 году"
+WrongAnswer2="В 1985 году">
+  </Question>
+
+<Question quest ="Какое растение подарило миру чай?"
+rightAnswer="Camellia sinensis"
+WrongAnswer1="Actinidia deliciosa"
+WrongAnswer2="Чайное дерево">
+  </Question>
+
+<Question quest ="Какой чай содержит больше кофеина?"
+rightAnswer="Зелёный"
+WrongAnswer1="Чёрный"
+WrongAnswer2="Красный">
+  </Question>
+
+<Question quest ="Витамин С необходим для выработки организмом чего?"
+rightAnswer="Коллагена"
+WrongAnswer1="Аскорбиновой кислоты"
+WrongAnswer2="Гормона роста">
+  </Question>
+
+<Question quest ="В каком продукте содержание витамина С максимально?"
+rightAnswer="Чёрная смородина"
+WrongAnswer1="Лимон"
+WrongAnswer2="Крыжовник">
+  </Question>
+
+<Question quest ="Какой продукт – идеальный поставщик витамина Е?"
+rightAnswer="Миндальный орех"
+WrongAnswer1="Брокколи"
+WrongAnswer2="Оливковое масло">
+  </Question>
+
+<Question quest ="Сколько длился самый долгий поцелуй?"
+rightAnswer="17 суток 10 часов"
+WrongAnswer1="3 часа"
+WrongAnswer2="3 суток 5 часов">
+  </Question>
+
+<Question quest ="Как раньше на Руси называли созвездие Большой Медведицы?"
+rightAnswer="Конь на приколе"
+WrongAnswer1="Полярное созвездие"
+WrongAnswer2="Русская Медведица">
+  </Question>
+
+<Question quest ="Какая планета вращается «Лёжа на боку»?"
+rightAnswer="Уран"
+WrongAnswer1="Сатурн"
+WrongAnswer2="Нептун">
+  </Question>
+
+<Question quest ="Какое движение сделали слушатели радио ВВС по словам диктора в результате первоапрельской шутки?"
+rightAnswer="Подпрыгнули"
+WrongAnswer1="Хлопнули в ладоши"
+WrongAnswer2="Свистнули">
+  </Question>
+
+<Question quest ="Какая наука изучает собственные имена, историю их возникновения?"
+rightAnswer="Антропонимика"
+WrongAnswer1="Хронология"
+WrongAnswer2="Эпиграфика">
+  </Question>
+
+<Question quest ="Какая наука изучает гербы?"
+rightAnswer="Геральдика"
+WrongAnswer1="Генеалогия"
+WrongAnswer2="Дипломатика">
+  </Question>
+
+<Question quest ="Какое животное имеет годовые кольца как у деревьев?"
+rightAnswer="Черепаха"
+WrongAnswer1="Хамелеон"
+WrongAnswer2="Кольчатая змея">
+  </Question>
+
+<Question quest ="На каком расстоянии от тигра мы можем услышать его рычание?"
+rightAnswer="2 км"
+WrongAnswer1="5 км"
+WrongAnswer2="7 км">
+  </Question>
+
+<Question quest ="Какой вид приматов способен узнавать себя в зеркале?"
+rightAnswer="Шимпанзе"
+WrongAnswer1="Карликовая игрунка"
+WrongAnswer2="Макака">
+  </Question>
+
+<Question quest ="Какое животное может дольше всех обходиться без воды?"
+rightAnswer="Крыса"
+WrongAnswer1="Верблюд"
+WrongAnswer2="Кит">
+  </Question>
+
+<Question quest ="Какое морское животное глотает камни для того, чтобы  глубже погружаться в воду?"
+rightAnswer="Крокодил"
+WrongAnswer1="Бегемот"
+WrongAnswer2="Андатра">
+  </Question>
+
+<Question quest ="Какой объем воздуха способен вдохнуть взрослый кит за 2 секунды?"
+rightAnswer="2400 л"
+WrongAnswer1="1000 л"
+WrongAnswer2="5300 л">
+  </Question>
+
+<Question quest ="В какой стране считается, что чёрная кошка, которая перебежала вам дорогу, обязательно принесет удачу?"
+rightAnswer="Великобритания"
+WrongAnswer1="Египет"
+WrongAnswer2="Франция">
+  </Question>
+
+<Question quest ="Какой современный художник написал 3D-картину «Ледниковый период в Ирландии»?"
+rightAnswer="Мюллер"
+WrongAnswer1="Бивер"
+WrongAnswer2="Ролеро">
+  </Question>
+
+<Question quest ="Какие артисты стояли у истоков первого русского цирка?"
+rightAnswer="Никитины"
+WrongAnswer1="Дуровы"
+WrongAnswer2="Винкины">
+  </Question>
+
+<Question quest ="В какой стране впервые появился цирк на льду?"
+rightAnswer="СССР"
+WrongAnswer1="США"
+WrongAnswer2="Великобритания">
+  </Question>
+
+<Question quest ="Кто открыл Цирк на Цветном бульваре?"
+rightAnswer="Саламонский"
+WrongAnswer1="Высокинский"
+WrongAnswer2="Кристов">
+  </Question>
+
+<Question quest ="Как звали медведя из цирка В.Филатова, которому в Германии вручили настоящие водительские права?"
+rightAnswer="Девочка"
+WrongAnswer1="Дымка"
+WrongAnswer2="Снежок">
+  </Question>
+
+<Question quest ="Какой из этих американских президентов являлся большим поклонником циркового искусства?"
+rightAnswer="Джордж Вашингтон"
+WrongAnswer1="Ричард Никсон"
+WrongAnswer2="Джимми Картер">
+  </Question>
+
+<Question quest ="Как звали дрессировщика, который первым положил голову в пасть льву?"
+rightAnswer="Исаак ван Амбург"
+WrongAnswer1="Филип Астлей"
+WrongAnswer2="Уильям Леонард Хант">
+  </Question>
+
+<Question quest ="В переводе с румынского слово «Дракула» означает «сын дракона», но есть и другое толкование. Какое?"
+rightAnswer="Сын дьявола"
+WrongAnswer1="Сын вампира"
+WrongAnswer2="Сын оборотня">
+  </Question>
+
+<Question quest ="В каком румынском городе находится знаменитый замок графа Дракулы?"
+rightAnswer="Бран"
+WrongAnswer1="Себеш"
+WrongAnswer2="Бухарест">
+  </Question>
+
+<Question quest ="Какое было первое рабочее название фильма «Чужой»?"
+rightAnswer="Звёздный зверь"
+WrongAnswer1="Другие"
+WrongAnswer2="Инопланетный захватчик">
+  </Question>
+
+<Question quest ="Когда отмечается Всемирный день черепах?"
+rightAnswer="23 мая"
+WrongAnswer1="21 апреля"
+WrongAnswer2="19 августа">
+  </Question>
+
+<Question quest ="В какой стране лягушки символизируют удачу?"
+rightAnswer="Япония"
+WrongAnswer1="Молдавия"
+WrongAnswer2="Бразилия">
+  </Question>
+
+<Question quest ="В какой стране ежегодно в последнее воскресенье ноября проходит Пир обезьян?"
+rightAnswer="Таиланд"
+WrongAnswer1="Танзания"
+WrongAnswer2="Гана">
+  </Question>
+
+<Question quest ="Какой вид дельфинов самый крупный?"
+rightAnswer="Косатка"
+WrongAnswer1="Белобочка"
+WrongAnswer2="Дельфин Коммерсона">
+  </Question>
+
+<Question quest ="Сколько килограммов рыбы в день в среднем съедает взрослый дельфин?"
+rightAnswer="20-30"
+WrongAnswer1="50-60"
+WrongAnswer2="5-10">
+  </Question>
+
+<Question quest ="К какой группе насекомых относятся бабочки?"
+rightAnswer="Чешуекрылые"
+WrongAnswer1="Эмбии"
+WrongAnswer2="Жесткокрылые">
+  </Question>
+
+<Question quest ="В чем состоит основное отличие ночных бабочек от дневных?"
+rightAnswer="В окрасе"
+WrongAnswer1="В размере"
+WrongAnswer2="В зрении">
+  </Question>
+
+<Question quest ="Максимальная скорость, которую могут развить в полете некоторые виды бабочек, составляет...?"
+rightAnswer="50 км/ч"
+WrongAnswer1="90 км/ч"
+WrongAnswer2="30 км/ч">
+  </Question>
+
+<Question quest ="Каким органом бабочки определяют вкус?"
+rightAnswer="Ногами"
+WrongAnswer1="Брюшком"
+WrongAnswer2="Хоботком">
+  </Question>
+
+<Question quest ="Какую богиню древние греки изображали с крыльями бабочки?"
+rightAnswer="Психею"
+WrongAnswer1="Ириду"
+WrongAnswer2="Афродиту">
+  </Question>
+
+<Question quest ="Как в Америке называют аттракцион «Колесо смелости»?"
+rightAnswer="Колесо смерти"
+WrongAnswer1="Колесо ужаса"
+WrongAnswer2="Смертельный круг">
+  </Question>
+
+</root>

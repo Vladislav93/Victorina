@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+   <Question quest ="Кем работал в зоопарке Крокодил Гена?"
+rightAnswer="Крокодилом"
+WrongAnswer1="Охранником"
+WrongAnswer2="Кассиром">
+  </Question>
+
+  <Question quest ="Для чего предназначена посуда под названием «креманка»?"
+rightAnswer="Для десертов"
+WrongAnswer1="Для закусок"
+WrongAnswer2="Для горячего">
+  </Question>
+
+<Question quest ="Что такое мулине?"
+rightAnswer="Нитки для вышивания"
+WrongAnswer1="Ткань из хлопка"
+WrongAnswer2="Вид гусениц">
+  </Question>
+
+<Question quest ="Какой самый распространенный язык на Земле?"
+rightAnswer="Китайский"
+WrongAnswer1="Английский"
+WrongAnswer2="Русский">
+  </Question>
+
+  <Question quest ="Как звали главную героиню рассказа А.С.Грина «Алые паруса»?"
+rightAnswer="Ассоль"
+WrongAnswer1="Ася"
+WrongAnswer2="Соль">
+  </Question>
+
+  <Question quest ="Какая страна является крупнейшим производителем кофе?"
+rightAnswer="Бразилия"
+WrongAnswer1="Китай"
+WrongAnswer2="США">
+  </Question>
+
+<Question quest ="Что копят верблюды в своих горбах?"
+rightAnswer="Жир"
+WrongAnswer1="Воду"
+WrongAnswer2="Детёнышей">
+  </Question>
+
+  <Question quest ="Какой актёр сыграл роль Джека Воробья в фильме «Пираты Карибского моря»?"
+rightAnswer="Джонни Депп"
+WrongAnswer1="Джим Керри"
+WrongAnswer2="Орландо Блум">
+  </Question>
+
+  <Question quest ="Какая страна является родиной ананаса?"
+  rightAnswer="Бразилия"
+  WrongAnswer1="Китай"
+  WrongAnswer2="Тунис">
+  </Question>
+
+  <Question quest ="В состав какого из этих десертов входит сыр?"
+  rightAnswer="Тирамису"
+  WrongAnswer1="Торт Павлова"
+  WrongAnswer2="Пахлава">
+  </Question>
+
+<Question quest ="Какое отчество у Филиппа Киркорова?"
+    rightAnswer="Бедросович"
+    WrongAnswer1="Киркорович"
+    WrongAnswer2="Филиппович">
+  </Question>
+  
+  <Question quest ="За какой промежуток времени Земля совершает один полный оборот вокруг своей оси?"
+    rightAnswer="1 сутки"
+    WrongAnswer1="1 год"
+    WrongAnswer2="1 месяц">
+  </Question>
+  
+  <Question quest ="Человек, который защищает чьи-нибудь интересы в суде?"
+    rightAnswer="Адвокат"
+    WrongAnswer1="Эксперт"
+    WrongAnswer2="Судья">
+  </Question>
+
+  <Question quest ="Что такое пармезан?"
+rightAnswer="Сыр"
+WrongAnswer1="Творог"
+WrongAnswer2="Город">
+  </Question>
+
+  <Question quest ="Как зовут Ньютона?"
+rightAnswer="Исаак"
+WrongAnswer1="Иисус"
+WrongAnswer2="Артур">
+  </Question>
+
+  <Question quest ="Как называется программа для выхода в интернет?"
+      rightAnswer="Браузер"
+      WrongAnswer1="Страница"
+      WrongAnswer2="Провайдер">
+  </Question>
+
+  <Question quest ="Как называется человек, который собирает редкие и ценные книги?"
+rightAnswer="Библиофил"
+WrongAnswer1="Библиотекарь"
+WrongAnswer2="Книгоценитель">
+  </Question>
+
+  <Question quest ="Кто «прорубил окно в Европу»?	"
+rightAnswer="Пётр I"
+WrongAnswer1="Екатерина II"
+WrongAnswer2="Иван Грозный">
+  </Question>
+
+<Question quest ="Как по-научному называется животный мир?"
+rightAnswer="Фауна"
+WrongAnswer1="Природа"
+WrongAnswer2="Зоология">
+  </Question>
+
+<Question quest ="Как называется явление, когда Луна закрывает полностью или частично Солнце?"
+rightAnswer="Солнечное затмение"
+WrongAnswer1="Солнцестояние"
+WrongAnswer2="Лунное затмение">
+  </Question>
+
+  <Question quest ="Кто сказал, что красота спасет мир?"
+rightAnswer="Достоевский"
+WrongAnswer1="Коко Шанель"
+WrongAnswer2="Анджелина Джоли">
+  </Question>
+
+  <Question quest ="Сколько секунд в часе?"
+rightAnswer="3600"
+WrongAnswer1="60"
+WrongAnswer2="7200">
+  </Question>
+
+  <Question quest ="Что вручалось победителю Олимпийских игр в Древней Греции?"
+rightAnswer="Оливковая ветвь"
+WrongAnswer1="Девушка"
+WrongAnswer2="Деревянная ложка">
+  </Question>
+
+  <Question quest ="Трубка с зеркалами, где цветные стекляшки отражаются узорочною звездою, при любом движении или обороте трубки?"
+rightAnswer="Калейдоскоп"
+WrongAnswer1="Телескоп"
+WrongAnswer2="Дудка">
+  </Question>
+ 
+ <Question quest ="Кто написал роман: Три мушкетера?"
+rightAnswer="Александр Дюма"
+WrongAnswer1="Эрнест Хемингуэй"
+WrongAnswer2="Михаил Боярский">
+  </Question>
+
+<Question quest ="Что означает выражение «Давать добро»?"
+rightAnswer="Разрешать"
+WrongAnswer1="Давать пять"
+WrongAnswer2="Давать слово">
+  </Question>
+
+  <Question quest ="Как называется сетка для забора?"
+rightAnswer="Рабица"
+WrongAnswer1="Сетчатка"
+WrongAnswer2="Заборица">
+  </Question>
+
+  <Question quest ="Какая женщина предложила утвердить 8 марта, как день борьбы за права женщин?"
+rightAnswer="Клара Цеткин"
+WrongAnswer1="Анна Иванова"
+WrongAnswer2="Валентина Цинкова">
+  </Question>
+
+  <Question quest ="Какую шахматную фигуру называют «королевой»?"
+rightAnswer="Ферзь"
+WrongAnswer1="Конь"
+WrongAnswer2="Король">
+  </Question>
+
+<Question quest ="Из чего были сделаны самые первые коньки?"
+rightAnswer="Из костей"
+WrongAnswer1="Из дерева"
+WrongAnswer2="Из стекла">
+  </Question>
+  <Question quest ="Как называются непроходимые тропические или субтропические леса?"
+rightAnswer="Джунгли"
+WrongAnswer1="Сахара"
+WrongAnswer2="Саванна">
+  </Question>
+
+  <Question quest ="Какой город является столицей США?"
+rightAnswer="Вашингтон"
+WrongAnswer1="Нью-Йорк"
+WrongAnswer2="Бостон">
+  </Question>
+  
+  <Question quest ="У какого мужского имени нет женской формы?"
+rightAnswer="Андрей"
+WrongAnswer1="Александр"
+WrongAnswer2="Антон">
+  </Question>
+
+  <Question quest ="Как звали собаку из знаменитого немецкого сериала, играющую роль служителя в полиции?"
+rightAnswer="Рекс"
+WrongAnswer1="Хатико"
+WrongAnswer2="Джерри">
+  </Question>
+  
+  <Question quest ="Согласно мифологии африканского племени бушменов человек произошел от ...?"
+rightAnswer="Обезьян"
+WrongAnswer1="Пришельцев"
+WrongAnswer2="Грибов">
+  </Question>
+
+  <Question quest ="Однажды Исаак Ньютон стоял над кипящим котелком с куриным яйцом в руке. Что же варилось в этот момент в воде?"
+rightAnswer="Часы"
+WrongAnswer1="Очки"
+WrongAnswer2="Курица">
+  </Question>
+
+  <Question quest ="Как в старину называли глаз?"
+rightAnswer="Око"
+WrongAnswer1="Яблоко"
+WrongAnswer2="Образ">
+  </Question>
+
+  <Question quest ="Что выкрал Прометей у богов?"
+rightAnswer="Огонь"
+WrongAnswer1="Воздух"
+WrongAnswer2="Воду">
+  </Question>
+
+  <Question quest ="Кто из этих животных относится к семейству кошачьих?"
+rightAnswer="Тигры"
+WrongAnswer1="Морские котики"
+WrongAnswer2="Кашалоты">
+  </Question>
+
+<Question quest ="Заяц-беляк зимой белый, а какого цвета зимой заяц-русак?"
+rightAnswer="Серый"
+WrongAnswer1="Белый"
+WrongAnswer2="Лысый">
+  </Question>
+
+  <Question quest ="Как переводится на русский язык название паука «каракурт»?"
+rightAnswer="Чёрная смерть"
+WrongAnswer1="Белая паутина"
+WrongAnswer2="Серый дым">
+  </Question>
+
+  <Question quest ="Какой народной кухне принадлежит блюдо «сациви»?"
+rightAnswer="Грузинской"
+WrongAnswer1="Армянской"
+WrongAnswer2="Русской">
+  </Question>
+
+  <Question quest ="Какая краска в банке, если на этикетке написано слово «охра»?"
+rightAnswer="Жёлтая"
+WrongAnswer1="Красная"
+WrongAnswer2="Голубая">
+  </Question>
+
+<Question quest ="Для производства какого продукта используется почти половина произведенного в Ирландии молока?"
+rightAnswer="Ликера Baileys"
+WrongAnswer1="Ирландских сливок"
+WrongAnswer2="Ирландского масла">
+  </Question>
+
+    <Question quest ="В каком веке в России начали делать колбасу?"
+rightAnswer="В 17 веке"
+WrongAnswer1="В 21 веке"
+WrongAnswer2="В 3 веке до н. э.">
+  </Question>
+  
+  <Question quest ="Какие сосиски во времена СССР относили к высшему сорту?"
+rightAnswer="Молочные"
+WrongAnswer1="Бараньи"
+WrongAnswer2="Сырные">
+  </Question>
+    
+  <Question quest ="Богиня любви и красоты в греческой мифологии — это ...?"
+rightAnswer="Афродита"
+WrongAnswer1="Дарея"
+WrongAnswer2="Клеопатра">
+  </Question>
+  
+    <Question quest ="Как принято говорить?"
+rightAnswer="Любовь слепа"
+WrongAnswer1="Любовь нелепа"
+WrongAnswer2="Любовь свирепа">
+  </Question>
+  
+<Question quest ="Почему рыбы кашляют?"
+rightAnswer="Они прочищают жабры"
+WrongAnswer1="Они не умеют кашлять"
+WrongAnswer2="Так рыбы болеют">
+  </Question>
+
+  <Question quest ="Какая рыба может безопасно плавать среди ядовитых щупалец морских анемонов, покрыв себя слизью?"
+rightAnswer="Рыба – клоун"
+WrongAnswer1="Рыба – меч"
+WrongAnswer2="Рыба – коралл">
+  </Question>
+
+  <Question quest ="Как называются рыбы, умеющие выпрыгивать из воды, и осуществлять непродолжительный, летящий полёт?"
+rightAnswer="Летучие"
+WrongAnswer1="Прыгуны"
+WrongAnswer2="Парящие">
+  </Question>
+
+  <Question quest ="В какой стране готовят холодный суп таратор на кислом молоке?"
+rightAnswer="В Болгарии"
+WrongAnswer1="В Китае"
+WrongAnswer2="В Мексике">
+  </Question>
+
+<Question quest ="В каком олимпийском городе был впервые использован искусственный снег?"
+rightAnswer="Лэйк-Плейсид, США"
+WrongAnswer1="Ванкувер, Канада"
+WrongAnswer2="Саппоро, Япония">
+  </Question>
+
+  <Question quest ="Кого мы называем королём лесных цветов?"
+rightAnswer="Ландыш"
+WrongAnswer1="Алтей"
+WrongAnswer2="Нарцисс">
+  </Question>
+
+<Question quest ="Как звали маму Сергея Есенина?"
+rightAnswer="Татьяна"
+WrongAnswer1="Людмила"
+WrongAnswer2="Василиса">
+  </Question>
+
+  <Question quest ="Как называется веревка с петлей на конце?"
+rightAnswer="Лассо"
+WrongAnswer1="Канат"
+WrongAnswer2="Узел">
+  </Question>
+
+  <Question quest ="Город, где впервые был выписан штраф за вождение автомобиля в нетрезвом виде?"
+rightAnswer="Лондон"
+WrongAnswer1="Москва"
+WrongAnswer2="Нью-Йорк">
+  </Question>
+
+  <Question quest ="Как называется место, куда пристал Ноев ковчег?"
+rightAnswer="Арарат"
+WrongAnswer1="Вестибюль"
+WrongAnswer2="Колизей">
+  </Question>
+
+    <Question quest ="С незапамятных времён эту ягоду величают «болотным лекарем». Что это за ягода?"
+rightAnswer="Клюква"
+WrongAnswer1="Малина"
+WrongAnswer2="Клубника">
+  </Question>
+
+  <Question quest ="Что такое «припускание»?"
+rightAnswer="Разновидность варки"
+WrongAnswer1="Разновидность жарки"
+WrongAnswer2="Разновидность тушения">
+  </Question>
+
+<Question quest ="Родина великого Шекспира?"
+rightAnswer="Англия"
+WrongAnswer1="Германия"
+WrongAnswer2="Франция">
+  </Question>
+
+<Question quest ="Чем заканчивается произведение Гоголя «Ревизор»?"
+rightAnswer="Немой сценой"
+WrongAnswer1="Балом"
+WrongAnswer2="Дуэлью">
+  </Question>
+
+<Question quest ="Настоящая фамилия Аркадия Гайдара?"
+rightAnswer="Голиков"
+WrongAnswer1="Щукин"
+WrongAnswer2="Ролтон">
+  </Question>
+
+<Question quest ="Год образования Москвы?"
+rightAnswer="1147 год"
+WrongAnswer1="1256 год"
+WrongAnswer2="1417 год">
+  </Question>
+
+<Question quest ="Как назывались рабы в Древней Руси?"
+rightAnswer="Холопы"
+WrongAnswer1="Гертруды"
+WrongAnswer2="Подданные">
+  </Question>
+
+<Question quest ="Как звали мать Иисуса Христа?"
+rightAnswer="Мария"
+WrongAnswer1="Екатерина"
+WrongAnswer2="Елизавета">
+  </Question>
+
+<Question quest ="Фамилия Петра I?"
+rightAnswer="Романов"
+WrongAnswer1="Долгорукий"
+WrongAnswer2="Грозный">
+  </Question>
+
+<Question quest ="Самая высокая вершина планеты?"
+rightAnswer="Джомолунгма"
+WrongAnswer1="Пик Коммунизма"
+WrongAnswer2="Эльбрус">
+  </Question>
+
+<Question quest ="На каком материке нет рек?"
+rightAnswer="Антарктида"
+WrongAnswer1="Евразия"
+WrongAnswer2="Америка">
+  </Question>
+
+<Question quest ="Ветер, меняющийся 2 раза в год?"
+rightAnswer="Муссон"
+WrongAnswer1="Саймон"
+WrongAnswer2="Переменный">
+  </Question>
+
+<Question quest ="Родина цыган?"
+rightAnswer="Индия"
+WrongAnswer1="Россия"
+WrongAnswer2="Япония">
+  </Question>
+
+<Question quest ="Где находится Море Дождей?"
+rightAnswer="На Луне"
+WrongAnswer1="На Марсе"
+WrongAnswer2="На Земле">
+  </Question>
+
+<Question quest ="Как называется хоккейное пенальти?"
+rightAnswer="Буллит"
+WrongAnswer1="Бомбит"
+WrongAnswer2="Наллит">
+  </Question>
+
+<Question quest ="Какую национальную игру ввели англичане в программу Олимпийских игр?"
+rightAnswer="Футбол"
+WrongAnswer1="Теннис"
+WrongAnswer2="Крикет">
+  </Question>
+
+<Question quest ="Старинное название настольного тенниса?"
+rightAnswer="Пинг-понг"
+WrongAnswer1="Стол-понг"
+WrongAnswer2="Пом-пом">
+  </Question>
+
+<Question quest ="Родина бокса?"
+rightAnswer="Англия"
+WrongAnswer1="США"
+WrongAnswer2="Китай">
+  </Question>
+
+<Question quest ="Сколько фигур в шахматах?"
+rightAnswer="32"
+WrongAnswer1="36"
+WrongAnswer2="28">
+  </Question>
+
+<Question quest ="Родина шахмат?"
+rightAnswer="Индия"
+WrongAnswer1="Китай"
+WrongAnswer2="Россия">
+  </Question>
+
+<Question quest ="Самое «русское» дерево?"
+rightAnswer="Берёза"
+WrongAnswer1="Дуб"
+WrongAnswer2="Сосна">
+  </Question>
+
+<Question quest ="Кто является основателем Петербурга?"
+rightAnswer="Пётр I"
+WrongAnswer1="Екатерина II"
+WrongAnswer2="Иван Грозный">
+  </Question>
+
+<Question quest ="Что бросают утопающему?"
+rightAnswer="Спасательный круг"
+WrongAnswer1="Грустный взгляд"
+WrongAnswer2="Руку помощи">
+  </Question>
+
+<Question quest ="Наименьшее из натуральных чисел?"
+rightAnswer="1"
+WrongAnswer1="0"
+WrongAnswer2="-1">
+  </Question>
+
+<Question quest ="Самая близкая к нам звезда?"
+rightAnswer="Солнце"
+WrongAnswer1="Уран"
+WrongAnswer2="Марс">
+  </Question>
+
+<Question quest ="Как называется болотная трава?"
+rightAnswer="Осока"
+WrongAnswer1="Камыш"
+WrongAnswer2="Толокнянка">
+  </Question>
+
+<Question quest ="Помещение для ремонта и хранения самолетов?"
+rightAnswer="Ангар"
+WrongAnswer1="Амбар"
+WrongAnswer2="Склад">
+  </Question>
+
+</root>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Из какого языка к нам пришло слово 'сабля'?" rightAnswer="Венгерский" WrongAnswer1="Арабский" WrongAnswer2="Турецкий" />
+  <Question quest="Как в Др.Риме называли жрецов, гадавших только по внутренностям жертвенных животных?" rightAnswer="Гаруспики" WrongAnswer1="Бестиарии" WrongAnswer2="Весталки" />
+  <Question quest="Как назывался парусник с тремя мачтами, двумя или более палубами, имевший 100 орудий?" rightAnswer="Галион" WrongAnswer1="Каравелла" WrongAnswer2="Люгер" />
+  <Question quest="Сколько шиллингов было в одной гинее?" rightAnswer="21" WrongAnswer1="12" WrongAnswer2="18" />
+  <Question quest="Как называется голландская 'копейка'?" rightAnswer="Цент" WrongAnswer1="Эре" WrongAnswer2="Пенни" />
+  <Question quest="В каком году произошла Полтавская битва?" rightAnswer="1709" WrongAnswer1="1800" WrongAnswer2="1833" />
+  <Question quest="В каком году произошла Невская битва?" rightAnswer="1240" WrongAnswer1="1812" WrongAnswer2="1943" />
+  <Question quest="Сколько всего было русских царей по имени Федор?" rightAnswer="Три" WrongAnswer1="Четыре" WrongAnswer2="Два" />
+  <Question quest="Как в Великобритании называется муж царствующей королевы, сам не являющийся монархом?" rightAnswer="Консорт" WrongAnswer1="Кронпринц" WrongAnswer2="Принц-бастард" />
+  <Question quest="Какая из этих российских проб благородных металлов установлена для серебра?" rightAnswer="925" WrongAnswer1="500" WrongAnswer2="375" />
+  <Question quest="Как назывался первый сборник стихов В.Высоцкого?" rightAnswer="'Нерв'" WrongAnswer1="'Гамлет'" WrongAnswer2="'Охота на волков'" />
+  <Question quest="Какая из этих букв славянской азбуки располагается ранее других?" rightAnswer="Добро" WrongAnswer1="Зело" WrongAnswer2="Живете" />
+  <Question quest="Какой слои земной атмосферы самый низкий?" rightAnswer="Тропосфера" WrongAnswer1="Термосфера" WrongAnswer2="Стратосфера" />
+  <Question quest="Вид какого города изображен на банкноте в 500 рублей?" rightAnswer="Архангельск" WrongAnswer1="Красноярск" WrongAnswer2="Санкт-Петербург" />
+  <Question quest="Какая из этих букв славянской азбуки располагается позднее других?" rightAnswer="Люди" WrongAnswer1="Добро" WrongAnswer2="Живете" />
+  <Question quest="Какой слои земной атмосферы самый высокий?" rightAnswer="Термосфера" WrongAnswer1="Стратосфера" WrongAnswer2="Тропосфера" />
+  <Question quest="Кто был изображен на на банкноте в 100 рублей образца 1910 года?" rightAnswer="Екатерина II" WrongAnswer1="Петр I" WrongAnswer2="Николай II" />
+  <Question quest="Кто был изображен на на банкноте в 25 рублей образца 1909 года?" rightAnswer="Александр III" WrongAnswer1="Екатерина II" WrongAnswer2="Петр I" />
+  <Question quest="Какое милицейское звание имеет писательница детективов Александра Маринина?" rightAnswer="Подполковник" WrongAnswer1="Полковник" WrongAnswer2="Капитан" />
+  <Question quest="Какой российский балетмейстер с 1985 по 1989 год руководил труппой Парижской оперы?" rightAnswer="Рудольф Нуриев" WrongAnswer1="Леон Лавровский" WrongAnswer2="Марис Лиепа" />
+  <Question quest="Какие фигуры носили на петлицах комбриги и комдивы 30-х годов?" rightAnswer="Ромбы" WrongAnswer1="Кубики" WrongAnswer2="Шпалы" />
+  <Question quest="Какая современная должность называлась до революции 'столоначальником'?" rightAnswer="Зав. отделом" WrongAnswer1="Бухгалтер" WrongAnswer2="Секретарь" />
+  <Question quest="О ком изначально слагались саги?" rightAnswer="О викингах" WrongAnswer1="О скифах" WrongAnswer2="О гуннах" />
+  <Question quest="Что из этих слов не является неводом?" rightAnswer="Кастинг" WrongAnswer1="Лампара" WrongAnswer2="Тоня" />
+  <Question quest="Как назывался корабль, на котором адмирал Головнин осуществил первую кругосветную экспедицию?" rightAnswer="'Диана'" WrongAnswer1="'Авось'" WrongAnswer2="'Юнона'" />
+  <Question quest="Группа снимков с воздуха, приведенных к одному масштабу?" rightAnswer="Фотоплан" WrongAnswer1="Фотокорр" WrongAnswer2="Аэрограф" />
+  <Question quest="Город в Рязанской области, основанный в 16 веке, на гербе которого изображены снопы и улей с пчелами?" rightAnswer="Шацк" WrongAnswer1="Луцк" WrongAnswer2="Гдов" />
+  <Question quest="Как называлась шхуна полярного исследователя Владимира Русанова?" rightAnswer="'Геркулес'" WrongAnswer1="'Тезей'" WrongAnswer2="'Диана'" />
+  <Question quest="Как назывался корабль второй кругосветной экспедиции адмирала Головнина?" rightAnswer="'Камчатка'" WrongAnswer1="'Аляска'" WrongAnswer2="'Чукотка'" />
+  <Question quest="ЗОЛОТНИК это?" rightAnswer="Элемент турбины" WrongAnswer1="12,4 грамма" WrongAnswer2="5,266 грамма" />
+  <Question quest="ТАСТОТУРА это?" rightAnswer="Номеронабиратель" WrongAnswer1="Болезнь простаты" WrongAnswer2="Простата" />
+  <Question quest="Отыщите среди предложенных слов денежную единицу Испании." rightAnswer="Песета" WrongAnswer1="Пиастр" WrongAnswer2="Реал" />
+  <Question quest="Валюта Никарагуа это?" rightAnswer="Кордоба" WrongAnswer1="Гуарани" WrongAnswer2="Боливар" />
+  <Question quest="Какое среди предложенных названий денежную единицу Словении?" rightAnswer="Топар" WrongAnswer1="Добра" WrongAnswer2="Куруш" />
+  <Question quest="Какое среди предложенных названий денежную единицу Эквадора?" rightAnswer="Сукре" WrongAnswer1="Сенки" WrongAnswer2="Риель" />
+  <Question quest="Какое среди предложенных названий денежную единицу Замбии?" rightAnswer="Нгве" WrongAnswer1="Кьят" WrongAnswer2="Пула" />
+  <Question quest="Какое среди предложенных названий денежную единицу Мавритании?" rightAnswer="Угия" WrongAnswer1="Така" WrongAnswer2="Филс" />
+  <Question quest="Один из этих экономических терминов означает 'заем под залог судна или груза' - какое?" rightAnswer="Бодмерея" WrongAnswer1="Демередж" WrongAnswer2="Эвикция" />
+  <Question quest="Что из них не праздник?" rightAnswer="Икрам" WrongAnswer1="Мирадж" WrongAnswer2="Семик" />
+  <Question quest="Кто из списка не является богом пиров, вина и наслаждений?" rightAnswer="Фавн" WrongAnswer1="Дионис" WrongAnswer2="Вакх" />
+  <Question quest="Кто из них мифический индийский зверь-людоед, гибрид льва, человека и скорпиона?" rightAnswer="Мантихора" WrongAnswer1="Аматэрасу" WrongAnswer2="Нингирсу" />
+  <Question quest="Кто из названных мифологических персонажей являлся перевозчиком мертвых в Аиде?" rightAnswer="Харон" WrongAnswer1="Тифон" WrongAnswer2="Гадес" />
+  <Question quest="Кто из ахейцев-героев Троянской войны был мужем Клитемнестры?" rightAnswer="Агамемнон" WrongAnswer1="Менелай" WrongAnswer2="Ахиллес" />
+  <Question quest="Место и год первого применения танков в сражении?" rightAnswer="Камбре, 1917г." WrongAnswer1="Марна, 1914г" WrongAnswer2="Цусима, 1904г" />
+  <Question quest="Сражение, которое вошло в историю под названием 'битва народов'?" rightAnswer="Лейпциг, 1813г" WrongAnswer1="Лютцен, 1648г" WrongAnswer2="Ватерлоо, 1815г" />
+  <Question quest="ШЕПТАЛО это?" rightAnswer="Деталь винтовки" WrongAnswer1="Южный камыш" WrongAnswer2="Доносчик" />
+  <Question quest="Место морского сражения между Англией и Францией в 1798 году?" rightAnswer="Абукир" WrongAnswer1="Чесма" WrongAnswer2="Креси" />
+  <Question quest="Что из перечисленного не относится к огнестрельному оружию?" rightAnswer="Франдибола" WrongAnswer1="Фальконет" WrongAnswer2="Кулеврина" />
+  <Question quest="Что из перечисленного не является режуще-рубящим холодным оружием?" rightAnswer="Джерид" WrongAnswer1="Гладиус" WrongAnswer2="Кончар" />
+  <Question quest="Кем приходится наш академик Даниил Бернулли математику Иоганну Бернулли?" rightAnswer="Сын" WrongAnswer1="Отец" WrongAnswer2="Брат" />
+  <Question quest="Какое из этих слов означает 'штурм крепости при помощи лестниц'?" rightAnswer="Эскалада" WrongAnswer1="Фольксштурм" WrongAnswer2="Ретирада" />
+  <Question quest="Какая из этих фамилий не принадлежит декабристам?" rightAnswer="Свиридов" WrongAnswer1="Глинка" WrongAnswer2="Тютчев" />
+  <Question quest="Какая из этих фамилий принадлежит декабристу?" rightAnswer="Вадковский" WrongAnswer1="Облонский" WrongAnswer2="Вронский" />
+  <Question quest="Кедровка это?" rightAnswer="Птица" WrongAnswer1="Лодка" WrongAnswer2="Гриб" />
+  <Question quest="КВАНГО это?" rightAnswer="Река в Анголе" WrongAnswer1="Вид пальмы" WrongAnswer2="Король Лесото" />
+  <Question quest="Римский холм Квиринал получил свое имя от?" rightAnswer="Имени бога" WrongAnswer1="Имени деревьев" WrongAnswer2="Имени трибуна" />
+  <Question quest="КВАКВА это?" rightAnswer="Птица" WrongAnswer1="Лягушка" WrongAnswer2="Жаба" />
+  <Question quest="КВАКЕРЫ это?" rightAnswer="Религиозная община" WrongAnswer1="Воровская шайка" WrongAnswer2="Пионеры на кубе" />
+  <Question quest="Кто был родоначальником русского футуризма?" rightAnswer="Хлебников" WrongAnswer1="Каменский" WrongAnswer2="Бурлюк" />
+  <Question quest="Как называется монгольский и бурятский 2-струнный смычковый музыкальный инструмент?" rightAnswer="Хур" WrongAnswer1="Кувиклы" WrongAnswer2="Гиджак" />
+  <Question quest="Кто из московских митрополитов проповедовал на Аляске?" rightAnswer="Иннокентий" WrongAnswer1="Филарет" WrongAnswer2="Сергий" />
+  <Question quest="Какая фамилия принадлежит двум американским президентам - отцу и сыну?" rightAnswer="Адамс" WrongAnswer1="Рузвельт" WrongAnswer2="Джэксон" />
+  <Question quest="Что из перечисленного является жанром китайской литературы?" rightAnswer="Фу" WrongAnswer1="Цин" WrongAnswer2="Ба" />
+  <Question quest="Где находится Афон - святая гора?" rightAnswer="Греция" WrongAnswer1="Армения" WrongAnswer2="Югославия" />
+  <Question quest="Когда состоялось первое морское сражение паровых кораблей?" rightAnswer="В 1853 году" WrongAnswer1="В 1877 году" WrongAnswer2="В 1861 году" />
+  <Question quest="Камень в форме параллелепипеда, употребляемый для кладки зданий?" rightAnswer="Квадр" WrongAnswer1="Кварт" WrongAnswer2="Кварц" />
+  <Question quest="Как называлась финальная часть трагедии в древнегреческом театре?" rightAnswer="Эксод" WrongAnswer1="Эквид" WrongAnswer2="Эктет" />
+  <Question quest="Какой из этих спутников не является спутником Сатурна?" rightAnswer="Ио" WrongAnswer1="Феба" WrongAnswer2="Пан" />
+  <Question quest="Какой из этих спутников не является спутником Урана?" rightAnswer="Андрастея" WrongAnswer1="Джульетта" WrongAnswer2="Дездемона" />
+  <Question quest="Какой из этих спутников не является спутником планеты Нептун?" rightAnswer="Белинда" WrongAnswer1="Галатея" WrongAnswer2="Протей" />
+  <Question quest="Какой из этих спутников является спутником планеты Марс?" rightAnswer="Деймос" WrongAnswer1="Оберон" WrongAnswer2="Пасифе" />
+  <Question quest="Какое из этих небесных тел не является астероидом?" rightAnswer="Янус" WrongAnswer1="Икар" WrongAnswer2="Эрос" />
+  <Question quest="Какое из этих животных не является именем созвездия?" rightAnswer="Лиса" WrongAnswer1="Заяц" WrongAnswer2="Муха" />
+  <Question quest="Какое из этих названий не является именем созвездия?" rightAnswer="Сито" WrongAnswer1="Чаша" WrongAnswer2="Печь" />
+  <Question quest="Город и один из главных морских портов Финляндии, у Финского залива?" rightAnswer="Котка" WrongAnswer1="Лахти" WrongAnswer2="Сатка" />
+  <Question quest="Как называется вино, выдержанное перед разливом в бутылки полтора года?" rightAnswer="Марочное" WrongAnswer1="Молодое" WrongAnswer2="Выдержанное" />
+  <Question quest="Какая из этих звезд не имеет отношения к Большой Медведице?" rightAnswer="Хамал" WrongAnswer1="Алиот" WrongAnswer2="Дубхе" />
+  <Question quest="Какая из этих звезд принадлежит созвездию Тельца?" rightAnswer="Альдебаран" WrongAnswer1="Альдерамин" WrongAnswer2="Садальмелек" />
+  <Question quest="Какая из этих звезд принадлежит созвездию Персея?" rightAnswer="Алголь" WrongAnswer1="Акрукс" WrongAnswer2="Арктур" />
+  <Question quest="Какой из этих терминов не является флотским и не имеет отношения к кораблю?" rightAnswer="Калкан" WrongAnswer1="Битенг" WrongAnswer2="Аксель" />
+  <Question quest="Какой из этих флотских терминов не является названием паруса?" rightAnswer="Салинг" WrongAnswer1="Стаксель" WrongAnswer2="Аксель" />
+  <Question quest="Какое море из перечисленных самое большое?" rightAnswer="Аравийское" WrongAnswer1="Китайское" WrongAnswer2="Тасманово" />
+  <Question quest="Какое озеро самое большое в мире?" rightAnswer="Каспийское" WrongAnswer1="Байкал" WrongAnswer2="Эри" />
+  <Question quest="Какая пустыня самая большая в мире?" rightAnswer="Сахара" WrongAnswer1="Нубийская" WrongAnswer2="Гоби" />
+</root>

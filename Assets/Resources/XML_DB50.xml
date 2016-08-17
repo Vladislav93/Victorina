@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest="С каким советским истребителем пришлось столкнуться в Корее американским летчикам?" rightAnswer="МиГ-15" WrongAnswer1="МиГ-9" WrongAnswer2="МиГ-17" />
+  <Question quest="Где находятся Черные Леса?" rightAnswer="В З.Германии" WrongAnswer1="В Австрии" WrongAnswer2="В России" />
+  <Question quest="Какой самый большой город в Африке?" rightAnswer="Каир" WrongAnswer1="Алжир" WrongAnswer2="Йоханнесбург" />
+  <Question quest="Как по другому называют кархародона-самую большую акулу хищницу?" rightAnswer="Белой" WrongAnswer1="Серой" WrongAnswer2="Тигровой" />
+  <Question quest="Название органов государственной власти в Афганистане?" rightAnswer="Джирга" WrongAnswer1="Бреве" WrongAnswer2="Сублимат" />
+  <Question quest="Какая компания с 1928 года является постоянным спонсором олимпийских игр" rightAnswer="Кока-кола" WrongAnswer1="Амстел" WrongAnswer2="Филипс" />
+  <Question quest="Какое из этих сражений стало переломным в ходе Гражданской войны в США?" rightAnswer="Геттисберг" WrongAnswer1="Фредериксберг" WrongAnswer2="Колд Харбор" />
+  <Question quest="Какая часть человеческой жизни уходит на сон?" rightAnswer="113" WrongAnswer1="1110" WrongAnswer2="112" />
+  <Question quest="Кто такой Диего Веласкес?" rightAnswer="Художник" WrongAnswer1="Писатель" WrongAnswer2="Археолог" />
+  <Question quest="Царствование Ивана VI на Руси - это ?" rightAnswer="1740-1741гг." WrongAnswer1="1682-1689 гг." WrongAnswer2="1727-1730гг." />
+  <Question quest="Какое из этих озер находится в Армении?" rightAnswer="Севан" WrongAnswer1="Лача" WrongAnswer2="Коверти" />
+  <Question quest="Как по-другому называется витамин рибофлавин ?" rightAnswer="B2" WrongAnswer1="B1" WrongAnswer2="E" />
+  <Question quest="Сколько взмахов крыльями делает комар в одну секунду?" rightAnswer="500-600" WrongAnswer1="50-60" WrongAnswer2="1000-1200" />
+  <Question quest="Что представляет собой, в королевском покере, последовательность из четырех карт одной масти?" rightAnswer="Фор-флеш" WrongAnswer1="Стрит-флешь" WrongAnswer2="Флешь" />
+  <Question quest="Кого не было на престоле?" rightAnswer="Николай3" WrongAnswer1="Катя" WrongAnswer2="Павел" />
+  <Question quest="Как называется ветер, направление и скорость которого измеряют с движущегося корабля ?" rightAnswer="Кажущийся ветер" WrongAnswer1="Мнимый ретер" WrongAnswer2="Истинный ветер" />
+  <Question quest="Сколько медалей на Олимпийских Играх завоевала сборная России с 1896 по 1996 года?" rightAnswer="1193" WrongAnswer1="1532" WrongAnswer2="1974" />
+  <Question quest="В каком году было стрелецкое восстание?" rightAnswer="1682" WrongAnswer1="1680" WrongAnswer2="1683" />
+  <Question quest="В какой части Югославии находится Косово" rightAnswer="На юге" WrongAnswer1="На севере" WrongAnswer2="На западе" />
+  <Question quest="Какая страна является родиной гольфа?" rightAnswer="Шотландия" WrongAnswer1="Швейцария" WrongAnswer2="Дания" />
+  <Question quest="Как называлась столица известного крымского княжества Феодоро?" rightAnswer="Мангуп-Кале" WrongAnswer1="Чуфут-Кале" WrongAnswer2="Сугдея" />
+  <Question quest="Какой из этих элементов имеет маименьший атомный вес?" rightAnswer="Платина" WrongAnswer1="Ртуть" WrongAnswer2="Золото" />
+  <Question quest="Какой вид хоккея возник в Канаде?" rightAnswer="Хоккей с шайбой" WrongAnswer1="Хоккей с мячом" WrongAnswer2="Хоккей на траве" />
+  <Question quest="Сколько областей в составе Украины?" rightAnswer="24" WrongAnswer1="26" WrongAnswer2="27" />
+  <Question quest="Когда Земля остыла?" rightAnswer="4000 млн. л назад" WrongAnswer1="4700 млн. л назад" WrongAnswer2="4600 млн. л назад" />
+  <Question quest="Какие волосы дольше живут ?" rightAnswer="На голове" WrongAnswer1="Брови" WrongAnswer2="Одинаково" />
+  <Question quest="У какого вещества в молекуле число атомов углерода-1000000?." rightAnswer="Тубелен" WrongAnswer1="Барелен" WrongAnswer2="Фулерен" />
+  <Question quest="Как с корейского языка переводится название города Сеул?" rightAnswer="Столица" WrongAnswer1="Морской город" WrongAnswer2="Город мечты" />
+  <Question quest="Какой вид млекопитающих преобладает на Кольском полуострове?" rightAnswer="Лемминги" WrongAnswer1="Бурундуки" WrongAnswer2="Белки" />
+  <Question quest="У каких из этих стран нет сухопутных границ?" rightAnswer="Таиланд и Китай" WrongAnswer1="Эквадор и Перу" WrongAnswer2="Чили и Боливия" />
+  <Question quest="Кому принадлежит Земля Франца и Иосифа?" rightAnswer="России" WrongAnswer1="Швеции" WrongAnswer2="Украине" />
+  <Question quest="Кто из этих композиторов первым написал оперу о Фигаро по пьесе Бомарше?" rightAnswer="Паизиелло" WrongAnswer1="Россини" WrongAnswer2="Моцарт" />
+  <Question quest="Какой город со времен Средневековья славится производством холодного оружия?" rightAnswer="Золинген" WrongAnswer1="Вупперталь" WrongAnswer2="Виттен" />
+  <Question quest="Один литр это кубический -" rightAnswer="Дециметр" WrongAnswer1="Метр" WrongAnswer2="Миллиметр" />
+  <Question quest="С кем, по мнению императора Карла V, належит разговаривать на французском языке?" rightAnswer="С друзьями" WrongAnswer1="С женщинами" WrongAnswer2="С врагами" />
+  <Question quest="В каком из этих регионов побывал Робинзон Крузо в продолжении романа Дефо?" rightAnswer="Сибирь" WrongAnswer1="Аляска" WrongAnswer2="Северный полюс" />
+  <Question quest="Отец солнца и огня - Это?" rightAnswer="Сварог" WrongAnswer1="Мокошь" WrongAnswer2="Ярило" />
+  <Question quest="Творчество И.С.Баха относится к стилю?" rightAnswer="Барокко" WrongAnswer1="Рококо" WrongAnswer2="Романтизм" />
+  <Question quest="Как звали женщину в сумасшедшем доме, подругу главного героя Ремарка?" rightAnswer="Женевьева" WrongAnswer1="Стальная Лошадь" WrongAnswer2="Мари" />
+  <Question quest="В период каких годов продолжалась Семилетняя война ?" rightAnswer="1756-1763" WrongAnswer1="1768-1775" WrongAnswer2="1741-1748" />
+  <Question quest="Кто из этих балетмейстеров является первым российским хореографом ?" rightAnswer="Иван Вальберх" WrongAnswer1="Мариус Петипа" WrongAnswer2="Михаил Фокин" />
+  <Question quest="Кто из этих ученых был удостоен Нобелевской премии по физике первым ?" rightAnswer="Вильгельм Рентген" WrongAnswer1="Альберт Эйнштейн" WrongAnswer2="Пьер Кюри" />
+  <Question quest="Что в XVIII веке петербуржцы называли 'шутихи' ?" rightAnswer="Фонтаны" WrongAnswer1="Ледяные горки" WrongAnswer2="Катки" />
+  <Question quest="Мхи в отличие от других растений не имеют?" rightAnswer="Корней" WrongAnswer1="Стеблей" WrongAnswer2="Листьев" />
+  <Question quest="Оперу 'Пиковая дама' П. И. Чайковский написал в соавторстве?" rightAnswer="Cо своим братом" WrongAnswer1="C Балакиревым" WrongAnswer2="С Григом" />
+  <Question quest="Какая актриса завоевала больше всего 'Оскаров' за лучшую женскую роль?" rightAnswer="Кэтрин Хэпберн" WrongAnswer1="Мерилин Монро" WrongAnswer2="Элизабет Тейлор" />
+  <Question quest="Назовите административный центр 'столицу' штата Флорида." rightAnswer="Таллахасси" WrongAnswer1="Сакраменто" WrongAnswer2="Майами" />
+  <Question quest="Неупорядоченность половых отношений?" rightAnswer="Промискуитет" WrongAnswer1="Промульгация" WrongAnswer2="Пропедевтика" />
+  <Question quest="Как в старину называлась английская монета в 1/4 пенса?" rightAnswer="Фартинг" WrongAnswer1="Шиллинг" WrongAnswer2="Полукрона" />
+  <Question quest="В каком году произошла битва на Калке?" rightAnswer="1223" WrongAnswer1="1233" WrongAnswer2="1203" />
+  <Question quest="Нагорье Хэнтэй находится на территории" rightAnswer="Монголии" WrongAnswer1="КНР" WrongAnswer2="Непала" />
+  <Question quest="Год столкновения «Титаника» с айсбергом" rightAnswer="1912" WrongAnswer1="1910" WrongAnswer2="1911" />
+  <Question quest="Игнатий Лойола основал монашеский орден" rightAnswer="иезуитов" WrongAnswer1="капуцинов" WrongAnswer2="варнавитов" />
+  <Question quest="Фамилия второго президента ЦАР" rightAnswer="Бокасса" WrongAnswer1="Батиста" WrongAnswer2="Дако" />
+  <Question quest="В каком году умер Владимир Высоцкий?" rightAnswer="1980" WrongAnswer1="1978" WrongAnswer2="1979" />
+  <Question quest="Фамилия первого президента Индии" rightAnswer="Прасад" WrongAnswer1="Хусейн" WrongAnswer2="Неру" />
+  <Question quest="Автор афоризма «Всё течёт, всё меняется»" rightAnswer="Гераклит" WrongAnswer1="Платон" WrongAnswer2="Диокрит" />
+  <Question quest="В какой стране используется число «лакх»?" rightAnswer="Индия" WrongAnswer1="Перу" WrongAnswer2="Мозамбик" />
+  <Question quest="Какая страна в ЕС вступила раньше?" rightAnswer="Португалия" WrongAnswer1="Швеция" WrongAnswer2="Австрия" />
+  <Question quest="Кто в 2006 г. купил 8-метровый 'Бентли'?" rightAnswer="Н.Басков" WrongAnswer1="Ф.Киркоров" WrongAnswer2="И.Кобзон" />
+  <Question quest="Сколько глав в Конституции РФ 1993 года?" rightAnswer="9" WrongAnswer1="15" WrongAnswer2="7" />
+  <Question quest="Как в геральдике называют Андреевский крест?" rightAnswer="Салтир" WrongAnswer1="Гирлянда" WrongAnswer2="Пассан" />
+  <Question quest="Он на ЧМ-09 по хоккею забил последнюю шайбу" rightAnswer="Радулов" WrongAnswer1="Сапрыкин" WrongAnswer2="Твердовский" />
+  <Question quest="Этот музыкант потерял зрение в 6 лет" rightAnswer="Рей Чарльз" WrongAnswer1="Ал Хибблер" WrongAnswer2="Перри Комо" />
+  <Question quest="Крейсер 'Червона Украина' с 1996 называется" rightAnswer="Варяг" WrongAnswer1="Калинин" WrongAnswer2="Грозный" />
+  <Question quest="Где расположена долина Неандерталь?" rightAnswer="В Германии" WrongAnswer1="В Швеции" WrongAnswer2="В Италии" />
+  <Question quest="Этот факультет университета закончил Брюс Ли" rightAnswer="Философский" WrongAnswer1="Медицинский" WrongAnswer2="Химический" />
+  <Question quest="Кто не относится к совам?" rightAnswer="Пустельга" WrongAnswer1="Неясыть" WrongAnswer2="Филин" />
+  <Question quest="Богом какого ветра был в греческой мифологии Зефир?" rightAnswer="Западного" WrongAnswer1="Юго-восточного" WrongAnswer2="Восточного" />
+  <Question quest="В 1700 г. во Франции правил Людовик XIV, в России - Петр I, в Швеции - Карл XII. А кто в это время был английским королем?" rightAnswer="Вильгельм III Оранский" WrongAnswer1="Карл II" WrongAnswer2="Яков II" />
+  <Question quest="В Германии до середины XVI века год начинался…" rightAnswer="25 декабря" WrongAnswer1="27 декабря" WrongAnswer2="3 января" />
+  <Question quest="В какой день ноября проводятся каждые четыре года выборы президента США?" rightAnswer="В 1-й вт после 1-го пн" WrongAnswer1="В любой по реш. сената" WrongAnswer2="За 20 дн. до Дня Благодарения" />
+  <Question quest="В какой из этих стран нет шерифов?" rightAnswer="Канада" WrongAnswer1="Великобритания" WrongAnswer2="Ирландия" />
+  <Question quest="В какой из этих стран сейчас &quot;правит&quot; королева, а не король?" rightAnswer="Дания" WrongAnswer1="Швеция" WrongAnswer2="Испания" />
+  <Question quest="В какой из этих стран суахили не является одним из официальных языков?" rightAnswer="Мозамбик" WrongAnswer1="Уганда" WrongAnswer2="Кения" />
+  <Question quest="В какой пустыне были впервые обнаружены остатки гнезд динозавров с лежащими там окаменевшими яйцами?" rightAnswer="Гоби" WrongAnswer1="Калахари" WrongAnswer2="Ливийская" />
+  <Question quest="В какой стране зародилась игра кегли?" rightAnswer="Германия" WrongAnswer1="Голландия" WrongAnswer2="Австрия" />
+  <Question quest="В какой стране организовал госпиталь великий гуманист, лауреат Нобелевской премии мира Альберт Швейцер?" rightAnswer="Габон" WrongAnswer1="Кения" WrongAnswer2="Уганда" />
+  <Question quest="В какой стране расположена самая высокая в мире железобетонная телебашня?" rightAnswer="Канада" WrongAnswer1="США" WrongAnswer2="Россия" />
+  <Question quest="В каком году Джозеф Пристли доказал, что животные делают воздух непригодным для дыхания, а растения его &quot;очищают&quot;?" rightAnswer="1771" WrongAnswer1="1875" WrongAnswer2="1958" />
+  <Question quest="В каком городе завершилась земная жизнь Александра Невского?" rightAnswer="Городец" WrongAnswer1="Ярославль" WrongAnswer2="Ростов Великий" />
+  <Question quest="В каком древнем государстве употреблялось узелковое письмо кипу?" rightAnswer="Инков" WrongAnswer1="Майя" WrongAnswer2="Ацтеков" />
+  <Question quest="В каком из этих фильмов Даниэль Ольбрыхский сыграл лишь небольшую роль?" rightAnswer="&quot;Огнем и мечом&quot;" WrongAnswer1="&quot;Пейзаж после битвы2" WrongAnswer2="&quot;Березняк&quot;" />
+  <Question quest="Где обитают негритосы?" rightAnswer="Юго-Вост. Азия" WrongAnswer1="Южная Америка" WrongAnswer2="Южная Африка" />
+</root>

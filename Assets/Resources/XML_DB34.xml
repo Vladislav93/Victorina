@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Чем являются иголки кактуса?" rightAnswer="Видоизмененными листьями" WrongAnswer1="Видоизмененными ветвями" WrongAnswer2="Видоизмененными тычинками" />
+  <Question quest="Чему примерно равен аршин?" rightAnswer="70 см" WrongAnswer1="75 см" WrongAnswer2="60 см" />
+  <Question quest="Чему равен кубический корень из одного миллиона?" rightAnswer="100" WrongAnswer1="1000" WrongAnswer2="10,333(3)" />
+  <Question quest="Что из этого не является головным убором?" rightAnswer="Бекеша" WrongAnswer1="Митра" WrongAnswer2="Шапокляк" />
+  <Question quest="Что из этого не является одним из семи чудес света?" rightAnswer="Сфинкс египетский" WrongAnswer1="Колосс Родосский" WrongAnswer2="Зевс олимпийский" />
+  <Question quest="Что из этого не является сортом сыра?" rightAnswer="Кроманьола" WrongAnswer1="Камамбер" WrongAnswer2="Пармезан" />
+  <Question quest="Что из этого программного обеспечения не является браузером?" rightAnswer="Outlook Express" WrongAnswer1="Netscape Navigator" WrongAnswer2="Internet Explorer" />
+  <Question quest="Что из этого следует класть в сборную солянку?" rightAnswer="Каперсы" WrongAnswer1="Цукини" WrongAnswer2="Ревень" />
+  <Question quest="Что изучает наука берестология?" rightAnswer="Древние славянские грамоты" WrongAnswer1="Развитие берез" WrongAnswer2="Способы плетения лаптей" />
+  <Question quest="Что написал Оноре де Бальзак?" rightAnswer="Человеческую комедию" WrongAnswer1="Маленькие трагедии" WrongAnswer2="Божественную комедию" />
+  <Question quest="Что обозначает выражение &quot;Акуна матата&quot;?" rightAnswer="Все будет хорошо" WrongAnswer1="А нам все равно" WrongAnswer2="Все нипочем" />
+  <Question quest="Что практически одновременно изобрели А. С. Попов и Г. Маркони?" rightAnswer="Радио" WrongAnswer1="Телефон" WrongAnswer2="Телеграф" />
+  <Question quest="Что такое &quot;ПИСАНКА&quot;?" rightAnswer="Расписное яйцо" WrongAnswer1="Младенец" WrongAnswer2="Наскальный рисунок" />
+  <Question quest="Что такое ТОПИНАМБУР?" rightAnswer="Корнеплод" WrongAnswer1="Африканское племя" WrongAnswer2="Дирижер" />
+  <Question quest="Что у моряков называется камбузом?" rightAnswer="Кухня" WrongAnswer1="Мостик капитана" WrongAnswer2="Машинное отделение" />
+  <Question quest="Что является полной противоположностью акселератору?" rightAnswer="Тормоз" WrongAnswer1="Дворник" WrongAnswer2="Сцепление" />
+  <Question quest="Чьей женой была одно время миледи?" rightAnswer="Атоса" WrongAnswer1="Де Тревиля" WrongAnswer2="Арамиса" />
+  <Question quest="Чьим оруженосцем был Санчо Панса?" rightAnswer="Дон Кихота" WrongAnswer1="Тиля Уленшпигеля" WrongAnswer2="Дон Жуана" />
+  <Question quest="Юного героя какого романа звали Дик Сэнд?" rightAnswer="&quot;Пятнадцатилетний капитан&quot;" WrongAnswer1="&quot;Хижина дяди Тома&quot;" WrongAnswer2="&quot;Таинственный остров&quot;" />
+  <Question quest="Первый сатирический журнал в России назывался?" rightAnswer="'ТРУТЕНЬ'" WrongAnswer1="'САТИРИКОН'" WrongAnswer2="'КРОКОДИЛ'" />
+  <Question quest="Недуг, для борьбы с которым изобрели супинаторы?" rightAnswer="ПЛОСКОСТОПИЕ" WrongAnswer1="НЕДЕРЖАНИЕ" WrongAnswer2="ГРЫЖА" />
+  <Question quest="Назовите штат, в котором находится всемирно известный центр казино Лас-Вегас?" rightAnswer="Невада" WrongAnswer1="Небраска" WrongAnswer2="Калифорния" />
+  <Question quest="Что коллекционирует филофонист?" rightAnswer="Звукозаписи" WrongAnswer1="Макароны" WrongAnswer2="Флейты" />
+  <Question quest="Что такое опунция?" rightAnswer="Кактус" WrongAnswer1="Вид анализа" WrongAnswer2="Гузок страуса" />
+  <Question quest="Что такое пеларгония?" rightAnswer="Вид герани" WrongAnswer1="Плащ аргонавта" WrongAnswer2="Вид аллергии" />
+  <Question quest="Мореплаватель, который, собравшись плыть в Индию, туда и приплыл?" rightAnswer="Васко да ГАМА" WrongAnswer1="Алонсо де ОХЕДА" WrongAnswer2="Америго ВЕСПУЧЧИ" />
+  <Question quest="Морская сажень равна?" rightAnswer="6 футам" WrongAnswer1="12 футам" WrongAnswer2="4 футам" />
+  <Question quest="Кто сказал - 'Veni, vedi, vici'?" rightAnswer="Цезарь" WrongAnswer1="Наполеон" WrongAnswer2="Гитлер" />
+  <Question quest="Какой из этих писателей не был сначала врачом?" rightAnswer="Толстой" WrongAnswer1="Булгаков" WrongAnswer2="Чехов" />
+  <Question quest="Как исламисты именуют паломничество в Мекку, которое каждый должен совершить хоть раз в жизни?" rightAnswer="Хадж" WrongAnswer1="Намаз" WrongAnswer2="Калам" />
+  <Question quest="Как правильно именуется комнатное растение, в быту называемое 'Китайская роза'?" rightAnswer="Гибискус" WrongAnswer1="Драцена" WrongAnswer2="Кливия" />
+  <Question quest="Исполнительница роли 'собаки на сене' в одноименном телефильме?" rightAnswer="Терехова" WrongAnswer1="Алферова" WrongAnswer2="Фрейндлих" />
+  <Question quest="На что для нужд армии во время войны макаронные фабрики обычно получают заказ?" rightAnswer="На патроны" WrongAnswer1="На макароны" WrongAnswer2="На сухари" />
+  <Question quest="В какой европейской стране самые большие снежные поля?" rightAnswer="Норвегии" WrongAnswer1="Швеции" WrongAnswer2="России" />
+  <Question quest="Аналогом нашего Люцифера в Исламе является?" rightAnswer="Иблис" WrongAnswer1="Нимруд" WrongAnswer2="Исрафил" />
+  <Question quest="Какой остров был частично оккупирован Турцией в 1974 г.?" rightAnswer="Кипр" WrongAnswer1="Крит" WrongAnswer2="Сардиния" />
+  <Question quest="На территории какой современной страны располагался когда-то город Карфаген?" rightAnswer="Тунис" WrongAnswer1="Алжир" WrongAnswer2="Марокко" />
+  <Question quest="Какая страна - родина Арнольда Шварцнегера?" rightAnswer="Австрия" WrongAnswer1="Германия" WrongAnswer2="Бельгия" />
+  <Question quest="Из какой 'оперы' термин чашелистик?" rightAnswer="Ботаника" WrongAnswer1="Маеталлообработка" WrongAnswer2="Ваяние" />
+  <Question quest="Как звали киногероя актера Аль Пачино в 'Крестном отце'?" rightAnswer="Майкл" WrongAnswer1="Рикки" WrongAnswer2="Чарли" />
+  <Question quest="Как называется изменение нарицательной стоимости денежных знаков с целью стабилизации валюты или облегчения расчетов?" rightAnswer="Деноминация" WrongAnswer1="Девальвация" WrongAnswer2="Дефляция" />
+  <Question quest="Каково разговорное название Юга США?" rightAnswer="Диксиленд" WrongAnswer1="Джазиленд" WrongAnswer2="Саутленд" />
+  <Question quest="Как в дореволюционнойционной России назывался торговец, вразнос продававший галантерейные товары, лубочные картинки, книги?" rightAnswer="Офеня" WrongAnswer1="Лоточник" WrongAnswer2="Егорка" />
+  <Question quest="Как на Руси называлась кожанная сумка для денег, которую носили на поясе?" rightAnswer="Калита" WrongAnswer1="Мошна" WrongAnswer2="Портмоне" />
+  <Question quest="Как была фамилия Лжедимитрия 1-го?" rightAnswer="Отрепьев" WrongAnswer1="Отребьев" WrongAnswer2="Ошметьев" />
+  <Question quest="Слово 'краватка' у украинцев означает?" rightAnswer="Галстук" WrongAnswer1="Креветка" WrongAnswer2="Кроватка" />
+  <Question quest="Александр Васильевич Суворов имел титул графа...?" rightAnswer="Рымникского" WrongAnswer1="Чесменского" WrongAnswer2="Очаковского" />
+  <Question quest="Что изучает ученый - помолог?" rightAnswer="Плоды и сорта" WrongAnswer1="Помады и крема" WrongAnswer2="Помехи связи" />
+  <Question quest="Кому принадлежит пальма первенства в открытии Южной Америки?" rightAnswer="Магеллану" WrongAnswer1="Веспуччи" WrongAnswer2="Кортесу" />
+  <Question quest="Что буквально означает слово латинского происхождения 'НАЦИЯ'?" rightAnswer="'ПЛЕМЯ'" WrongAnswer1="'УБЕЙ ДРУГИХ'" WrongAnswer2="'ПЕЩЕРА'" />
+  <Question quest="Какая трагедия Пушкина заканчивается авторской ремаркой 'Народ безмолвствует'?" rightAnswer="'Борис Годунов'" WrongAnswer1="'Моцарт и Сальери'" WrongAnswer2="'Скупой рыцарь'" />
+  <Question quest="Какой марки были первые советские автомобили?" rightAnswer="АМО" WrongAnswer1="ЗИС" WrongAnswer2="ЗИЛ" />
+  <Question quest="Компоненты какого фрукта обладают способностью расщеплять жиры?" rightAnswer="Ананас" WrongAnswer1="Банан" WrongAnswer2="Манго" />
+  <Question quest="Какой защиты в шахматах не существует?" rightAnswer="Защиты Лужина" WrongAnswer1="Сицилианской" WrongAnswer2="Защиты Нимцовича" />
+  <Question quest="Какая из этих актрис стала знаменитой после кинофильма 'Шербурские зонтики'?" rightAnswer="Катрин Денев" WrongAnswer1="Анни Жирардо" WrongAnswer2="Софи Лорен" />
+  <Question quest="Какой знак заменил на автодорогах привычную аббревиатуру ГАИ?" rightAnswer="ДПС" WrongAnswer1="ГИБДД" WrongAnswer2="ПГ" />
+  <Question quest="В каком диапазоне волн работает большинство коммерческих радиостанций?" rightAnswer="Ультракороткие" WrongAnswer1="Средние" WrongAnswer2="Длинные" />
+  <Question quest="Какое садовое дерево, в средней полосе России, начинает плодоносить раньше?" rightAnswer="Вишня" WrongAnswer1="Слива" WrongAnswer2="Груша" />
+  <Question quest="В каком море плавают рыболовные шаланды?" rightAnswer="В Черном" WrongAnswer1="В Балтийском" WrongAnswer2="В Азовском" />
+  <Question quest="Как называется передняя нижняя часть пиджака?" rightAnswer="Пола" WrongAnswer1="Фалда" WrongAnswer2="Манжет" />
+</root>

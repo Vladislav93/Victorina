@@ -1,0 +1,6 @@
+lastUpgrade=00927
+proj.AppId=73696340860
+proj.ConstantsClassName=constantsGP
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e73696340860%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.TwentyOneGames.MozgaMozg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_get_10_stars%22%3eCgkI_NaTxZICEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_get_20_stars%22%3eCgkI_NaTxZICEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_get_30_stars%22%3eCgkI_NaTxZICEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_get_40_stars%22%3eCgkI_NaTxZICEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_get_50_stars%22%3eCgkI_NaTxZICEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_stars_count%22%3eCgkI_NaTxZICEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+android.SetupDone=true

@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest ="Что бросают, вызывая соперника на дуэль?"
+        rightAnswer="Перчатку"
+        WrongAnswer1="Носок"
+        WrongAnswer2="Платок">
+  </Question>
+  
+  <Question quest ="Как в народе называют три гитарных аккорда в тональности ля-минор?"
+        rightAnswer="Блатные"
+        WrongAnswer1="Созвучные"
+        WrongAnswer2="Тянущие">
+  </Question>
+  
+  <Question quest ="Какими войсками командует адмирал?"
+      rightAnswer="ВМФ"
+      WrongAnswer1="ПВО"
+      WrongAnswer2="ВВС">
+  </Question>
+
+  <Question quest ="Что в начале 20 века в России прозвали «кукушкой»?"
+  rightAnswer="Паровоз"
+  WrongAnswer1="Трамвай"
+  WrongAnswer2="Такси">
+  </Question>
+
+  <Question quest ="Третья планета от Солнца?"
+  rightAnswer="Земля"
+  WrongAnswer1="Венера"
+  WrongAnswer2="Марс">
+  </Question>
+
+<Question quest ="В каком городе находится музей «Прадо»?"
+  rightAnswer="Мадрид"
+  WrongAnswer1="Барселона"
+  WrongAnswer2="Мехико">
+  </Question>
+
+  <Question quest ="У Николая II были Ворон и Иман. А кто это?"
+  rightAnswer="Собаки"
+  WrongAnswer1="Птицы"
+  WrongAnswer2="Лошади">
+  </Question>
+
+<Question quest ="Как называют телёнка северного оленя, возраст которого составляет меньше 1-го месяца?"
+rightAnswer="Пыжик"
+WrongAnswer1="Пончик"
+WrongAnswer2="Телёнчик">
+  </Question>
+
+    <Question quest ="Какие из деревень стали символом показного, ложного благополучия?"
+rightAnswer="Потёмкинские"
+WrongAnswer1="Осетинские"
+WrongAnswer2="Голицынские">
+  </Question>
+
+  <Question quest ="Из чего делают пластинки ксилофона?"
+rightAnswer="Из дерева"
+WrongAnswer1="Из пластмассы"
+WrongAnswer2="Из меди">
+  </Question>
+
+  <Question quest ="Сколько жён было у Синей Бороды?"
+rightAnswer="7"
+WrongAnswer1="0"
+WrongAnswer2="3">
+  </Question>
+  
+  <Question quest ="Какой океан самый тёплый?"
+rightAnswer="Индийский"
+WrongAnswer1="Атлантический"
+WrongAnswer2="Тихий">
+  </Question>
+      
+  <Question quest ="Как расшифровывается буква О в аббревиатуре ОРТ?"
+rightAnswer="Общественное"
+WrongAnswer1="Однообразное"
+WrongAnswer2="Одноимённое">
+  </Question>
+  
+    <Question quest ="Какое животное на Руси запускали в сосуд с молоком, чтобы оно не скисало?"
+rightAnswer="Лягушку"
+WrongAnswer1="Рыбку"
+WrongAnswer2="Таракана">
+  </Question>
+
+  <Question quest ="Где родился А.С. Пушкин?"
+rightAnswer="В Москве"
+WrongAnswer1="В Кишинёве"
+WrongAnswer2="В Петербурге">
+  </Question>
+  
+  <Question quest ="Как в футболе называют удар, когда мяч по огибающей залетает в ворота?"
+rightAnswer="Сухой лист"
+WrongAnswer1="Кручёный"
+WrongAnswer2="Крутой">
+  </Question>
+
+  <Question quest ="Древние римляне называли друзей ворами, причем ворующими самое дорогое. Что именно?"
+rightAnswer="Время"
+WrongAnswer1="Золото"
+WrongAnswer2="Воду">
+  </Question>
+
+  <Question quest ="Какое государство самое маленькое в мире?"
+rightAnswer="Ватикан"
+WrongAnswer1="Израиль"
+WrongAnswer2="Кувейт">
+  </Question>
+
+<Question quest ="Кто из перечисленных князей окрестил Русь?"
+rightAnswer="Владимир"
+WrongAnswer1="Ярослав"
+WrongAnswer2="Святослав">
+  </Question>
+
+  <Question quest ="Какое животное в Египте считается священным?"
+rightAnswer="Кошка"
+WrongAnswer1="Верблюд"
+WrongAnswer2="Корова">
+  </Question>
+
+  <Question quest ="Как называется самый большой римский амфитеатр?"
+rightAnswer="Колизей"
+WrongAnswer1="Одеон"
+WrongAnswer2="Пизанелло">
+  </Question>
+
+    <Question quest ="Какая река имеет самый большой бассейн?"
+rightAnswer="Амазонка"
+WrongAnswer1="Лена"
+WrongAnswer2="Амур">
+  </Question>
+
+<Question quest ="График функции у = kx + b ?"
+rightAnswer="Прямая"
+WrongAnswer1="Парабола"
+WrongAnswer2="Гипербола">
+  </Question>
+
+  <Question quest ="Какой географический объект называется Лимпопо?"
+rightAnswer="Река"
+WrongAnswer1="Гора"
+WrongAnswer2="Озеро">
+  </Question>
+
+  <Question quest ="Часть речи, которая обозначает признак предмета, называется?"
+rightAnswer="Прилагательное"
+WrongAnswer1="Существительное"
+WrongAnswer2="Сказуемое">
+  </Question>
+
+  <Question quest ="Как назывался дворянский титул, средний между графом и герцогом?"
+rightAnswer="Маркиз"
+WrongAnswer1="Виконт"
+WrongAnswer2="Курфюрст">
+  </Question>
+
+  <Question quest ="Кто, согласно Библии, получил от Бога на горе Синай скрижали с 10-ю заповедями?"
+rightAnswer="Моисей"
+WrongAnswer1="Адам"
+WrongAnswer2="Апостол Павел">
+  </Question>
+  
+  <Question quest ="Как называют брата жены?"
+rightAnswer="Шурин"
+WrongAnswer1="Кум"
+WrongAnswer2="Свояк">
+  </Question>
+
+  <Question quest ="Какого направления в искусстве не существует?"
+rightAnswer="Росреализм"
+WrongAnswer1="Соцреализм"
+WrongAnswer2="Сюрреализм">
+  </Question>
+
+    <Question quest ="Где находится «Летний Сад»?"
+rightAnswer="В Санкт-Петербурге"
+WrongAnswer1="В Москве"
+WrongAnswer2="В Екатеринбурге">
+  </Question>
+
+  <Question quest ="Как звали жену Одиссея?"
+rightAnswer="Пенелопа"
+WrongAnswer1="Моника"
+WrongAnswer2="Нефертити">
+  </Question>
+
+  <Question quest ="Кто сказал фразу: «И все-таки она вертится!»?"
+rightAnswer="Галилео"
+WrongAnswer1="Джордано Бруно"
+WrongAnswer2="Коперник">
+  </Question>
+
+<Question quest ="Что из перечисленного не является мерой длины?"
+rightAnswer="Осьмина"
+WrongAnswer1="Сажень"
+WrongAnswer2="Локоть">
+  </Question>
+
+<Question quest ="Чему равен пуд?"
+rightAnswer="16 кг"
+WrongAnswer1="100 кг"
+WrongAnswer2="32 кг">
+  </Question>
+
+  <Question quest ="Раздел математики, изучающий пространственные структуры, отношения и их обобщения?"
+rightAnswer="Геометрия"
+WrongAnswer1="Алгебра"
+WrongAnswer2="Математический анализ">
+  </Question>
+
+<Question quest ="Как называется дорога вдоль линии фронта?"
+rightAnswer="Рокада"
+WrongAnswer1="Обочина"
+WrongAnswer2="Блокада">
+  </Question>
+
+  <Question quest ="Как называется мягкая часть в центре зуба?"
+rightAnswer="Пульпа"
+WrongAnswer1="Десна"
+WrongAnswer2="Полость">
+  </Question>
+
+  <Question quest ="Какая фамилия у помещицы из поэмы А.В. Гоголя «Мертвые души»?"
+rightAnswer="Коробочка"
+WrongAnswer1="Ящичек"
+WrongAnswer2="Соловьёва">
+  </Question>
+
+  <Question quest ="Какого языка программирования не существует?"
+rightAnswer="Тогол"
+WrongAnswer1="Си++"
+WrongAnswer2="Джава">
+  </Question>
+
+  <Question quest ="Как называется животное, родителями которого являются самка лошади и самец осла?"
+rightAnswer="Мул"
+WrongAnswer1="Пони"
+WrongAnswer2="Жеребёнок">
+  </Question>
+
+<Question quest ="Какой формы чеканилась в России копейка при Екатерине I?"
+rightAnswer="Квадратной"
+WrongAnswer1="Круглой"
+WrongAnswer2="Треугольной">
+  </Question>
+
+  <Question quest ="Что такое Дизартрия?"
+rightAnswer="Расстройство речи"
+WrongAnswer1="Расстройство печени"
+WrongAnswer2="Сбежавший с войны">
+  </Question>
+  
+
+  
+</root>

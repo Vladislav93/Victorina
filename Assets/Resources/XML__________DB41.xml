@@ -1,0 +1,20 @@
+﻿  
+  <Question quest="Какая точка одинакова для шкал Цельсия и Фаренгейта (оба термометра покажут одно и то же)?" rightAnswer="-40 градусов" WrongAnswer1="+32 градуса" WrongAnswer2="-18 градусов" />
+  <Question quest="Какой длины был след ноги гадрозавра - самый большой из всех найденных до сих пор следов динозавров?" rightAnswer="136 см" WrongAnswer1="123 см" WrongAnswer2="110 см" />
+  <Question quest="Какой из этих видов астр получил наибольшее распространение в России?" rightAnswer="Астра китайская" WrongAnswer1="Астра новобельгийская" WrongAnswer2="Астра итальянская" />
+  <Question quest="Какой из этих знаменитых алмазов был найден в Южной Африке?" rightAnswer="&quot;Первая роза&quot;" WrongAnswer1="&quot;Река Уойе&quot;" WrongAnswer2="&quot;Светоч мира&quot;" />
+  <Question quest="Какой из этих учебных предметов не входил в КВАДРИВИУМ - следовавший за тривиумом повышенный цикл обучения в средние века?" rightAnswer="Диалектика" WrongAnswer1="Музыка" WrongAnswer2="Геометрия" />
+  <Question quest="Какой князь был знаменитым физиком и геофизиком, одним из основоположников сейсмологии, академиком Петербургской АН?" rightAnswer="Б. Б. Голицын" WrongAnswer1="Е. П. Оболенский" WrongAnswer2="П. П. Гагарин" />
+  <Question quest="Какой философ в 1861 году написал музыку на стихи Александра Сергеевича Пушкина «Заклинание» и «Зимний вечер»?" rightAnswer="Ницше" WrongAnswer1="Гегель" WrongAnswer2="Юнг" />
+  <Question quest="Какой химический элемент был назван в честь злого подземного гнома?" rightAnswer="Кобальт" WrongAnswer1="Теллур" WrongAnswer2="Гафний" />
+  <Question quest="Какой цветовой модели не существует?" rightAnswer="SMYK" WrongAnswer1="HSB" WrongAnswer2="RGB" />
+  <Question quest="Картограф какой страны того времени назвал в 1507 г. Новый  Свет Америкой?" rightAnswer="Лотарингия" WrongAnswer1="Португалия" WrongAnswer2="Фландрия" />
+  <Question quest="Кто из перечисленных был пажом во времена Екатерины II?" rightAnswer="А. Н. Радищев" WrongAnswer1="Д. И. Фонвизин" WrongAnswer2="Н. М. Карамзин" />
+  <Question quest="Кто получил первую Нобелевскую премию по литературе?" rightAnswer="Поэт" WrongAnswer1="Драматург" WrongAnswer2="Романист" />
+  <Question quest="На гербе какого государства изображена вымершая к настоящему времени птица дронт?" rightAnswer="Маврикий" WrongAnswer1="Фиджи" WrongAnswer2="Соломоновы о-ва" />
+  <Question quest="Назовите год официального открытия Панамского канала" rightAnswer="1920" WrongAnswer1="1910" WrongAnswer2="1901" />
+  <Question quest="Назовите имя ученого монаха, который первым предложил в 525 г., вести начало счета годов от рождества Христова" rightAnswer="Дионисий" WrongAnswer1="Парфений" WrongAnswer2="Климентий" />
+  <Question quest="При каком китайском императоре конфуцианство стало официальной идеологией страны?" rightAnswer="У-Ди" WrongAnswer1="Цинь Шихуанди" WrongAnswer2="Ян Цзянь" />
+  <Question quest="Сколько всего было братьев-Пандавов, героев древнеиндийского эпоса &quot;Махабхарата&quot;?" rightAnswer="Пять" WrongAnswer1="Шесть" WrongAnswer2="Четыре" />
+  <Question quest="У автомобилей какой из этих стран международный регистрационный знак DZ?" rightAnswer="Алжир" WrongAnswer1="Белиз" WrongAnswer2="Замбия" />
+</root>

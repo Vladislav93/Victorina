@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="В каком городе родилась Мила Йовович?" rightAnswer="Киев" WrongAnswer1="Москва" WrongAnswer2="Днепропетровск" />
+  <Question quest="Как назывался первый в мире атомоход?" rightAnswer="Ленин" WrongAnswer1="Сибирь" WrongAnswer2="Арктика" />
+  <Question quest="Правителем какого государства был Хаммурапи?" rightAnswer="Вавилония" WrongAnswer1="Эшнунна" WrongAnswer2="Аккад" />
+  <Question quest="В каком веке имела место опричнина?" rightAnswer="16" WrongAnswer1="14" WrongAnswer2="15" />
+  <Question quest="Где можно взойти на легендарную гору Синай?" rightAnswer="В Египте" WrongAnswer1="В Армении" WrongAnswer2="В Грузии" />
+  <Question quest="Владимир Жириновский - лидер партии...?" rightAnswer="ЛДПР" WrongAnswer1="КПРФ" WrongAnswer2="Яблоко" />
+  <Question quest="У этого русского богатыря отчество Никитич, назовите его имя?" rightAnswer="Добрыня" WrongAnswer1="Микула" WrongAnswer2="Илья" />
+  <Question quest="Какое водохранилище расположено не на Волге?" rightAnswer="Горьковское" WrongAnswer1="Братское" WrongAnswer2="Истринское" />
+  <Question quest="Какой орех выкапывают из земли?" rightAnswer="Арахис" WrongAnswer1="Кешью" WrongAnswer2="Миндаль" />
+  <Question quest="Сколько ноздрей у дельфина?" rightAnswer="1" WrongAnswer1="4" WrongAnswer2="3" />
+  <Question quest="Чей мех часто украшал мантии королей?" rightAnswer="Горностая" WrongAnswer1="Бобра" WrongAnswer2="Нутрии" />
+  <Question quest="Что в Шотландии означает приставка 'Мак'?" rightAnswer="Сын" WrongAnswer1="Отец" WrongAnswer2="Дед" />
+  <Question quest="Кто плавает в джонке?" rightAnswer="Китайцы" WrongAnswer1="Арабы" WrongAnswer2="Ненцы" />
+  <Question quest="Среди апостолов Иисуса не было...?" rightAnswer="Селифана" WrongAnswer1="Матфея" WrongAnswer2="Фомы" />
+  <Question quest="Сколько цветов на флаге Чехии?" rightAnswer="3" WrongAnswer1="1" WrongAnswer2="4" />
+  <Question quest="Какой знак зодиака следует за Львом?" rightAnswer="Дева" WrongAnswer1="Овен" WrongAnswer2="Рак" />
+  <Question quest="В каком виде спорта сборной России не удалось завоевать ни одной золотой медали на Олимпиаде-2000?" rightAnswer="Плавание" WrongAnswer1="Легкая атлетика" WrongAnswer2="Спортивная гимнастика" />
+  <Question quest="Как звали сына Николая II, расстрелянного вместе со всей царской семьей?" rightAnswer="Алексей" WrongAnswer1="Павел" WrongAnswer2="Андрей" />
+  <Question quest="В какой реке утонул раненый Василий Иванович Чапаев?" rightAnswer="Урал" WrongAnswer1="Дон" WrongAnswer2="Волга" />
+  <Question quest="&quot;Москва, Москва, … люблю тебя как сын, …&quot;. Чье это стихотворение?" rightAnswer="Лермонтова" WrongAnswer1="Пушкина" WrongAnswer2="Некрасова" />
+  <Question quest="Батик - это роспись по …?" rightAnswer="По шелку" WrongAnswer1="По глине" WrongAnswer2="По стеклу" />
+  <Question quest="Без чего не приготовить традиционное испанское блюдо паэлью?" rightAnswer="Рис" WrongAnswer1="Картофель" WrongAnswer2="Кукуруза" />
+  <Question quest="В какой из этих головоломок используются рисунки?" rightAnswer="Ребус" WrongAnswer1="Логогриф" WrongAnswer2="Кроссворд" />
+  <Question quest="В какой стране ткут настоящие текинские ковры?" rightAnswer="Туркмения" WrongAnswer1="Турция" WrongAnswer2="Афганистан" />
+  <Question quest="В каком году образовался СССР?" rightAnswer="1922" WrongAnswer1="1930" WrongAnswer2="1918" />
+  <Question quest="В каком городе находится стена плача?" rightAnswer="В Иерусалиме" WrongAnswer1="В Пекине" WrongAnswer2="В Берлине" />
+  <Question quest="В каком древнерусском городе существовала демократическая форма правления?" rightAnswer="Новгород" WrongAnswer1="Тверь" WrongAnswer2="Рязань" />
+  <Question quest="В каком из этих дворцов и замков обитали не французские короли?" rightAnswer="Эскориал" WrongAnswer1="Версаль" WrongAnswer2="Лувр" />
+  <Question quest="В каком из этих фильмов мир спасает не Брюс Уиллис?" rightAnswer="Терминатор" WrongAnswer1="Крепкий орешек" WrongAnswer2="Армагеддон" />
+  <Question quest="В каком море промышлял пиратством знаменитый капитан Блад?" rightAnswer="В Карибском" WrongAnswer1="В Красном" WrongAnswer2="В Средиземном" />
+  <Question quest="В каком немецком городе проходил после 2-й мировой войны международный судебный процесс над военными преступниками?" rightAnswer="В Нюрнберге" WrongAnswer1="В Мюнхене" WrongAnswer2="В Берлине" />
+  <Question quest="В названии какой из этих спортивных игр фигурирует часть человеческого тела?" rightAnswer="Гандбол" WrongAnswer1="Бейсбол" WrongAnswer2="Баскетбол" />
+  <Question quest="Вставьте пропущенное слово в русскую поговорку: &quot;… да умен - два угодья в нем&quot;?" rightAnswer="Пьян" WrongAnswer1="Храбр" WrongAnswer2="Трезв" />
+  <Question quest="Где был изобретен фарфор?" rightAnswer="В Китае" WrongAnswer1="Во Франции" WrongAnswer2="В Англии" />
+  <Question quest="Где легко встретить маркёра?" rightAnswer="В бильярдной" WrongAnswer1="В казино" WrongAnswer2="На бегах" />
+  <Question quest="Где находится Бермудский треугольник?" rightAnswer="В Атлантическом океане" WrongAnswer1="В Тихом океане" WrongAnswer2="В Индийском океане" />
+  <Question quest="Героиню какого из диснеевских мультфильмов зовут Аврора?" rightAnswer="&quot;Спящая красавица&quot;" WrongAnswer1="&quot;Аладдин&quot;" WrongAnswer2="&quot;Красавица и Чудовище&quot;" />
+  <Question quest="Гнома с каким именем не было среди 7-ми друзей Белоснежки?" rightAnswer="Плакса" WrongAnswer1="Чихун" WrongAnswer2="Ворчун" />
+  <Question quest="Город с каким названием есть в Европе?" rightAnswer="Коньяк" WrongAnswer1="Ром" WrongAnswer2="Джин" />
+  <Question quest="Дождь в какой из этих дней якобы сулит дождливое лето?" rightAnswer="Самсона" WrongAnswer1="Ильин" WrongAnswer2="Ивана Купалы" />
+  <Question quest="За что Владимир Высоцкий был посмертно удостоен Государственной премии СССР?" rightAnswer="За роль Жеглова" WrongAnswer1="За все творчество" WrongAnswer2="За роль Гамлета" />
+  <Question quest="К какому штату административно относится столица США город Вашингтон?" rightAnswer="Ни к какому" WrongAnswer1="Пенсильвания" WrongAnswer2="Массачусетс" />
+  <Question quest="Как в сказке о трех поросятах звали самого умного брата, построившего каменный дом?" rightAnswer="Наф-Наф" WrongAnswer1="Ниф-Ниф" WrongAnswer2="Хрюша" />
+  <Question quest="Название какого плода по-английски состоит как бы из двух слов в одном - сосна и яблоко?" rightAnswer="Ананас" WrongAnswer1="Каштан" WrongAnswer2="Артишок" />
+  <Question quest="Как заметил Станислав Ежи Лец: «Жаждешь крови? Стань ...»?" rightAnswer="Блохой" WrongAnswer1="Вампиром" WrongAnswer2="Тираном" />
+  <Question quest="Как звали злую колдунью из &quot;Руслана и Людмилы&quot;?" rightAnswer="Наина" WrongAnswer1="Генгема" WrongAnswer2="Фаина" />
+  <Question quest="Как звали Минина - одного из вдохновителей освобождения России от поляков?" rightAnswer="Кузьма" WrongAnswer1="Усин" WrongAnswer2="Игнат" />
+  <Question quest="Как звали отца диснеевской Русалочки?" rightAnswer="Тритон" WrongAnswer1="Нерей" WrongAnswer2="Нептун" />
+  <Question quest="Как звали покемона - электрическую мышь из детского сериала, с которым Эш начал свое путешествие?" rightAnswer="Пикачу" WrongAnswer1="Тамагочи" WrongAnswer2="Бульбазавр" />
+  <Question quest="Как звался бог войны у древних викингов?" rightAnswer="Тор" WrongAnswer1="Ра" WrongAnswer2="Арес" />
+  <Question quest="Как зовется император в Японии?" rightAnswer="Микадо" WrongAnswer1="Сегун" WrongAnswer2="Бай" />
+  <Question quest="Как зовут самого большого из Телепузиков?" rightAnswer="Тинки-Винки" WrongAnswer1="Ляля" WrongAnswer2="Рики-Тики" />
+  <Question quest="Как итальянцы называют особо рьяных футбольных болельщиков?" rightAnswer="Тиффози" WrongAnswer1="Скудетто" WrongAnswer2="Фантоцци" />
+  <Question quest="Как моряки называют отверстие, сквозь которое движется якорная цепь?" rightAnswer="Клюз" WrongAnswer1="Иллюминатор" WrongAnswer2="Кингстон" />
+  <Question quest="Как называется дощечка для боковых стенок бочки?" rightAnswer="Клёпка" WrongAnswer1="Шпон" WrongAnswer2="Бонд" />
+  <Question quest="Как называется змеиный питомник?" rightAnswer="Серпентарий" WrongAnswer1="Змеевник" WrongAnswer2="Террариум" />
+  <Question quest="Как называется непреодолимое болезненное стремление к воровству?" rightAnswer="Клептомания" WrongAnswer1="Идиосинкразия" WrongAnswer2="Филистерство" />
+  <Question quest="Как называется отрезок, соединяющий какую-либо точку сферы с центром этой сферы?" rightAnswer="Радиус" WrongAnswer1="Хорда" WrongAnswer2="Диаметр" />
+  <Question quest="Как называется очень длительное состояние неподвижности, похожее на сон (минимальная смерть)?" rightAnswer="Летаргия" WrongAnswer1="Амнезия" WrongAnswer2="Сомнамбулизм" />
+  <Question quest="Как называется пейзаж, изображающий море?" rightAnswer="Марина" WrongAnswer1="Морена" WrongAnswer2="Морион" />
+  <Question quest="Как называется поле, где сжаты злаки?" rightAnswer="Жнивье" WrongAnswer1="Новина" WrongAnswer2="Нива" />
+  <Question quest="Как называется последняя буква греческого алфавита?" rightAnswer="Омега" WrongAnswer1="Пси" WrongAnswer2="Зет" />
+  <Question quest="Как называется прибор для определения скорости судна и пройденного им расстояния?" rightAnswer="Лаг" WrongAnswer1="Трал" WrongAnswer2="Фал" />
+  <Question quest="Как называется рыхлая почва, содержащая песок и глину, с преобладанием глины?" rightAnswer="Суглинок" WrongAnswer1="Подзол" WrongAnswer2="Супесь" />
+  <Question quest="Как называется соревнование разных по классу участников с уравниванием шансов на победу путем предоставления форы слабейшим?" rightAnswer="Гандикап" WrongAnswer1="Пелетон" WrongAnswer2="Ганглиоз" />
+  <Question quest="Как называется сосновый лес, растущий на сухом возвышенном месте?" rightAnswer="Бор" WrongAnswer1="Урема" WrongAnswer2="Урман" />
+  <Question quest="Как называется тип кузова легкового автомобиля с откидывающимся мягким тентом?" rightAnswer="Кабриолет" WrongAnswer1="Седан" WrongAnswer2="Пикап" />
+  <Question quest="Как называется трилогия Толкиена, прелюдией к которой являлась повесть &quot;Хоббит&quot;?" rightAnswer="&quot;Властелин колец&quot;" WrongAnswer1="&quot;Гоблины и эльфы&quot;" WrongAnswer2="&quot;Туда и обратно&quot;" />
+  <Question quest="Как называется тумба для крепления причальных канатов?" rightAnswer="Кнехт" WrongAnswer1="Клюз" WrongAnswer2="Фрахт" />
+  <Question quest="Как называется школьное учебное пособие - сборник каких-нибудь избранных произведений или отрывков из них?" rightAnswer="Хрестоматия" WrongAnswer1="Антология" WrongAnswer2="Монография" />
+  <Question quest="Как назывался остров, на котором остановился капитан Немо?" rightAnswer="Остров Линкольна" WrongAnswer1="Остров Пасхи" WrongAnswer2="Остров Борнео" />
+  <Question quest="Как назывался популярный в СССР фотоаппарат?" rightAnswer="Лейка" WrongAnswer1="Кадка" WrongAnswer2="Шайка" />
+  <Question quest="Как называют жесткий компьютерный диск?" rightAnswer="Винчестер" WrongAnswer1="Маузер" WrongAnswer2="Ремингтон" />
+  <Question quest="Как называют приз, вручаемый команде-победительнице Кубка Дэвиса?" rightAnswer="&quot;Серебряная салатница&quot;" WrongAnswer1="&quot;Коралловая ваза&quot;" WrongAnswer2="&quot;Золотая чаша&quot;" />
+  <Question quest="Как называются первопечатные книги, изданные до 1500г.?" rightAnswer="Инкунабулы" WrongAnswer1="Геркуланумы" WrongAnswer2="Преамбулы" />
+  <Question quest="Как по-другому называется электрическая дуга?" rightAnswer="Вольтова" WrongAnswer1="Гальванова" WrongAnswer2="Амперова" />
+  <Question quest="Как по-книжному называется полное воздержание от чего-либо, например, от употребления спиртных напитков, табака?" rightAnswer="Абстиненция" WrongAnswer1="Эпикурейство" WrongAnswer2="Стоицизм" />
+  <Question quest="Как правильно пишется?" rightAnswer="Прецедент" WrongAnswer1="Прецендент" WrongAnswer2="Претцендент" />
+  <Question quest="Как фамилия главного героя романа И. С. Тургенева &quot;Отцы и дети&quot;?" rightAnswer="Базаров" WrongAnswer1="Рудин" WrongAnswer2="Рахметов" />
+  <Question quest="Как, по мнению Сатина из пьесы А. М. Горького &quot;На дне&quot;, надо относиться к человеку?" rightAnswer="Уважать" WrongAnswer1="Унижать" WrongAnswer2="Любить" />
+  <Question quest="Какая из этих частей сцены находится выше других?" rightAnswer="Колосник" WrongAnswer1="Рампа" WrongAnswer2="Авансцена" />
+  <Question quest="Какая римская богиня отождествлялась с греческой Артемидой?" rightAnswer="Диана" WrongAnswer1="Юнона" WrongAnswer2="Венера" />
+  <Question quest="Какая страшная болезнь передается при укусах мухи цеце?" rightAnswer="Сонная болезнь" WrongAnswer1="Желтая лихорадка" WrongAnswer2="Энцефалит" />
+  <Question quest="Какая церковь торговала когда-то свидетельствами об отпущении грехов (индульгенциями)?" rightAnswer="Католическая" WrongAnswer1="Православная" WrongAnswer2="Лютеранская" />
+  <Question quest="Какие две буквы находятся в самой верхней строчке таблицы для проверки зрения?" rightAnswer="ШБ" WrongAnswer1="ДГ" WrongAnswer2="ЕВ" />
+  <Question quest="Какие часы называют клепсидрой?" rightAnswer="Водяные" WrongAnswer1="Солнечные" WrongAnswer2="Цветочные" />
+  <Question quest="Какого названия для различных видов ивы не существует?" rightAnswer="Кривотал" WrongAnswer1="Краснотал" WrongAnswer2="Чернотал" />
+  <Question quest="Какое из этих блюд не относится к итальянской кухне?" rightAnswer="Паэлья" WrongAnswer1="Лазанья" WrongAnswer2="Пицца" />
+  <Question quest="Какое из этих блюд относится к чешской кухне?" rightAnswer="Кнедлики" WrongAnswer1="Мамалыга" WrongAnswer2="Бигос" />
+  <Question quest="Какое из этих животных - не обезьяна?" rightAnswer="Барибал" WrongAnswer1="Гиббон" WrongAnswer2="Бабуин" />
+  <Question quest="Какое из этих растений - каучуконос?" rightAnswer="Гевея" WrongAnswer1="Гинкго" WrongAnswer2="Агава" />
+  <Question quest="Какое из этих слов не имеет единственного числа?" rightAnswer="Пассатижи" WrongAnswer1="Закрома" WrongAnswer2="Сусеки" />
+  <Question quest="Какое из этих слов является палиндромом?" rightAnswer="Топот" WrongAnswer1="Шепот" WrongAnswer2="Шорох" />
+  <Question quest="Какое излучение используется для определения пола еще не родившегося ребенка?" rightAnswer="Ультразвуковое" WrongAnswer1="Рентгеновское" WrongAnswer2="Инфракрасное" />
+  <Question quest="Какое написание - правильное?" rightAnswer="Параллелограмм" WrongAnswer1="Параллелограм" WrongAnswer2="Паралелограм" />
+  <Question quest="Какое слово в диалекте Вологодской области соответствует слову Пчела?" rightAnswer="Медуница" WrongAnswer1="Докторица" WrongAnswer2="Жалица" />
+  <Question quest="Какое слово пропущено в строчке из стихотворения Ф. Тютчева: &quot;С горы бежит … проворный&quot;?" rightAnswer="Поток" WrongAnswer1="Ручей" WrongAnswer2="Казак" />
+  <Question quest="Какое число записано здесь римскими цифрами: MMI?" rightAnswer="2001" WrongAnswer1="1600" WrongAnswer2="201" />
+  <Question quest="Какой вариант написания - правильный?" rightAnswer="Люминесценция" WrongAnswer1="Люменесценция" WrongAnswer2="Люминисценция" />
+  <Question quest="Какой вид лебедя существует?" rightAnswer="Шипун" WrongAnswer1="Свистун" WrongAnswer2="Ворчун" />
+  <Question quest="Какой вид спорта прославил имя Сергея Бубки?" rightAnswer="Прыжки с шестом" WrongAnswer1="Баскетбол" WrongAnswer2="Прыжки в длину" />
+  <Question quest="Какой из этих знаков зодиака приходится на лето?" rightAnswer="&quot;Рак&quot;" WrongAnswer1="&quot;Скорпион&quot;" WrongAnswer2="&quot;Водолей&quot;" />
+  <Question quest="Какой из этих калибров охотничьих ружей самый крупный?" rightAnswer="Восьмой" WrongAnswer1="Двадцатый" WrongAnswer2="Шестнадцатый" />
+  <Question quest="Какой литературный герой известен как Рыцарь печального образа?" rightAnswer="Дон Кихот" WrongAnswer1="Командор" WrongAnswer2="Айвенго" />
+  <Question quest="Какой материал пошел на изготовление алых парусов для корабля, приплывшего за Ассоль?" rightAnswer="Шелк" WrongAnswer1="Батист" WrongAnswer2="Бархат" />
+  <Question quest="Какой московский переулок официально объявлен пешеходной зоной?" rightAnswer="Столешников" WrongAnswer1="Кривоколенный" WrongAnswer2="Кривоарбатский" />
+  <Question quest="Какой московский театр основал Олег Ефремов?" rightAnswer="Современник" WrongAnswer1="РАМТ" WrongAnswer2="Театр им. Моссовета" />
+  <Question quest="Какой полицейский чин в дореформенной России соответствовал должности нынешнего участкового инспектора?" rightAnswer="Частный пристав" WrongAnswer1="Квартальный поручик" WrongAnswer2="Околоточный надзиратель" />
+  <Question quest="Какой стиль спортивного плавания - самый медленный?" rightAnswer="Брасс" WrongAnswer1="Баттерфляй" WrongAnswer2="На спине" />
+  <Question quest="Какой удар в футболе раньше называли корнером?" rightAnswer="Угловой" WrongAnswer1="Пенальти" WrongAnswer2="Удар от ворот" />
+  <Question quest="Какому поэту принадлежит строка: &quot;Что в мой жестокий век восславил я свободу&quot;?" rightAnswer="А. С. Пушкин" WrongAnswer1="М. Ю. Лермонтов" WrongAnswer2="С. В. Михалков" />
+  <Question quest="Какую форму имел летательный аппарат, на котором летали герои фантастического романа А. Н. Толстого &quot;Аэлита&quot;?" rightAnswer="Форму яйца" WrongAnswer1="Сигарообразную форму" WrongAnswer2="Форму летающей тарелки" />
+  <Question quest="Кампания по уничтожению каких птиц проводилась в Китае во времена Мао Цзэдуна?" rightAnswer="Воробьев" WrongAnswer1="Уток" WrongAnswer2="Попугаев" />
+  <Question quest="Кем был композитор А. П. Бородин по основной профессии?" rightAnswer="Химик" WrongAnswer1="Врач" WrongAnswer2="Аптекарь" />
+  <Question quest="Кем был Марк Шагал?" rightAnswer="Художником" WrongAnswer1="Архитектором" WrongAnswer2="Писателем" />
+  <Question quest="Кем не был Николай Васильевич Рерих?" rightAnswer="Химиком" WrongAnswer1="Художником" WrongAnswer2="Писателем" />
+  <Question quest="Колонией какой страны с 1802 года был остров Цейлон?" rightAnswer="Великобритания" WrongAnswer1="Испания" WrongAnswer2="Португалия" />
+  <Question quest="Комолая корова - эта какая?" rightAnswer="Безрогая" WrongAnswer1="Стельная" WrongAnswer2="Малоудойная" />
+  <Question quest="Кому принадлежат эти строки: &quot;И вечный бой! Покой нам только снится!&quot;?" rightAnswer="А. Блок" WrongAnswer1="Б. Пастернак" WrongAnswer2="О. Мандельштам" />
+  <Question quest="Кто автор антиутопии &quot;451 градус по Фаренгейту&quot;?" rightAnswer="Рей Брэдбери" WrongAnswer1="Эрик Фрэнк Рассел" WrongAnswer2="Роберт Шекли" />
+</root>

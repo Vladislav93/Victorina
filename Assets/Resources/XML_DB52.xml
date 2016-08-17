@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Кто такие ЖИВОРОДКИ?" rightAnswer="Моллюски" WrongAnswer1="Птицы" WrongAnswer2="Рептилии" />
+  <Question quest="Чему равна британская торговая мера веса в одну четверть?" rightAnswer="12.7 кг" WrongAnswer1="453.59 г" WrongAnswer2="1.77 г" />
+  <Question quest="Укажите годы жизни М. Мусоргского?" rightAnswer="1839-1881" WrongAnswer1="1840-1893" WrongAnswer2="1891-1953" />
+  <Question quest="Кто из наших соотечественников был первым удостоен звания Героя Советского союза?" rightAnswer="Ляпидевский" WrongAnswer1="Водопьянов" WrongAnswer2="Чкалов" />
+  <Question quest="Чему равна 1 морская миля?" rightAnswer="1852 м" WrongAnswer1="1500 м" WrongAnswer2="1900 м" />
+  <Question quest="Чему равна британская торговая мера веса в один фунт?" rightAnswer="453.59 г" WrongAnswer1="0.0648 г" WrongAnswer2="1.77 г" />
+  <Question quest="Укажите годы жизни А.П. Чехова?" rightAnswer="1860-1904" WrongAnswer1="1814-1861" WrongAnswer2="1792-1856" />
+  <Question quest="Укажите годы жизни Л.Н. Толстого?" rightAnswer="1828-1910" WrongAnswer1="1799-1837" WrongAnswer2="1814-1841" />
+  <Question quest="Сколько вершков в одном русском аршине?" rightAnswer="16" WrongAnswer1="14" WrongAnswer2="15" />
+  <Question quest="Чему равна британская торговая мера веса в одну унцию?" rightAnswer="28.35 г" WrongAnswer1="453.59 г" WrongAnswer2="0.0648 г" />
+  <Question quest="Укажите годы жизни В.И. Ленина?" rightAnswer="1870-1924" WrongAnswer1="1896-1974" WrongAnswer2="1820-1895" />
+  <Question quest="Укажите годы жизни А.М. Горького?" rightAnswer="1868-1936" WrongAnswer1="1814-1841" WrongAnswer2="1799-1837" />
+  <Question quest="Какую оперу Верди написал по запросу Петербургского Мариининского театра?" rightAnswer="Сила судьбы" WrongAnswer1="Травиата" WrongAnswer2="Бал-маскарад" />
+  <Question quest="Укажите годы жизни К.Э. Циолковского?" rightAnswer="1857-1935" WrongAnswer1="1711-1765" WrongAnswer2="1859-1906" />
+  <Question quest="Укажите годы жизни А.С. Попова?" rightAnswer="1859-1906" WrongAnswer1="1711-1765" WrongAnswer2="1857-1935" />
+  <Question quest="Как называется яркая звезда - альфа Скорпиона?" rightAnswer="Антарес" WrongAnswer1="Денеб" WrongAnswer2="Альтаир" />
+  <Question quest="Кто из чемпионов мира по шахматам первой половины 20 века навсегда остался непобежденным?" rightAnswer="Алехин" WrongAnswer1="Эйве" WrongAnswer2="Ласкер" />
+  <Question quest="Сколько саженей в одной русской версте?" rightAnswer="500" WrongAnswer1="1000" WrongAnswer2="250" />
+  <Question quest="Укажите годы жизни М.Ю. Лермонтова?" rightAnswer="1814-1841" WrongAnswer1="1828-1910" WrongAnswer2="1799-1837" />
+  <Question quest="Чему равен один пуд?" rightAnswer="40 фунтам" WrongAnswer1="60 фунтам" WrongAnswer2="50 фунтам" />
+  <Question quest="В каком веке жил Русский первопечатник Иван Федоров?" rightAnswer="16" WrongAnswer1="14" WrongAnswer2="15" />
+  <Question quest="Укажите годы жизни маршала СССР Г.К. Жукова?" rightAnswer="1896-1974" WrongAnswer1="1820-1895" WrongAnswer2="1818-1883" />
+  <Question quest="Чему равна британская торговая мера веса в один гран?" rightAnswer="0.0648 г" WrongAnswer1="1.77 г" WrongAnswer2="453.59 г" />
+  <Question quest="Чему равен один британский ярд?" rightAnswer="91.44 см" WrongAnswer1="90 см" WrongAnswer2="100 см" />
+  <Question quest="Чему равен один британский дюйм?" rightAnswer="2.54 см" WrongAnswer1="2.55 см" WrongAnswer2="2.57 см" />
+  <Question quest="Кто из этих асов авиации является единственным в мире летчиком, совершившим четыре воздушных тарана?" rightAnswer="Ковзан" WrongAnswer1="Хлобыстов" WrongAnswer2="Зеленко" />
+  <Question quest="Сколько дюймов в одном русском аршине?" rightAnswer="28" WrongAnswer1="26" WrongAnswer2="27" />
+  <Question quest="Начало какого из этих календарей приходится на 5508 год до н.э.?" rightAnswer="Византийский" WrongAnswer1="Древнейндийский" WrongAnswer2="Древнегреческий" />
+  <Question quest="Сколько квадратных саженей в одной квадратной версте?" rightAnswer="250000" WrongAnswer1="500000" WrongAnswer2="750000" />
+  <Question quest="Чему равен 1 английский галлон?" rightAnswer="4.546 л" WrongAnswer1="0.142 л" WrongAnswer2="0.568 л" />
+  <Question quest="Чему равна 1 английская кварта?" rightAnswer="1.136 л" WrongAnswer1="4.546 л" WrongAnswer2="0.568 л" />
+  <Question quest="На самолете какого авиаконструктора экипаж Валерия Чкалова совершил первый беспосадочный перелет из СССР в США?" rightAnswer="Туполева" WrongAnswer1="Ильюшина" WrongAnswer2="Яковлева" />
+  <Question quest="Укажите годы жизни Карла Маркса?" rightAnswer="1818-1883" WrongAnswer1="1820-1895" WrongAnswer2="1896-1974" />
+  <Question quest="Укажите годы жизни А.С. Пушкина?" rightAnswer="1799-1837" WrongAnswer1="1868-1936" WrongAnswer2="1814-1841" />
+  <Question quest="Чему равна британская торговая мера веса в одну драхму?" rightAnswer="1.77 г" WrongAnswer1="0.0648 г" WrongAnswer2="453.59 г" />
+  <Question quest="Когда Александр Невский одержал победу на Чудском озере?" rightAnswer="5.04.1242 г." WrongAnswer1="5.04.1542 г." WrongAnswer2="5.04.1442 г." />
+  <Question quest="Чему равен 1 английский джилл?" rightAnswer="0.142 л" WrongAnswer1="0.568 л" WrongAnswer2="4.546 л" />
+  <Question quest="Укажите годы жизни Сергея Прокофьева?" rightAnswer="1891-1953" WrongAnswer1="1839-1881" WrongAnswer2="1840-1893" />
+  <Question quest="Назовите страну, где находится самый длинный в мире железнодорожный туннель?" rightAnswer="Швейцария" WrongAnswer1="Англия-Франция" WrongAnswer2="Япония" />
+  <Question quest="Укажите годы жизни В. Маяковского?" rightAnswer="1893-1930" WrongAnswer1="1814-1861" WrongAnswer2="1860-1904" />
+  <Question quest="Укажите годы жизни П.Чайковского?" rightAnswer="1840-1893" WrongAnswer1="1839-1881" WrongAnswer2="1891-1953" />
+  <Question quest="Укажите годы жизни Н.И. Лобачевского?" rightAnswer="1792-1856" WrongAnswer1="1840-1893" WrongAnswer2="1839-1881" />
+  <Question quest="Укажите годы жизни Т. Шевченко?" rightAnswer="1814-1861" WrongAnswer1="1860-1904" WrongAnswer2="1792-1856" />
+  <Question quest="Что такое орлик?" rightAnswer="Растение" WrongAnswer1="Рептилия" WrongAnswer2="Минерал" />
+  <Question quest="Кто первым в мире спроектировал и запатентовал самолет?" rightAnswer="Можайский" WrongAnswer1="Жуковский" WrongAnswer2="Сикорский" />
+  <Question quest="Сколько квадратных саженей в одной десятине?" rightAnswer="2400" WrongAnswer1="2000" WrongAnswer2="2300" />
+  <Question quest="Какой русской мере жидкости соответствовал объем одного ведра?" rightAnswer="10 кружек" WrongAnswer1="20 кружек" WrongAnswer2="8 кружек" />
+  <Question quest="Укажите годы жизни М.В. Ломоносова?" rightAnswer="1711-1765" WrongAnswer1="1859-1906" WrongAnswer2="1857-1935" />
+  <Question quest="Сколько метров в одном русском аршине?" rightAnswer="0.71" WrongAnswer1="0.73" WrongAnswer2="0.70" />
+  <Question quest="Сколько метров в одной русской версте?" rightAnswer="1066.78" WrongAnswer1="500" WrongAnswer2="1566.5" />
+  <Question quest="Чему равен один британский фут?" rightAnswer="30.48 см" WrongAnswer1="30.50 см" WrongAnswer2="30.43 см" />
+  <Question quest="Чему соответствует 1 морская сажень?" rightAnswer="1.83 м" WrongAnswer1="1.85 м" WrongAnswer2="1.79 м" />
+  <Question quest="Сколько футов в одном русском аршине?" rightAnswer="2.333" WrongAnswer1="22" WrongAnswer2="3.222" />
+  <Question quest="Кто из шахматистов - чемпионов мира, иногда брал на игру своего кота?" rightAnswer="Алехин" WrongAnswer1="Ласкер" WrongAnswer2="Капабланка" />
+  <Question quest="Какой небесный объект в диаметре 864 000 миль?" rightAnswer="Солнце" WrongAnswer1="Уран" WrongAnswer2="Плутон" />
+  <Question quest="Чему равен американский баррель нефти?" rightAnswer="158.97 л" WrongAnswer1="1 тонна" WrongAnswer2="197.58 л" />
+  <Question quest="Какая планета солнечной системы названа в честь деда древнеримского Юпитера и отца Сатурна?" rightAnswer="Уран" WrongAnswer1="Нептун" WrongAnswer2="Меркурий" />
+  <Question quest="Какой модуль был пристыкован к орбитальному комплексу 'Мир' последним?" rightAnswer="'Природа'" WrongAnswer1="'Кристалл'" WrongAnswer2="'Квант'" />
+  <Question quest="Какая семья правила Миланом с 1277 до 1447 г.?" rightAnswer="Висконти" WrongAnswer1="Медичи" WrongAnswer2="Сфорца" />
+  <Question quest="В какой стране находится город, к которому восходит этимология слова 'доллар'?" rightAnswer="Чехия" WrongAnswer1="Германия" WrongAnswer2="Великобритания" />
+  <Question quest="Укажите годы жизни Д.И. Менделеева?" rightAnswer="1834-1907" WrongAnswer1="1711-1765" WrongAnswer2="1857-1935" />
+  <Question quest="Чему равна 1 английская пинта?" rightAnswer="0.568 л" WrongAnswer1="0.142 л" WrongAnswer2="4.546 л" />
+  <Question quest="Что означает название знаменитой московской улицы Арбат?" rightAnswer="Пригородная" WrongAnswer1="Центральная" WrongAnswer2="Проезжая" />
+  <Question quest="Укажите годы жизни Фридриха Энгельса?" rightAnswer="1820-1895" WrongAnswer1="1818-1883" WrongAnswer2="1896-1974" />
+  <Question quest="Рояли какой фирмы после советской национализации назывались 'Красный Октябрь'?" rightAnswer="'Беккер'" WrongAnswer1="'Стейнвей'" WrongAnswer2="'Бехштейн'" />
+  <Question quest="К берегам какой современной страны подошел Колумб, когда открыл Америку?" rightAnswer="Венесуэла" WrongAnswer1="Бразилия" WrongAnswer2="Колумбия" />
+  <Question quest="Отзвук произведения какого автора использовал Пушкин в первой строке 'Евгения Онегина'?" rightAnswer="Крылов" WrongAnswer1="Лафонтен" WrongAnswer2="Державин" />
+  <Question quest="Кто из этих философов неожиданно для себя, стал поданным Российской империи?" rightAnswer="Кант" WrongAnswer1="Декарт" WrongAnswer2="Шеллинг" />
+  <Question quest="Кто, по русским летописям, заселил европейскую часть нынешней России после потопа?" rightAnswer="Иафет" WrongAnswer1="Сим" WrongAnswer2="Хам" />
+  <Question quest="Это женское имя является символом Франции?" rightAnswer="Марианна" WrongAnswer1="Жанна" WrongAnswer2="Лилия" />
+  <Question quest="Это отчество наиболее часто встречается у русских императриц?" rightAnswer="Федоровна" WrongAnswer1="Иоановна" WrongAnswer2="Алексеевна" />
+  <Question quest="Хакеры считают: Сколько WINDOWS не ломай, все равно ... новый придумает." rightAnswer="Гейтс" WrongAnswer1="Фанат" WrongAnswer2="Буржуй" />
+  <Question quest="Эта женщина отзывалась на кличку 'Абсолют'?" rightAnswer="Елена СТАСОВА" WrongAnswer1="Эльза ТРИОЛЕ" WrongAnswer2="Надежда КРУПСКАЯ" />
+  <Question quest="Только из-за этого продукта русские не устраивали еще бунта?" rightAnswer="Водка" WrongAnswer1="Табак" WrongAnswer2="Соль" />
+  <Question quest="Такая фамилия была у Монны Лизы?" rightAnswer="Джоконда" WrongAnswer1="Саския" WrongAnswer2="Мадонна" />
+  <Question quest="Самой 'толстой' газетой в мире считается?" rightAnswer="'Нью-Йорк Таймс'" WrongAnswer1="'Жэньминь-Жибао'" WrongAnswer2="'Вуду Трибьюн'" />
+  <Question quest="Рыба, которая называется так же, как южноамериканское государство, - это?" rightAnswer="Аргентина" WrongAnswer1="Чили" WrongAnswer2="Боливия" />
+  <Question quest="Представителем какой династии был король Франции Людовик Святой?" rightAnswer="Капетингов" WrongAnswer1="Валуа" WrongAnswer2="Бурбонов" />
+  <Question quest="По мнению капитана Врунгеля, в Голландии 'только и есть три замечательные вещи'. Исключите лишнюю голландскую вещь?" rightAnswer="Тюльпаны" WrongAnswer1="Сыр" WrongAnswer2="Сажа" />
+  <Question quest="Под названием FYROM на Олимпиаде в Атланте США выступала сборная?" rightAnswer="Македонии" WrongAnswer1="Пуэрто-Рико" WrongAnswer2="Бывшего СССР" />
+  <Question quest="Она стала самым молодым академиком Российской Академии художеств?" rightAnswer="Мария КОЛЛО" WrongAnswer1="Марина ХЛЕБНИКОВА" WrongAnswer2="Ирина СУРИКОВА" />
+  <Question quest="Одним из новейших экзотических азартных увлечений японцев является?" rightAnswer="Гонки кальмаров" WrongAnswer1="Параплан" WrongAnswer2="Охота на акул" />
+  <Question quest="Название города Ливерпуль буквально переводится с английского как?" rightAnswer="Мутная заводь" WrongAnswer1="Город ливреев" WrongAnswer2="Пирожок с ливером" />
+  <Question quest="Один из ходовых огней судна с механическим двигателем - гакабортный находится на?" rightAnswer="Корме" WrongAnswer1="Правом борту" WrongAnswer2="Носу" />
+  <Question quest="Музыкальный инструмент, изображенный на Государственном гербе Гаити, называется?" rightAnswer="Барабан" WrongAnswer1="Фанфары" WrongAnswer2="Литавры" />
+  <Question quest="На свадьбе императрицы Анны Иоановны подали пирог, начиненный?" rightAnswer="Живым человеком" WrongAnswer1="Грибами" WrongAnswer2="Икрой красной" />
+  <Question quest="Лозунг 'Разделяй и властвуй!' придумал?" rightAnswer="Макиавелли" WrongAnswer1="Кардинал Ришелье" WrongAnswer2="Юлий Цезарь" />
+  <Question quest="Метопоскопия - это ?" rightAnswer="Физиогномика" WrongAnswer1="Хиромантия" WrongAnswer2="Дефектоскопия" />
+  <Question quest="Кто сказал: 'Я сам знаю, что эта задача не имеет решения. Я хочу знать, как ее решать'?" rightAnswer="Кристобаль Хунта" WrongAnswer1="Наполеон" WrongAnswer2="Маргарет Тэтчер" />
+  <Question quest="Кто составил первую карту Европы и мира?" rightAnswer="Меркатор" WrongAnswer1="Аристофан" WrongAnswer2="Гарвей" />
+  <Question quest="Кто первый высказал идею существования абсолютного нуля температур?" rightAnswer="Г.Амонтон" WrongAnswer1="Джеймс Дьюар" WrongAnswer2="Уильям Томпсон" />
+  <Question quest="Кто первый открыл существование односторонних поверхностей?" rightAnswer="Август Мебиус" WrongAnswer1="Карл Мебиус" WrongAnswer2="Софья Ковалевская" />
+  <Question quest="Кто первый ввел положительные иррациональные числа?" rightAnswer="Омар Хайям" WrongAnswer1="Герман Кольбе" WrongAnswer2="Галилео Галилей" />
+  <Question quest="Кто первый высказал гипотезу о том, что Земля имеет раскаленное ядро?" rightAnswer="Рене ДЕКАРТ" WrongAnswer1="Инженер ГАРИН" WrongAnswer2="Дж.ГИЛБЕРТ" />
+  <Question quest="Кто из миротворцев был причислен к лику святых в год своей смерти?" rightAnswer="Мать ТЕРЕЗА" WrongAnswer1="Савелий КРАМАРОВ" WrongAnswer2="Академик САХАРОВ" />
+  <Question quest="Кто написал музыку к кинофильму 'О, счастливчик'?" rightAnswer="Алан Прайс" WrongAnswer1="Роджер Гловер" WrongAnswer2="Мишель Легран" />
+  <Question quest="Кому принадлежит фраза: 'Политика - это умение отмываться дочиста грязной водой'?" rightAnswer="Братьям Стругацким" WrongAnswer1="Рональду Рейгану" WrongAnswer2="Уинстону Черчиллю" />
+  <Question quest="Кто автор романа 'Одиссей покидает Итаку'?" rightAnswer="Василий Звягинцев" WrongAnswer1="Сомерсет Моэм" WrongAnswer2="Александр Беляев" />
+  <Question quest="Кому принадлежат слова 'скорбная обитель'?" rightAnswer="Данте" WrongAnswer1="Стендалю" WrongAnswer2="Бальзаку" />
+  <Question quest="Кого в старину на Руси называли 'Белым человеком'?" rightAnswer="Домового" WrongAnswer1="Снеговика" WrongAnswer2="Лешего" />
+  <Question quest="Кому принадлежат слова 'Пока дышу, надеюсь'?" rightAnswer="Овидию" WrongAnswer1="Шекспиру" WrongAnswer2="Вергилию" />
+  <Question quest="Клоунское амплуа в западноевропейском цирке, которому в русском цирке соответствует 'рыжий', - это ?" rightAnswer="Август" WrongAnswer1="Июль" WrongAnswer2="Май" />
+  <Question quest="Книга Вислоцкой 'Искусство любви' вышла в издательстве?" rightAnswer="'Советский спорт'" WrongAnswer1="'Высшая школа'" WrongAnswer2="'Веселые картинки'" />
+  <Question quest="С каким счётом обыграла бразилия германию по футболу на чемпионате мира 2002" rightAnswer="2-0" WrongAnswer1="3-1" WrongAnswer2="1- 0" />
+  <Question quest="Какой фильм поставлен по роману Стивена Кинга?" rightAnswer="'Бегущий человек'" WrongAnswer1="'Вспомнить все'" WrongAnswer2="'Хищник'" />
+  <Question quest="Какому рыцарскому ордену принадлежал главный противник героя в романе В.Скотта 'Айвенго', Бриан де Буагильбер?" rightAnswer="Тамплиеры" WrongAnswer1="Тевтонцы" WrongAnswer2="Госпитальеры" />
+  <Question quest="Какой из перечисленных рыб не существует в природе?" rightAnswer="Рыба-мышь" WrongAnswer1="Рыба-собака" WrongAnswer2="Рыба-зебра" />
+  <Question quest="Какой рок-музыкант первый исполнил партию Христа?" rightAnswer="Ян гиллан" WrongAnswer1="Алан Прайс" WrongAnswer2="Джон Леннон" />
+  <Question quest="Какой город был столицей Карла Великого?" rightAnswer="Ахен" WrongAnswer1="Париж" WrongAnswer2="Марсель" />
+  <Question quest="Какое отношение имеет французский композитор Родольф Крейцер к 'Крейцеровой Сонате'?" rightAnswer="Получил в подарок" WrongAnswer1="Просто совпадение" WrongAnswer2="Сам написал" />
+  <Question quest="Какая страна является родиной плавленых сыров, которые были изобретены там в 1911 году?" rightAnswer="Швейцария" WrongAnswer1="Германия" WrongAnswer2="Дания" />
+  <Question quest="Какое из перечисленных изобретений не принадлежит Томасу Эдисону?" rightAnswer="Динамо-машина" WrongAnswer1="Микрофон" WrongAnswer2="Аккумулятор" />
+  <Question quest="Как ныне называется город Александрия, основанный в Египте А.Македонским в 332 г до н.э.?" rightAnswer="Так и называется" WrongAnswer1="Триполи" WrongAnswer2="Там одни руины" />
+  <Question quest="Как утверждает статистика, если у француза нет одного глаза. то, скорее всего, - это результат любви к?" rightAnswer="Шампанскому" WrongAnswer1="Стендовой стрельбе" WrongAnswer2="Бильярду" />
+  <Question quest="Как называется звезда, альфа созвездия Эридан?" rightAnswer="Ахернар" WrongAnswer1="Персей" WrongAnswer2="Полярная звезда" />
+  <Question quest="Именно эти две женщины-реки изображены на ростральных колоннах?" rightAnswer="Нева и волга" WrongAnswer1="Волга и днепр" WrongAnswer2="Онега и волга" />
+  <Question quest="Как звали сестру Бени Крика, которую в рассказе И.Бабеля 'Король' он выдавал замуж за хилого и плаксивого вора?" rightAnswer="Двойра" WrongAnswer1="Хава" WrongAnswer2="Фрума" />
+  <Question quest="Именно эта женщина придумала праздник 8 марта?" rightAnswer="Клара Цеткин" WrongAnswer1="Инесса Арманд" WrongAnswer2="Мария Ульянова" />
+  <Question quest="Если при падении атмосферного давления кривая судового барографа обращена выпуклостью кверху, то следует ожидать?" rightAnswer="Свежего ветра" WrongAnswer1="Улучшения погоды" WrongAnswer2="Штиля" />
+  <Question quest="Где находится Сандрагуптов столб, изготовленный в 4 веке из практически чистого железа?" rightAnswer="Дели" WrongAnswer1="Акапулько" WrongAnswer2="Озеро ньяса" />
+  <Question quest="Во времена военного коммунизма не создали только одно из этих учреждений?" rightAnswer="Главсвинина" WrongAnswer1="Главкость" WrongAnswer2="Главрыба" />
+  <Question quest="В румбовой системе счёта направлений истинный горизонт 360 градусов делится?" rightAnswer="На 32 части" WrongAnswer1="На 36 частей" WrongAnswer2="На 48 частей" />
+  <Question quest="В Манси 'штат Индиана США' запрещено приносить рыболовную снасть?" rightAnswer="На кладбище" WrongAnswer1="В церковь" WrongAnswer2="На рыбалку" />
+  <Question quest="В Корваллисе штата Орегон США молодой девушке законодательно с 7 вечера запрещается?" rightAnswer="Купить чашку кофе" WrongAnswer1="Строить глазки" WrongAnswer2="Выкурить сигарету" />
+  <Question quest="В девичестве эту знаменитую женщину звали Софья Корвин-Курковская. Каково общеизвестное ее имя?" rightAnswer="Ковалевская" WrongAnswer1="Иоселиани" WrongAnswer2="Ротару" />
+  <Question quest="В девичестве эту знаменитую женщину звали Надежна Аллилуева. Каково общеизвестное ее имя?" rightAnswer="Джугашвили" WrongAnswer1="Сталина" WrongAnswer2="Пахмутова" />
+  <Question quest="В девичестве эту знаменитую женщину звали Мария Бланк. Каково общеизвестное ее имя?" rightAnswer="Ульянова" WrongAnswer1="Марпл" WrongAnswer2="Цеткин" />
+  <Question quest="В девичестве эту знаменитую женщину звали Ксения Волынцева. Каково общеизвестное ее имя?" rightAnswer="Стриж" WrongAnswer1="Кюри" WrongAnswer2="Варум" />
+  <Question quest="В девичестве эту знаменитую женщину звали Галина Дьяконова. Каково общеизвестное ее имя?" rightAnswer="Дали" WrongAnswer1="Горбачева" WrongAnswer2="Ельцина" />
+  <Question quest="В девичестве эту знаменитую женщину звали Василиса Храпова. Каково общеизвестное ее имя?" rightAnswer="Железнова" WrongAnswer1="Ротару" WrongAnswer2="Яровая" />
+  <Question quest="В девичестве эту знаменитую женщину звали Алиса Гессен-Дармштадтская. Каково общеизвестное ее имя?" rightAnswer="Романова" WrongAnswer1="Сергеева" WrongAnswer2="Петрова" />
+  <Question quest="В девичестве эту знаменитую женщину звали Александра Домонтович. Каково общеизвестное ее имя?" rightAnswer="Коллонтай" WrongAnswer1="Пугачева" WrongAnswer2="Дункан" />
+  <Question quest="Бессмертную фразу 'Пилите, Шура, пилите!' в романе 'Золотой теленок' произнес?" rightAnswer="Паниковский" WrongAnswer1="Бендер" WrongAnswer2="Балаганов" />
+  <Question quest="Американцы назвали ее 'Самой противной' первой леди США ХХ века?" rightAnswer="Нэнси РЕЙГАН" WrongAnswer1="Мария БУШ" WrongAnswer2="Колетт КАРТЕР" />
+  <Question quest="'Я - человек, и ничто человеческое мне не чуждо'. Кто сказал эти слова?" rightAnswer="Теренций" WrongAnswer1="Наполеон" WrongAnswer2="Сталин" />
+  <Question quest="'Цель оправдывает средства' - чей это лозунг?" rightAnswer="Макиавелли" WrongAnswer1="Гимлера" WrongAnswer2="Берии" />
+  <Question quest="'Ты можешь, ибо ты должен' произнес?" rightAnswer="Шиллер" WrongAnswer1="Генерал лебедь" WrongAnswer2="Наполеон" />
+  <Question quest="Сенатором от какого штата был Ал Гор до того, как стал вице-президентом США?" rightAnswer="Теннесси" WrongAnswer1="Миссисипи" WrongAnswer2="Алабама" />
+  <Question quest="Назовите страну, где находится самый длинный в мире железнодорожный туннель." rightAnswer="Япония" WrongAnswer1="Англия-Франция" WrongAnswer2="Швейцария" />
+  <Question quest="Какому множителю основоной величины в системе СИ соответствует приставка ПЕТА" rightAnswer="10 в 15 степени" WrongAnswer1="10 в -15 степени" WrongAnswer2="10 в 12 степени" />
+  <Question quest="Какова примерная длина Панамского канала?" rightAnswer="82 км" WrongAnswer1="64 км" WrongAnswer2="42 км" />
+  <Question quest="Кого раньше всех называли престидижитатором?" rightAnswer="Фокусника" WrongAnswer1="Чучельника" WrongAnswer2="Программиста" />
+  <Question quest="Какая страна правила Миланом с 1277 до 1447 г.?" rightAnswer="Висконти" WrongAnswer1="Сфорца" WrongAnswer2="Мазарини" />
+  <Question quest="Какой процессор Pentium самый современный?" rightAnswer="II" WrongAnswer1="100" WrongAnswer2="Pro" />
+  <Question quest="Какая цивилизация Бронзового Века зародилась на острове Крит 2500 лет до Нашей Эры?" rightAnswer="Миноан" WrongAnswer1="Турецкая" WrongAnswer2="Греческая" />
+  <Question quest="Сколько звезд входит в звездную систему Млечный Путь?" rightAnswer="2210 в 11 степени" WrongAnswer1="2210 в 7 степени" WrongAnswer2="2210 в 9 степени" />
+  <Question quest="Где министры российского правительства хранили бюджеты ведомств?" rightAnswer="В банке" WrongAnswer1="В Цюрихе" WrongAnswer2="В сейфе" />
+  <Question quest="В какие войска попадали лучшие выпускники Военной академии Вест-Пойнт в 19 веке?" rightAnswer="Инженерные войска" WrongAnswer1="Кавалерия" WrongAnswer2="Артиллерия" />
+  <Question quest="Где проводилась летняя олимпиада в 1964 году?" rightAnswer="Токио" WrongAnswer1="Мехико" WrongAnswer2="Мюнхен" />
+  <Question quest="В каком году Гитлер стал канслером Германии?" rightAnswer="1933" WrongAnswer1="1937" WrongAnswer2="1929" />
+  <Question quest="Какова площадь России?" rightAnswer="17 075 400 км2" WrongAnswer1="18 054 520 км2" WrongAnswer2="17 659 360 км2" />
+  <Question quest="Какая горная выработка не относится к классу подземных?" rightAnswer="Шурф" WrongAnswer1="Квершлаг" WrongAnswer2="Штрек" />
+  <Question quest="В какой области находится город Боровск?" rightAnswer="В Калужской" WrongAnswer1="В Одесской" WrongAnswer2="В Киевской" />
+  <Question quest="Как называется разменная монета в Финляндии?" rightAnswer="Пенни" WrongAnswer1="Грош" WrongAnswer2="Эре" />
+  <Question quest="Русский архитектор,создатель Сената в Кремле?" rightAnswer="Казаков" WrongAnswer1="Кварнеги" WrongAnswer2="Уллас" />
+  <Question quest="Кто из известных русских лингвистов был морским офицером, 'языковедом по призванию, а не по образованию '?" rightAnswer="В. И. Даль" WrongAnswer1="В. В. Виноградов" WrongAnswer2="Л. В. Щерба" />
+  <Question quest="Какая из этих звезд не входит в созвездие Большой Медведицы?" rightAnswer="Тайгета" WrongAnswer1="Мерак" WrongAnswer2="Дубхе" />
+  <Question quest="Столицей какого американского штата является город Линкольн?" rightAnswer="Небраска" WrongAnswer1="Айова" WrongAnswer2="Вайоминг" />
+  <Question quest="После перехода французами какой реки началась Отечественная война 1812 года ?" rightAnswer="Неман" WrongAnswer1="Днепр" WrongAnswer2="Дунай" />
+  <Question quest="Автор книги 'Последний фаворит'" rightAnswer="Жданов" WrongAnswer1="Распутин" WrongAnswer2="Алешковский" />
+  <Question quest="Как называется валюта в Сирии ?" rightAnswer="Фунт" WrongAnswer1="Динар" WrongAnswer2="Доллар" />
+  <Question quest="Какого стиля ещё нет в музыке?" rightAnswer="Трехно" WrongAnswer1="Трип-хоп" WrongAnswer2="Фристайл" />
+  <Question quest="Когда появились первые растения?" rightAnswer="2000 млн. л назад" WrongAnswer1="200 млн. л назад" WrongAnswer2="4600 млн. л назад" />
+  <Question quest="Кто сказал: 'Лесть-это фальшивая монета, которая не имела бы обращения, если бы не наше тщеславие' ?" rightAnswer="Ларошфуко" WrongAnswer1="Эзоп" WrongAnswer2="Шопенгауэр" />
+  <Question quest="Частицы имеющие не спаренные электроны называются?" rightAnswer="Радикалы" WrongAnswer1="Протоны" WrongAnswer2="Кварки" />
+  <Question quest="Каким океаном омывается Земля Франца-Иосифа?" rightAnswer="Северный ледовитый" WrongAnswer1="Индийский" WrongAnswer2="Тихий" />
+  <Question quest="Как по-другому называется Макао?" rightAnswer="Аомынь" WrongAnswer1="Кабо-Верде" WrongAnswer2="Мьянма" />
+  <Question quest="Как в книгопечатании называют 'звездочку', которая обозначает 'сноску'?" rightAnswer="Астериск" WrongAnswer1="Астроним" WrongAnswer2="Астерия" />
+</root>

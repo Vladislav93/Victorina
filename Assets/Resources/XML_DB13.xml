@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <Question quest ="Какой Российский город празднует наступление Нового года позднее других?"
+rightAnswer="Калининград"
+WrongAnswer1="Новосибирск"
+WrongAnswer2="Хабаровск">
+  </Question>
+
+<Question quest ="Что означает слово «Кяхта»?"
+rightAnswer="Название города"
+WrongAnswer1="Государственная дума"
+WrongAnswer2="Нехороший человек">
+  </Question>
+
+<Question quest ="Какое слово здесь лишнее, на взгляд музыканта?"
+rightAnswer="Сила"
+WrongAnswer1="Фасоль"
+WrongAnswer2="Миля">
+  </Question>
+
+<Question quest ="У какого из этих музыкальных инструментов больше струн?"
+rightAnswer="Гитара"
+WrongAnswer1="Контрабас"
+WrongAnswer2="Виолончель">
+  </Question>
+
+<Question quest ="Назовите победителя автогонок ''Формулы-1'' в 2000г.?"
+rightAnswer="М. Шумахер"
+WrongAnswer1="М. Хаккинен"
+WrongAnswer2="Р. Баррикелло">
+  </Question>
+
+<Question quest ="Что является графиком квадратичной функции?"
+rightAnswer="Парабола"
+WrongAnswer1="Гипербола"
+WrongAnswer2="Параболоид">
+  </Question>
+
+<Question quest ="Чем былинный Садко сводил с ума морскую царевну?"
+rightAnswer="Гуслями"
+WrongAnswer1="Скрипкой"
+WrongAnswer2="Балалайкой">
+  </Question>
+
+<Question quest ="Сколько пар хромосом распределяется на одного (здорового) человека?"
+rightAnswer="23"
+WrongAnswer1="13"
+WrongAnswer2="32">
+  </Question>
+
+<Question quest ="Где можно найти Лунный камень?"
+rightAnswer="На Земле"
+WrongAnswer1="На Луне"
+WrongAnswer2="На Марсе">
+  </Question>
+
+<Question quest ="Какой из этих известных городов не имеет титула «Город-Герой»?"
+rightAnswer="Пенза"
+WrongAnswer1="Керчь"
+WrongAnswer2="Одесса">
+  </Question>
+
+<Question quest ="Какого числа отмечается международный День ребенка?"
+rightAnswer="1 июля"
+WrongAnswer1="1 июня"
+WrongAnswer2="1 сентября">
+  </Question>
+
+<Question quest ="Какого числа празднуют Всемирный День Авиации и Космонавтики?"
+rightAnswer="12 апреля"
+WrongAnswer1="12 августа"
+WrongAnswer2="12 мая">
+  </Question>
+
+<Question quest ="Кто написал МУ-МУ?"
+rightAnswer="Тургенев"
+WrongAnswer1="Чехов"
+WrongAnswer2="Герасим">
+  </Question>
+
+<Question quest ="Кто из мушкетёров был графом де Ля Фер?"
+rightAnswer="Атос"
+WrongAnswer1="Портос"
+WrongAnswer2="Арамис">
+  </Question>
+
+<Question quest ="Какой цвет получится, если смешать Красный и Синий?"
+rightAnswer="Фиолетовый"
+WrongAnswer1="Чёрный"
+WrongAnswer2="Зелёный">
+  </Question>
+
+<Question quest ="Лидером какой группы является Андрей Макаревич?"
+rightAnswer="Машина Времени"
+WrongAnswer1="ДДТ"
+WrongAnswer2="Сплин">
+  </Question>
+
+<Question quest ="На каком музыкальном инструменте играл Незнайка?"
+rightAnswer="Труба"
+WrongAnswer1="Гитара"
+WrongAnswer2="Скрипка">
+  </Question>
+
+<Question quest ="Где появились самые первые бумажные деньги?"
+rightAnswer="В древнем Китае"
+WrongAnswer1="В Древней Греции"
+WrongAnswer2="В Риме">
+  </Question>
+
+<Question quest ="Сколько корон у орла на гербе РФ?"
+rightAnswer="3"
+WrongAnswer1="2"
+WrongAnswer2="1">
+  </Question>
+
+<Question quest ="На берегу какой реки стоял родной город Незнайки?"
+rightAnswer="Огурцовая"
+WrongAnswer1="Помидорная"
+WrongAnswer2="Картофельная">
+  </Question>
+
+<Question quest ="Как звали отца писателя Николая Гоголя?"
+rightAnswer="Василий"
+WrongAnswer1="Владимир"
+WrongAnswer2="Валерий">
+  </Question>
+
+<Question quest ="Какой транспорт появился в 80-х годах 19 века?"
+rightAnswer="Трамвай"
+WrongAnswer1="Вертолёт"
+WrongAnswer2="Метро">
+  </Question>
+
+<Question quest ="От чего защищает ИБП?"
+rightAnswer="От сбоев в электросети"
+WrongAnswer1="От вирусов"
+WrongAnswer2="От детей">
+  </Question>
+
+<Question quest ="В каком порядке (если смотреть сверху вниз) расположены цвета российского флага?"
+rightAnswer="Белый-синий-красный"
+WrongAnswer1="Красный-синий-белый"
+WrongAnswer2="Синий-белый-красный">
+  </Question>
+
+<Question quest ="Известный пес Скуби-...?"
+rightAnswer="Ду"
+WrongAnswer1="Пу"
+WrongAnswer2="Ву">
+  </Question>
+
+<Question quest ="Сколько штатов находится на территории США?"
+rightAnswer="50"
+WrongAnswer1="55"
+WrongAnswer2="49">
+  </Question>
+
+<Question quest ="Сколько минут отводится на одну партию в волейболе?"
+rightAnswer="Не ограничено"
+WrongAnswer1="15"
+WrongAnswer2="25">
+  </Question>
+
+<Question quest ="С помощью какого предмета спортсмены прыгают в высоту?"
+rightAnswer="Шест"
+WrongAnswer1="Пилон"
+WrongAnswer2="Пружина">
+  </Question>
+
+<Question quest ="Столица Швейцарии?"
+rightAnswer="Берн"
+WrongAnswer1="Стокгольм"
+WrongAnswer2="Хельсинки">
+  </Question>
+
+<Question quest ="Когда закончилась Вторая Мировая война?"
+rightAnswer="2 сентября 1945 года"
+WrongAnswer1="8 мая 1945 года"
+WrongAnswer2="1 сентября 1946 года">
+  </Question>
+
+<Question quest ="Чему равна сумма всех углов треугольника?"
+rightAnswer="180"
+WrongAnswer1="360"
+WrongAnswer2="90">
+  </Question>
+
+<Question quest ="Что делает таксидермист?"
+rightAnswer="Чучела из животных"
+WrongAnswer1="Оригами"
+WrongAnswer2="Управляет такси">
+  </Question>
+
+<Question quest ="Что из этого требует доказательства?"
+rightAnswer="Теорема"
+WrongAnswer1="Аксиома"
+WrongAnswer2="Постулат">
+  </Question>
+
+<Question quest ="Чем Остап Бендер призывал ударить по бездорожью и разгильдяйству?"
+rightAnswer="Автопробегом"
+WrongAnswer1="Авиацией"
+WrongAnswer2="Серпом и Молотом">
+  </Question>
+
+<Question quest ="Сколько серий в фильме 'Семнадцать мгновений весны'?"
+rightAnswer="12"
+WrongAnswer1="11"
+WrongAnswer2="13">
+  </Question>
+
+<Question quest ="Кто из генсеков СССР хотел посадить кукурузу за полярным кругом?"
+rightAnswer="Хрущев"
+WrongAnswer1="Брежнев"
+WrongAnswer2="Горбачёв">
+  </Question>
+
+<Question quest ="Какое имя получил в армии штурмовик «СУ-25»?"
+rightAnswer="Грач"
+WrongAnswer1="Палач"
+WrongAnswer2="Циркач">
+  </Question>
+
+<Question quest ="Как зовут режиссёра-мультипликатора, создавшего серию мультфильмов «Ну, погоди!»?"
+rightAnswer="Котеночкин"
+WrongAnswer1="Русаков"
+WrongAnswer2="Дежкин">
+  </Question>
+
+<Question quest ="Как называется отворот на конце рукава?"
+rightAnswer="Обшлаг"
+WrongAnswer1="Фестон"
+WrongAnswer2="Лацкан">
+  </Question>
+
+<Question quest ="Как зовут одного из детских героев Марка Твена?"
+rightAnswer="Гекльберри"
+WrongAnswer1="Блюббери"
+WrongAnswer2="Пилсберри">
+  </Question>
+
+<Question quest ="Какая из планет практически лишена атмосферы?"
+rightAnswer="Меркурий"
+WrongAnswer1="Земля"
+WrongAnswer2="Венера">
+  </Question>
+
+<Question quest ="Какого родственника не может быть у мужчины?"
+rightAnswer="Деверь"
+WrongAnswer1="Зять"
+WrongAnswer2="Свояк">
+  </Question>
+</root>

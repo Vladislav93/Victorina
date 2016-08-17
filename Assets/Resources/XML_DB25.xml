@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Где можно встретить дикого яка?" rightAnswer="Тибет" WrongAnswer1="Альпы" WrongAnswer2="Анды" />
+  <Question quest="Какая из этих планет не относится к группе планет-гигантов?" rightAnswer="Плутон" WrongAnswer1="Сатурн" WrongAnswer2="Нептун" />
+  <Question quest="Кто впервые поздравил граждан нашей страны с Новым годом, находясь у стен Кремля?" rightAnswer="Владимир Путин" WrongAnswer1="Михаил Горбачёв" WrongAnswer2="Борис Ельцин" />
+  <Question quest="Какой из этих алкогольных напитков, согласно этикету, подают на стол слегка подогретым?" rightAnswer="Красное вино" WrongAnswer1="Шампанское" WrongAnswer2="Портвейн" />
+  <Question quest="Кто автор песни, в которой звучат слова: «Как здорово, что все мы здесь сегодня собрались»?" rightAnswer="О.Митяев" WrongAnswer1="А.Дольский" WrongAnswer2="Ю.Визбор" />
+  <Question quest="Где в сказке Ганса Христиана Андерсена жила Снежная королева?" rightAnswer="Финляндия" WrongAnswer1="Россия" WrongAnswer2="Англия" />
+  <Question quest="В каком штате находится Санта-Барбара?" rightAnswer="Калифорния" WrongAnswer1="Вашингтон" WrongAnswer2="Нью-Йорк" />
+  <Question quest="Из скорлупы какого ореха получают анакардиевое масло, которым пропитывают древесину против гниения?" rightAnswer="Кешью" WrongAnswer1="Арахис" WrongAnswer2="Кокос" />
+  <Question quest="Столица Бутана?" rightAnswer="Тхимпху" WrongAnswer1="Кабул" WrongAnswer2="Катманду" />
+  <Question quest="Петербург в творчестве Юрия Шевчука?" rightAnswer="Черный пес" WrongAnswer1="Черный квадрат" WrongAnswer2="Белый день" />
+  <Question quest="Второй по счету правитель Руси?" rightAnswer="Олег" WrongAnswer1="Игорь" WrongAnswer2="Святослав" />
+  <Question quest="Как звали коня Александра Македонского?" rightAnswer="Буцефал" WrongAnswer1="Энцефалит" WrongAnswer2="Росинант" />
+  <Question quest="Как иначе называлась Древняя Троя?" rightAnswer="Илион" WrongAnswer1="Карфаген" WrongAnswer2="Фивы" />
+  <Question quest="С каким государством Калининградская область граничит на Юге?" rightAnswer="Польша" WrongAnswer1="Латвия" WrongAnswer2="Эстония" />
+  <Question quest="Как в начале XX века называли воспитанников военного училища?" rightAnswer="Юнкер" WrongAnswer1="Юнион" WrongAnswer2="Юниор" />
+  <Question quest="Столица государства Кирибати?" rightAnswer="Байрики" WrongAnswer1="Бергам" WrongAnswer2="Минеаполис" />
+  <Question quest="Известнейшая самозванка, погибшая в Новодевичьем монастыре?" rightAnswer="Тараканова" WrongAnswer1="Мнишек" WrongAnswer2="Грицацуева" />
+  <Question quest="Как называется сердечная мышца?" rightAnswer="Миокард" WrongAnswer1="Эпикард" WrongAnswer2="Аорта" />
+  <Question quest="Какая пустыня получила название Сад Аллаха?" rightAnswer="Сахара" WrongAnswer1="Намиб" WrongAnswer2="Гоби" />
+  <Question quest="Какое млекопитающее живет дольше всех?" rightAnswer="Человек" WrongAnswer1="Носорог" WrongAnswer2="Кит" />
+  <Question quest="Что прежде носило название Сандвичевы Острова?" rightAnswer="Гавайи" WrongAnswer1="о.Тасмания" WrongAnswer2="Бермуды" />
+  <Question quest="В какой стране производится пиво Peroni?" rightAnswer="Италия" WrongAnswer1="Франция" WrongAnswer2="Австрия" />
+  <Question quest="Какой из этих спутников не является спутником Юпитера?" rightAnswer="Тритон" WrongAnswer1="Фобос" WrongAnswer2="Ио" />
+  <Question quest="Какой чин в казачьих войсках соответствовал чину поручика?" rightAnswer="Сотник" WrongAnswer1="Подъесаул" WrongAnswer2="Хорунжий" />
+  <Question quest="Как называется болгарский народный танец-хоровод?" rightAnswer="Хоро" WrongAnswer1="Коло" WrongAnswer2="Сырба" />
+  <Question quest="Какой комедийный персонаж пришел в восторг, узнав, что он говорит прозой?" rightAnswer="Журден" WrongAnswer1="Тартюф" WrongAnswer2="Дон Базилио" />
+  <Question quest="Какая римская богиня соответствует греческой Персефоне?" rightAnswer="Прозерпина" WrongAnswer1="Церера" WrongAnswer2="Аврора" />
+  <Question quest="В каком веке в русскую азбуку была введена не имеющая прототипа в кириллице буква Й?" rightAnswer="18" WrongAnswer1="19" WrongAnswer2="17" />
+  <Question quest="Какая олимпийская дистанция плавания самая длинная?" rightAnswer="1500 м" WrongAnswer1="3000 м" WrongAnswer2="1000 м" />
+  <Question quest="Какой из этих видов спорта - олимпийский?" rightAnswer="Керлинг" WrongAnswer1="Боулинг" WrongAnswer2="Армрестлинг" />
+  <Question quest="Как называется партизанская война в Испании и Латинской Америке?" rightAnswer="Герилья" WrongAnswer1="Гереро" WrongAnswer2="Сендерилья" />
+  <Question quest="Как на Руси называлась постройка с печью для сушки снопового хлеба и льна?" rightAnswer="Рига" WrongAnswer1="Гумно" WrongAnswer2="Амбар" />
+  <Question quest="Как называется сходство по духу, образу мыслей, художественной манере и т.п.?" rightAnswer="Конгениальность" WrongAnswer1="Эпигонство" WrongAnswer2="Контаминация" />
+  <Question quest="Через какую из этих стран проходит Гринвичский меридиан?" rightAnswer="Испания" WrongAnswer1="Португалия" WrongAnswer2="Германия" />
+  <Question quest="Как звали Чичикова?" rightAnswer="Павел Иванович" WrongAnswer1="Николай Иванович" WrongAnswer2="Павел Николаевич" />
+  <Question quest="Какая из этих рыб - не из семейства тресковых?" rightAnswer="Палтус" WrongAnswer1="Минтай" WrongAnswer2="Налим" />
+  <Question quest="Какую икру больше всего любил Джеймс Бонд?" rightAnswer="Белужью" WrongAnswer1="Стерляжью" WrongAnswer2="Осетровую" />
+  <Question quest="Как называется дух засухи в китайской мифологии?" rightAnswer="Ба" WrongAnswer1="Тянь-минь" WrongAnswer2="Джаоджинь" />
+  <Question quest="Кого из этих певцов подозревали в связях с мафией?" rightAnswer="Фрэнк Синатра" WrongAnswer1="Шарль Азнавур" WrongAnswer2="Луи Армстронг" />
+  <Question quest="Какая пустыня на Земле - самая безводная?" rightAnswer="Атакама" WrongAnswer1="Гоби" WrongAnswer2="Каракумы" />
+  <Question quest="Кто проявляет повышенную и необоснованную заботу о своем здоровье?" rightAnswer="Ипохондрики" WrongAnswer1="Меланхолики" WrongAnswer2="Флегматики" />
+  <Question quest="Какой штат США - средоточие мормонов?" rightAnswer="Юта" WrongAnswer1="Мэриленд" WrongAnswer2="Мэн" />
+  <Question quest="Какой царь правил, когда Ермак начал освоение Сибири?" rightAnswer="Иван Грозный" WrongAnswer1="Александр I" WrongAnswer2="Александр II" />
+  <Question quest="Кто из этих апостолов был братом Петра?" rightAnswer="Андрей" WrongAnswer1="Матфей" WrongAnswer2="Симон Зилот" />
+  <Question quest="Какой язык является государственным языком Эфиопии?" rightAnswer="Амхарский" WrongAnswer1="Арабский" WrongAnswer2="Тигре" />
+</root>

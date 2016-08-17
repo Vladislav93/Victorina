@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Button id="0">
+    <Needed>0</Needed>
+  </Button>
+  <Button id="1">
+    <Needed>0</Needed>
+  </Button>
+  <Button id="2">
+    <Needed>0</Needed>
+  </Button>
+  <Button id="3">
+    <Needed>0</Needed>
+  </Button>
+  <Button id="4">
+    <Needed>0</Needed>
+  </Button>
+  <Button id="5">
+    <Needed>10</Needed>
+  </Button>
+  <Button id="6">
+    <Needed>10</Needed>
+  </Button>
+  <Button id="7">
+    <Needed>10</Needed>
+  </Button>
+  <Button id="8">
+    <Needed>10</Needed>
+  </Button>
+  <Button id="9">
+    <Needed>21</Needed>
+  </Button>
+  <Button id="10">
+    <Needed>21</Needed>
+  </Button>
+  <Button id="11">
+    <Needed>21</Needed>
+  </Button>
+  <Button id="12">
+    <Needed>21</Needed>
+  </Button>
+  <Button id="13">
+    <Needed>33</Needed>
+  </Button>
+  <Button id="14">
+    <Needed>33</Needed>
+  </Button>
+  <Button id="15">
+    <Needed>33</Needed>
+  </Button>
+  <Button id="16">
+    <Needed>33</Needed>
+  </Button>
+  <Button id="17">
+    <Needed>45</Needed>
+  </Button>
+  <Button id="18">
+    <Needed>45</Needed>
+  </Button>
+  <Button id="19">
+    <Needed>45</Needed>
+  </Button>
+  <Button id="20">
+    <Needed>45</Needed>
+  </Button>
+  <Button id="21">
+    <Needed>58</Needed>
+  </Button>
+  <Button id="22">
+    <Needed>58</Needed>
+  </Button>
+  <Button id="23">
+    <Needed>58</Needed>
+  </Button>
+  <Button id="24">
+    <Needed>58</Needed>
+  </Button>
+  <Button id="25">
+    <Needed>69</Needed>
+  </Button>
+  <Button id="26">
+    <Needed>69</Needed>
+  </Button>
+  <Button id="27">
+    <Needed>69</Needed>
+  </Button>
+  <Button id="28">
+    <Needed>69</Needed>
+  </Button>
+  <Button id="29">
+    <Needed>81</Needed>
+  </Button>
+  <Button id="30">
+    <Needed>81</Needed>
+  </Button>
+  <Button id="31">
+    <Needed>81</Needed>
+  </Button>
+  <Button id="32">
+    <Needed>81</Needed>
+  </Button>
+  <Button id="33">
+    <Needed>94</Needed>
+  </Button>
+  <Button id="34">
+    <Needed>94</Needed>
+  </Button>
+  <Button id="35">
+    <Needed>94</Needed>
+  </Button>
+  <Button id="36">
+    <Needed>94</Needed>
+  </Button>
+  <Button id="37">
+    <Needed>105</Needed>
+  </Button>
+  <Button id="38">
+    <Needed>105</Needed>
+  </Button>
+  <Button id="39">
+    <Needed>105</Needed>
+  </Button>
+  <Button id="40">
+    <Needed>105</Needed>
+  </Button>
+  
+  
+  
+  
+    <Button id="41">
+    <Needed>115</Needed>
+  </Button>
+  
+    <Button id="42">
+    <Needed>115</Needed>
+  </Button>
+  
+    <Button id="43">
+    <Needed>115</Needed>
+  </Button>
+  
+    <Button id="44">
+    <Needed>115</Needed>
+  </Button>
+  
+    <Button id="45">
+    <Needed>125</Needed>
+  </Button>
+  
+    <Button id="46">
+    <Needed>125</Needed>
+  </Button>
+  
+    <Button id="47">
+    <Needed>125</Needed>
+  </Button>
+  
+    <Button id="48">
+    <Needed>125</Needed>
+  </Button>
+  
+    <Button id="49">
+    <Needed>136</Needed>
+  </Button>
+  
+    <Button id="50">
+    <Needed>136</Needed>
+  </Button>
+  
+    <Button id="51">
+    <Needed>136</Needed>
+  </Button>
+  
+    <Button id="52">
+    <Needed>137</Needed>
+  </Button>
+  
+    <Button id="53">
+    <Needed>148</Needed>
+  </Button>
+  
+    <Button id="54">
+    <Needed>148</Needed>
+  </Button>
+  
+    <Button id="55">
+    <Needed>148</Needed>
+  </Button>
+  
+    <Button id="56">
+    <Needed>148</Needed>
+  </Button>
+  
+    <Button id="57">
+    <Needed>160</Needed>
+  </Button>
+  
+    <Button id="58">
+    <Needed>160</Needed>
+  </Button>
+  
+    <Button id="59">
+    <Needed>160</Needed>
+  </Button>
+  
+    <Button id="60">
+    <Needed>175</Needed>
+  </Button>
+ 
+</root>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Как звали жену сына Каллиопы, Орфея?" rightAnswer="Эвридика" WrongAnswer1="Эрато" WrongAnswer2="Эрида" />
+  <Question quest="Как звали жену Менелая?" rightAnswer="Елена" WrongAnswer1="Медея" WrongAnswer2="Ифигения" />
+  <Question quest="Как называется боевой самолет, который предназначен для борьбы с авиацией противника?" rightAnswer="Истребитель" WrongAnswer1="Бомбардировщик" WrongAnswer2="Штурмовик" />
+  <Question quest="Какая из этих кислот - витамин?" rightAnswer="Фолиевая" WrongAnswer1="Муравьиная" WrongAnswer2="Ацетиловая" />
+  <Question quest="Какое из этих морей не входит в бассейн Тихого океана?" rightAnswer="Баренцево" WrongAnswer1="Охотское" WrongAnswer2="Беренгово" />
+  <Question quest="Какой из этих металлов встречается в природе главным образом в самородках?" rightAnswer="Золото" WrongAnswer1="Хром" WrongAnswer2="Железо" />
+  <Question quest="Какая из этих стран целиком лежит в Южном полушарии?" rightAnswer="Замбия" WrongAnswer1="Филиппины" WrongAnswer2="Таиланд" />
+  <Question quest="Какая из этих стран не граничит с Германией?" rightAnswer="Венгрия" WrongAnswer1="Бельгия" WrongAnswer2="Дания" />
+  <Question quest="Какая из этих стихий возникает в следствии подводного землетрясения?" rightAnswer="Цунами" WrongAnswer1="Шторм" WrongAnswer2="Тайфун" />
+  <Question quest="Какой из этих пищевых продуктов является минералом?" rightAnswer="Соль" WrongAnswer1="Солод" WrongAnswer2="Сахар" />
+  <Question quest="Какая из этих пород собак не считается охотничьей?" rightAnswer="Сенбернар" WrongAnswer1="Борзая" WrongAnswer2="Спаниель" />
+  <Question quest="Какой из этих цветов не относится к теплым?" rightAnswer="Синий" WrongAnswer1="Оранжевый" WrongAnswer2="Желтый" />
+  <Question quest="Чьему перу принадлежат слова 'Тиха украинская ночь'?" rightAnswer="А.С.Пушкина" WrongAnswer1="А.П.Чехова" WrongAnswer2="Н.В.Гоголя" />
+  <Question quest="Какой Греческий остров является самым большим?" rightAnswer="Крит" WrongAnswer1="Лесбос" WrongAnswer2="Эвбея" />
+  <Question quest="Кто был отцом библейского царя Соломона?" rightAnswer="Давид" WrongAnswer1="Урия" WrongAnswer2="Самсон" />
+  <Question quest="У какой страны США приобрели в 1867 году территорию, ставшую затем самым большим штатом?" rightAnswer="Россия" WrongAnswer1="Франция" WrongAnswer2="Филиппины" />
+  <Question quest="В какой руде содержится наибольшее количество железа?" rightAnswer="Магнитный железняк" WrongAnswer1="Шпатовый железняк" WrongAnswer2="Красный железняк" />
+  <Question quest="На каком холме расположен Московский Кремль?" rightAnswer="Боровицкий" WrongAnswer1="Сретенский" WrongAnswer2="Лефортовский" />
+  <Question quest="Как называется пробный экземпляр новой книги?" rightAnswer="Сигнальный" WrongAnswer1="Дебютный" WrongAnswer2="Премьерный" />
+  <Question quest="Как обращаются к незамужней женщине в Великобритании?" rightAnswer="Мисс" WrongAnswer1="Миссис" WrongAnswer2="Мадемуазель" />
+  <Question quest="Как называется коллекционирование редких изданий?" rightAnswer="Библиография" WrongAnswer1="Филокартия" WrongAnswer2="Филумения" />
+  <Question quest="Как называется цветное непрозрачное стекло в виде кубиков или пластинок для изготовления мозаики?" rightAnswer="Смальта" WrongAnswer1="Левкас" WrongAnswer2="Баккара" />
+  <Question quest="Как называется один из двух спутников Марса?" rightAnswer="Фобос" WrongAnswer1="Фагос" WrongAnswer2="Фарос" />
+  <Question quest="Как называется коллекционирование иллюстрированных почтовых открыток?" rightAnswer="Филокартия" WrongAnswer1="Филовония" WrongAnswer2="Филумения" />
+  <Question quest="Какой прибор измеряет число оборотов двигателя?" rightAnswer="Тахометр" WrongAnswer1="Одометр" WrongAnswer2="Альтиметр" />
+  <Question quest="Как называется коллекционирование орденов, медалей, знаков отличия, жетонов?" rightAnswer="Фалеристика" WrongAnswer1="Филумения" WrongAnswer2="Бонистика" />
+  <Question quest="Как называется коллекционирование марок?" rightAnswer="Филателия" WrongAnswer1="Филовония" WrongAnswer2="Филумения" />
+  <Question quest="В какой карточной игре отсутствие хороших карт может быть с лихвой компенсировано умелым блефом?" rightAnswer="Покер" WrongAnswer1="Бридж" WrongAnswer2="Вист" />
+  <Question quest="Какая страна является родиной танца 'краковяк'?" rightAnswer="Польша" WrongAnswer1="Украина" WrongAnswer2="Белоруссия" />
+  <Question quest="Столица какой из республик в составе России называется Йошкар-Ола?" rightAnswer="Марийской" WrongAnswer1="Удмуртии" WrongAnswer2="Мордовии" />
+  <Question quest="Кто из евангелистов написал 'Апокалипсис'?" rightAnswer="Иоанн" WrongAnswer1="Матфей" WrongAnswer2="Лука" />
+  <Question quest="С какими животными выступает известный клоун Куклачев?" rightAnswer="Кошки" WrongAnswer1="Голуби" WrongAnswer2="Медведи" />
+  <Question quest="Разновидностью какого овоща является турнепс?" rightAnswer="Репа" WrongAnswer1="Тыква" WrongAnswer2="Редька" />
+  <Question quest="Сколько точек на стандартном кубике игральных костей?" rightAnswer="21" WrongAnswer1="15" WrongAnswer2="28" />
+  <Question quest="Какие формы земной поверхности изучает спелеолог?" rightAnswer="Пещеры" WrongAnswer1="Вулканы" WrongAnswer2="Сопки" />
+  <Question quest="Какая из этих рек не относится к сибирским?" rightAnswer="Печора" WrongAnswer1="Лена" WrongAnswer2="Обь" />
+  <Question quest="Кого традиционно считают одним из создателей храма В.Блаженного в Москве?" rightAnswer="Постника" WrongAnswer1="Даниила Черного" WrongAnswer2="Федора Коня" />
+  <Question quest="Кого на дипломатическом языке называют 'ПЕРСОНА ГРАТА'?" rightAnswer="Желательное лицо" WrongAnswer1="Нежелательное лицо" WrongAnswer2="Консула" />
+  <Question quest="Как фамилия главного героя романа И.С.Тургенева 'Отцы и дети'?" rightAnswer="Базаров" WrongAnswer1="Рудин" WrongAnswer2="Рахметов" />
+  <Question quest="Кто из этих полководцев не был одноглазым?" rightAnswer="Монтгомери" WrongAnswer1="Нельсон" WrongAnswer2="Даян" />
+  <Question quest="Символом какого музыкального направления стал Боб Марли?" rightAnswer="Регги" WrongAnswer1="Фанк" WrongAnswer2="Джаз" />
+  <Question quest="Какая африканская страна стала независимой от Франции в 1962 году, после 7 лет войны?" rightAnswer="Алжир" WrongAnswer1="Мали" WrongAnswer2="Камерун" />
+  <Question quest="К какому классу животных относятся летучие мыши?" rightAnswer="Млекопитающие" WrongAnswer1="Птицы" WrongAnswer2="Земноводные" />
+  <Question quest="Кто не имеет отношения к знаменитой 'Крейцеровой сонате'?" rightAnswer="Моцарт" WrongAnswer1="Толстой" WrongAnswer2="Крейцер" />
+  <Question quest="Какой из документов удостоверяет факт заключения договора страхования?" rightAnswer="Полис" WrongAnswer1="Лицензия" WrongAnswer2="Сертификат" />
+</root>

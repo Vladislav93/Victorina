@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Какой город является административным центром (столицей) штата Вашингтон?" rightAnswer="Олимпия" WrongAnswer1="Шайенн" WrongAnswer2="Олбани" />
+  <Question quest="Какой из этих языков не входит в группу германских языков?" rightAnswer="Окситанский" WrongAnswer1="Фризский" WrongAnswer2="Фарерский" />
+  <Question quest="Какой казацкий военный чин имел Емельян Пугачев?" rightAnswer="Хорунжий" WrongAnswer1="Подъесаул" WrongAnswer2="Сотник" />
+  <Question quest="Какому множителю основной величины в системе СИ соответствует приставка ПЕТА?" rightAnswer="10 в пятнадцатой степени" WrongAnswer1="10 в 12 степени" WrongAnswer2="10 в -15 степени" />
+  <Question quest="Кем не был один из виднейших деятелей эпохи Возрождения флорентиец Филиппо Брунеллески?" rightAnswer="Художник" WrongAnswer1="Скульптор" WrongAnswer2="Архитектор" />
+  <Question quest="Кем, согласно древнегреческой мифологии, Электра приходилась Оресту?" rightAnswer="Сестра" WrongAnswer1="Мать" WrongAnswer2="Дочь" />
+  <Question quest="Кому и в какой глаз впился князь Гвидон в образе комара?" rightAnswer="Поварихе в правый" WrongAnswer1="Ткачихе в правый" WrongAnswer2="Поварихе в левый" />
+  <Question quest="Кому из шахматистов принадлежит фраза &quot;Я согласен даже на 19-е место, лишь бы 20-м был Фишер&quot;?" rightAnswer="Сэмюэлю Решевскому" WrongAnswer1="Мекингу" WrongAnswer2="Паулю Кересу" />
+  <Question quest="Кто заведовал в помещичье время всей псовой охотой?" rightAnswer="Ловчий" WrongAnswer1="Выжлятник" WrongAnswer2="Доезжачий" />
+  <Question quest="Кто из императоров &quot;Священной Римской империи&quot; вымаливал в Каноссе прощение у римского папы?" rightAnswer="Генрих IV" WrongAnswer1="Фридрих I Барбаросса" WrongAnswer2="Карл IV" />
+  <Question quest="Кто из этих деятелей, изображенных на американских банкнотах разного достоинства, был министром финансов в правительстве Дж. Вашингтона?" rightAnswer="Гамильтон" WrongAnswer1="Джэксон" WrongAnswer2="Франклин" />
+  <Question quest="Кто из этих древнеримских богов и богинь не входил в Капитолийскую триаду важнейших богов, почитавшихся в Капитолийском храме?" rightAnswer="Марс" WrongAnswer1="Юпитер" WrongAnswer2="Минерва" />
+  <Question quest="Кто из этих мыслителей не был иностранным почетным членом Петербургской Академии наук?" rightAnswer="Руссо" WrongAnswer1="Кант" WrongAnswer2="Вольтер" />
+  <Question quest="Кто из этих рыцарей Круглого стола был сыном великого сыра Ланселота Озерного?" rightAnswer="Галахад" WrongAnswer1="Персиваль" WrongAnswer2="Гавейн" />
+  <Question quest="Кто из этих художников-экспрессионистов был гражданином Австрии?" rightAnswer="О. Кокошка" WrongAnswer1="П. Клее" WrongAnswer2="Э. Нольде" />
+  <Question quest="Кто из этих южноамериканских волшебников пера не является Нобелевским лауреатом?" rightAnswer="Жоржи Амаду" WrongAnswer1="Пабло Неруда" WrongAnswer2="Габриэль Гарсия Маркес" />
+  <Question quest="Кто основал 1250 лет назад во франкском государстве династию Каролингов?" rightAnswer="Пипин Короткий" WrongAnswer1="Хлодвиг I" WrongAnswer2="Карл Великий" />
+  <Question quest="Кто такие были &quot;Берендеи&quot;?" rightAnswer="Тюркское племя" WrongAnswer1="Угорское племя" WrongAnswer2="Славянское племя" />
+  <Question quest="На вершине какой горы расположена сорокаметровая статуя Христа, являющаяся символом Рио-де-Жанейро?" rightAnswer="Корковадо" WrongAnswer1="Уаскаран" WrongAnswer2="Тупунгато" />
+  <Question quest="На территории какой современной страны находятся останки большого древнего города - ПАЛЬМИРЫ?" rightAnswer="Сирия" WrongAnswer1="Ирак" WrongAnswer2="Турция" />
+  <Question quest="Назовите национальность участника Гражданской войны в России Олеко Дундича" rightAnswer="Хорват" WrongAnswer1="Серб" WrongAnswer2="Черногорец" />
+  <Question quest="Назовите основателя в Индии династии Великих Моголов" rightAnswer="Бабур" WrongAnswer1="Джахангир" WrongAnswer2="Улугбек" />
+  <Question quest="Назовите приблизительную длину Суэцкого канала" rightAnswer="160 км" WrongAnswer1="180 км" WrongAnswer2="140 км" />
+  <Question quest="Назовите псевдоним Стивена Кинга, под которым он написал 6 неплохих романов?" rightAnswer="Ричард Бахман" WrongAnswer1="Рекс Стаут" WrongAnswer2="Билл Пибоди" />
+  <Question quest="Назовите страну, где находится самый длинный в мире железнодорожный туннель" rightAnswer="Япония" WrongAnswer1="Швейцария" WrongAnswer2="Англия-Франция" />
+  <Question quest="Народный танец каких народов называется ИСЛАМЕЙ?" rightAnswer="Кабардинцев и адыгейцев" WrongAnswer1="Ливийцев и марокканцев" WrongAnswer2="Чеченцев и ингушей" />
+  <Question quest="От слова какого языка произошло слово хоругвь?" rightAnswer="Монгольский" WrongAnswer1="Крымскотатарский" WrongAnswer2="Старославянский" />
+  <Question quest="По какой цене продавали первый компьютер Apple I?" rightAnswer="$666,66" WrongAnswer1="$777,77" WrongAnswer2="$333,33" />
+  <Question quest="При введении в России табели о рангах право на личное дворянство имели даже чиновники низшего, 14-го класса. А с какого класса это право сохранилось после 1845 г.?" rightAnswer="9" WrongAnswer1="10" WrongAnswer2="8" />
+  <Question quest="Сколько примерно лет в Лувре расположен художественный музей?" rightAnswer="210" WrongAnswer1="110" WrongAnswer2="140" />
+  <Question quest="У кошек какой породы шерсть всегда абсолютно черная?" rightAnswer="Бомбейская" WrongAnswer1="Абиссинская" WrongAnswer2="Гавана" />
+  <Question quest="Чем не становятся звезды в зависимости от массы в конце своей эволюции?" rightAnswer="Голубые гиганты" WrongAnswer1="Черные дыры" WrongAnswer2="Нейтронные звезды" />
+  <Question quest="Что делала одна из Мойр (греческих богинь судьбы) - Клото?" rightAnswer="Пряла нить жизни" WrongAnswer1="Перерезала нить жизни" WrongAnswer2="Связывала разные нити жизней" />
+  <Question quest="Что такое или кто такой ТУВАЛУ?" rightAnswer="Государство" WrongAnswer1="Ядовитое растение" WrongAnswer2="Индейское племя" />
+  <Question quest="Что такое морион?" rightAnswer="Черный кварц" WrongAnswer1="Синий турмалин" WrongAnswer2="Голубой топаз" />
+  <Question quest="Что такое плеяды?" rightAnswer="Рассеянное скопление" WrongAnswer1="Созвездие" WrongAnswer2="Звездная ассоциация" />
+  <Question quest="Японская танка - нерифмованное пятистишие, состоящее из строго определенного количества слогов. Какого именно?" rightAnswer="31" WrongAnswer1="30" WrongAnswer2="32" />
+  <Question quest="Каково время кругооборота крови по большому кругу кровообращения в норме?" rightAnswer="20-25 секунд" WrongAnswer1="15-20 секунд" WrongAnswer2="30-35 секунд" />
+  <Question quest="Как звали боярыню Морозову, которой посвящена картина В.Сурикова?" rightAnswer="Феодосия" WrongAnswer1="Анастасия" WrongAnswer2="Ефросиния" />
+  <Question quest="Что по определению великого русского физиолога И.М. Сеченова, играет роль своеобразных 'кранов' кровеносной системы?" rightAnswer="Артериолы" WrongAnswer1="Вены" WrongAnswer2="Артерии" />
+  <Question quest="Как по научному называется выгорание взрывчатого вещества?" rightAnswer="Дефлаграция" WrongAnswer1="Дефламмизация" WrongAnswer2="Диффамация" />
+  <Question quest="Каково время кругооборота крови по малому кругу кровообращения в норме?" rightAnswer="7-11 секунд" WrongAnswer1="11-15 секунд" WrongAnswer2="15-19 секунд" />
+  <Question quest="Что означает слово ТСУГА?" rightAnswer="Хвойное дерево" WrongAnswer1="Народ в Лесото" WrongAnswer2="Лиственное дерево" />
+  <Question quest="Что из перечисленного не обозначало в России XIX века места заключения осужденных?" rightAnswer="Скудельный дом" WrongAnswer1="Мертвый дом" WrongAnswer2="Смирительный дом" />
+  <Question quest="Скольки камерное сердце у человека?" rightAnswer="4" WrongAnswer1="3" WrongAnswer2="5" />
+  <Question quest="Кого иначе звали госпитальерами?" rightAnswer="Иоаннитов" WrongAnswer1="Бернардинцев" WrongAnswer2="Францисканцев" />
+  <Question quest="Что является главным симптомом сердечной недостаточности при поражении преимущественно левых отделов сердца ?" rightAnswer="Одышка" WrongAnswer1="Набухание вен" WrongAnswer2="Отеки" />
+  <Question quest="Какой препарат не относится к снотворным средствам?" rightAnswer="Азафен" WrongAnswer1="Эстимал" WrongAnswer2="Реладорм" />
+  <Question quest="Какой препарат не относится к отхаркивающим средствам?" rightAnswer="Агиолакс" WrongAnswer1="Макалтин" WrongAnswer2="Пертусин" />
+  <Question quest="Какой витамин известен как витамин 'Е' ?" rightAnswer="Токоферола ацетат" WrongAnswer1="Эргокальциферол" WrongAnswer2="Ретинола ацетат" />
+  <Question quest="При недостатке какого витамина в организме детей развивается Рахит ?" rightAnswer="D" WrongAnswer1="B1" WrongAnswer2="E" />
+  <Question quest="В каком месяце 1929 г. случился крах Нью-Йоркской биржи и началась Великая Депрессия?" rightAnswer="Октябрь" WrongAnswer1="Май" WrongAnswer2="Сентябрь" />
+  <Question quest="Как называется вид колокольного звона - поочередные удары в колокола, начиная с самого малого?" rightAnswer="Перебор" WrongAnswer1="Перезвон" WrongAnswer2="Трезвон" />
+  <Question quest="Кого иначе называли госпитпльерами?" rightAnswer="Иоаннитов" WrongAnswer1="Францисканцев" WrongAnswer2="Бернардинцев" />
+  <Question quest="Как называется административный центр штата США Аляска?" rightAnswer="Джуно" WrongAnswer1="Сьюард" WrongAnswer2="Доусон" />
+  <Question quest="Как по-научному называется выгорание взрывчатого вещества?" rightAnswer="Дефлаграция" WrongAnswer1="Дефламмизация" WrongAnswer2="Диффамация" />
+  <Question quest="Что значит слово ТСУГА?" rightAnswer="Хвойное дерево" WrongAnswer1="Народ в Ботсване" WrongAnswer2="Лиственное дерево" />
+  <Question quest="Из произведений какого писателя физики заимствовали слово 'кварк'?" rightAnswer="Джеймс Джонс" WrongAnswer1="Уильям Теккерей" WrongAnswer2="Льюис Кэррол" />
+  <Question quest="В какой группе пел Курт Кобейн?" rightAnswer="'Nirvana'" WrongAnswer1="'The Beatles '" WrongAnswer2="'Uriah Heep'" />
+  <Question quest="В какой стране находятся четыре из семи самых высоких водопадов мира?" rightAnswer="Норвегия" WrongAnswer1="Венесуэла" WrongAnswer2="Замбия" />
+  <Question quest="В каком году был основан орден тамплиеров?" rightAnswer="В 1118 году" WrongAnswer1="В 1048 году" WrongAnswer2="В 1312 году" />
+  <Question quest="В каком городе впервые была построена Статуя Свободы?" rightAnswer="В Париже" WrongAnswer1="В Великих Луках" WrongAnswer2="В Амстердаме" />
+  <Question quest="В каком городе мира люди имеют полное право появляться обнаженными во всех общественных местах?" rightAnswer="Саблиер" WrongAnswer1="Муоле" WrongAnswer2="Нудимар" />
+  <Question quest="В Росси первая почтовая марка появилась" rightAnswer="В 1858 году" WrongAnswer1="В 1908 году" WrongAnswer2="В 1655 году" />
+  <Question quest="Высота телебашни 539 метров принадлежит?" rightAnswer="Останкино, Москва" WrongAnswer1="Фарго, США" WrongAnswer2="Кутно, Польша" />
+  <Question quest="Где располагалась резиденция российского патриарха Максима Грека?" rightAnswer="Владимир" WrongAnswer1="Киев" WrongAnswer2="Новгород" />
+  <Question quest="Древнегреческий сосуд для масла, который использовался также и в похоронном обряде?" rightAnswer="Лекиф" WrongAnswer1="Фиал" WrongAnswer2="Курос" />
+  <Question quest="Древнегреческий сосуд, который в основном был предназначен для смешивания вина с водой?" rightAnswer="Кратер" WrongAnswer1="Амфора" WrongAnswer2="Фиал" />
+  <Question quest="Имя героя фильма, который для того, чтобы одеть свою красотку, пообещал продавцам 'истратить неприлично большую сумму'?" rightAnswer="Эдвард Льюис" WrongAnswer1="Питер Борланд" WrongAnswer2="Билл Хэрли" />
+  <Question quest="К какой династии относится нынешний испанский король Хуан Карлос I?" rightAnswer="Бурбонов" WrongAnswer1="Бернадотов" WrongAnswer2="Габсбургов" />
+  <Question quest="Как называется произведение американского писателя и публициста Эптона Билла Синклера?" rightAnswer="'Зубы Дракона'" WrongAnswer1="'Глаза Дракона'" WrongAnswer2="'Хвост Дракона'" />
+  <Question quest="Как будет по-древнегречески 'сбор цветов'?" rightAnswer="Антология" WrongAnswer1="Гербарий" WrongAnswer2="Аптека" />
+  <Question quest="Как называли наследственных правителей в Египте в 1867-1914 годах?" rightAnswer="Хедив" WrongAnswer1="Мертель" WrongAnswer2="Фараон" />
+  <Question quest="Какая рок-группа не является английской?" rightAnswer="'KISS'" WrongAnswer1="'DEEP PURPLE'" WrongAnswer2="'URIAH HEEP'" />
+  <Question quest="Какие животные существуют на Земле уже 250 млн. лет безо всяких изменений?" rightAnswer="Тараканы" WrongAnswer1="Инфузории-туфельки" WrongAnswer2="Мухи" />
+  <Question quest="Какое животное на Земле самое ядовитое?" rightAnswer="Лягушка" WrongAnswer1="Рыба" WrongAnswer2="Паук" />
+  <Question quest="Какое легкое человека вдыхает больше кислорода?" rightAnswer="Правое" WrongAnswer1="Оба одинаково" WrongAnswer2="Левое" />
+  <Question quest="Какой античный город, по легенде, был построен воинами, выросшими из зубов дракона?" rightAnswer="Фивы" WrongAnswer1="Мемфис" WrongAnswer2="Афины" />
+  <Question quest="Какой драгоценный камень, как считалось в древности, добывали из головы дракона?" rightAnswer="Карбункул" WrongAnswer1="Алмаз" WrongAnswer2="Сапфир" />
+  <Question quest="Какой зверь является официальным символом Канады?" rightAnswer="Бобр" WrongAnswer1="Тигр" WrongAnswer2="Негр" />
+  <Question quest="Какой ноте соответствует звук жужжания домашней мухи?" rightAnswer="Фа" WrongAnswer1="Ре" WrongAnswer2="Ля" />
+  <Question quest="Какой продукт питания не портится в общепринятом понятии этого?" rightAnswer="Мед" WrongAnswer1="Манная каша" WrongAnswer2="Водка" />
+  <Question quest="Какой стране принадлежит единственный в мире космодром на воде 'Сан-Марко'?" rightAnswer="Италии" WrongAnswer1="Буркина-фасо" WrongAnswer2="Испании" />
+  <Question quest="Какой цвет кожи у белых медведей?" rightAnswer="Черный" WrongAnswer1="Оранжевый" WrongAnswer2="Серый" />
+  
+</root>

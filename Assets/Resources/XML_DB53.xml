@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Какой химический элемент используется для получения рубинового стекла для звезд Московского Кремля?" rightAnswer="Селен" WrongAnswer1="Кобальт" WrongAnswer2="Никель" />
+  <Question quest="Какой композитор ввел в симфоническое произведение специальный световой ряд, положивший начало светомузыке?" rightAnswer="Скрябин" WrongAnswer1="Рахманинов" WrongAnswer2="Прокофьев" />
+  <Question quest="Как называется процесс протекает при постоянном давлении ?" rightAnswer="Изобарический" WrongAnswer1="Изохорический" WrongAnswer2="Адиабатный" />
+  <Question quest="Сколько Ватт в одной лошадиной силе?" rightAnswer="736" WrongAnswer1="737" WrongAnswer2="1063" />
+  <Question quest="Кто впервые провёл операцию на сердце?" rightAnswer="К. Барнард" WrongAnswer1="А. Гофман" WrongAnswer2="В. Зарипов" />
+  <Question quest="В каком веке в Китае начали добывать железо?" rightAnswer="5 век до н.э." WrongAnswer1="2 век" WrongAnswer2="3 век" />
+  <Question quest="Сколько человек участвует в исполнении хореографического номера па-де-катр?" rightAnswer="4" WrongAnswer1="3" WrongAnswer2="5" />
+  <Question quest="Как называется самый большой по величине колокол на звоннице Ростовского кремля ?" rightAnswer="Сысой" WrongAnswer1="Лебедь" WrongAnswer2="Баран" />
+  <Question quest="В каком году был открыт вирус 'СПИДА'?" rightAnswer="В 1981" WrongAnswer1="В 1985" WrongAnswer2="В 1979" />
+  <Question quest="Кем в первой половине XIX века во Франции были 'барбизонцы' ?" rightAnswer="Художники" WrongAnswer1="Музыканты" WrongAnswer2="Революционеры" />
+  <Question quest="Годы жизни Михаила Евграфовича Салтыкова-Щедрина ?" rightAnswer="1826-1889" WrongAnswer1="1824-1885" WrongAnswer2="1835-1898" />
+  <Question quest="Какая следующая цифра в числе 3.1415926... ?" rightAnswer="5" WrongAnswer1="8" WrongAnswer2="0" />
+  <Question quest="Содом и Гоморра погибли?" rightAnswer="В понедельник" WrongAnswer1="В субботу" WrongAnswer2="В воскресенье" />
+  <Question quest="Какая из этих поэтесс сказала, что из Владимира Набокова никогда не получится писатель?" rightAnswer="Зинаида Гиппиус" WrongAnswer1="Мирра Лохвицкая" WrongAnswer2="Анна Ахматова" />
+  <Question quest="Как известно, харит (граций) было три. Кто тут четвертый 'лишний'?" rightAnswer="Клио" WrongAnswer1="Талия" WrongAnswer2="Ефросина" />
+  <Question quest="От слова какого языка произошло слово 'сарафан'?" rightAnswer="Персидский" WrongAnswer1="Турецкий" WrongAnswer2="Монгольский" />
+  <Question quest="Сколько жен имел король Англии Генрих VIII?" rightAnswer="6" WrongAnswer1="10" WrongAnswer2="3" />
+  <Question quest="Битва народов в 1813 году произошла у" rightAnswer="Лейпцига" WrongAnswer1="Дрездена" WrongAnswer2="Парижа" />
+  <Question quest="В каком году был основан Ливонский орден?" rightAnswer="1237" WrongAnswer1="1238" WrongAnswer2="1236" />
+  <Question quest="Основатель квантовой теории" rightAnswer="Планк" WrongAnswer1="Эйнштейн" WrongAnswer2="Йенсен" />
+  <Question quest="Папа, объявивший Прусский крестовый поход" rightAnswer="Гонорий III" WrongAnswer1="Гонорий II" WrongAnswer2="Гонорий I" />
+  <Question quest="Когда произошло Чесменское сражение?" rightAnswer="1770" WrongAnswer1="1790" WrongAnswer2="1760" />
+  <Question quest="Национальность убийцы Индиры Ганди" rightAnswer="сикх" WrongAnswer1="тамил" WrongAnswer2="пуштун" />
+  <Question quest="Автор утопии «Государство»" rightAnswer="Платон" WrongAnswer1="Сократ" WrongAnswer2="Аристотель" />
+  <Question quest="В каком году состоялась Раковорская битва?" rightAnswer="1268" WrongAnswer1="1266" WrongAnswer2="1265" />
+  <Question quest="Кто записал альбом 'Женщина -ребёнок'?" rightAnswer="Кэмпбелл" WrongAnswer1="Водянова" WrongAnswer2="Мосс" />
+  <Question quest="Режиссёр - двоюродный брат Софико Чиаурели" rightAnswer="Г.Данелия" WrongAnswer1="Л.Гайдай" WrongAnswer2="Т.Абуладзе" />
+  <Question quest="На эмблеме музыкантов армии РФ изображена" rightAnswer="Лира" WrongAnswer1="Флейта" WrongAnswer2="Валторна" />
+  <Question quest="Пегасообразые - это?" rightAnswer="Рыбы" WrongAnswer1="Земноводные" WrongAnswer2="Птицы" />
+  <Question quest="Когда приняли догмат о непогрешимости Папы?" rightAnswer="В XIX веке" WrongAnswer1="В XV веке" WrongAnswer2="В XIII веке" />
+  <Question quest="Имя известного фигуриста Паульсена" rightAnswer="Аксель" WrongAnswer1="Лутц" WrongAnswer2="Сальхов" />
+  <Question quest="Когда в СССР прошёл 'съезд победителей'?" rightAnswer="В 1934" WrongAnswer1="В 1961" WrongAnswer2="В 1946" />
+  <Question quest="Атрибутом какой музы является маска?" rightAnswer="Талия" WrongAnswer1="Эрато" WrongAnswer2="Клио" />
+  <Question quest="Кто сконструировал батискаф 'Триест'?" rightAnswer="Пикар" WrongAnswer1="Пастер" WrongAnswer2="Кусто" />
+  <Question quest="Что было изображено на гербе Шекспира?" rightAnswer="Копье" WrongAnswer1="Секира" WrongAnswer2="Арбалет" />
+  <Question quest="Кем приходился Прометей Пандоре?" rightAnswer="Деверем" WrongAnswer1="Свекром" WrongAnswer2="Свояком" />
+  <Question quest="В какой губернии России был выведен в конце 18 - начале 19 вв. орловский рысак?" rightAnswer="Воронежская" WrongAnswer1="Курская" WrongAnswer2="Смоленская" />
+  <Question quest="В какой из этих стран глаголица существовала до конца 18-го века?" rightAnswer="Хорватия" WrongAnswer1="Моравия" WrongAnswer2="Болгария" />
+  <Question quest="В каком городе появился первый омнибус - старинный вид общественного транспорта?" rightAnswer="Париж" WrongAnswer1="Лондон" WrongAnswer2="Брюссель" />
+  <Question quest="В каком зодиакальном созвездии находится яркая звезда Регул?" rightAnswer="&quot;Лев&quot;" WrongAnswer1="&quot;Рыбы&quot;" WrongAnswer2="&quot;Козерог&quot;" />
+  <Question quest="Вождем антиримского восстания каких племен был Верцингеториг?" rightAnswer="Галлов" WrongAnswer1="Этрусков" WrongAnswer2="Иберов" />
+  <Question quest="Войска какой из этих стран не входили в союзные силы, разгромившие наполеоновскую армию во время т.н. &quot;битвы народов&quot;?" rightAnswer="Англия" WrongAnswer1="Швеция" WrongAnswer2="Австрия" />
+  <Question quest="Где в 6 в. до. н. э. возникли древнегреческие колонии Фасис и Диоскуриада?" rightAnswer="Западная Грузия" WrongAnswer1="Таманский п-ов" WrongAnswer2="Берег Крыма" />
+  <Question quest="Город с каким из этих названий не является столицей какого-либо государства?" rightAnswer="Сан-Пабло" WrongAnswer1="Сан-Хуан" WrongAnswer2="Сан-Томе" />
+  <Question quest="Граница между какими государствами проходит частично по реке Оранжевая?" rightAnswer="ЮАР и Замбией" WrongAnswer1="ЮАР и Намибией" WrongAnswer2="Намибией и Ботсваной" />
+  <Question quest="Из какого языка пришло в русский язык слово 'караван'?" rightAnswer="Персидский" WrongAnswer1="Итальянский" WrongAnswer2="Татарский" />
+  <Question quest="Как в России 15-17 вв. назывался сыск и возвращение беглых крепостных крестьян их владельцам?" rightAnswer="Своз" WrongAnswer1="Съезд" WrongAnswer2="Сгон" />
+  <Question quest="Как в России сначала называли пароход?" rightAnswer="Пироскаф" WrongAnswer1="Колесник" WrongAnswer2="Дымоплав" />
+  <Question quest="Как звали сына капитана Гранта в романе Жюль Верна 'Дети капитана Гранта'?" rightAnswer="Роберт" WrongAnswer1="Джон" WrongAnswer2="Робин" />
+  <Question quest="Как называется взрослая стадия развития жука?" rightAnswer="Имаго" WrongAnswer1="Рыдалец" WrongAnswer2="Маштак" />
+  <Question quest="Как называется загородная резиденция шведской королевской семьи?" rightAnswer="Дроттнингхольм" WrongAnswer1="Кунксхольмен" WrongAnswer2="Юргорден" />
+  <Question quest="Как называется хроническое отравление свинцом?" rightAnswer="Сатурнизм" WrongAnswer1="Плюмбит" WrongAnswer2="Квашиоркор" />
+  <Question quest="Как назывался четырехмачтовый барк &quot;Крузенштерн&quot; до его передачи СССР после второй мировой войны?" rightAnswer="Падуя" WrongAnswer1="Гамбург" WrongAnswer2="Марсель" />
+  <Question quest="Как называются образовательные ткани растений?" rightAnswer="Меристемы" WrongAnswer1="Порастемы" WrongAnswer2="Паростемы" />
+  <Question quest="Какая игра зародилась в 1895 г. в США?" rightAnswer="Волейбол" WrongAnswer1="Бейсбол" WrongAnswer2="Баскетбол" />
+  <Question quest="Какая из этих мер объема наименьшая?" rightAnswer="Баррель сухой США" WrongAnswer1="Баррель нефтяной США" WrongAnswer2="Русск. четверть для сыпуч. веществ" />
+  <Question quest="Какая из этих птиц - из семейства славковых?" rightAnswer="Пеночка" WrongAnswer1="Свиристель" WrongAnswer2="Щегол" />
+  <Question quest="Какие горы существуют на белом свете?" rightAnswer="Кардамоновы" WrongAnswer1="Мускатовы" WrongAnswer2="Корицевы" />
+  <Question quest="Какие из этих животных - непарнокопытные?" rightAnswer="Тапиры" WrongAnswer1="Бегемоты" WrongAnswer2="Жирафы" />
+  <Question quest="Каким спектаклем открылся в октябре 1898 г. Московский Художественный Театр, созд. Станиславским и Н-Данченко?" rightAnswer="Царь Федор Иоаннович" WrongAnswer1="Борис Годунов" WrongAnswer2="Чайка" />
+  <Question quest="Какое из этих зданий Санкт-Петербурга создал архитектор Джакомо Кваренги?" rightAnswer="Смольный институт" WrongAnswer1="Исаакиевский собор" WrongAnswer2="Адмиралтейство" />
+  <Question quest="Какое из этих имен имела и одна из МУЗ, и одна из ХАРИТ (граций)?" rightAnswer="Талия" WrongAnswer1="Мельпомена" WrongAnswer2="Терпсихора" />
+  <Question quest="Какой Вселенский собор осудил иконоборчество и утвердил почитание икон?" rightAnswer="II Никейский" WrongAnswer1="Халкидонский" WrongAnswer2="III Константинопольский" />
+</root>

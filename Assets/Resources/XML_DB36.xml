@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<Question quest="Какое из этих животных не способно двигать глазами?" rightAnswer="Сова" WrongAnswer1="Кролик" WrongAnswer2="Крокодил" />
+  <Question quest="Какой из этих русских городов славился своими звонкими колокольчиками?" rightAnswer="Валдай" WrongAnswer1="Волоколамск" WrongAnswer2="Калуга" />
+  <Question quest="Какая из этих стран не находится на Балканском полуострове?" rightAnswer="Испания" WrongAnswer1="Болгария" WrongAnswer2="Греция" />
+  <Question quest="Какое из этих слов является синонимом слова 'людоед'?" rightAnswer="Антропофаг" WrongAnswer1="Антропоноз" WrongAnswer2="Антракоз" />
+  <Question quest="Как называется массовая гнездовая колония морских птиц?" rightAnswer="Птичий базар" WrongAnswer1="Птичья стоянка" WrongAnswer2="Птичий рынок" />
+  <Question quest="Где находится Хабаровск?" rightAnswer="Дальний Восток" WrongAnswer1="Восточная Сибирь" WrongAnswer2="Урал" />
+  <Question quest="Какого статуса чиновников не существовало в петровском табеле о рангах?" rightAnswer="Духовного" WrongAnswer1="Придворного" WrongAnswer2="Военного" />
+  <Question quest="В какой из этих стран формально нет Конституции?" rightAnswer="Великобритания" WrongAnswer1="Франция" WrongAnswer2="США" />
+  <Question quest="Из какой страны Моисей вывел свой народ в поисках 'земли обетованной'?" rightAnswer="Египет" WrongAnswer1="Ливия" WrongAnswer2="Сирия" />
+  <Question quest="Какой день недели мусульмане считают священным?" rightAnswer="Пятница" WrongAnswer1="Понедельник" WrongAnswer2="Воскресенье" />
+  <Question quest="О какой погоде в народе говорят 'стоит вёдро'?" rightAnswer="Ясной" WrongAnswer1="Облачной" WrongAnswer2="Дождливой" />
+  <Question quest="Какой цвет майки выделяет лидера велогонки?" rightAnswer="Желтый" WrongAnswer1="Красный" WrongAnswer2="Зеленый" />
+  <Question quest="Какая регалия царской власти, распространенная в Европе, всегда отсутствовала в России?" rightAnswer="Меч" WrongAnswer1="Скипетр" WrongAnswer2="Держава" />
+  <Question quest="Как называется традиционная верхняя мужская шерстяная накидка у народов Кавказа?" rightAnswer="Бурка" WrongAnswer1="Башлык" WrongAnswer2="Бушлат" />
+  <Question quest="Какая из этих шуб имеет мех внутрь и наружу?" rightAnswer="Доха" WrongAnswer1="Полушубок" WrongAnswer2="Дубленка" />
+  <Question quest="Какой цвет в старину называли червонным?" rightAnswer="Красный" WrongAnswer1="Желтый" WrongAnswer2="Белый" />
+  <Question quest="Какой из этих Российских самолетов создан ранее других?" rightAnswer="'Илья Муромец'" WrongAnswer1="'Максим Горький'" WrongAnswer2="'Руслан'" />
+  <Question quest="Какой из этих Российских самолетов создан позднее других?" rightAnswer="'Руслан'" WrongAnswer1="'Максим Горький'" WrongAnswer2="'Илья Муромец'" />
+  <Question quest="Какая часть русского языка не относится к грамматике?" rightAnswer="Пунктуация" WrongAnswer1="Морфология" WrongAnswer2="Синтаксис" />
+  <Question quest="Как назывался высший государственный орган в России до революции?" rightAnswer="Сенат" WrongAnswer1="Совет" WrongAnswer2="Дума" />
+  <Question quest="Какой континент герои 'Пятнадцатилетнего капитана' Ж.Верна приняли за Америку?" rightAnswer="Африку" WrongAnswer1="Австралию" WrongAnswer2="Антарктиду" />
+  <Question quest="Сколько шин потребуется водителю самосвала КамАЗ для полной смены резины?" rightAnswer="10" WrongAnswer1="8" WrongAnswer2="6" />
+  <Question quest="В какой стране князья носили титул 'магараджа'?" rightAnswer="Индия" WrongAnswer1="Китай" WrongAnswer2="Египет" />
+  <Question quest="С какой шахматной фигурой меняется король при рокировке?" rightAnswer="Ладья" WrongAnswer1="Конь" WrongAnswer2="Ферзь" />
+  <Question quest="Какой из этих фразеологизмов служит синонимом мошеннической сделки?" rightAnswer="Шахер-махер" WrongAnswer1="Шито-крыто" WrongAnswer2="Шаляй-валяй" />
+  <Question quest="Какая из литературных героинь Льва Толстого в девичестве носила фамилию Облонская?" rightAnswer="Анна Каренина" WrongAnswer1="Анна Шерер" WrongAnswer2="Элен Безухова" />
+  <Question quest="В какой игре мяч не имеет круглую форму?" rightAnswer="Регби" WrongAnswer1="Водное поло" WrongAnswer2="Гандбол" />
+  <Question quest="Какой из этих фразеологизмов служит синонимом слова 'кое-как'?" rightAnswer="Шаляй-валяй" WrongAnswer1="Шахер-махер" WrongAnswer2="Шурум-бурум" />
+  <Question quest="Какой из этих фразеологизмов служит синонимом старья, беспорядка?" rightAnswer="Шурум-бурум" WrongAnswer1="Шаляй-валяй" WrongAnswer2="Шахер-махер" />
+  <Question quest="Кто из этих космонавтов участвовал в совместном с США полете 'Союз - Аполлон'?" rightAnswer="Леонов" WrongAnswer1="Севастьянов" WrongAnswer2="Гречко" />
+  <Question quest="Какой из этих фразеологизмов служит синонимом полной тайны?" rightAnswer="Шито-крыто" WrongAnswer1="Шаляй-валяй" WrongAnswer2="Шахер-махер" />
+  <Question quest="Какая из этих спортивных ассоциаций не имеет отношения к боксу?" rightAnswer="NBA" WrongAnswer1="IBF" WrongAnswer2="WBA" />
+  <Question quest="Какое стихотворение послужило причиной высылки Лермонтова на Кавказ?" rightAnswer="'Смерть поэта'" WrongAnswer1="'Русская песня'" WrongAnswer2="'Душа'" />
+  <Question quest="Какому кочевому народу А.С.Пушкин посвятил поэму?" rightAnswer="Цыганам" WrongAnswer1="Бедуинам" WrongAnswer2="Монголам" />
+  <Question quest="Какое из этих слов не обозначает судьбу?" rightAnswer="Фата-моргана" WrongAnswer1="Фортуна" WrongAnswer2="Фатум" />
+  <Question quest="Что из перечисленного не является краской?" rightAnswer="Хаки" WrongAnswer1="Киноварь" WrongAnswer2="Охра" />
+  <Question quest="Что обозначают латинские буквы FF на аудио и видеомагнитофоне?" rightAnswer="Перемотка вперед" WrongAnswer1="Запись" WrongAnswer2="Воспроизведение" />
+  <Question quest="Какое из этих хвойных деревьев иначе именуют сибирским кедром?" rightAnswer="Сосна" WrongAnswer1="Пихта" WrongAnswer2="Ель" />
+  <Question quest="Какой природный материал состоит из скелетов доисторических микроорганизмов?" rightAnswer="Мел" WrongAnswer1="Янтарь" WrongAnswer2="Соль" />
+  <Question quest="В каком виде спорта прославился Иван Поддубный ?" rightAnswer="Борьба" WrongAnswer1="Тяжелая атлетика" WrongAnswer2="Бокс" />
+  <Question quest="Именем какой из этих птиц назван зоологический отряд, включающий остальных?" rightAnswer="Воробей" WrongAnswer1="Ласточка" WrongAnswer2="Ворона" />
+  <Question quest="Каких политических взглядов придерживался тургеневский Базаров?" rightAnswer="Нигилизм" WrongAnswer1="Монархизм" WrongAnswer2="Социализм" />
+  <Question quest="С цветением какого растения, народная примета связывает похолодание в мае?" rightAnswer="Черемуха" WrongAnswer1="Жасмин" WrongAnswer2="Сирень" />
+  <Question quest="Какое сырье служит основой для производства парафиновых свечей?" rightAnswer="Нефть" WrongAnswer1="Жир" WrongAnswer2="Смола" />
+  <Question quest="Какие грибы почти никогда не бывают червивыми?" rightAnswer="Лисички" WrongAnswer1="Подосиновики" WrongAnswer2="Сыроежки" />
+  <Question quest="Какие из этих римских цифр обозначают арабское число 2000?" rightAnswer="ММ" WrongAnswer1="DD" WrongAnswer2="LL" />
+  <Question quest="В каком роде войск кортик является личным офицерским оружием?" rightAnswer="ВМФ" WrongAnswer1="Пограничные войска" WrongAnswer2="ВДВ" />
+  <Question quest="Как переводится 'Gig-lamps'?" rightAnswer="Очки" WrongAnswer1="Софиты" WrongAnswer2="Гирлянда" />
+  <Question quest="Какой океан омывает берега государства Сальвадор?" rightAnswer="Тихий" WrongAnswer1="Индийский" WrongAnswer2="Атлантический" />
+  <Question quest="Единственная область на островах в России?" rightAnswer="Сахалинская" WrongAnswer1="Чукотская" WrongAnswer2="Камчатская" />
+  <Question quest="Как называется коллеблюющаяся часть аккустической колонки?" rightAnswer="Диффузор" WrongAnswer1="Картон" WrongAnswer2="Саб-буфер" />
+  <Question quest="Что получается в результате смешивания цемента и известняка?" rightAnswer="Бетон" WrongAnswer1="Ничего" WrongAnswer2="Алебастр" />
+  <Question quest="Направление в искусстве на рубеже XIX-XX веков?" rightAnswer="Символизм" WrongAnswer1="Маньеризм" WrongAnswer2="Классицизм" />
+  <Question quest="Как называлась первая международная организация по безопасности и сотрудничеству в мире?" rightAnswer="Лига Наций" WrongAnswer1="Миру мир" WrongAnswer2="Антанта" />
+  <Question quest="Какую букву напоминает эмблема производителя автомобилей 'Opel'?" rightAnswer="Z" WrongAnswer1="U" WrongAnswer2="L" />
+  <Question quest="Диаметр Солнца около...?" rightAnswer="1,4 млн. км" WrongAnswer1="14 млн. км" WrongAnswer2="140 тыс. км" />
+  <Question quest="Как называла себя Айседора Дункан?" rightAnswer="Я-красная" WrongAnswer1="Я-красивая" WrongAnswer2="Я-красотка" />
+  <Question quest="Кем по национальности был драматург Бернард Шоу?" rightAnswer="Ирландец" WrongAnswer1="Валлиец" WrongAnswer2="Шотландец" />
+  <Question quest="Что известно как 'универсальный растворитель'?" rightAnswer="Вода" WrongAnswer1="Спирт" WrongAnswer2="Ртуть" />
+  <Question quest="Главный исполнитель 'нечисти' в советских фильмах-сказках?" rightAnswer="Милляр" WrongAnswer1="Плятт" WrongAnswer2="Мартинсон" />
+  <Question quest="Как переводится название группы Enigma?" rightAnswer="Загадка" WrongAnswer1="Уединение" WrongAnswer2="Разоблачение" />
+  <Question quest="Название какого плода в переводе с китайского означает 'полезный для матерей'?" rightAnswer="Лимона" WrongAnswer1="Апельсина" WrongAnswer2="Мандарина" />
+  <Question quest="Столицей какого острова является город Коломбо?" rightAnswer="Шри-Ланка" WrongAnswer1="Мальта" WrongAnswer2="Крит" />
+  <Question quest="Какого народа на Земле живёт больше всего, после китайцев?" rightAnswer="Хиндустанцы" WrongAnswer1="Американцы" WrongAnswer2="Бенгальцы" />
+  <Question quest="С каким русским писателем мнимый ревизор Хлестаков 'был на дружеской ноге'?" rightAnswer="С Пушкиным" WrongAnswer1="С Крыловым" WrongAnswer2="С Гоголем" />
+  <Question quest="Какая из этих территорий получила статус пятидесятого штата США?" rightAnswer="Гавайи" WrongAnswer1="Северная Каролина" WrongAnswer2="Коннектикут" />
+  <Question quest="Как Достоевский назвал своего героя, добровольно вернувшегося из Швейцарии в Россию?" rightAnswer="'Идиот'" WrongAnswer1="'Двойник'" WrongAnswer2="'Игрок'" />
+  <Question quest="Как звали одного из героев романа Булгакова 'Мастер и Маргарита'?" rightAnswer="Фагот" WrongAnswer1="Гобой" WrongAnswer2="Кларнет" />
+  <Question quest="Какого спортсмена уносят с места соревнований после возгласа судьи 'аут'?" rightAnswer="Боксера" WrongAnswer1="Стрелка" WrongAnswer2="Футболиста" />
+  <Question quest="Какая логическая операция не существует?" rightAnswer="Биекция" WrongAnswer1="Эквиваленция" WrongAnswer2="Отрицание" />
+  <Question quest="Самым популярным автомобилем в 60-е года XX века являлся?" rightAnswer="Ford Mustang" WrongAnswer1="Ferrari F50" WrongAnswer2="Opel Tigra" />
+  <Question quest="Каким ядовитым растением пользовались итальянские женщины для расширения зрачков, чтобы быть красивыми?" rightAnswer="Белладонна" WrongAnswer1="Дурман" WrongAnswer2="Борщевик" />
+  <Question quest="Какой цвет придает овощам каротин?" rightAnswer="Оранжевый" WrongAnswer1="Красный" WrongAnswer2="Зеленый" />
+  <Question quest="Какой счет в матче между Аргентиной и Ямайкой вызывает боль у группы 'ЧайФ'?" rightAnswer="5:0" WrongAnswer1="3:0" WrongAnswer2="6:0" />
+  <Question quest="В каком виде войск служил В. Чапаев?" rightAnswer="В пехоте" WrongAnswer1="В артиллерии" WrongAnswer2="В кавалерии" />
+  <Question quest="Какой лес, отличающийся высотой и прямизной деревьев, называют 'мачтовым'?" rightAnswer="Сосновый" WrongAnswer1="Осиновый" WrongAnswer2="Березовый" />
+  <Question quest="Кто автор фантастического романа 'Машина времени'?" rightAnswer="Герберт Уэллс" WrongAnswer1="Александр Беляев" WrongAnswer2="Кир Булычев" />
+  <Question quest="Какая из этих стран первой приступила к серийному производству вертолетов?" rightAnswer="США" WrongAnswer1="Франция" WrongAnswer2="СССР" />
+  <Question quest="Какие существа на Земле, по мнению биологов, являются самыми зоркими?" rightAnswer="Птицы" WrongAnswer1="Звери" WrongAnswer2="Рыбы" />
+  <Question quest="Представителя какой из этих профессий во Франции называют гарсон?" rightAnswer="Официанта" WrongAnswer1="Водителя" WrongAnswer2="Швейцара" />
+  <Question quest="Как убили Льва Бронштейна?" rightAnswer="Ледорубом" WrongAnswer1="Отравили ядом" WrongAnswer2="Топором" />
+  <Question quest="Стены какого города, если верить Ветхому Завету, рухнули от звуков священных труб?" rightAnswer="Иерихон" WrongAnswer1="Самария" WrongAnswer2="Вавилон" />
+  <Question quest="Каким количеством букв обозначается большинство химических элементов в таблице Менделеева?" rightAnswer="Двумя" WrongAnswer1="Четырьмя" WrongAnswer2="Тремя" />
+  <Question quest="В каком направление нужно двигаться, чтобы по завершении кругосветного путешествия выиграть одни сутки?" rightAnswer="На запад" WrongAnswer1="На юг" WrongAnswer2="На восток" />
+  <Question quest="Что из перечисленного не является документом?" rightAnswer="Мадригал" WrongAnswer1="Мандат" WrongAnswer2="Матрикул" />
+  <Question quest="Что такое буерак?" rightAnswer="Небольшой овраг" WrongAnswer1="Излучина реки" WrongAnswer2="Кормовая свекла" />
+  <Question quest="В каком виде спорта стал суперзвездой Майкл Джордан?" rightAnswer="Баскетбол" WrongAnswer1="Бейсбол" WrongAnswer2="Хоккей" />
+  <Question quest="Какой этаж здания во Франции соответствует пятому этажу зданий в России?" rightAnswer="Четвертый" WrongAnswer1="Пятый" WrongAnswer2="Третий" />
+  <Question quest="С какого космодрома был осуществлен запуск первого искусственного спутника Земли?" rightAnswer="Байконур" WrongAnswer1="Свободный" WrongAnswer2="Капустин Яр" />
+  <Question quest="Кому из этих предсказателей никто не верил?" rightAnswer="Кассандра" WrongAnswer1="Григорий Распутин" WrongAnswer2="Вольф Мессинг" />
+  <Question quest="В каком из этих видов спорта разыгрывается больше всех комплектов медалей на зимней Олимпиаде?" rightAnswer="Лыжные гонки" WrongAnswer1="Биатлон" WrongAnswer2="Конькобежный спорт" />
+  <Question quest="Для какого инструмента написана 'Аппассионата' Бетховена?" rightAnswer="Для фортепьяно" WrongAnswer1="Для скрипки" WrongAnswer2="Для флейты" />
+  <Question quest="Какой режиссер снял фильм 'Полет над гнездом кукушки'?" rightAnswer="Милош Форман" WrongAnswer1="Анджей Вайда" WrongAnswer2="Кшиштоф Кеслевский" />
+  <Question quest="Линия какого цвета в России наносится на асфальт там, где запрещена остановка?" rightAnswer="Желтого" WrongAnswer1="Красного" WrongAnswer2="Белого" />
+  <Question quest="Какой атрибут современной кухни раньше называли 'чумичкой'?" rightAnswer="Половник" WrongAnswer1="Вилку" WrongAnswer2="Сковородку" />
+  <Question quest="Какой из этих легкоатлетических снарядов самый легкий ?" rightAnswer="Копье" WrongAnswer1="Ядро" WrongAnswer2="Молот" />
+  <Question quest="Как в народе называют радиотелефон ближнего действия?" rightAnswer="Сортирник" WrongAnswer1="Комнатник" WrongAnswer2="Ванник" />
+  <Question quest="Как называется федеративная единица в Германии?" rightAnswer="Земля" WrongAnswer1="Воеводство" WrongAnswer2="Провинция" />
+  <Question quest="Год Кубинской революции?" rightAnswer="1959" WrongAnswer1="1961" WrongAnswer2="1962" />
+  <Question quest="Какой музыкальный инструмент представляет собой погремушку?" rightAnswer="Маракас" WrongAnswer1="Тамбурин" WrongAnswer2="Трембита" />
+  <Question quest="Кто в 1933 году возглавил первую женскую тракторную бригаду?" rightAnswer="Правковья Ангелина" WrongAnswer1="Мария Виноградова" WrongAnswer2="Прасковья Малинина" />
+  <Question quest="Маргарет Тэтчер англичане называли?" rightAnswer="Железная леди" WrongAnswer1="Синий чулок" WrongAnswer2="Черная кошка" />
+  <Question quest="Сколько минут нужно нормальному человеку чтобы заснуть?" rightAnswer="7" WrongAnswer1="15" WrongAnswer2="1" />
+  <Question quest="Какой из этих видов молока хранится при комнатной температуре менее других?" rightAnswer="Парное" WrongAnswer1="Пастеризованное" WrongAnswer2="Сгущенное" />
+  <Question quest="Город Джуно в США является столицей штата?" rightAnswer="Аляска" WrongAnswer1="Алабама" WrongAnswer2="Айова" />
+  <Question quest="Остров Сулавеси принадлежит?" rightAnswer="Индонезии" WrongAnswer1="Индии" WrongAnswer2="Пакистану" />
+  <Question quest="Какая из этих пирамид не находится в Гизе?" rightAnswer="Джосера" WrongAnswer1="Хеопса" WrongAnswer2="Хефрена" />
+  <Question quest="Бог-громовержец в славянской мифологии?" rightAnswer="Перун" WrongAnswer1="Даждьбог" WrongAnswer2="Хорс" />
+  <Question quest="Город Лиллехаммер находится в ...?" rightAnswer="Норвегии" WrongAnswer1="Дании" WrongAnswer2="Швеции" />
+  <Question quest="Морская капуста также известна как ...?" rightAnswer="Ламинария" WrongAnswer1="Саргасс" WrongAnswer2="Бенто" />
+  <Question quest="В какой горной системе находится Пик Победы?" rightAnswer="Тянь-Шань" WrongAnswer1="Гималаи" WrongAnswer2="Памир" />
+  <Question quest="Пляска святого Витта – это ...?" rightAnswer="Болезнь" WrongAnswer1="Танец" WrongAnswer2="Игра" />
+  <Question quest="Буряты-скотоводы жили в ...?" rightAnswer="В юртах" WrongAnswer1="В ярангах" WrongAnswer2="В иглу" />
+  <Question quest="Где дети играют в парке 'Леголенд'?" rightAnswer="В Дании" WrongAnswer1="В Испании" WrongAnswer2="В Швеции" />
+  <Question quest="Когда нужно ехать на карнавал в Венецию?" rightAnswer="В феврале" WrongAnswer1="В мае" WrongAnswer2="В августе" />
+  <Question quest="Где был построен известный Фаросский маяк?" rightAnswer="В Африке" WrongAnswer1="В Европе" WrongAnswer2="В Австралии" />
+  <Question quest="Где проходит фестиваль Томатина?" rightAnswer="В Испании" WrongAnswer1="В Швейцарии" WrongAnswer2="На Кипре" />
+  <Question quest="Килиманджаро - это гора в ...?" rightAnswer="В Африке" WrongAnswer1="В Азии" WrongAnswer2="В Австралии" />
+  <Question quest="Настоящая фамилия Маши Малиновской?" rightAnswer="Садкова" WrongAnswer1="Ягодкина" WrongAnswer2="Блинова" />
+  <Question quest="Открытие тоннеля под Ла-Маншем состоялось в ...?" rightAnswer="В 1994 г." WrongAnswer1="В 2005 г." WrongAnswer2="В 1961 г." />
+
+</root>

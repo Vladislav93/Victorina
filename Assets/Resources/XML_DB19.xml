@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+ 
+<Question quest ="Чьим девизом было: «Сгорая сам – свети другим»?"
+rightAnswer="Гиппократа"
+WrongAnswer1="Савонаролы"
+WrongAnswer2="Джордано Бруно">
+  </Question>
+
+<Question quest ="Какой плод, согласно пословице, может оставить врачей без работы?"
+rightAnswer="Яблоко"
+WrongAnswer1="Редька"
+WrongAnswer2="Арбуз">
+  </Question>
+
+<Question quest ="Что держит в руках Коперник, который учился медицине на некоторых портретах?"
+rightAnswer="Ландыш"
+WrongAnswer1="Гладиолус"
+WrongAnswer2="Лилию">
+  </Question>
+
+<Question quest ="Портрет хирурга Н.И. Пирогова находится в Третьяковской галерее. Чьей кисти он принадлежит?"
+rightAnswer="И. Репина"
+WrongAnswer1="В. Сурикова"
+WrongAnswer2="И. Крамского">
+  </Question>
+
+<Question quest ="Как говорил хирург Н.И. Пирогов: «Будущее принадлежит медицине ... »?"
+rightAnswer="Профилактической"
+WrongAnswer1="Платной"
+WrongAnswer2="Семейной">
+  </Question>
+
+<Question quest ="Что из перечисленного не относится к медпрофилактике?"
+rightAnswer="Трансплантация"
+WrongAnswer1="Вакцинация"
+WrongAnswer2="Консультанция">
+  </Question>
+
+<Question quest ="Что собирают врачи, прежде чем приступить к лечению пациента?"
+rightAnswer="Анамнез"
+WrongAnswer1="Кворум"
+WrongAnswer2="Портфолио">
+  </Question>
+
+<Question quest ="Какой врач придумал школьную парту?"
+rightAnswer="Офтальмолог"
+WrongAnswer1="Ортопед"
+WrongAnswer2="Невролог">
+  </Question>
+
+<Question quest ="Название какой хозяйственной постройки в русских деревнях в переводе с тюркского означает «дворец»?"
+rightAnswer="Сарай"
+WrongAnswer1="Амбар"
+WrongAnswer2="Сенник">
+  </Question>
+
+<Question quest ="Кто из данных глав по своей основной профессии был строителем?"
+rightAnswer="Б.Н. Ельцин"
+WrongAnswer1="Д.А. Медведев"
+WrongAnswer2="Л.И. Брежнев">
+  </Question>
+
+<Question quest ="Какой тип фундамента существует?"
+rightAnswer="Ленточный"
+WrongAnswer1="Платочный"
+WrongAnswer2="Шнурочный">
+  </Question>
+
+<Question quest ="Как называется деревянное сооружение, стены которого собраны из обработанных брёвен?"
+rightAnswer="Сруб"
+WrongAnswer1="Скол"
+WrongAnswer2="Срез">
+  </Question>
+
+<Question quest ="Над какой цифрой на клавиатуре компьютера расположен значок «крыша»?"
+rightAnswer="Над цифрой 6"
+WrongAnswer1="Над цифрой 8"
+WrongAnswer2="Над цифрой 3">
+  </Question>
+
+<Question quest ="Какими бывают многоэтажные жилые дома?"
+rightAnswer="Галерейными"
+WrongAnswer1="Выставочными"
+WrongAnswer2="Музейными">
+  </Question>
+
+<Question quest ="Как в позапрошлом веке называли железнодорожников?"
+rightAnswer="Путейцами"
+WrongAnswer1="Возницами"
+WrongAnswer2="Ямщиками">
+  </Question>
+
+<Question quest ="Как в Древней Руси назывался вид железного шлема с острым верхом, наушниками и козырьком с наносником?"
+rightAnswer="Ерихонка"
+WrongAnswer1="Чухонка"
+WrongAnswer2="Лоханка">
+  </Question>
+
+<Question quest ="Как называется «съедобный» головной убор?"
+rightAnswer="Пирожок"
+WrongAnswer1="Рогалик"
+WrongAnswer2="Ватрушка">
+  </Question>
+
+<Question quest ="Как называется перо на женском головном уборе?"
+rightAnswer="Эгретка"
+WrongAnswer1="Козетка"
+WrongAnswer2="Левретка">
+  </Question>
+
+<Question quest ="Название какой пряности произошло от арабского слова, означающего «жёлтый»?"
+rightAnswer="Шафран"
+WrongAnswer1="Кунжут"
+WrongAnswer2="Майоран">
+  </Question>
+
+<Question quest ="Какая рыба, поедая личинок малярийного комара, помогла превратить город Сочи в курорт?"
+rightAnswer="Гамбузия"
+WrongAnswer1="Форель"
+WrongAnswer2="Гуппи">
+  </Question>
+
+<Question quest ="Кто из знаменитых певцов XX века исполнял романс «Парус»?"
+rightAnswer="Лемешев"
+WrongAnswer1="Шаляпин"
+WrongAnswer2="Вертинский">
+  </Question>
+
+<Question quest ="Название какого произведения М.Ю.Лермонтова является названием реки в Чечне?"
+rightAnswer="Валерик"
+WrongAnswer1="Мцыри"
+WrongAnswer2="Корсар">
+  </Question>
+
+<Question quest ="Какой футболист в 1988 году был признан лучшим вратарём мира?"
+rightAnswer="Ринат Дасаев"
+WrongAnswer1="Лев Яшин"
+WrongAnswer2="Андрей Шевченко">
+  </Question>
+
+<Question quest ="Национальная сборная какой страны стала последним чемпионом мира по футболу в ХХ веке?"
+rightAnswer="Франция"
+WrongAnswer1="Бразилия"
+WrongAnswer2="Германия">
+  </Question>
+
+<Question quest ="Какую высоту в прыжках с шестом впервые в мире преодолел олимпийский чемпион Сергей Бубка?"
+rightAnswer="6 метров"
+WrongAnswer1="4 метра"
+WrongAnswer2="7 метров">
+  </Question>
+
+<Question quest ="Как прозвали российскую Олимпийскую чемпионку по скоростному бегу на коньках Лидию Скобликову?"
+rightAnswer="Уральская молния"
+WrongAnswer1="Русская ракета"
+WrongAnswer2="Серебряная пуля">
+  </Question>
+
+<Question quest ="Сколько ребер может быть у змеи?"
+rightAnswer="Более 300 пар"
+WrongAnswer1="У них нет рёбер"
+WrongAnswer2="Не более 100 пар">
+  </Question>
+
+<Question quest ="Что является любимой пищей королевской кобры?"
+rightAnswer="Змеи"
+WrongAnswer1="Черепахи"
+WrongAnswer2="Яйца птиц">
+  </Question>
+
+<Question quest ="Сколько воды за один раз может выпить верблюд?"
+rightAnswer="До 200 л"
+WrongAnswer1="До 15 л"
+WrongAnswer2="От 40 до 60 л">
+  </Question>
+
+<Question quest ="Как переводится название озера Танганьика?"
+rightAnswer="Сосуд полный рыбы"
+WrongAnswer1="Рыбное царство"
+WrongAnswer2="Хранилище рыб">
+  </Question>
+
+<Question quest ="Каким названием изначально «окрестили» утконоса — яркого представителя животного мира Австралии?"
+rightAnswer="Птицеклюв"
+WrongAnswer1="Клювоплав"
+WrongAnswer2="Выдронос">
+  </Question>
+
+<Question quest ="В Австралии никогда не было хищных млекопитающих. Кто был единственным врагом стад овец?"
+rightAnswer="Собака Динго"
+WrongAnswer1="Лисий кузу"
+WrongAnswer2="Вомбат">
+  </Question>
+
+<Question quest ="На сколько градусов может поворачивать голову сова?"
+rightAnswer="270 градусов"
+WrongAnswer1="180 градусов"
+WrongAnswer2="360 градусов">
+  </Question>
+
+<Question quest ="В мире существует музыкальная группа, вокалистом которой является?"
+rightAnswer="Попугай"
+WrongAnswer1="Соловей"
+WrongAnswer2="Певчий дрозд">
+  </Question>
+
+<Question quest ="Термин «крокодил» в переводе с греческого языка обозначает?"
+rightAnswer="Каменный червь"
+WrongAnswer1="Морской дракон"
+WrongAnswer2="Водяная змея">
+  </Question>
+
+<Question quest ="В какой стране за разведение дома кроликов хозяев могут оштрафовать на 30 тысяч долларов?"
+rightAnswer="Австралия"
+WrongAnswer1="Австрия"
+WrongAnswer2="Аргентина">
+  </Question>
+
+<Question quest ="Японский ресторан стал необычайно популярным, взяв в штат новых «официантов». Кого?"
+rightAnswer="Обезьян"
+WrongAnswer1="Собак"
+WrongAnswer2="Пони">
+  </Question>
+
+<Question quest ="С 11 по 13 века в России были скоморохи, а в Германии — ...?"
+rightAnswer="Шпильманы"
+WrongAnswer1="Франты"
+WrongAnswer2="Менестрели">
+  </Question>
+
+<Question quest ="Как с греческого переводится термин «пародия»?"
+rightAnswer="Пение наизнанку"
+WrongAnswer1="Высмеивание"
+WrongAnswer2="Подражание">
+  </Question>
+
+<Question quest ="В свойство «легкость тел» не веря, кто вес воздуха измерил?"
+rightAnswer="Галилей"
+WrongAnswer1="Архимед"
+WrongAnswer2="Паскаль">
+  </Question>
+
+<Question quest ="Корабль вышел из моря в реку. Как изменилась глубина его погружения?"
+rightAnswer="Увеличилась"
+WrongAnswer1="Уменьшилась"
+WrongAnswer2="Не изменилась">
+  </Question>
+
+<Question quest ="Три кубика из железа, меди и свинца имеют одинаковые размеры. Какой из них имеет наибольшую массу?"
+rightAnswer="Свинец"
+WrongAnswer1="Железо"
+WrongAnswer2="Медь">
+  </Question>
+
+<Question quest ="На гербе какой области изображен козел?"
+rightAnswer="Самарской"
+WrongAnswer1="Костромской"
+WrongAnswer2="Владимирской">
+  </Question>
+
+<Question quest ="Где и когда произошло клонирование овечки Долли?"
+rightAnswer="Шотландия 1996г"
+WrongAnswer1="Германия 1989г"
+WrongAnswer2="Испания 1987г">
+  </Question>
+
+<Question quest ="Какую процедуру проходят слоны перед каждым цирковым представлением?"
+rightAnswer="Маникюр и педикюр"
+WrongAnswer1="Плотно кушают"
+WrongAnswer2="Купание">
+  </Question>
+
+<Question quest ="Назовите один из рабочих вариантов названия кинокартины «Восстание планеты обезьян»?"
+rightAnswer="Восстание обезьян"
+WrongAnswer1="Бунт приматов"
+WrongAnswer2="Цезарь нападает">
+  </Question>
+
+<Question quest ="Сколько длится процесс приручения кенгуру?"
+rightAnswer="1,5–2 года"
+WrongAnswer1="1 год"
+WrongAnswer2="3-4 года">
+  </Question>
+
+<Question quest ="На сколько градусов может открыть свою пасть бегемот?"
+rightAnswer="150"
+WrongAnswer1="180"
+WrongAnswer2="90">
+  </Question>
+
+<Question quest ="У кого в организме содержится «натуральный крем от загара»?"
+rightAnswer="У бегемота"
+WrongAnswer1="У шимпанзе"
+WrongAnswer2="У крокодила">
+  </Question>
+
+<Question quest ="Какова толщина шкуры у гиппопотамов?"
+rightAnswer="4 см"
+WrongAnswer1="7 см"
+WrongAnswer2="10 см">
+  </Question>
+
+<Question quest ="Что мамонт предпочитал употреблять в пищу?"
+rightAnswer="Злаки"
+WrongAnswer1="Можжевельник"
+WrongAnswer2="Араукарию">
+  </Question>
+
+<Question quest ="Какие животные жили вместе с мамонтами?"
+rightAnswer="Овцебык"
+WrongAnswer1="Саблезубая белка"
+WrongAnswer2="Толстоногий кабан">
+  </Question>
+
+<Question quest ="Место происхождения мамонтов — это...?"
+rightAnswer="Азия"
+WrongAnswer1="Северная Америка"
+WrongAnswer2="Антарктида">
+  </Question>
+
+<Question quest ="Кто является природным врагом енотов носух?"
+rightAnswer="Ягуар"
+WrongAnswer1="Ястреб"
+WrongAnswer2="Дикобраз">
+  </Question>
+
+<Question quest ="Беличьи обезьяны саймири имеют особенный окрас головы. Как из-за этого окраса называют обезьянок?"
+rightAnswer="Мёртвые головы"
+WrongAnswer1="Обезьяна в масках"
+WrongAnswer2="Клоуны">
+  </Question>
+
+<Question quest ="Через какое время после рождения ушастые ежата покрываются мягкими иголками?"
+rightAnswer="Через 2 часа"
+WrongAnswer1="Через неделю"
+WrongAnswer2="Через 20 часов">
+  </Question>
+
+<Question quest ="Мумия какого правителя имеет настоящий египетский паспорт?"
+rightAnswer="Фараона Рамсеса II"
+WrongAnswer1="Фараона Тутмоса III"
+WrongAnswer2="Царицы Нефертити">
+  </Question>
+
+<Question quest ="Построенная в Египте первая пирамида имела 15 дверей. Сколько из них реально открывались?"
+rightAnswer="1 дверь"
+WrongAnswer1="11 дверей"
+WrongAnswer2="3 двери">
+  </Question>
+
+<Question quest ="Известно, что не все полярные медведи впадают зимой в спячку. Кто в холодное время года бодрствует?"
+rightAnswer="Беременные самки"
+WrongAnswer1="Все самцы"
+WrongAnswer2="Самцы старше 10 лет">
+  </Question>
+
+<Question quest ="Несколько этих насекомых могут убить взрослого коня. Кто для лошадей самый страшный враг?"
+rightAnswer="Пчёлы"
+WrongAnswer1="Осы"
+WrongAnswer2="Шершни">
+  </Question>
+
+<Question quest ="Какая из этих пород собак считается самой древней?"
+rightAnswer="Шарпей"
+WrongAnswer1="Лайка"
+WrongAnswer2="Коккер-спаниель">
+  </Question>
+
+<Question quest ="Какое животное хуже всех поддается дрессировке?"
+rightAnswer="Лошадь"
+WrongAnswer1="Индюк"
+WrongAnswer2="Кошка">
+  </Question>
+
+<Question quest ="Понятие «современный цирк» появилось в 18 веке. Кто считается его «отцом»?"
+rightAnswer="Филип Астлей"
+WrongAnswer1="Вильям Гуд"
+WrongAnswer2="Жак Франк">
+  </Question>
+
+<Question quest ="Когда цирковые артисты отмечают свой профессиональный праздник — «Всемирный день цирка»?"
+rightAnswer="20 апреля"
+WrongAnswer1="3 мая"
+WrongAnswer2="17 августа">
+  </Question>
+
+<Question quest ="В каком году «Медвежонок Винни и его друзья» вышел в кинотеатрах России?"
+rightAnswer="В 2011 году"
+WrongAnswer1="В 2000 году"
+WrongAnswer2="В 2005 году">
+  </Question>
+
+<Question quest ="Сколько лет исполнилось медвежонку Винни в 2013-м году?"
+rightAnswer="87 лет"
+WrongAnswer1="90 лет"
+WrongAnswer2="65 лет">
+  </Question>
+
+<Question quest ="В какой стране несколько городов имеют улицы, названные в честь Винни-Пуха?"
+rightAnswer="В Польше"
+WrongAnswer1="В Италии"
+WrongAnswer2="В Англии">
+  </Question>
+
+<Question quest ="В какой стране насчитывается больше цирковых артистов, чем в любой другой стране мира?"
+rightAnswer="Россия"
+WrongAnswer1="Франция"
+WrongAnswer2="Латвия">
+  </Question>
+
+<Question quest ="Самым опасным дрессированным животным считается?"
+rightAnswer="Медведь"
+WrongAnswer1="Бегемот"
+WrongAnswer2="Крокодил">
+  </Question>
+
+<Question quest ="В какой стране введен запрет на работу в цирках с дикими животными, родившимися на воле?"
+rightAnswer="Эстония"
+WrongAnswer1="Чехия"
+WrongAnswer2="Коста-Рика">
+  </Question>
+
+<Question quest ="Употребление какого продукта является плохой приметой среди клоунов?"
+rightAnswer="Семечек"
+WrongAnswer1="Орехов"
+WrongAnswer2="Винограда">
+  </Question>
+
+<Question quest ="Как называется прыжок жокея с разбега на скачущую лошадь?"
+rightAnswer="Курс"
+WrongAnswer1="Курбет"
+WrongAnswer2="Пассаж">
+  </Question>
+
+<Question quest ="Какой вид обезьян называют «обезьянками шарманщика»?"
+rightAnswer="Капуцин"
+WrongAnswer1="Шимпанзе"
+WrongAnswer2="Мартышка-гусар">
+  </Question>
+
+<Question quest ="Юрий Никулин до сих пор является любимым киногероем многих людей. Какую роль он сыграл в фильме «12 стульев»?"
+rightAnswer="Дворник"
+WrongAnswer1="Монтёр"
+WrongAnswer2="Критик в театре">
+  </Question>
+
+<Question quest ="Известно, что языком жирафы языком могут чистить свои глаза и уши. Какова максимальная длина их языка?"
+rightAnswer="45 см"
+WrongAnswer1="30 см"
+WrongAnswer2="58 см">
+  </Question>
+
+<Question quest ="Жирафы способны спать стоя. Сколько в сутки они могут проспать в таком положении?"
+rightAnswer="Час"
+WrongAnswer1="3 часа"
+WrongAnswer2="8 часов">
+  </Question>
+
+<Question quest ="Североафриканские народы использовали волос жирафа для производства… Чего?"
+rightAnswer="Украшений"
+WrongAnswer1="Ткани"
+WrongAnswer2="Струн">
+  </Question>
+
+<Question quest ="Откуда родом Алеша Попович?"
+rightAnswer="Ростов"
+WrongAnswer1="Новгород"
+WrongAnswer2="Печора">
+  </Question>
+
+<Question quest ="Какое название никогда не существующего динозавра?"
+rightAnswer="Зарехутавр"
+WrongAnswer1="Макраухения"
+WrongAnswer2="Пситтакозавр">
+  </Question>
+
+<Question quest ="Сколько весил самый крупный найденный скелет динозавра?"
+rightAnswer="1 тонну"
+WrongAnswer1="1,5 тонны"
+WrongAnswer2="650 кг">
+  </Question>
+
+<Question quest ="Какой динозавр размером со слона имел мозг всего с грецкий орех?"
+rightAnswer="Стегозавр"
+WrongAnswer1="Камптозавр"
+WrongAnswer2="Спинозавр">
+  </Question>
+
+<Question quest ="Как называлась древняя птица, напоминающая сороку?"
+rightAnswer="Археоптерикс"
+WrongAnswer1="Архерикс"
+WrongAnswer2="Археоптис">
+  </Question>
+
+<Question quest ="Как переводится с французского языка слово «аттракцион»?"
+rightAnswer="Притяжение"
+WrongAnswer1="Соединение"
+WrongAnswer2="Тяга">
+  </Question>
+
+<Question quest ="От какой геометрической фигуры произошло слово «цирк»?"
+rightAnswer="Круг"
+WrongAnswer1="Овал"
+WrongAnswer2="Квадрат">
+  </Question>
+
+<Question quest ="В какой стране кошки состоят на государственной службе и получают «зарплату»?"
+rightAnswer="Англия"
+WrongAnswer1="Италия"
+WrongAnswer2="Польша">
+  </Question>
+
+<Question quest ="Мэром какого города уже 15 лет является кот Стаббс?"
+rightAnswer="Талкитн"
+WrongAnswer1="Валдиз"
+WrongAnswer2="Адак">
+  </Question>
+
+<Question quest ="Сколько кошек было в доме у знаменитого писателя Эрнеста Хэмингуэя?"
+rightAnswer="150"
+WrongAnswer1="0"
+WrongAnswer2="59">
+  </Question>
+
+<Question quest ="Сколько кошек проживало во дворце Ярослава Мудрого?"
+rightAnswer="0"
+WrongAnswer1="5"
+WrongAnswer2="7">
+  </Question>
+
+<Question quest ="Самая дорогая порода кошек в мире, стоимость которой доходит до 100 000 долларов — это?"
+rightAnswer="Ашера"
+WrongAnswer1="Саванна"
+WrongAnswer2="Бенгальский кот">
+  </Question>
+
+<Question quest ="Какая страна в мире занимает первое место в мире по численности домашних кошек?"
+rightAnswer="США"
+WrongAnswer1="Россия"
+WrongAnswer2="Великобритания">
+  </Question>
+
+<Question quest ="В какой стране первыми закрепили права кошек в конституции?"
+rightAnswer="Германия"
+WrongAnswer1="США"
+WrongAnswer2="Нидерланды">
+  </Question>
+
+<Question quest ="Какой дочерью морского царя Тритона была Ариэль в мультфильме «Русалочка»?"
+rightAnswer="7"
+WrongAnswer1="3"
+WrongAnswer2="5">
+  </Question>
+
+<Question quest ="Как повлияли съемки в фильме «Ешь, молись, люби» на личную жизнь Джулии Робертс?"
+rightAnswer="Набрала 5 кг"
+WrongAnswer1="Развелась с мужем"
+WrongAnswer2="Переехала в Индию">
+  </Question>
+
+<Question quest ="Какой медалью не награждали советских воинов-освободителей?"
+rightAnswer="За освобождение Будапешта"
+WrongAnswer1="За освобождение Белграда"
+WrongAnswer2="За освобождение Праги">
+  </Question>
+
+<Question quest ="Персонажа с каким именем нет в Ветхом Завете?"
+rightAnswer="Вирсавей"
+WrongAnswer1="Колхозей"
+WrongAnswer2="Урия">
+  </Question>
+
+
+</root>
